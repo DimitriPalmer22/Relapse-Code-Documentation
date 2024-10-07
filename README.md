@@ -11,5 +11,4 @@ public static void main(string[] args)
 ```
 
 
-> [!Warning] Test Callout
-> Contents of the callout
+> Callout
