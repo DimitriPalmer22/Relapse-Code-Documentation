@@ -10,7 +10,4 @@ public static void main(string[] args)
 }
 ```
 
-
 > Callout
-
-
