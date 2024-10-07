@@ -1,5 +1,8 @@
 This is your new *vault*.
 
-Make a note of something, [create a link](create%20a%20link.md), or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Make a note of something, [create a link](<./create a link.md>), or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+
+[create](<./create.md>)
 
 When you're ready, delete this note and make the vault your own.
+
