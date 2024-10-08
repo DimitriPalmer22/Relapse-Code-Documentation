@@ -136,4 +136,8 @@ The power tokens are used to store the individual data for each power. For examp
 
 Inside the `PowerToken` class is a `Dictionary<string, object>` that you can use to store any extra data you need for the power. This is useful for storing data that you need to access in multiple functions.
 
-To store data in this dictionary, use the 
+To store data in this dictionary, use the `AddData(…)` function within the `PowerToken` class. Using this function you can store ANY type of data you want with an associated key. It is a good idea to make this key a constant value that can only be accessed within that specific power logic script.
+
+To retrieve data, use the `RemoveData(…)` function within the `PowerToken` class. This function will return the data stored at the key you provide.
+
+The `Assets/_Scripts/Powers/Meds/DamageIncrease.cs` script is a 
