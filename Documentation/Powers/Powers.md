@@ -46,7 +46,14 @@ Powers in Relapse use a ***2-part system*** as the basis of their implementation
 
 All prefabs that contain the power logic ***NEED*** a script on them that implements the [IPower interface](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/IPower.cs)!
 
+
 ```cs 
 public class Fireball : MonoBehaviour, IPower {}
 ```
 
+> ***NOTE***: You can also look at the comments in the IPower interface for more clarification on what each method does.
+
+More Resources on Interfaces & Inheritance in C#:
+
+
+#### Functions
