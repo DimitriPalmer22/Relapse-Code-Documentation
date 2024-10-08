@@ -2,9 +2,9 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
-#### So What Do the Powers Do?
+#### So What *Exactly* Do the Powers Do?
 
-uhhh
+When the player *releases* the power button, the power is activated. When the power is activated, the power's *i*
 
 ![](<../../_META/Excalidraw/exc_2024-10-08 13.38.30.excalidraw.png>)
 
