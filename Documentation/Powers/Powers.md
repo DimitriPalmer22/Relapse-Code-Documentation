@@ -98,7 +98,7 @@ public void UpdatePassiveEffect(TestPlayerPowerManager powerManager, PowerToken 
 
 UpdatePassiveEffect() - This function is called every frame while the power is active. This is where you can put custom logic for the power's passive effect.
 
-There are also some other functions that can be used to assist with active effect logic:
+There are also some other functions that can be used to assist with passive effect logic:
 
 ```cs
 public void StartPassiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
