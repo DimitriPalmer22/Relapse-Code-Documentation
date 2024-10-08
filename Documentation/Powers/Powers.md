@@ -56,4 +56,7 @@ More Resources on Interfaces and Inheritance in C#:
 
 - <https://www.programiz.com/csharp-programming/inheritance>
 - <https://www.codecademy.com/resources/docs/c-sharp/interfaces>
-#### IFunctions Of the Interface
+#### Important Functions Of the Interface
+
+> ***NOTE***: You can look at the `Assets/_Scripts/Powers/Drugs/Fireball.cs` or `Assets/_Scripts/Powers/Drugs/Explosion.cs` scripts to see examples of how to use the interface's functions!
+
