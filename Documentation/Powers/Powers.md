@@ -6,23 +6,18 @@ Powers in Relapse use Unity's [Scriptable Objects](https://docs.unity3d.com/Manu
 
 #### Anatomy of A Power
 
-:
-:
-**Icon**:
-**Description**:
-**Charge Duration**:
-**Active Effect Duration**:
-**Cooldown Duration**:
-**Base Tolerance Meter Impact**:
-**Tolerance Meter Level Multiplier**:
-**Power Logic Prefab**:
-
-| Data           | Description                                       |
-| -------------- | ------------------------------------------------- |
-| **Power name** | The name of the power that gets displayed in-game |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
+| Data Field                       | Description                                                                              |
+| -------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Power name**                   | The name of the power that gets displayed in-game                                        |
+| Power Type                       | Whether the power is drug-based or med-based                                             |
+| Icon                             | The UI image for the power that is displayed in-game                                     |
+| Description                      | A text box that will be shown to the user so they know what the power does.              |
+| Charge Duration                  | How long the player has to hold the power button before being able to release the power. |
+| Active Effect Duration           | **ONLY APPLIES TO SOME POWERS**. If the power has an active effect that lasts            |
+| Cooldown Duration                |                                                                                          |
+| Base Tolerance Meter Impact      |                                                                                          |
+| Tolerance Meter Level Multiplier |                                                                                          |
+| Power Logic Prefab               |                                                                                          |
 
 # Modifying Existing Powers (Designer-Focused)
 
