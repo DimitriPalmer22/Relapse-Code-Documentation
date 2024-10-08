@@ -44,8 +44,7 @@ Powers in Relapse use a ***2-part system*** as the basis of their implementation
 
 # Creating New Powers / Power Behavior (Code-Focused)
 
-All prefabs that contain the power logic ***NEED*** a script on them that implements the [IPower interface](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/IPower.cs)!
-
+All prefabs that contain the power logic ***NEED*** a script on them that implements the [IPower interface](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/IPower.cs)! You ***NEED*** to understand interfaces in C# to implement this correctly!
 
 ```cs 
 public class Fireball : MonoBehaviour, IPower {}
@@ -55,5 +54,7 @@ public class Fireball : MonoBehaviour, IPower {}
 
 More Resources on Interfaces & Inheritance in C#:
 
+- <https://www.programiz.com/csharp-programming/inheritance>
+-
 
 #### Functions
