@@ -4,6 +4,11 @@
 
 This repository serves as a [documentation guide / wiki](<./Documentation/Documentation.md>) for the code / mechanics / implementation details of the game [Relapse](https://github.com/aidenr2023/Relapse).
 
+This wiki is mainly for the developers of the game to use.
+
+- Programmers should be able to use this to understand *how to expand upon or interact with the game's existing features*.
+- Designers should be able to use this to understand *how the game's systems work so they can do their work accordingly*.
+
 > ***NOTE***: Anything found in this wiki is subject to change at any time.
 
 > ***NOTE***: If anything needs to updated / added / deleted, please let Dimitri know.
