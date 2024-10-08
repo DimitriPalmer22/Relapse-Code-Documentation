@@ -8,6 +8,12 @@ This repository serves as a [documentation guide / wiki](<./Documentation/Docume
 
 > ***NOTE***: If anything needs to updated / added / deleted, please let Dimitri know.
 
+### How Do I Use This Wiki?
+
+Click the link at the top of the page ([or right here](<./Documentation/Documentation.md>)) to go to the documentation home page. That should provide you with a list of links that will eventually take you to where you want to be.
+
+Alternatively, you can open the `Documentation` folder in this repository to see a list of all the `.md` files that make up this wiki.
+
 # Contributing to This Wiki
 
 #### What is Markdown?
