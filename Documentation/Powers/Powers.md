@@ -2,10 +2,12 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
-Powers in Relapse use a 2-part system as the basis of their implementation:
+Powers in Relapse use a ***2-part system*** as the basis of their implementation:
 
-- Unity's [Scriptable Objects](https://docs.unity3d.com/Manual/class-ScriptableObject.html), which allow for easy modification of existing powers and the creation of new powers
+- Unity's [***Scriptable Objects***](https://docs.unity3d.com/Manual/class-ScriptableObject.html), which allow for easy modification of existing powers and the creation of new powers
 - Unity's prefab system, which allows for easy and modular implementation of power behavior
+
+# Modifying Existing Powers (Designer-Focused)
 
 #### Anatomy of The Power Scriptable Object
 
@@ -21,7 +23,5 @@ Powers in Relapse use a 2-part system as the basis of their implementation:
 | Base Tolerance Meter Impact      | How much the tolerance meter goes up or down after using the power. Drugs add this value to the tolerance meter, while meds subtract. |
 | Tolerance Meter Level Multiplier | If the player upgrades the power,                                                                                                     |
 | Power Logic Prefab               |                                                                                                                                       |
-
-# Modifying Existing Powers (Designer-Focused)
 
 # Creating New Powers / Power Behavior (Code-Focused)
