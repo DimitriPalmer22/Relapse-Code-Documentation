@@ -69,8 +69,8 @@ Once the empty game object is made, you need to add a script to it that implemen
 That's it. You're done!
 
 ### Adding the Power Logic Prefab to the Scriptable Object
-Once you've finished cr
 
+Once you've finished creating your prefab, you need to add it to the Scriptable Object. This is done by dragging the prefab into the `Power Logic Prefab` field in the Scriptable Object.
 
 ### Important Functions Of the Interface
 
@@ -121,3 +121,8 @@ public void StartPassiveEffect(TestPlayerPowerManager powerManager, PowerToken p
 
 public void EndPassiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
 ```
+
+### Alright, Now How *EXACTLY* Do I Implement This Correctly?
+
+First and foremost, NEVER, and I MEAN NEVER, manually instantiate the power logic anywhere or at any time. You do not need to do this. You should not need to do this. If you ever do this, you are using the system incorrectly!
+
