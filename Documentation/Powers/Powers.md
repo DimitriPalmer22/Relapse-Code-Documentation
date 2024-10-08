@@ -128,6 +128,6 @@ First and foremost, NEVER, and I MEAN NEVER, manually instantiate the power logi
 
 The power logic scripts are supposed to be used as if they are static objects. Treat the functions inside this script as if they are static functions. Avoid using `this` or `gameObject` in the script. The functions are set up with parameters that make it easy to access the player's power manager and the power token.
 
-### What is a Power Token?
+#### What is a Power Token?
 
-The power tokens are used to store the individual data for each power. For example, they store how much remaining cooldown or active time the
+The power tokens are used to store the individual data for each power. For example, they store how much remaining cooldown or active time the power has. The current power's corresponding power token is passed into the power logic functions so that the power logic can access the data stored in the token.
