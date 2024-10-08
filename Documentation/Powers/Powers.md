@@ -140,4 +140,4 @@ To store data in this dictionary, use the `AddData(…)` function within the `Po
 
 To retrieve data, use the `RemoveData(…)` function within the `PowerToken` class. This function will return the data stored at the key you provide.
 
-The `Assets/_Scripts/Powers/Meds/DamageIncrease.cs` script is a 
+The [Assets/_Scripts/Powers/Meds/DamageIncrease.cs](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/Meds/DamageIncrease.cs) script is a great example of how to use this system.
