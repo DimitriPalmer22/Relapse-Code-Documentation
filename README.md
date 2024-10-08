@@ -52,14 +52,16 @@ Next, you need some way to commit your changes to the GitHub repository. I recom
 
 > Make life easy for yourself. *Don't* use Git Bash for this.
 
-
 #### What Am I Not Supposed to Touch?
 
-Most of your work should be done in the `Documentation` folder and its subsequent subfolders. 
+Most of your work should be done in the `Documentation` folder and its subsequent subfolders.
 
-DO NOT MANUALLY TOUCH THE `_META` FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING! 
+DO NOT MANUALLY TOUCH THE `_META` FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING!
+
 - The `_META/Attachments` folder is used to store any images found within the wiki. Whenever you insert an image into Obsidian, it SHOULD BE automatically sent here.
-- The `_META/Templates` folder stores any templates that are used in the wiki. You can use templates to speed up the process of creating new pages or to create snippets that are frequently repeated.
+- The `_META/Templates` folder stores any templates that are used in the wiki. You can use templates to speed up the process of creating new pages or to create text snippets that are frequently repeated. To add a new template, make a new `.md` in this folder.
+
+DO NOT MANUALLY CHANGE ANYTHING IN THE `.obsidian` FOLDER! This folder is for Obsidian's settings and should not be touched by the user.
 
 #### Getting Started
 
@@ -68,5 +70,3 @@ DO NOT MANUALLY TOUCH THE `_META` FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING!
 3. Open Obsidian.
 4. Then, in Obsidian, open this folder as a vault
 5. Start writing!
-
-
