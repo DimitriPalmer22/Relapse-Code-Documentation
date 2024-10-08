@@ -131,3 +131,9 @@ The power logic scripts are supposed to be used as if they are static objects. T
 #### What is a Power Token?
 
 The power tokens are used to store the individual data for each power. For example, they store how much remaining cooldown or active time the power has. The current power's corresponding power token is passed into the power logic functions so that the power logic can access the data stored in the token.
+
+#### You Can Use the Power Token To Store Even More Data
+
+Inside the `PowerToken` class is a `Dictionary<string, object>` that you can use to store any extra data you need for the power. This is useful for storing data that you need to access in multiple functions.
+
+To store data in this dictionary, use the 
