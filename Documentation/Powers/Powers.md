@@ -4,7 +4,7 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
-#### So What *Exactly* Do the Powers Do?
+### So What *Exactly* Do the Powers Do?
 
 When the player holds the power button, they charge the currently equipped power. Once the power is fully charged and the player *releases* the power button, the power is activated. When the power is activated, the power's *immediate effect* is activated, the power's *active effect* is started, and the power's *passive effect* is started.
 
@@ -18,7 +18,7 @@ When the player holds the power button, they charge the currently equipped power
 
 ![](<../../_META/Excalidraw/exc_2024-10-08 13.38.30.excalidraw.png>)
 
-#### Generally, How Are the Powers Implemented?
+### Generally, How Are the Powers Implemented?
 
 Powers in Relapse use a ***2-part system*** as the basis of their implementation:
 
@@ -27,7 +27,7 @@ Powers in Relapse use a ***2-part system*** as the basis of their implementation
 
 # Modifying Existing Powers (Designer-Focused)
 
-#### Anatomy of The Power Scriptable Object
+### Anatomy of The Power Scriptable Object
 
 | Data Field                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
