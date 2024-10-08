@@ -6,6 +6,8 @@
 
 uhhh
 
+![](<../../_META/Attachments/Pasted image 20241008134516.png>)
+
 #### Generally, How Are the Powers Implemented?
 
 Powers in Relapse use a ***2-part system*** as the basis of their implementation:
@@ -31,3 +33,5 @@ Powers in Relapse use a ***2-part system*** as the basis of their implementation
 | Power Logic Prefab               |                                                                                                                                      |
 
 # Creating New Powers / Power Behavior (Code-Focused)
+
+…
