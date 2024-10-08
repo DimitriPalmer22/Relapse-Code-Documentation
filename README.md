@@ -61,7 +61,7 @@ DO NOT MANUALLY TOUCH THE `_META` FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING!
 - The `_META/Attachments` folder is used to store any images found within the wiki. Whenever you insert an image into Obsidian, it SHOULD BE automatically sent here.
 - The `_META/Templates` folder stores any templates that are used in the wiki. You can use templates to speed up the process of creating new pages or to create text snippets that are frequently repeated. To add a new template, make a new `.md` in this folder.
 
-DO NOT MANUALLY CHANGE ANYTHING IN THE `.obsidian` FOLDER! This folder is for Obsidian's settings and should not be touched by the user.
+DO NOT MANUALLY CHANGE ANYTHING IN THE `.obsidian` FOLDER! This folder is for Obsidian's settings and should not be touched by the user. I have set up this Obsidian vault to have very specific settings, so changing anything in here could hurt the wiki.
 
 #### Getting Started
 
