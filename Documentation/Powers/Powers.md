@@ -58,6 +58,8 @@ More Resources on Interfaces and Inheritance in C#:
 - <https://www.codecademy.com/resources/docs/c-sharp/interfaces>
 #### Important Functions Of the Interface
 
+> ***NOTE***: You can look at the `Assets/_Scripts/Powers/Drugs/Fireball.cs` or `Assets/_Scripts/Powers/Drugs/Explosion.cs` scripts to see examples of how to use the interface's functions!
+
 ```cs
 public void Charge(TestPlayerPowerManager powerManager, PowerToken pToken);
 ```
@@ -80,14 +82,13 @@ public void UpdateActiveEffect(TestPlayerPowerManager powerManager, PowerToken p
 
 UpdateActiveEffect() - This function is called every frame while the power is active. This is where you can put custom logic for the power's active effect.
 
----
+There are also some other functions that can be used to assist with active effect logic:
 
 ```cs
+public void StartActiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+
 public void EndActiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
 ```
-
-EndActiveEffect() - This function is called when the active effect is done. This is where you can put custom logic for the power's cooldown period.
-
 
 ---
 
@@ -97,4 +98,10 @@ public void UpdatePassiveEffect(TestPlayerPowerManager powerManager, PowerToken 
 
 UpdatePassiveEffect() - This function is called every frame while the power is active. This is where you can put custom logic for the power's passive effect.
 
-> ***NOTE***: You can look at the `Assets/_Scripts/Powers/Drugs/Fireball.cs` or `Assets/_Scripts/Powers/Drugs/Explosion.cs` scripts to see examples of how to use the interface's functions!
+There are also some other functions that can be used to assist with active effect logic:
+
+```cs
+public void StartPassiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+
+public void EndPassiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
