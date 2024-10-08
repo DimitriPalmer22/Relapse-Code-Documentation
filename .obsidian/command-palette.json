@@ -1,7 +1,7 @@
 {
   "pinned": [
-    "workspace:toggle-pin",
     "obsidian-git:push",
+    "workspace:toggle-pin",
     "insert-template"
   ]
 }
