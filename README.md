@@ -57,7 +57,9 @@ Next, you need some way to commit your changes to the GitHub repository. I recom
 
 Most of your work should be done in the `Documentation` folder and its subsequent subfolders. 
 
-DO NOT MANUALLY TOUCH THE `_META` FOLDER! This folder is for 
+DO NOT MANUALLY TOUCH THE `_META` FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING! 
+- The `_META/Attachments` folder is used to store any images found within the wiki. Whenever you insert an image into Obsidian, it SHOULD BE automatically sent here.
+- The `_META/Templates` folder stores any templates that are used in the wiki. You can use templates to speed up the process of creating new pages or to create snippets that are frequently repeated.
 
 #### Getting Started
 
