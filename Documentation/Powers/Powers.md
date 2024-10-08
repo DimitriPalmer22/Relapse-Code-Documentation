@@ -62,7 +62,15 @@ More Resources on Interfaces and Inheritance in C#:
 When creating a new prefab to store the power logic, make the prefab based on an empty game object. We want the prefab to be invisible.
 
 > Nerd stuff: Why does the prefab need to be an empty game object?
-> You see, the each power logic prefab is actually instantiated whenever the player uses the corresponding power. However, I made it so that the instantiated game objects are invisible in the hierarchy so that the player / designer doesn't accidentally mess with them.
+> You see, the each power logic prefab is actually instantiated whenever the player uses the corresponding power. However, I made it so that the instantiated game objects are invisible in the hierarchy so that the player / designer doesn't accidentally mess with them. The entire system was designed this way so that the power manager can access the power logic in a static manner.
+
+Once the empty game object is made, you need to add a script to it that implements the IPower interface. This script will contain the logic for the power.
+
+That's it. You're done!
+
+### Adding the Power Logic Prefab to the Scriptable Object
+Once you've finished cr
+
 
 ### Important Functions Of the Interface
 
