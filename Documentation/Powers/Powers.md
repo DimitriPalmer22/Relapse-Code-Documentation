@@ -2,7 +2,10 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
-Powers in Relapse use Unity's [Scriptable Objects](https://docs.unity3d.com/Manual/class-ScriptableObject.html) as the basis of their implementation. This allows for easy modification of existing powers and the creation of new powers.
+Powers in Relapse use a 2-part system as the basis of their implementation:
+
+- Unity's [Scriptable Objects](https://docs.unity3d.com/Manual/class-ScriptableObject.html), which allow for easy modification of existing powers and the creation of new powers
+- Unity's prefab system, which allows for easy and modular implementation of power behavior
 
 #### Anatomy of The Power Scriptable Object
 
