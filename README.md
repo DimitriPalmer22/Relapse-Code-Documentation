@@ -52,6 +52,13 @@ Next, you need some way to commit your changes to the GitHub repository. I recom
 
 > Make life easy for yourself. *Don't* use Git Bash for this.
 
+
+#### What Am I Not Supposed to Touch?
+
+Most of your work should be done in the `Documentation` folder and its subsequent subfolders. 
+
+DO NOT MANUALLY TOUCH THE `_META` FOLDER! This folder is for 
+
 #### Getting Started
 
 1. Make sure you've been added as a collaborator to the repository! Ask Dimitri to become a collaborator.
@@ -59,3 +66,5 @@ Next, you need some way to commit your changes to the GitHub repository. I recom
 3. Open Obsidian.
 4. Then, in Obsidian, open this folder as a vault
 5. Start writing!
+
+
