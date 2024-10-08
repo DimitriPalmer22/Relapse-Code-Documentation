@@ -6,16 +6,23 @@ Powers in Relapse use Unity's [Scriptable Objects](https://docs.unity3d.com/Manu
 
 #### Anatomy of A Power
 
-- **Power name**: The name of the power that gets displayed in-game
-- **Power type**:
-- **Icon**:
-- **Description**:
-- **Charge Duration**:
-- **Active Effect Duration**:
-- **Cooldown Duration**:
-- **Base Tolerance Meter Impact**:
-- **Tolerance Meter Level Multiplier**:
-- **Power Logic Prefab**:
+:
+:
+**Icon**:
+**Description**:
+**Charge Duration**:
+**Active Effect Duration**:
+**Cooldown Duration**:
+**Base Tolerance Meter Impact**:
+**Tolerance Meter Level Multiplier**:
+**Power Logic Prefab**:
+
+| Data           | Description                                       |
+| -------------- | ------------------------------------------------- |
+| **Power name** | The name of the power that gets displayed in-game |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
 
 # Modifying Existing Powers (Designer-Focused)
 
