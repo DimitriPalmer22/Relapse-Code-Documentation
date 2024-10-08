@@ -1,6 +1,6 @@
 # Overview
 
-Powers in Relapse …
+Powers in Relapse use Unity's [Scriptable Objects](https://docs.unity3d.com/Manual/class-ScriptableObject.html)
 
 # Modifying Existing Powers (Designer-Focused)
 
