@@ -6,14 +6,14 @@
 
 uhhh
 
-![](<../../_META/Attachments/Pasted image 20241008134516.png>)
+
 
 #### Generally, How Are the Powers Implemented?
 
 Powers in Relapse use a ***2-part system*** as the basis of their implementation:
 
-- Unity's [***Scriptable Objects***](https://docs.unity3d.com/Manual/class-ScriptableObject.html), which allow for easy modification of existing powers and the creation of new powers
-- Unity's [***Prefab System***](https://docs.unity3d.com/Manual/Prefabs.html), which allows for easy and modular implementation of power behavior
+- Unity's [***Scriptable Objects***](https://docs.unity3d.com/Manual/class-ScriptableObject.html), which allow for easy modification of existing powers and the creation of new powers. This is so designers can easily make their own changes to the simple behavior of the powers.
+- Unity's [***Prefab System***](https://docs.unity3d.com/Manual/Prefabs.html), which allows for easy and modular implementation of power behavior. Each power has a prefab that contains a script with the logic for the power's behavior.
 
 # Modifying Existing Powers (Designer-Focused)
 
