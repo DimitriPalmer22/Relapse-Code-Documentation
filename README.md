@@ -10,7 +10,7 @@ This repository serves as a [documentation guide / wiki](<./Documentation/Docume
 
 ### How Do I Use This Wiki?
 
-Click the link at the top of the page ([or right here](<./Documentation/Documentation.md>)) to go to the documentation home page. That should provide you with a list of links that will eventually take you to where you want to be.
+Click the link at the top of the readme ([or this link](<./Documentation/Documentation.md>)) to go to the documentation home page. That should provide you with a list of links that will eventually take you to where you want to be.
 
 Alternatively, you can open the `Documentation` folder in this repository to see a list of all the `.md` files that make up this wiki.
 
