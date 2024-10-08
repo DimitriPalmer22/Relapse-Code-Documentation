@@ -44,4 +44,9 @@ Powers in Relapse use a ***2-part system*** as the basis of their implementation
 
 # Creating New Powers / Power Behavior (Code-Focused)
 
-…
+All prefabs that contain the power logic ***NEED*** a script on them that implements the [IPower interface](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/IPower.cs)!
+
+```cs 
+public class Fireball : MonoBehaviour, IPower {}
+```
+
