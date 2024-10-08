@@ -58,9 +58,43 @@ More Resources on Interfaces and Inheritance in C#:
 - <https://www.codecademy.com/resources/docs/c-sharp/interfaces>
 #### Important Functions Of the Interface
 
+```cs
+public void Charge(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
+
 Charge() - This function is continuously called while the player is charging the power. This is where you can put custom logic for the power's charging period.
 
-Use() - 
+---
 
+```cs
+public void Use(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
+
+Use() - This function is called when the player releases the power button. This is where you can put custom logic for the power's immediate effect.
+
+---
+
+```cs
+public void UpdateActiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
+
+UpdateActiveEffect() - This function is called every frame while the power is active. This is where you can put custom logic for the power's active effect.
+
+---
+
+```cs
+public void EndActiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
+
+EndActiveEffect() - This function is called when the active effect is done. This is where you can put custom logic for the power's cooldown period.
+
+
+---
+
+```cs
+public void UpdatePassiveEffect(TestPlayerPowerManager powerManager, PowerToken pToken);
+```
+
+UpdatePassiveEffect() - This function is called every frame while the power is active. This is where you can put custom logic for the power's passive effect.
 
 > ***NOTE***: You can look at the `Assets/_Scripts/Powers/Drugs/Fireball.cs` or `Assets/_Scripts/Powers/Drugs/Explosion.cs` scripts to see examples of how to use the interface's functions!
