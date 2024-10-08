@@ -1,5 +1,7 @@
 [Enter the Wiki](<./Documentation/Documentation.md>)
 
+[TODO List](<./TODO.md>)
+
 # Overview
 
 This repository serves as a [documentation guide / wiki](<./Documentation/Documentation.md>) for the code / mechanics / implementation details of the game [Relapse](https://github.com/aidenr2023/Relapse).

@@ -5,3 +5,5 @@ This is a node for keeping track of things that need to be updated / added / rem
 - [ ] Finish [Powers](<./Documentation/Powers/Powers.md>) documentation
 - [ ] Finish [Enemies](<./Documentation/Enemies/Enemies.md>) documentation
 - [ ] Finish [Player](<./Documentation/Player/Player.md>) documentation
+
+[README (Home Page)](<./README.md>).
