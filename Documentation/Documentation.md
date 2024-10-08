@@ -1,5 +1,3 @@
-
-
 %% Begin Waypoint %%
 
 %% End Waypoint %%
