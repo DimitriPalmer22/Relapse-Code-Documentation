@@ -4,8 +4,6 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
-[]()
-
 ### So What *Exactly* Do the Powers Do?
 
 When the player holds the power button, they charge the currently equipped power. Once the power is fully charged and the player *releases* the power button, the power is activated. When the power is activated, the power's *immediate effect* is activated, the power's *active effect* is started, and the power's *passive effect* is started.
