@@ -16,6 +16,8 @@ Alternatively, you can open the `Documentation` folder in this repository to see
 
 # Contributing to This Wiki
 
+===IT IS NOT REQUIRED TO CONTRIBUTE TO THIS WIKI===. I know this looks confusing and difficult, so ***do not feel obligated to do this*** at all. However, if you are interested in contributing, here is a brief guide on how to do so.
+
 #### What is Markdown?
 
 This wiki was made using [Markdown](https://www.markdownguide.org/), a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown files are saved with the `.md` file extension.
