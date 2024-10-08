@@ -4,7 +4,14 @@
 
 #### So What *Exactly* Do the Powers Do?
 
-When the player *releases* the power button, the power is activated. When the power is activated, the power's *i*
+When the player *releases* the power button, the power is activated. When the power is activated, the power's *immediate effect* is activated, the power's *active effect* is started, and the power's *passive effect* is started.
+
+| Part of the Power | Description                                                           |
+| ----------------- | --------------------------------------------------------------------- |
+| Immediate Power   | A part of the power that activates as soon as the player activates th |
+| Active Effect     |                                                                       |
+| Passive Effect    |                                                                       |
+| Cooldown          |                                                                       |
 
 ![](<../../_META/Excalidraw/exc_2024-10-08 13.38.30.excalidraw.png>)
 
