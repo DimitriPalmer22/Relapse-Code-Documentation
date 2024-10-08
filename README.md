@@ -16,7 +16,9 @@ Alternatively, you can open the `Documentation` folder in this repository to see
 
 # Contributing to This Wiki
 
-*IT IS NOT REQUIRED TO CONTRIBUTE TO THIS WIKI*. I know this looks confusing and difficult, so ***do not feel obligated to do this*** at all. However, if you are interested in contributing, here is a brief guide on how to do so.
+*IT IS NOT REQUIRED TO CONTRIBUTE TO THIS WIKI*.
+
+I know this looks confusing and difficult, so ***do not feel obligated to do this***. Don't even feel obligated to look at it if you don't need it or don't like it. This is only here if you really need it. However, if you are interested in contributing, here is a brief guide on how to do so.
 
 #### What is Markdown?
 
