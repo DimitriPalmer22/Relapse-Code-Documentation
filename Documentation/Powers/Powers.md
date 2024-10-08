@@ -4,6 +4,8 @@
 
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
+[]()
+
 ### So What *Exactly* Do the Powers Do?
 
 When the player holds the power button, they charge the currently equipped power. Once the power is fully charged and the player *releases* the power button, the power is activated. When the power is activated, the power's *immediate effect* is activated, the power's *active effect* is started, and the power's *passive effect* is started.
@@ -141,3 +143,4 @@ To store data in this dictionary, use the `AddData(…)` function within the `Po
 To retrieve data, use the `RemoveData(…)` function within the `PowerToken` class. This function will return the data stored at the key you provide.
 
 The [Assets/_Scripts/Powers/Meds/DamageIncrease.cs](https://github.com/aidenr2023/Relapse/blob/main/Assets/_Scripts/Powers/Meds/DamageIncrease.cs) script is a great example of how to use this system.
+``
