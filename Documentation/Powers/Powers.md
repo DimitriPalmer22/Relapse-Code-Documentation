@@ -58,11 +58,11 @@ More Resources on Interfaces and Inheritance in C#:
 - <https://www.codecademy.com/resources/docs/c-sharp/interfaces>
 
 ### Creating the Prefab
-When creating a new prefab to store the power logic, make the prefab based on an empty game object. We want the prefab to be pretty much invisible.
+
+When creating a new prefab to store the power logic, make the prefab based on an empty game object. We want the prefab to be invisible.
 
 > Nerd stuff: Why does the prefab need to be an empty game object?
-> You see, the prefabs are AC 
-
+> You see, the each power logic prefab is actually instantiated whenever the player uses the corresponding power. However, I made it so that the instantiated game objects are invisible in the hierarchy so that the player / designer doesn't accidentally mess with them.
 
 ### Important Functions Of the Interface
 
