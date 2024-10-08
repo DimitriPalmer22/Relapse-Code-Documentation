@@ -34,8 +34,8 @@ After creating documentation using Markdown, you can push your changes to the [r
 
 You can use any text editor to write Markdown. However, I recommend you use [Obsidian](https://obsidian.md/), a program that uses Markdown to create a personal knowledge base. It is free to use and has many features that make writing Markdown easier.
 
-> Make life easy for yourself. Don't use anything other than Obsidian. Also, Ob
+> Make life easy for yourself. Don't use anything other than Obsidian. Also, Obsidian is a very powerful note-taking software in general. You should consider it for your personal use!
 
 Next, you need some way to commit your changes to the GitHub repository. I recommend you use GitHub Desktop for this.
 
-> Make life easy for yourself. Don't use Git Bash for this.
+> Make life easy for yourself. *Don't* use Git Bash for this.
