@@ -126,3 +126,8 @@ public void EndPassiveEffect(TestPlayerPowerManager powerManager, PowerToken pTo
 
 First and foremost, NEVER, and I MEAN NEVER, manually instantiate the power logic anywhere or at any time. You do not need to do this. You should not need to do this. If you ever do this, you are using the system incorrectly!
 
+The power logic scripts are supposed to be used as if they are static objects. Treat the functions inside this script as if they are static functions. Avoid using `this` or `gameObject` in the script. The functions are set up with parameters that make it easy to access the player's power manager and the power token.
+
+### What is a Power Token?
+
+The power tokens are used to store the individual data for each power. For example, they store how much remaining cooldown or active time the
