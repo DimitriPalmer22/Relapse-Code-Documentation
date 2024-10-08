@@ -52,9 +52,8 @@ public class Fireball : MonoBehaviour, IPower {}
 
 > ***NOTE***: You can also look at the comments in the IPower interface for more clarification on what each method does.
 
-More Resources on Interfaces & Inheritance in C#:
+More Resources on Interfaces and Inheritance in C#:
 
 - <https://www.programiz.com/csharp-programming/inheritance>
--
-
-#### Functions
+- <https://www.codecademy.com/resources/docs/c-sharp/interfaces>
+#### IFunctions Of the Interface
