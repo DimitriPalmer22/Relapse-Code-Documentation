@@ -1,5 +1,7 @@
 # Overview
 
+> This page does ***NOT*** contain information about how the back-end of the powers works. This page is meant to be a guide for designers / coders to understand how the powers work and how to modify them.
+
 ![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
 #### So What *Exactly* Do the Powers Do?
