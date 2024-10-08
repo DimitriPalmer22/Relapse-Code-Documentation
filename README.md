@@ -11,7 +11,7 @@ This repository serves as a [documentation guide / wiki](<./Documentation/Docume
 
 #### What is Markdown?
 
-This wiki was made using [Markdown](https://www.markdownguide.org/), a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown files are saved with the `.md` or `.markdown` file extension.
+This wiki was made using [Markdown](https://www.markdownguide.org/), a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown files are saved with the `.md` file extension.
 
 #### How Does This Wiki Work?
 
@@ -23,4 +23,4 @@ After creating documentation using Markdown, you can push your changes to the [r
 
 You can use any text editor to write Markdown. However, I recommend you use [Obsidian](https://obsidian.md/), a program that uses Markdown to create a personal knowledge base. It is free to use and has many features that make writing Markdown easier.
 
-Next, you need some way to commit your changes to the GitHub repository. I recommend you use GitHub De
+Next, you need some way to commit your changes to the GitHub repository. I recommend you use GitHub Desktop for this.
