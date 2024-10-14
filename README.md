@@ -21,8 +21,11 @@ Click the link at the top of the readme ([or this link](<./Documentation/Documen
 
 Alternatively, you can open the `Documentation` folder in this repository to see a list of all the `.md` files that make up this wiki.
 
-### Quickly Looking Through the Wiki
+#### Quickly Looking Through the Wiki
 
+You can use the search bar at the top of page that says `Type / to search` to search for a specific word / phrase in the wiki. You can ctrl + f the page to look through the text on the page.
+- You can skim through the headings on the page by clicking the 3 lines in the top right corner of the text view.
+![](<./_META/Attachments/Pasted image 20241014141254.png>)
 # Contributing to This Wiki
 
 WIP
