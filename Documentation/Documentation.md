@@ -2,6 +2,7 @@ A list of all links for all topics covered by the documentation:
 
 %% Begin Waypoint %%
 - **_temp**
+	- [Contributing](<./_temp/Contributing.md>)
 - [Controls](<./Controls.md>)
 - **[Enemies](<./Enemies/Enemies.md>)**
 - **[Player](<./Player/Player.md>)**
