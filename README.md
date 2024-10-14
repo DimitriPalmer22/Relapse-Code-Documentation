@@ -21,6 +21,8 @@ Click the link at the top of the readme ([or this link](<./Documentation/Documen
 
 Alternatively, you can open the `Documentation` folder in this repository to see a list of all the `.md` files that make up this wiki.
 
+### Quickly Looking Through the Wiki
+
 # Contributing to This Wiki
 
 WIP
