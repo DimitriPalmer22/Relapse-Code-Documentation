@@ -1,6 +1,6 @@
 [Enter the Wiki](<./Documentation/Documentation.md>)
 
-[WIKI TODO List](<./TODO.md>)
+[Wiki TODO List](<./TODO.md>)
 
 # Overview
 

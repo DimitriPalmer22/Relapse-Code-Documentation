@@ -1,7 +1,6 @@
 A list of all links for all topics covered by the documentation:
 
 %% Begin Waypoint %%
-- **_temp**
 - [Controls](<./Controls.md>)
 - **[Enemies](<./Enemies/Enemies.md>)**
 - **[Movement System](<./Movement System/Movement System.md>)**
