@@ -23,9 +23,22 @@ Alternatively, you can open the `Documentation` folder in this repository to see
 
 #### Quickly Looking Through the Wiki
 
-You can use the search bar at the top of page that says `Type / to search` to search for a specific word / phrase in the wiki. You can ctrl + f the page to look through the text on the page.
-- You can skim through the headings on the page by clicking the 3 lines in the top right corner of the text view.
+You can ctrl + f the page to look through the text on the page.
+
+You can use the search bar at the top of page that says `Type / to search` to search for a specific word / phrase in the wiki.
+![](<./_META/Attachments/Pasted image 20241014141335.png>)
+
+You can skim through the headings on the page by clicking the 3 lines in the top right corner of the text view.
 ![](<./_META/Attachments/Pasted image 20241014141254.png>)
+
+#### Why Does the Wiki Look like Code and Not Pretty Text???
+
+Sometimes the wiki can look like this:
+![](<./_META/Attachments/Pasted image 20241014141515.png>)
+
+There is a very simple fix for this. In the top left corner of the text view, click the `Preview` button to switch the text from `Code` view to `Preview` view.
+![](<./_META/Attachments/Pasted image 20241014141611.png>)
+
 # Contributing to This Wiki
 
 WIP
