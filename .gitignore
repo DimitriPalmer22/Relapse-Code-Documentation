@@ -1,4 +1,5 @@
-.obsidian/plugins
+# .obsidian/plugins
+.obsidian/plugins/github-copilot
 
 .obsidian/graph.json
 .obsidian/workspace.json
