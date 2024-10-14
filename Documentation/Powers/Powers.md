@@ -2,7 +2,7 @@
 
 > This page does ***NOT*** contain information about how the back-end of the powers works. This page is meant to be a guide for designers / coders to understand how the powers work and how to modify them.
 
-![Explosion Power Example](<../_META/Attachments/Pasted image 20241008131156.png>)
+![Explosion Power Example](<../../_META/Attachments/Pasted image 20241008131156.png>)
 
 ### So What *Exactly* Do the Powers Do?
 
@@ -16,7 +16,7 @@ When the player holds the power button, they charge the currently equipped power
 | Passive Effect    | A ***CONTINUOUS*** part of the power that activates once the player activates the power.<br><br>This is where any background effects are continuously applied.<br><br>This is mostly used for status effects.<br><br>***NOTE***: If the power is re-activated while the current passive effect is active, the effects DO NOT stack.                                                                                      |
 | Cooldown          | The part of the power where the player is not allowed to activate / charge the power.<br><br>Once the active effect is done, the cooldown is activated.<br><br>***NOTE***: If the power has no active effect duration, then the cooldown is activated immediately.                                                                                                                                                       |
 
-![](<../_META/Excalidraw/exc_2024-10-08 13.38.30.excalidraw.png>)
+![](<../../_META/Excalidraw/exc_2024-10-08 13.38.30.excalidraw.png>)
 
 ### Generally, How Are the Powers Implemented?
 
