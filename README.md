@@ -26,6 +26,7 @@ Alternatively, you can open the `Documentation` folder in this repository to see
 You can ctrl + f the page to look through the text on the page.
 
 You can use the search bar at the top of page that says `Type / to search` to search for a specific word / phrase in the wiki.
+
 ![](<./_META/Attachments/Pasted image 20241014141335.png>)
 
 You can skim through the headings on the page by clicking the 3 lines in the top right corner of the text view.
