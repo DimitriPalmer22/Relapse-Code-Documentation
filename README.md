@@ -33,7 +33,7 @@ You can skim through the headings on the page by clicking the 3 lines in the top
 
 #### Why Does the Wiki Look like Code and Not Pretty Text???
 
-Sometimes the wiki can look like this:
+Sometimes, instead of the wiki having all the formatting I put ***so*** much time into making, the wiki can look like this:
 ![](<./_META/Attachments/Pasted image 20241014141515.png>)
 
 There is a very simple fix for this. In the top left corner of the text view, click the `Preview` button to switch the text from `Code` view to `Preview` view.
