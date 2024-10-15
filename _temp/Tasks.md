@@ -7,6 +7,7 @@
 
 #### Code
 - Create a new power
+	- Fire a projectile that explodes on contact.
 - Create a new power #2
 - Create new weapon behavior (Shotgun)
 	- Follows the example set by the Pistol Prefab (Prefabs/Guns/Pistol)
@@ -35,3 +36,4 @@
 	- Climbing
 
 - Advanced enemy movement script
+	- MUST be able to walk on the walls or something idk. I need more details.
