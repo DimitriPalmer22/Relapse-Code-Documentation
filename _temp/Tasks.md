@@ -8,6 +8,7 @@
 #### Code
 - Create a new power
 	- Fire a projectile that explodes on contact.
+	- The trajectory o f
 - Create a new power #2
 - Create new weapon behavior (Shotgun)
 	- Follows the example set by the Pistol Prefab (Prefabs/Guns/Pistol)
