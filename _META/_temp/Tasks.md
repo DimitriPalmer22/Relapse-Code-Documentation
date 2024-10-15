@@ -9,7 +9,8 @@
 - Create a new power
 - Create a new power #2
 - Create new weapon behavior
-	- Follows the example set by the generic gun script
+	- Follows the example set by the generic gun script + Prefab
+	- You do not need to create a new model or anything, literally just copy the gun prefab
 - Enemy that fires projectiles
 	- Create a new enemy prefab & Add the essential scripts
 	- Make sure this new script implements the IDamager interface
