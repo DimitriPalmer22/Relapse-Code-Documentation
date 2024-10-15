@@ -11,9 +11,8 @@
 - Create new weapon behavior
 	- Follows the example set by the generic gun script
 - Enemy that fires projectiles
-	- Create a new enemy prefab
-	- Add the essentials ()
-	- Make sure this script
+	- Create a new enemy prefab & Add the essential scripts
+	- Make sure this new script implements the IDamager interface
 - Enemy basic movement script
 	- MUST work with NavMesh
 	- NavMesh your own scene first
