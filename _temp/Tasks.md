@@ -12,7 +12,7 @@
 	- Follows the example set by the Pistol Prefab (Prefabs/Guns/Pistol)
 	- Create a new Shotgun prefab (You can just copy / paste the Pistol prefab & change the script)
 	- Replace the "GenericGun" script with a new "Shotgun" script. Make sure the Shotgun script implments the IGun interface
-	- If you want to test the gun, then you want to replace the "Initial Gun Prefab" in the player prefab 
+	- If you want to test the gun, then you want to replace the "Initial Gun Prefab" in the player prefab with the new Shotgun prefab (The player prefab is Prefabs/AndreScenePrefabs/Player). Drag n Drop the new shotgun prefab into the "Initial Gun Prefab" slot of the WeaponManager component.
 
 - Enemy that fires projectiles
 	- Create a new enemy prefab & Add the essential scripts
