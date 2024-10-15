@@ -8,7 +8,7 @@
 #### Code
 - Create a new power
 - Create a new power #2
-- Create new weapon behavior
+- Create new weapon behavior (Shotgun)
 	- Follows the example set by the generic gun script + Prefab
 	- You do not need to create a new model or anything, literally just copy the current gun prefab & make a new script for it
 
