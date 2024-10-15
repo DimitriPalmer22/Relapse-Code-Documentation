@@ -8,7 +8,8 @@
 #### Code
 - Create a new power
 	- Fire a projectile that explodes on contact.
-	- The trajectory o f
+	- The trajectory of the projectile should look like a grenade.
+	- Use the move "sludge bomb" from Pokémon Gen 6 as a reference for how it should look: <https://youtu.be/YnySK8LweUM?si=49IkFT7kBiO-x5q1&t=54>
 - Create a new power #2
 - Create new weapon behavior (Shotgun)
 	- Follows the example set by the Pistol Prefab (Prefabs/Guns/Pistol)
