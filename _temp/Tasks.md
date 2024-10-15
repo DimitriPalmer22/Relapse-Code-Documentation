@@ -15,8 +15,8 @@
 	- If you want to test the gun, then you want to replace the "Initial Gun Prefab" in the player prefab with the new Shotgun prefab (The player prefab is Prefabs/AndreScenePrefabs/Player). Drag n Drop the new shotgun prefab into the "Initial Gun Prefab" slot of the WeaponManager component.
 
 - Enemy that fires projectiles
-	- Create a new enemy prefab & Add the essential scripts
-	- Make sure this new script implements the IDamager interface
+	- Create a new enemy prefab & Add the essential scripts (Enemy & EnemyInfo)
+	- Make sure this new script implements the IEnemyBehavior interface & the IDamager interface
 
 - Enemy basic movement script
 	- MUST work with NavMesh
