@@ -10,14 +10,17 @@
 - Create a new power #2
 - Create new weapon behavior
 	- Follows the example set by the generic gun script + Prefab
-	- You do not need to create a new model or anything, literally just copy the gun prefab
+	- You do not need to create a new model or anything, literally just copy the current gun prefab & make a new script for it
+
 - Enemy that fires projectiles
 	- Create a new enemy prefab & Add the essential scripts
 	- Make sure this new script implements the IDamager interface
+
 - Enemy basic movement script
 	- MUST work with NavMesh
 	- NavMesh your own scene first
 	- Find a way to make the enemy navigate the scene
+
 - Completely re-design a new movement system so it completely relies on changing the rigid body's velocity (Dimitri)
 	- Input Mapping
 	- Basic WASD Movement on the ground
@@ -27,4 +30,5 @@
 	- Wall Running
 	- Wall Jumping
 	- Climbing
+
 - Advanced enemy movement script
