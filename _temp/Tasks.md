@@ -25,7 +25,7 @@
 - Enemy basic movement script
 	- MUST work with NavMesh
 	- NavMesh your own scene first
-	- Find a way to make the enemy navigate the scene
+	- Find a way to make the enemy navigate the scene using the NavMesh system
 
 - Completely re-design a new movement system so it completely relies on changing the rigid body's velocity (This removes jank) (Dimitri)
 	- Input Mapping
