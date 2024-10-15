@@ -16,7 +16,8 @@
 
 - Enemy that fires projectiles
 	- Create a new enemy prefab & Add the essential scripts (Enemy & EnemyInfo)
-	- Make sure this new script implements the IEnemyBehavior interface & the IDamager interface
+	- Make sure this new script implements the IEnemyBehavior interface & the IDamager interface.
+	- For an example, look at the "Proximity Enemy" prefab in Prefabs/Enemies/ProximityEnemy
 
 - Enemy basic movement script
 	- MUST work with NavMesh
