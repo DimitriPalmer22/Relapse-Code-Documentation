@@ -21,7 +21,7 @@
 	- NavMesh your own scene first
 	- Find a way to make the enemy navigate the scene
 
-- Completely re-design a new movement system so it completely relies on changing the rigid body's velocity (Dimitri)
+- Completely re-design a new movement system so it completely relies on changing the rigid body's velocity (This removes jank) (Dimitri)
 	- Input Mapping
 	- Basic WASD Movement on the ground
 	- Sprinting
