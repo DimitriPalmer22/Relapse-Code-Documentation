@@ -26,6 +26,8 @@
 - Enemy basic movement script
 	- MUST work with NavMesh
 	- NavMesh your own scene first
+	- Create a new enemy prefab & Add the essential scripts (Enemy & EnemyInfo)
+	- Make sure this new script implements the IEnemyBehavior interface.
 	- Find a way to make the enemy navigate the scene using the NavMesh system
 
 - Completely re-design a new movement system so it completely relies on changing the rigid body's velocity (This removes jank) (Dimitri)
