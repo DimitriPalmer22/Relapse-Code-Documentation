@@ -10,6 +10,7 @@
 - Create a new power #2
 - Create new weapon behavior (Shotgun)
 	- Follows the example set by the Pistol Prefab (Prefabs/Guns/Pistol)
+		- 
 	- You do not need to create a new model or anything, literally just copy the current gun prefab & make a new script for it
 
 - Enemy that fires projectiles
