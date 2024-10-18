@@ -57,10 +57,19 @@ To do damage to another entity, that entity NEEDS a script that implements the `
 - For the player, that is the `PlayerInfo` script.
 - For enemies, that is the `EnemyInfo` script.
 
-You need to somehow access this script using either `GetComponent<IActor>()` or `TryGetComponent<IActor>(out var actorScript)`.
+You need to somehow access this script using either of these two lines:
+
+- `var actorScript = GetComponent<IActor>()`
+- `TryGetComponent<IActor>(out var actorScript)`
 
 Once you have access to the actor script, you can call this method:
 
 ```csharp
 public void ChangeHealth(float amount, IActor changer, IDamager damager)
+```
+
+by doing
+
+```csharp
+actorScript.ChangeHealth(damage, this, this);
 ```
