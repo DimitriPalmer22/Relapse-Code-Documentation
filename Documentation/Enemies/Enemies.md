@@ -1,5 +1,5 @@
 
-***WIP***
+***WIP***, but mostly done
 
 ### Creating an Enemy
 
@@ -74,8 +74,7 @@ public void ChangeHealth(float amount, IActor changer, IDamager damager)
 by doing
 
 ```csharp
-actorScript.ChangeHealth(damage, enemyInfo, this);
+actorScript.ChangeHealth(-damage, enemyInfo, this);
 ```
 
-> NOTE:
-> the 'damage' variable is the amount of damage you want to do to the player. You can set this to whatever you want.
+> Notice the negative sign in front of the damage. This is because you are subtracting health from the actor.
