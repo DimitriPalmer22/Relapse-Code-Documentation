@@ -25,6 +25,9 @@ The script the implements the `IEnemyBehavior` interface is where you will write
 
 #### Doing Damage to the Player
 
+> VERY USEFUL INFORMATION:
+> You probably want to make a private variable that keeps track of the EnemyInfo component the game object for future reference. Then, in the start / awake function, you want to get this component. This WILL be used later.
+
 If your script does not do damage to the player, you can skip this.
 
 If you want the enemy to be able to damage the player, you can implement the `IDamager` interface.
@@ -71,5 +74,8 @@ public void ChangeHealth(float amount, IActor changer, IDamager damager)
 by doing
 
 ```csharp
-actorScript.ChangeHealth(damage, this, this);
+actorScript.ChangeHealth(damage, enemyInfo, this);
 ```
+
+> NOTE:
+> the 'damage' variable is the amount of damage you want to do to the player. You can set this to whatever you want.
