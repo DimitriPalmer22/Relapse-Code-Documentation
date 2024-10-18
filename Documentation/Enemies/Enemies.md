@@ -52,4 +52,8 @@ public GameObject GameObject => gameObject;
 
 Now that this is set up, you can now work on the damage logic.
 
-To do damage to another entity, 
+To do damage to another entity, that entity NEEDS a script that implements the `IActor` interface.
+
+- For the player, that is the `PlayerInfo` script.
+- For enemies, that is the `EnemyInfo` script.
+
