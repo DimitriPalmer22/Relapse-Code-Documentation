@@ -57,3 +57,4 @@ To do damage to another entity, that entity NEEDS a script that implements the `
 - For the player, that is the `PlayerInfo` script.
 - For enemies, that is the `EnemyInfo` script.
 
+You need to somehow access this script using either `GetComponent<IActor>()` or `TryGetComponent<IActor>(out var actorScript)`.
