@@ -18,3 +18,7 @@ The "EnemyInfo" script holds information about the enemy's health and handles th
 The script the implements the `IEnemyBehavior` interface is where you will write the logic for how the enemy moves / attacks. This script should be added to the enemy prefab as well. *This is where you write your code*.
 
 ### Creating an Enemy Behavior Script
+
+1. First, the enemy behavior script needs to extend the `MonoBehaviour` class to be added to a game object.
+2. Next, the enemy behavior script needs to implement the `IEnemyBehavior` interface. As of right now, this interface has no methods. It is just a marker interface to show that the script is an enemy behavior script.
+3. Last
