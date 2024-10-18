@@ -21,5 +21,5 @@ The script the implements the `IEnemyBehavior` interface is where you will write
 
 1. First, the enemy behavior script needs to extend the `MonoBehaviour` class to be added to a game object.
 2. Next, the enemy behavior script needs to implement the `IEnemyBehavior` interface. As of right now, this interface has no methods. It is just a marker interface to show that the script is an enemy behavior script.
-3. *This step is optional*. If you want the enemy to be able to damage the player, you can implement the `IDamager` interface. This interface includes 1 property, ``
-
+3. From here, you
+4. *This step is optional*. If you want the enemy to be able to damage the player, you can implement the `IDamager` interface. This interface includes 1 property, `public GameObject GameObject { get; }`, which should be replaced with `public GameObject GameObject => gameObject;`.
