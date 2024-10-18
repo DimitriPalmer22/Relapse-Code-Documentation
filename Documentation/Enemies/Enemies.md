@@ -29,7 +29,7 @@ If your script does not do damage to the player, you can skip this.
 
 If you want the enemy to be able to damage the player, you can implement the `IDamager` interface.
 
-Your class should look like:
+Your class's definition should look like:
 
 ```csharp
 public class YourClassName : MonoBehaviour, IEnemyBehavior, IDamager
@@ -38,8 +38,18 @@ public class YourClassName : MonoBehaviour, IEnemyBehavior, IDamager
 }
 ```
 
-This interface includes 1 property, , which should be replaced with `public GameObject GameObject => gameObject;`.
+This interface includes 1 property:
 
 ```csharp
 public GameObject GameObject { get; }
 ```
+
+This property should be replaced with:
+
+```csharp
+public GameObject GameObject => gameObject;
+```
+
+Now that this is set up, you can now work on the damage logic.
+
+To do damage to another entity, 
