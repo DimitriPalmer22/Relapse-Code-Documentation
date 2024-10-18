@@ -21,5 +21,25 @@ The script the implements the `IEnemyBehavior` interface is where you will write
 
 1. First, the enemy behavior script needs to extend the `MonoBehaviour` class to be added to a game object.
 2. Next, the enemy behavior script needs to implement the `IEnemyBehavior` interface. As of right now, this interface has no methods. It is just a marker interface to show that the script is an enemy behavior script.
-3. From here, you
-4. *This step is optional*. If you want the enemy to be able to damage the player, you can implement the `IDamager` interface. This interface includes 1 property, `public GameObject GameObject { get; }`, which should be replaced with `public GameObject GameObject => gameObject;`.
+3. From here, you can do whatever you want for the enemy's logic.
+
+#### Doing Damage to the Player
+
+If your script does not do damage to the player, you can skip this.
+
+If you want the enemy to be able to damage the player, you can implement the `IDamager` interface.
+
+Your class should look like:
+
+```csharp
+public class YourClassName : MonoBehaviour, IEnemyBehavior, IDamager
+{
+    // Your code here
+}
+```
+
+This interface includes 1 property, , which should be replaced with `public GameObject GameObject => gameObject;`.
+
+```csharp
+public GameObject GameObject { get; }
+```
