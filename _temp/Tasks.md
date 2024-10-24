@@ -47,4 +47,17 @@
 
 ##### Enemies
 - Enemy movement behavior
-- Enemy attacking be
+- Enemy attacking behavior
+- Model
+- Texture
+- Animation
+	- Idle
+	- Move
+	- Attack
+	- Hurt
+	- Death
+- Sound
+	- Idle
+	- Move
+	- Attack
+- Any particle effects / VFX
