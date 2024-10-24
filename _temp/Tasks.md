@@ -1,11 +1,11 @@
 
-#### Art
+### Art
 -
 
-#### Designer
+### Designer
 - Create separate UI bars for the charging & cooldown meters
 
-#### Code
+### Code
 - Create a new power
 	- Fire a projectile that explodes on contact.
 	- The trajectory of the projectile should look like a grenade.
@@ -42,3 +42,9 @@
 
 - Advanced enemy movement script
 	- MUST be able to walk on the walls or something idk. I need more details.
+
+##### Things to Do For Each Feature
+
+##### Enemies
+- Enemy movement behavior
+- Enemy attacking be
