@@ -45,6 +45,8 @@
 
 ##### Things to Do For Each Feature
 
+#####
+
 ##### Enemies
 - Enemy movement behavior
 - Enemy attacking behavior
@@ -61,3 +63,6 @@
 	- Move
 	- Attack
 - Any particle effects / VFX
+
+##### Powers
+- 
