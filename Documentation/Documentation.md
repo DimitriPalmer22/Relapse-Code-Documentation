@@ -1,6 +1,7 @@
 A list of all links for all topics covered by the documentation:
 
 %% Begin Waypoint %%
+- **[Audio](<./Audio/Audio.md>)**
 - [Controls](<./Controls.md>)
 - **[Enemies](<./Enemies/Enemies.md>)**
 - **[Player](<./Player/Player.md>)**
