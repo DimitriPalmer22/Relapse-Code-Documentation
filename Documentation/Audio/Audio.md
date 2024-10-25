@@ -18,5 +18,9 @@ In the event it stops working:
 The `SoundManager` script is responsible for playing all audio in the game. It has a number of functions that can be called to play different sounds.
 
 ```csharp
-
+public void PlaySfxAtPoint(Sound sound, Vector3 pos);
 ```
+
+This function plays a sound at a specific point in the world (given the correct settings are on the sound.) 
+
+The 'sound' variable is a ref 
