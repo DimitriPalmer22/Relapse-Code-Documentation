@@ -43,9 +43,12 @@ Sounds played with this function WILL get stopped by other sounds playing.
 
 ##### Sound
 
-A class that holds a sound and some audio settings.
+A class that holds:
 
-#### Sound Settings
+- an audio clip
+- some sound settings.
+
+##### Sound Settings
 
 A class that holds audio settings for a sound. This class is a scriptable object, which allows it to be edited in the Unity inspector.
 
@@ -61,6 +64,8 @@ To do this, right-click in the Assets folder (preferably in Scriptable Objects >
 
 ##### SoundPool
 
-A class that holds a collection of sounds so they can be played randomly. This can be used to play random sounds for things like footsteps or gunshots, which can add variety to the game.
+A class that holds an array of `Sound` so they can be played randomly. This can be used to play random sounds for things like footsteps or gunshots, which can add variety to the game.
 
 #### How to Use the Sound Manager to Play Your Own Sounds
+
+Make a script with a 
