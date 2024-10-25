@@ -35,4 +35,13 @@ The sound will be played as a one-shot, meaning that it will not loop and will n
 public void PlayMusic(Sound sound);
 ```
 
-This function plays a sound as music. The sound will loop until it is stopped.
+This function plays a sound as music.
+
+Sounds played with this function WILL get stopped by other sounds playing.
+
+
+#### Custom Classes
+
+
+
+#### How to Use the Sound Manager to Play Your Own Sounds
