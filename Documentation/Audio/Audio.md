@@ -42,13 +42,19 @@ Sounds played with this function WILL get stopped by other sounds playing.
 #### Custom Classes
 
 ##### Sound
+
 A class that holds a sound and some audio settings.
 
 #### SoundSettings
-A class that holds audio settings for a sound. This ***SCRIPT*** does not need to be interacted with. However, 
+
+A class that holds audio settings for a sound. This class is a scriptable object, which allows it to be edited in the Unity inspector.
+
+This ***SCRIPT*** does not need to be interacted with. However, you may need to create a new SoundSettings scriptable object in the Unity inspector.
+
+To do this, right-click in the Assets folder (preferably in Scriptable Objects > Sound Settings), go to Create > Audio > Sound Settings.
 
 ##### SoundPool
-A class that holds a collection of sounds so they can be played randomly. This can be used to play random sounds for things like footsteps or gunshots, which can add variety to the game.
 
+A class that holds a collection of sounds so they can be played randomly. This can be used to play random sounds for things like footsteps or gunshots, which can add variety to the game.
 
 #### How to Use the Sound Manager to Play Your Own Sounds
