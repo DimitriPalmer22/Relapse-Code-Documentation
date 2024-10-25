@@ -77,5 +77,5 @@ SoundManager.Instance.PlaySfxAtPoint(...);
 ```
 
 ```csharp
-SoundManager.Instance.PlayMusic(…);
+SoundManager.Instance.PlayMusic(...);
 ```
