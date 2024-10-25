@@ -39,9 +39,16 @@ This function plays a sound as music.
 
 Sounds played with this function WILL get stopped by other sounds playing.
 
-
 #### Custom Classes
 
+##### Sound
+A class that holds a sound and some audio settings.
+
+#### SoundSettings
+A class that holds audio settings for a sound. This ***SCRIPT*** does not need to be interacted with. However, 
+
+##### SoundPool
+A class that holds a collection of sounds so they can be played randomly. This can be used to play random sounds for things like footsteps or gunshots, which can add variety to the game.
 
 
 #### How to Use the Sound Manager to Play Your Own Sounds
