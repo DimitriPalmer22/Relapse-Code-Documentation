@@ -65,4 +65,4 @@
 - Any particle effects / VFX
 
 ##### Powers
-- 
+- …
