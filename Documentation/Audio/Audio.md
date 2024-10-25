@@ -68,4 +68,14 @@ A class that holds an array of `Sound` so they can be played randomly. This can 
 
 #### How to Use the Sound Manager to Play Your Own Sounds
 
-Make a script with a 
+Make a script with a serialized variable for a `Sound` object or `SoundPool` object. Assign the sound you want to play to this variable in the Unity inspector.
+
+In the code itself, whenever you want to code, you can do the following:
+
+```csharp
+SoundManager.Instance.PlaySfxAtPoint(...);
+```
+
+```csharp
+SoundManager.Instance.PlayMusic(…);
+```
