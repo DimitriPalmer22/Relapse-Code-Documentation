@@ -45,13 +45,19 @@ Sounds played with this function WILL get stopped by other sounds playing.
 
 A class that holds a sound and some audio settings.
 
-#### SoundSettings
+#### Sound Settings
 
 A class that holds audio settings for a sound. This class is a scriptable object, which allows it to be edited in the Unity inspector.
 
 This ***SCRIPT*** does not need to be interacted with. However, you may need to create a new SoundSettings scriptable object in the Unity inspector.
 
 To do this, right-click in the Assets folder (preferably in Scriptable Objects > Sound Settings), go to Create > Audio > Sound Settings.
+
+###### Notable Settings
+- Loop: Whether the sound should loop or not. This should ONLY be used for music.
+- Spatial Blend: How much the sound should be affected by 3D audio. 0 is 2D audio, 1 is 3D audio.
+	- The default value of .95 is recommended for sound effects.
+	- 0 is recommended for music.
 
 ##### SoundPool
 
