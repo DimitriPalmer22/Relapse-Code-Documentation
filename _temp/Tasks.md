@@ -69,6 +69,12 @@
 
 ```cs
 
+for (int i = 0; i < NodeList.Length; i++)
+{
+	int nextIndex = (i + 1) % NodeList.Length;
 
+	Gizmos.color = Color.red;
+	
+}
 
 ```
