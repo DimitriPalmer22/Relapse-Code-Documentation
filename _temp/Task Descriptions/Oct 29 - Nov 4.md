@@ -92,6 +92,10 @@ Options
 Credits
 Exit
 
+Start: starts the game
+Options: Shows what WOULD be an options screen, but for now, that can be left empty.
+***Credits***: Show everyone's name on the screen. Please divide us based on role.
+***Exit***: Quit the game (Normally, the Unity function to quit the game only works with an actual build of the game)
 
 ### New Power (Medicine) ### Time Slow
 
