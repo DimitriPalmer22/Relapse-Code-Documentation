@@ -41,6 +41,10 @@ Videos:
 
 ### C# Events Personal Project
 
+***GOAL***: Learn more about using events in C# so you can build more confidence when working on your own.
+
+
+
 ### Simple Functioning Main Menu
 
 ### New Power (Medicine) ### Time Slow
