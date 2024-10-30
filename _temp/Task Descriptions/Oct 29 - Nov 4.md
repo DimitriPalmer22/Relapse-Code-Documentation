@@ -87,17 +87,20 @@ A simple start menu for the sake of the vertical slice would make our game seem 
 
 The main menu should look like:
 
-[[/_META]]
+![](<../../_META/Excalidraw/exc_2024-10-29 20.50.48.excalidraw.png>)
 
 ***Start***: opens the ApartmentBlockout scene.
+
 ***Options***: Shows what WOULD be an options screen, but for now, that can be left empty.
+
 ***Credits***: Show everyone's name on the screen. Please divide us based on role. Look in the discord if you are confused on people's roles.
 - Blue - Coder
 - Green - designer
 - Purple - artist
+
 ***Exit***: Quit the game (Normally, the Unity function to quit the game only works with an actual build of the game)
 
-## New Power (Medicine) ## Time Slow
+## New Power (Medicine) - Time Slow
 
 ## Document the New Power
 
