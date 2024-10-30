@@ -1,5 +1,5 @@
 
-### C# Research: Inhertiance, Interfaces, Abstraction
+## C# Research: Inhertiance, Interfaces, Abstraction
 
 ***GOAL***: The purpose of this is to get you even more familiar with using inheritance in C# since most scripts in the project use inheritance.
 
@@ -11,13 +11,13 @@ Videos:
 
 > Goal of Research: If a parent class or interface is not making sense, try to look at the classes that extend from it to see how it is properly implemented.
 
-### C# Inheritance Personal Project
+## C# Inheritance Personal Project
 
 ***GOAL***: The purpose of this is to build more confidence when working with inheritance / composition on your own.
 
 > NOTE: This will be done in PURE C#. DO NOT MAKE A UNITY PROJECT FOR THIS. Make a project in Visual Studio instead.
 
-#### Project Prompt: "Animal Care System"
+### Project Prompt: "Animal Care System"
 
 1. **Inheritance**:
 
@@ -32,7 +32,7 @@ Videos:
 	- Develop a console app where users can create animals, feed, and play with them. This should reinforce knowledge of inheritance and composition with clear return types.
 	- The description for this personal project is intentionally a little loose because you are meant to play with it. Try to explore and discover things so you get more comfortable.
 
-### C# Research: Events
+## C# Research: Events
 
 ***GOAL***: Get much more comfortable using events in C#. These are the basis for the collaborative system I have set up so that you can interact with my scripts and their logic without having to edit the scripts themselves.
 
@@ -41,13 +41,13 @@ Videos:
 - <https://www.youtube.com/watch?v=3ZfwqWl-YI0&ab_channel=CodeMonkey>
 - <https://www.youtube.com/watch?v=OuZrhykVytg&ab_channel=CodeMonkey>
 
-### C# Events Personal Project
+## C# Events Personal Project
 
 ***GOAL***: Learn more about using events in C# so you can build more confidence when working on your own.
 
 > NOTE: This will be done in PURE C#. DO NOT MAKE A UNITY PROJECT FOR THIS. Make a project in Visual Studio instead.
 
-### Project Prompt: "Gaming Console System"
+## Project Prompt: "Gaming Console System"
 
 1. **Delegate and Events**:
 
@@ -81,7 +81,7 @@ Videos:
 
 	- The program provides an interactive simulation of a gaming console system, giving users practice with creating custom delegates, managing events, and responding dynamically based on user input.
 
-### Simple Functioning Main Menu
+## Simple Functioning Main Menu
 
 A simple start menu for the sake of the vertical slice would make our game seem more polished.
 
@@ -100,10 +100,10 @@ Exit
 - Purple - artist
 ***Exit***: Quit the game (Normally, the Unity function to quit the game only works with an actual build of the game)
 
-### New Power (Medicine) ### Time Slow
+## New Power (Medicine) ## Time Slow
 
-### Document the New Power
+## Document the New Power
 
-### Create Shotgun Logic
+## Create Shotgun Logic
 
-### Document the Shotgun Logic
+## Document the Shotgun Logic
