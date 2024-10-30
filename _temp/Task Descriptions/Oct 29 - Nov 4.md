@@ -14,8 +14,21 @@ Videos:
 
 ### C# Inheritance Personal Project
 
-***GOAL***: The purpose of this is to build more confidence when working on your own
+***GOAL***: The purpose of this is to build more confidence when working with inheritance / composition on your own.
 
+#### Project Prompt: "Animal Care System"
+
+1. **Inheritance**:
+
+	- Create an abstract class `Animal` with properties like `Name` (string) and `Age` (int), and an abstract method `MakeSound()` that returns a `string` (this string is unique to each type of animal)
+	- Create two subclasses `Dog` and `Cat` that inherit from `Animal`. Each should implement `MakeSound()`, returning a unique sound (e.g., "Woof" for `Dog` and "Meow" for `Cat`).
+2. **Composition**:
+
+	- Define an interface `ICare` with methods `Feed()` (returns `string`) and `Play()` (returns `bool`).
+	- Implement `ICare` in two classes, `DogCare` and `CatCare`. `Feed()` should return a message like "Dog has been fed" or "Cat has been fed," and `Play()` should return `true` if the animal is happy to play (could be based on random logic or age).
+3. **Objective**:
+
+	- Develop a console app where users can create animals, feed, and play with them. This should reinforce knowledge of inheritance and composition with clear return types.
 
 ### C# Research: Events
 
