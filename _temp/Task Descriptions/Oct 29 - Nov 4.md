@@ -43,7 +43,39 @@ Videos:
 
 ***GOAL***: Learn more about using events in C# so you can build more confidence when working on your own.
 
+### Project Prompt: "Gaming Console System"
 
+1. **Delegate and Events**:
+
+	- Create a delegate `GameAction` with a `void` return type and a `string` parameter (`actionDescription`). This delegate will represent actions performed on a gaming console and will use the `actionDescription` parameter to detail each action.
+
+	- In a `GameConsole` class, define three public events that use the `GameAction` delegate:
+
+		- `OnGameStart` – triggered when a game starts.
+		- `OnGamePause` – triggered when a game is paused.
+		- `OnGameOver` – triggered when the game ends.
+2. **Event Functions**:
+
+	- For each event, create two methods to respond:
+		- **Game Start**:
+			- `DisplayWelcomeMessage(string actionDescription)` – prints "Welcome: \[actionDescription]".
+			- `PlayIntroSound(string actionDescription)` – prints "Playing intro sound: \[actionDescription]".
+		- **Game Pause**:
+			- `ShowPauseMenu(string actionDescription)` – prints "Pause Menu shown: \[actionDescription]".
+			- `MuteSound(string actionDescription)` – prints "Sound muted: \[actionDescription]".
+		- **Game Over**:
+			- `ShowGameOverScreen(string actionDescription)` – prints "Game Over Screen displayed: \[actionDescription]".
+			- `PlayGameOverSound(string actionDescription)` – prints "Game Over sound played: \[actionDescription]".
+3. **Main Function and Loop**:
+
+	- In the `Main` method, create a loop to capture user input:
+		- Entering `"start"` triggers the `OnGameStart` event.
+		- Entering `"pause"` triggers the `OnGamePause` event.
+		- Entering `"end"` triggers the `OnGameOver` event.
+		- Entering `"quit"` breaks the loop and exits the program.
+4. **Objective**:
+
+	- The program provides an interactive simulation of a gaming console system, giving users practice with creating custom delegates, managing events, and responding dynamically based on user input.
 
 ### Simple Functioning Main Menu
 
