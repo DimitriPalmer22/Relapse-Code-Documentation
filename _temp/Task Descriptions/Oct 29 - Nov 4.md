@@ -87,10 +87,7 @@ A simple start menu for the sake of the vertical slice would make our game seem 
 
 The main menu should look like:
 
-Start
-Options
-Credits
-Exit
+[[/_META]]
 
 ***Start***: opens the ApartmentBlockout scene.
 ***Options***: Shows what WOULD be an options screen, but for now, that can be left empty.
