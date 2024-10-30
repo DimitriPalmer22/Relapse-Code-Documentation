@@ -9,8 +9,7 @@ Videos:
 - <https://www.youtube.com/watch?v=9atF8x1U6QI&ab_channel=GiraffeAcademy>
 - <https://www.youtube.com/watch?v=qgU2ojOKLP8&ab_channel=tutorialsEU-C%23>
 
-> Goal of Research: Get comfortable with working with / using inheritance and composition in C#.
-> If a parent class or interface is not making sense, try to look at the classes that extend from it to see how it is properly implemented.
+> Goal of Research: If a parent class or interface is not making sense, try to look at the classes that extend from it to see how it is properly implemented.
 
 ### C# Inheritance Personal Project
 
