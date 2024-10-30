@@ -33,7 +33,12 @@ Videos:
 
 ### C# Research: Events
 
-G
+***GOAL***: Get much more comfortable using events in C#. These are the basis for the collaborative system I have set up so that you can interact with my scripts and their logic without having to edit the scripts themselves.
+
+Videos:
+
+- <https://www.youtube.com/watch?v=3ZfwqWl-YI0&ab_channel=CodeMonkey>
+- <https://www.youtube.com/watch?v=OuZrhykVytg&ab_channel=CodeMonkey>
 
 ### C# Events Personal Project
 
