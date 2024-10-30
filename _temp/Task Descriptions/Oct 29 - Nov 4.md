@@ -29,8 +29,11 @@ Videos:
 3. **Objective**:
 
 	- Develop a console app where users can create animals, feed, and play with them. This should reinforce knowledge of inheritance and composition with clear return types.
+	- The description for this personal project is intentionally a little loose because you are meant to play with it. Try to explore and discover things so you get more comfortable.
 
 ### C# Research: Events
+
+G
 
 ### C# Events Personal Project
 
