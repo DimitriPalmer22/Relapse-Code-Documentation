@@ -15,6 +15,8 @@ Videos:
 
 ***GOAL***: The purpose of this is to build more confidence when working with inheritance / composition on your own.
 
+> NOTE: This will be done in PURE C#. DO NOT MAKE A UNITY PROJECT FOR THIS. Make a project in Visual Studio instead.
+
 #### Project Prompt: "Animal Care System"
 
 1. **Inheritance**:
@@ -42,6 +44,8 @@ Videos:
 ### C# Events Personal Project
 
 ***GOAL***: Learn more about using events in C# so you can build more confidence when working on your own.
+
+> NOTE: This will be done in PURE C#. DO NOT MAKE A UNITY PROJECT FOR THIS. Make a project in Visual Studio instead.
 
 ### Project Prompt: "Gaming Console System"
 
@@ -78,6 +82,16 @@ Videos:
 	- The program provides an interactive simulation of a gaming console system, giving users practice with creating custom delegates, managing events, and responding dynamically based on user input.
 
 ### Simple Functioning Main Menu
+
+A simple start menu for the sake of the vertical slice would make our game seem more polished.
+
+The main menu should look like:
+
+Start
+Options
+Credits
+Exit
+
 
 ### New Power (Medicine) ### Time Slow
 
