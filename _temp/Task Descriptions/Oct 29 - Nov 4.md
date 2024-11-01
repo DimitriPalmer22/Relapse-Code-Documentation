@@ -132,7 +132,11 @@ In the logic script,
 
 To adjust the duration of the slow down effect, you can use the `Passive Effect Duration` field in the power's scriptable object.
 
+If you can, don't make the power immediately set the time scale back and forth. Try to smoothly transition between the time scales.
+
 ## Document the New Power
+
+Write a word document or something describing how the power works. I'll make it look better and throw it in the wiki later.
 
 ## Create Shotgun Logic
 
