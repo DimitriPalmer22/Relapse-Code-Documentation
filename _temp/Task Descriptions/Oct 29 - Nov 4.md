@@ -118,6 +118,8 @@ Remember, powers in Relapse are composed of 3 parts:
 
 For more information, check the [Powers](<../../Documentation/Powers/Powers.md>) documentation.
 
+> NOTE: to test your power, drag the scriptable object into the Powers list in the *PlayerPowerManager* component on the player.
+
 ### Time Slow Power Specifications
 
 When activated, the Time Slow power will slow down the game's time scale for a short period. This will give the player more time to react to enemies and obstacles.
@@ -126,7 +128,7 @@ In the logic script,
 
 - Use the `StartPassiveEffect(…)` function to slow down the time scale.
 - Use the `EndPassiveEffect(…)` function to return the time scale to normal.
-- The time scale that gets 
+- The time scale that gets set when the power is applied should be a serialized field so that we can edit it in the inspector.
 
 To adjust the duration of the slow down effect, you can use the `Passive Effect Duration` field in the power's scriptable object.
 
