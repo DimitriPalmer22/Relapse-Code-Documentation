@@ -138,6 +138,12 @@ If you can, don't make the power immediately set the time scale back and forth. 
 
 Write a word document or something describing how the power works. I'll make it look better and throw it in the wiki later.
 
+Try to be as specific as possible with your documentation. It might also be a good idea to include function and variable names. This is so we can eventually use this for the TDD later on.
+
 ## Create Shotgun Logic
 
 ## Document the Shotgun Logic
+
+Write a word document or something describing how the shotgun works. I'll make it look better and throw it in the wiki later.
+
+Try to be as specific as possible with your documentation. It might also be a good idea to include function and variable names. This is so we can eventually use this for the TDD later on.
