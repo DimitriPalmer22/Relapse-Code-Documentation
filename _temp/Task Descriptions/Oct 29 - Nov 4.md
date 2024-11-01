@@ -103,10 +103,14 @@ The main menu should look like:
 ## New Power (Medicine) - Time Slow
 
 Remember, powers in Relapse are composed of 2 parts:
-- The power scriptable object that holds the general information for the power (name, cost, charge time, etc.)
-	- Found in `A`
-- The The power logic script that defines what the power does.
 
+- The power scriptable object that holds the general information for the power (name, cost, charge time, etc.)
+	- Found in `Assets/Scriptable Objects/Powers`
+- The The power logic script that defines what the power does.
+	- Found in `Assets/_Scripts/Player/Powers`
+	- Remember, this script needs to be put on 
+
+For more information, check the [Powers](<../../Documentation/Powers/Powers.md>) documentation.
 
 ## Document the New Power
 
