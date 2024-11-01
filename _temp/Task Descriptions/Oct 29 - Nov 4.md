@@ -47,7 +47,7 @@ Videos:
 
 > NOTE: This will be done in PURE C#. DO NOT MAKE A UNITY PROJECT FOR THIS. Make a project in Visual Studio instead.
 
-## Project Prompt: "Gaming Console System"
+### Project Prompt: "Gaming Console System"
 
 1. **Delegate and Events**:
 
@@ -101,6 +101,8 @@ The main menu should look like:
 ***Exit***: Quit the game (Normally, the Unity function to quit the game only works with an actual build of the game)
 
 ## New Power (Medicine) - Time Slow
+
+
 
 ## Document the New Power
 
