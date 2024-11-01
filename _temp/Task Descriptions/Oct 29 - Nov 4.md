@@ -109,9 +109,9 @@ Remember, powers in Relapse are composed of 3 parts:
 - The power scriptable object that holds the general information for the power (name, cost, charge time, etc.)
 	- Found in `Assets/Scriptable Objects/Powers`
 	- To create a new power, right-click in this folder and select "Create > Power"
-
 - The The power logic script that defines what the power does.
 	- Found in `Assets/_Scripts/Player/Powers`
+	- Make sure that this script extends from the `MonoBehaviour` class and implements the `IPower` interface.
 - The power logic prefab that holds the logic script
 	- Found in `Assets/Prefabs/Player/Power Logic`
 	- Remember, this script needs to be put on an empty prefab and then dragged into the "Power Logic Prefab slot" in the power's scriptable object.
@@ -122,7 +122,7 @@ For more information, check the [Powers](<../../Documentation/Powers/Powers.md>)
 
 When activated, the Time Slow power will slow down the game's time scale for a short period. This will give the player more time to react to enemies and obstacles.
 
-
+In the log
 ## Document the New Power
 
 ## Create Shotgun Logic
