@@ -118,11 +118,18 @@ Remember, powers in Relapse are composed of 3 parts:
 
 For more information, check the [Powers](<../../Documentation/Powers/Powers.md>) documentation.
 
-### Time Slow Power
+### Time Slow Power Specifications
 
 When activated, the Time Slow power will slow down the game's time scale for a short period. This will give the player more time to react to enemies and obstacles.
 
-In the log
+In the logic script,
+
+- Use the `StartPassiveEffect(…)` function to slow down the time scale.
+- Use the `EndPassiveEffect(…)` function to return the time scale to normal.
+- The time scale that gets 
+
+To adjust the duration of the slow down effect, you can use the `Passive Effect Duration` field in the power's scriptable object.
+
 ## Document the New Power
 
 ## Create Shotgun Logic
