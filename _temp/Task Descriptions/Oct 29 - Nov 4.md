@@ -102,13 +102,15 @@ The main menu should look like:
 
 ## New Power (Medicine) - Time Slow
 
-Remember, powers in Relapse are composed of 2 parts:
+Remember, powers in Relapse are composed of 3 parts:
 
 - The power scriptable object that holds the general information for the power (name, cost, charge time, etc.)
 	- Found in `Assets/Scriptable Objects/Powers`
 - The The power logic script that defines what the power does.
 	- Found in `Assets/_Scripts/Player/Powers`
-	- Remember, this script needs to be put on 
+- The power logic prefab that holds the logic script
+	- Found in `Assets/Prefabs/Player/Power Logic`
+	- Remember, this script needs to be put on an empty prefab and then dragged into the "Power Logic Prefab slot" in the power's scriptable object.
 
 For more information, check the [Powers](<../../Documentation/Powers/Powers.md>) documentation.
 
