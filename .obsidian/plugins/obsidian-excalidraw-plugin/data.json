@@ -27,10 +27,10 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
-  "dynamicStyling": "colorful",
+  "dynamicStyling": "none",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
+  "matchTheme": true,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
@@ -436,7 +436,7 @@
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
   "gridSettings": {
-    "DYNAMIC_COLOR": true,
+    "DYNAMIC_COLOR": false,
     "COLOR": "#000000",
     "OPACITY": 50
   },
