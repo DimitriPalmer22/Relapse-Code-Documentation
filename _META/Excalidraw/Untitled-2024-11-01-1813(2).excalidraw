@@ -165,8 +165,8 @@
 		},
 		{
 			"type": "rectangle",
-			"version": 18,
-			"versionNonce": 1279618283,
+			"version": 21,
+			"versionNonce": 1106833176,
 			"index": "a4",
 			"isDeleted": false,
 			"id": "4P7BGuAfh9d5KlyjXMnB2",
@@ -179,7 +179,7 @@
 			"x": 1100,
 			"y": 500,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
+			"backgroundColor": "#a5d8ff",
 			"width": 100,
 			"height": 100,
 			"seed": 1007496741,
@@ -216,7 +216,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1730499647473,
+			"updated": 1730626378966,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -225,8 +225,8 @@
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 1096615819,
+			"version": 28,
+			"versionNonce": 1668215320,
 			"index": "a5",
 			"isDeleted": false,
 			"id": "Df2eZOuf",
@@ -247,7 +247,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1730499467642,
+			"updated": 1730626378517,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2078,7 +2078,7 @@
 		"theme": "light",
 		"viewBackgroundColor": "#fffce8",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#a5d8ff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -2090,8 +2090,8 @@
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": -861.0578580539851,
-		"scrollY": -208.56321449606,
+		"scrollX": -730.8645771496354,
+		"scrollY": -275.9045666879646,
 		"zoom": {
 			"value": 0.890983
 		},
