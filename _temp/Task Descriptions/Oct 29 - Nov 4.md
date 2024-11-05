@@ -163,10 +163,13 @@ There are some fields you *should* serialize in the inspector:
 
 - ***GunInformation gunInformation*** - This is a reference to the scriptable object that controls the general information for the gun.
 - ***Transform muzzleLocation*** - This is the location where the bullets will "spawn".
-- 
+-
 
-#### Creating the shotgun prefab
-- Use the shotgun model located in `Prefabs/Weapons/Shotgun``
+#### Creating the Shotgun Prefab
+- For this, you should be able to copy the pistol prefab and replace the model + weapon script.
+	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
+	- Replace the generic gun script with the new shotgun script you just made.
+	- Make sure the collider is set up properly on the shotgun model.
 
 ## Document the Shotgun Logic
 
