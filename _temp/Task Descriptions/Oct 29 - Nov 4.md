@@ -166,11 +166,13 @@ public class Shotgun : MonoBehaviour, IGun
 }
 ```
 
-> Honestly, you can probably start off by copying the GenericGun script and removing things. It will save you a lot of time.
+Honestly, you can probably start off by copying the GenericGun script and removing things. It will save you a lot of time.
 
 ***THE BULK OF WHAT YOU NEED TO EDIT IS IN THE `FIRE()` FUNCTION***
 
 #### Firing Multiple Pellets at once
+
+The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector. We can represent this with a variable called `pelletsPerShot`.`
 
 To fire multiple pellets per shot, we can edit the line in the `Fire()` function that looks like:
 
