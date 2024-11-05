@@ -195,7 +195,7 @@ To fix this, add the end of the function after the for loop, we can add `(pellet
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
 	- Replace the generic gun script with the new shotgun script you just made.
 	- Make sure the collider is set up properly on the shotgun model.
-
+	- Make sure the shotgun script has the correct scriptable object applied to it.
 #### Making Sure it Works
 
 The shotgun should be able to be "picked up" if the player looks at it and presses the interact button.
