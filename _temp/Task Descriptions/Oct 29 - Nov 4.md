@@ -144,6 +144,11 @@ Try to be as specific as possible with your documentation. It might also be a go
 
 Check out [Weapons](<../../Documentation/Weapons/Weapons.md>) for a refresher on how weapons work in Relapse.
 
+#### Creating New Gun Information for the Shotgun
+
+The weapon system uses scriptable objects to store the more general information about guns like name, damage, fire rate.
+
+
 #### Create a New Script for The Shotgun
 
 This script should go in `_Scripts/Gun` and should be called something along the lines of 'Shotgun'.
@@ -159,10 +164,12 @@ public class Shotgun : MonoBehaviour, IGun
 
 > Honestly, you can probably start off by copying the GenericGun script and removing things. It will save you a lot of time.
 
+- The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector.
+- The shotgun should have a spread of bullets. You can change this in the 'bloom angle' field in the weapon info for the shotgun
+
 THE BULK OF WHAT YOU NEED TO EDIT IS IN THE `FIRE()` FUNCTION
 
-- The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector.
-- The shotgun should have a spread of bullets. You can change this in the ``
+
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
