@@ -144,6 +144,18 @@ Try to be as specific as possible with your documentation. It might also be a go
 
 Check out [Weapons](<../../Documentation/Weapons/Weapons.md>) for a refresher on how weapons work in Relapse.
 
+#### Create a New Script for The Shotgun
+
+This script should go in `_Scripts/Gun` and should be called something along the lines of 'Shotgun'.
+
+The script should extend from `Monobehavior` and implement the `IGun` interface.
+
+```cs
+public class Shotgun : MonoBehaviour, IGun
+{
+    // Your code here
+}
+```
 
 ## Document the Shotgun Logic
 
