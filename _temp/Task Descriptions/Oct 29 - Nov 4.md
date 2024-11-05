@@ -186,6 +186,10 @@ We can change this to a line that looks like:
 for (var i = 0; i < timesToFire * pelletsPerShot; i++)
 ```
 
+This way, we can fire multiple bullets per shot. However, this creates a new problem. This will subtract `pellersPerShot` bullets from the player's current magazine. This is not the intended behavior. We want the player to only lose one bullet from their magazine per shot.
+
+To fix this, add the end of the function after the for loop, we can add
+
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
