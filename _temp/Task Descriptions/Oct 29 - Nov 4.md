@@ -165,6 +165,9 @@ There are some fields you *should* serialize in the inspector:
 - ***Transform muzzleLocation*** - This is the location where the bullets will "spawn".
 - 
 
+#### Creating the shotgun prefab
+- Use the shotgun model located in `Prefabs/Weapons/Shotgun``
+
 ## Document the Shotgun Logic
 
 Write a word document or something describing how the shotgun works. I'll make it look better and throw it in the wiki later.
