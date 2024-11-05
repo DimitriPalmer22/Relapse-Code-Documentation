@@ -146,8 +146,14 @@ Check out [Weapons](<../../Documentation/Weapons/Weapons.md>) for a refresher on
 
 #### Creating New Gun Information for the Shotgun
 
-The weapon system uses scriptable objects to store the more general information about guns like name, damage, fire rate.
+The weapon system uses scriptable objects to store the more general information about guns like name, damage, fire rate, etc.
 
+This is done so that we can easily create new weapons without having to edit the scripts themselves.
+
+1. Create a new scriptable object in `Assets/Scriptable Objects/Gun` called `Shotgun 1`.
+2. Fill in the information for the shotgun. You can look at the pistol scriptable object for reference (or even copy over almost every field)
+3. Make sure the shotgun is semi-automatic
+4. The shotgun will use the 'Bloom Angle' variable to control its spread, so crank that value up a 
 
 #### Create a New Script for The Shotgun
 
@@ -168,7 +174,6 @@ public class Shotgun : MonoBehaviour, IGun
 - The shotgun should have a spread of bullets. You can change this in the 'bloom angle' field in the weapon info for the shotgun
 
 THE BULK OF WHAT YOU NEED TO EDIT IS IN THE `FIRE()` FUNCTION
-
 
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
