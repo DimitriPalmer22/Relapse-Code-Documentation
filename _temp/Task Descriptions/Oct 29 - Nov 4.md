@@ -157,6 +157,14 @@ public class Shotgun : MonoBehaviour, IGun
 }
 ```
 
+##### Serialized Fields
+
+There are some fields you *should* serialize in the inspector:
+
+- ***GunInformation gunInformation*** - This is a reference to the scriptable object that controls the general information for the gun.
+- ***Transform muzzleLocation*** - This is the location where the bullets will "spawn".
+- 
+
 ## Document the Shotgun Logic
 
 Write a word document or something describing how the shotgun works. I'll make it look better and throw it in the wiki later.
