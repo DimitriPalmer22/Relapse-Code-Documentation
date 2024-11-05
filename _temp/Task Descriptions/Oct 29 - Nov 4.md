@@ -171,6 +171,12 @@ There are some fields you *should* serialize in the inspector:
 	- Replace the generic gun script with the new shotgun script you just made.
 	- Make sure the collider is set up properly on the shotgun model.
 
+#### Making Sure it Works
+
+The shotgun should be able to be "picked up" if the player looks at it and presses the interact button.
+
+The shotgun should not be automatic. Make sure the player has to press and release the shoot button each time to shoot the weapon.
+
 ## Document the Shotgun Logic
 
 Write a word document or something describing how the shotgun works. I'll make it look better and throw it in the wiki later.
