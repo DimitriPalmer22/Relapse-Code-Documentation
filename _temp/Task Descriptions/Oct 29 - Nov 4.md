@@ -157,13 +157,7 @@ public class Shotgun : MonoBehaviour, IGun
 }
 ```
 
-##### Serialized Fields
-
-There are some fields you *should* serialize in the inspector:
-
-- ***GunInformation gunInformation*** - This is a reference to the scriptable object that controls the general information for the gun.
-- ***Transform muzzleLocation*** - This is the location where the bullets will "spawn".
--
+> Honestly, you can probably start off by copying the GenericGun script and removing things.
 
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
