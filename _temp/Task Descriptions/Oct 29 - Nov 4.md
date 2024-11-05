@@ -157,8 +157,11 @@ public class Shotgun : MonoBehaviour, IGun
 }
 ```
 
-> Honestly, you can probably start off by copying the GenericGun script and removing things.
+> Honestly, you can probably start off by copying the GenericGun script and removing things. It will save you a lot of time.
 
+THE BULK OF WHAT YOU DO SHOULD BE DONE IN THE FIRE FUNCTION
+
+- The shotgun should shoot multiple bullets at once. (This should be editable in the inspector)
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
