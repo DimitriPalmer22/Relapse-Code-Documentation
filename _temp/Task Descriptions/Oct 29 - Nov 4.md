@@ -168,13 +168,23 @@ public class Shotgun : MonoBehaviour, IGun
 
 > Honestly, you can probably start off by copying the GenericGun script and removing things. It will save you a lot of time.
 
-- The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector.
+- The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector. We can represent this with a variable called `pelletsPerShot`.`
 
 ***THE BULK OF WHAT YOU NEED TO EDIT IS IN THE `FIRE()` FUNCTION***
 
-###### Firing multiple pellets at once
+###### Firing Multiple Pellets at once
 
-To fire multiple pellets per shot, we can edit the 
+To fire multiple pellets per shot, we can edit the line in the `Fire()` function that looks like:
+
+```cs
+for (var i = 0; i < timesToFire; i++)
+```
+
+We can change this to a line that looks like:
+
+```cs
+for (var i = 0; i < timesToFire * pelletsPerShot; i++)
+```
 
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
