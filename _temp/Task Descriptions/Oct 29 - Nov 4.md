@@ -161,8 +161,8 @@ public class Shotgun : MonoBehaviour, IGun
 
 THE BULK OF WHAT YOU NEED TO EDIT IS IN THE `FIRE()` FUNCTION
 
-- The shotgun should shoot multiple bullets at once. (This should be editable in the inspector)
-- The shotgun should have a spread of bullets. (This should be editable in the inspector)
+- The shotgun should shoot multiple bullets at once. The number of bullets should be editable in the inspector.
+- The shotgun should have a spread of bullets. You can change this in the ``
 #### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
