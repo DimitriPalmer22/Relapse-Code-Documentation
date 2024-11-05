@@ -142,6 +142,9 @@ Try to be as specific as possible with your documentation. It might also be a go
 
 ## Create Shotgun Logic
 
+Check out [Weapons](<../../Documentation/Weapons/Weapons.md>) for a refresher on how weapons work in Relapse.
+
+
 ## Document the Shotgun Logic
 
 Write a word document or something describing how the shotgun works. I'll make it look better and throw it in the wiki later.
