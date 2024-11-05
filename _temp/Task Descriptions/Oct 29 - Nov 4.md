@@ -142,7 +142,7 @@ Try to be as specific as possible with your documentation. It might also be a go
 
 ## Create Shotgun Logic
 
-#### Creating New Gun Information for the Shotgun
+### Creating New Gun Information for the Shotgun
 
 The weapon system uses scriptable objects to store the more general information about guns like name, damage, fire rate, etc.
 
@@ -153,7 +153,7 @@ This is done so that we can easily create new weapons without having to edit the
 3. Make sure the shotgun is semi-automatic
 4. The shotgun will use the 'Bloom Angle' variable to control its spread, so crank that value up a little.
 
-#### Create a New Script for The Shotgun
+### Create a New Script for The Shotgun
 
 This script should go in `_Scripts/Gun` and should be called something along the lines of 'Shotgun'.
 
@@ -190,13 +190,13 @@ This way, we can fire multiple bullets per shot. However, this creates a new pro
 
 To fix this, add the end of the function after the for loop, we can add `(pelletsPerShot - 1) * timesToFire` back to the player's magazine.
 
-#### Creating the Shotgun Prefab
+### Creating the Shotgun Prefab
 - For this, you should be able to copy the pistol prefab and replace the model + weapon script.
 	- Use the shotgun model located in `Prefabs/Player/Guns/Shotgun_no_anim`
 	- Replace the generic gun script with the new shotgun script you just made.
 	- Make sure the collider is set up properly on the shotgun model.
 	- Make sure the shotgun script has the correct scriptable object applied to it.
-#### Making Sure it Works
+### Making Sure it Works
 
 The shotgun should be able to be "picked up" if the player looks at it and presses the interact button.
 
