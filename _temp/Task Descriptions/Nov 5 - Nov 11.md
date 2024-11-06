@@ -1,9 +1,3 @@
-<https://www.reddit.com/r/gamedev/comments/10qtoe4/what_are_some_game_design_patterns_that_you_wish/?rdt=34417>
-
-#### Scriptable Object
-
-- <https://www.youtube.com/watch?v=7jxS8HIny3Q&ab_channel=CodeMonkey>
-
 #### Research: Events In Games
 
 This is to get more information on how events are implemented in games. The goal is to understand how they are used and how they are implemented.
@@ -42,5 +36,7 @@ Each of which will reference the Game Manager to retrieve or modify the score an
 Your Game Manager should use encapsulation to keep its current score field private, providing public properties / methods to get or set these values as needed.
 
 - To be specific, the variable / field that holds the score should be private.
-- There should a public getter pro
+- There should a public getter PROPERTY to get the score.
+- There should be a public setter FUNCTION to set the score to a specific value.
 
+#### Research: Scriptable Objects
