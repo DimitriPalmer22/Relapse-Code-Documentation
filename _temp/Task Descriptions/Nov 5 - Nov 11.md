@@ -27,14 +27,15 @@ The goal is to understand how encapsulation is used in collaborative development
 
 ***Make this project inside of Unity.***
 
-Make sure to use the New Input System for this project. One of the later tasks requires it, so it's best to start using it now.
-
+Make sure to use the **New Input System** for this project. One of the later tasks requires it, so it's best to start using it now.
 
 Create a small project where you implement a `GameManager` class using the Singleton design pattern. This Game Manager will manage a simple game's score and game state. You'll also create three other classes:
 
+You should probably use your knowledge of events as well to make this project more interesting.
+
 - `Player`: health, player movement, shoot input
-- `Enemy`:
-- `UIManager`:
+- `Enemy`: health, enemy movement, update score on death
+- `UIManager`: managing a UI element that displays the score
 
 each of which will reference the Game Manager to retrieve or modify the score and check if the game is over.
 
