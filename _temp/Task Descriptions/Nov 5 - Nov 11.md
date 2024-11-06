@@ -25,8 +25,13 @@ The goal is to understand how encapsulation is used in collaborative development
 
 #### Personal Project: Singleton and Encapsulation
 
-***Make this project inside of Unity. ***
+***Make this project inside of Unity.***
 
-Create a small project where you implement a **Game Manager** class using the Singleton design pattern. This Game Manager will manage a simple game's score and game state. You'll also create three other classes: **Player**, **Enemy**, and **UIManager**, each of which will reference the Game Manager to retrieve or modify the score and check if the game is over.
+Create a small project where you implement a **Game Manager** class using the Singleton design pattern. This Game Manager will manage a simple game's score and game state. You'll also create three other classes: 
+- ****: 
+- **Enemy**:
+- **UIManager**:
+
+each of which will reference the Game Manager to retrieve or modify the score and check if the game is over.
 
 Your Game Manager should use encapsulation to keep its score and state properties private, providing public methods to get or set these values as needed.
