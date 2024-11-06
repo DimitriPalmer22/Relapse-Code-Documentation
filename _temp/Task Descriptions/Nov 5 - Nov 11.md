@@ -25,3 +25,4 @@ The goal is to understand how encapsulation is used in collaborative development
 
 #### Personal Project: Singleton and Encapsulation
 
+Make this project inside of Unity. 
