@@ -7,4 +7,7 @@
 - New Art Style: Realistic models & painted textures.
 
 #### Narrative
-- Ans
+- The problem we are having is that Shbeeb thinks the messaging we have in the game is inconsistent with the game's mechanics.
+- This is because they don't know what the fuck the message is.
+	- The message is *NOT* "Drugs are bad"
+	- The drugs in the game are more so representations of any bad things that people can get addicted to.
