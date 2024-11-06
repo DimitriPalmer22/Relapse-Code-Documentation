@@ -14,4 +14,3 @@ Weapons in Relapse …
 
 #### Scriptable Object
 
-- <https://www.youtube.com/watch?v=7jxS8HIny3Q&ab_channel=CodeMonkey>

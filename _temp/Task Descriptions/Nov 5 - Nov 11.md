@@ -40,3 +40,7 @@ Your Game Manager should use encapsulation to keep its current score field priva
 - There should be a public setter FUNCTION to set the score to a specific value.
 
 #### Research: Scriptable Objects
+
+The goal is to understand how Scriptable Objects are used in Unity games. Eventually you may need to make your own systems that you need to make your own scriptable objects for.
+
+- <https://www.youtube.com/watch?v=7jxS8HIny3Q&ab_channel=CodeMonkey>
