@@ -5,6 +5,7 @@ A list of all links for all topics covered by the documentation:
 - **[Checkpoint System](<./Checkpoint System/Checkpoint System.md>)**
 - [Controls](<./Controls.md>)
 - **[Enemies](<./Enemies/Enemies.md>)**
+	- [Enemy Patrolling](<./Enemies/Enemy Patrolling.md>)
 - **[Player](<./Player/Player.md>)**
 	- **[Movement System](<./Player/Movement System/Movement System.md>)**
 	- **[Movement System v2](<./Player/Movement System v2/Movement System v2.md>)**
