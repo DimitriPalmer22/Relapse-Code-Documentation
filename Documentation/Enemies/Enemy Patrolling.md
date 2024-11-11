@@ -1,1 +1,35 @@
 
+-  Correct header to include GDD
+-  Page count
+-  Update high concept / change content of the game to reflect it
+    -  Can make it multiple sentences
+-  Fix formatting keep consistent
+-  Avoid infinitives. Fix the sentences so they are in like a more regular form.
+-  Avoid redundancy. The mechanics don't really need to be listed
+-  We can reserve controls toward the end
+    -  We want the entire document to be in order logically. Elements that refer to other elements should be put later
+    -  We should order things in order from general to more specific. High to low level
+-  Mechanics. 
+    -  Player mechanics controlled by the player
+    -  System mechanics 
+    -  Make sure not to describe dynamics
+-  Just call the basic floor movement
+-  Locomotion vs strafing
+    -  Describe speed in specific aspects. Set velocity units over time?
+-  Fix the wall running
+    -  How we initiate the wall running based on the angle
+    -  Let it be known that these specific values can be changed with the inspector
+-  Interact system needs to be put before gunplay
+-  Un-united numbers need the number written out if they are under 10
+-  Try not to use words specific to the Unity API (like raycast) in the GDD
+-  Avoid widows and orphans. Sentences should not be split by page
+-  Avoid briefly summarizing the enemies before specifics
+-  Move the powers to the mechanics sections
+-  Avoid infinitive form when writing 
+-  List the powers as well after 
+-  Damage and death could be considered systems
+-  If we're listing things that happen in order, we would be better off using numbered lists
+-  Use betters colors for maps to make them more readable
+-  Use a consistent key between levels so that the key doesn't need to keep getting completely re-defined
+-  Lowkey, put the name of the map on the map image itself
+-  Ordering, level of detail, specification, grammar stuffs
