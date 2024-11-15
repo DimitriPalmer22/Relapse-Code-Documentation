@@ -9,10 +9,11 @@
 - Have the phones ringing when we get close to them so that they bring the player to that direction
 - Dim hallways and stuff that the player shouldn't really be going to
 - Use architecture to guide the player
+- Use a PP volume for safe rooms to make them seem safer
 
 #### Navigation Line Idea
 
-> [!Work In POro] 
+> [!Work In Progress] 
 > This is still WIP. We don't even know if we're adding this
 
 - Dead Space line
