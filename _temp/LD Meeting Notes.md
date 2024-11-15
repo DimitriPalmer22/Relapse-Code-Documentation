@@ -51,8 +51,10 @@ Use camera stacking to implement it
 - Fire escape type shit
 
 ### Dumb Stuff We Need to Fix
-- Start the player out slow, and once the player gets the regenerative drug, their speed will increase
 - Make the player slower
 - Change the UI reticle to the one Robert sent
 - Turn off the jump, sprint, and dash
 - Make a sensitivity slider so Shbeeb doesn't constantly complain about the sensitivity
+
+### Misc
+- Start the player out slow, and once the player gets the regenerative drug, their speed will increase to normal
