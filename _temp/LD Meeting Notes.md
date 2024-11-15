@@ -49,6 +49,8 @@ Use camera stacking to implement it
 - He says the hotel room configurations need to be a little more consistent. Probably have 1-3 variants of the rooms since its a hotel(?)
 	- In terms of the objects in the rooms, where props are in relation to each other should remain consistent between rooms. For example, if a bed has a dresser to the right of it in one room, then it should have a dresser to the right of it in all rooms.
 - Fire escape type shit
-- 
+
+### Dumb Stuff We Need  
 - Make the player slower
-- 
+- Change the player reticle
+- Turn off the jump, sprint, dash
