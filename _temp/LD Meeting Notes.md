@@ -30,5 +30,13 @@
 	- We have to communicate the story of the scene more clearly. How do we tell the player that the people moved out in a panic
 - More props in the rooms
 	- Lights
-	- Cieling things
-	- 
+	- Ceiling things
+	- Dedicated airflow
+	- Outlets
+	- TV (this doesn't need to be in EVERY room)
+- More stuff in bathrooms
+	- Sink
+	- Toilet paper holder
+	- Drain or something
+	- Shower head
+- 
