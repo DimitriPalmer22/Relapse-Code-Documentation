@@ -43,4 +43,7 @@
 	- Shower head
 - Trims for the floorboards
 - Is there a draw priority or something in Unity that makes important items render first? This will make it so that important objects have less artifacts on them.
-- 
+- Shbeeb said some the furniture we see in the hallway should also be found in the rooms
+- Trash cans at every intersection of the hallways
+- He says the hotel room configurations need to be a little more consistent. Probably have 1-3 variants of the rooms since its a hotel(?)
+	- In terms of the objects in the rooms, where props are in relation to each other should remain consisten
