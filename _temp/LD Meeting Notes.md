@@ -51,7 +51,7 @@ Use camera stacking to implement it
 - Fire escape type shit
 
 ### Dumb Stuff We Need to Fix
-- Start the player out slow, and once 
+- Start the player out slow, and once the player gets the regenerative drug, they 
 - Make the player slower
 - Change the UI reticle to the one Robert sent
 - Turn off the jump, sprint, and dash
