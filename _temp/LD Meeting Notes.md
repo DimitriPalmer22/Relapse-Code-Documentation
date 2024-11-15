@@ -50,7 +50,9 @@ Use camera stacking to implement it
 	- In terms of the objects in the rooms, where props are in relation to each other should remain consistent between rooms. For example, if a bed has a dresser to the right of it in one room, then it should have a dresser to the right of it in all rooms.
 - Fire escape type shit
 
-### Dumb Stuff We Need  
+### Dumb Stuff We Need to Fix
+- Start the player out slow, and once 
 - Make the player slower
-- Change the player reticle
-- Turn off the jump, sprint, dash
+- Change the UI reticle to the one Robert sent
+- Turn off the jump, sprint, and dash
+- Make a sensitivity slider so Shbeeb doesn't constantly complain about the sensitivity
