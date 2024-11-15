@@ -46,4 +46,5 @@
 - Shbeeb said some the furniture we see in the hallway should also be found in the rooms
 - Trash cans at every intersection of the hallways
 - He says the hotel room configurations need to be a little more consistent. Probably have 1-3 variants of the rooms since its a hotel(?)
-	- In terms of the objects in the rooms, where props are in relation to each other should remain consisten
+	- In terms of the objects in the rooms, where props are in relation to each other should remain consistent between rooms. For example, if a bed has a dresser to the right of it in one room, then it should have a dresser to the right of it in all rooms.
+- Fire escape type shit
