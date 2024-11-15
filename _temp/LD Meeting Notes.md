@@ -1,4 +1,4 @@
-### How does the player know where to go
+### How Does the Player Know where to Go
 - Use lighting
 - Turn off lights in the rooms the player doesn't need to go into (maybe have some light so its not in complete darkness)
 - Floor maps
@@ -7,3 +7,19 @@
 - Windows in the outer rooms
 	- Add a skybox
 - Have the phones ringing when we get close to them so that they bring the player to that direction
+
+#### Navigation Line Idea
+
+> Note: This is still WIP. We don't even know if we're adding this
+
+
+> [!NOTE] Title
+> Contents
+
+
+- Dead Space line
+- Use camera stacking to implement it
+
+##### How Do We Communicate This line to the Player?
+- Blood trail
+- Footsteps
