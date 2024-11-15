@@ -8,10 +8,11 @@
 	- Add a skybox
 - Have the phones ringing when we get close to them so that they bring the player to that direction
 - Dim hallways and stuff that the player shouldn't really be going to
+- Use architecture to guide the player
 
 #### Navigation Line Idea
 
-> [!NOTE] WIP
+> [!Work In POro] 
 > This is still WIP. We don't even know if we're adding this
 
 - Dead Space line
@@ -39,4 +40,6 @@
 	- Toilet paper holder
 	- Drain or something
 	- Shower head
+- Trims for the floorboards
+- Is there a draw priority or something in Unity that makes important items render first? This will make it so that important objects have less artifacts on them.
 - 
