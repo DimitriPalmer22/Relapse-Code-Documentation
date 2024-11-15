@@ -13,16 +13,15 @@
 
 #### Navigation Line Idea
 
-> [!Work In Progress] 
-> This is still WIP. We don't even know if we're adding this
+***This is still WIP. We don't even know if we're adding this. But, if we did, it would be something like…***
 
-- Dead Space line
-- Use camera stacking to implement it
+*Think of the navigation line in Dead Space*
+
+Use camera stacking to implement it
 
 ##### How Do We Communicate This line to the Player?
 - Blood trail
 - Footsteps
-
 
 ### More Shbeeb Criticisms
 - Scale down some of the props.
