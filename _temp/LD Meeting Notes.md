@@ -1,7 +1,8 @@
 ### How Does the Player Know where to Go
 - Use lighting & PP volumes n stuff
 - Turn off lights in the rooms the player doesn't need to go into (maybe have some light so its not in complete darkness)
-- Floor maps
+- Floor maps next to elevators / stairs
+	- We could add a map to the pause menu
 - Floor level indicators
 - Room number indicators
 - Windows in the outer rooms
