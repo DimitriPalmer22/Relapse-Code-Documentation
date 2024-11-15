@@ -22,4 +22,13 @@
 - Footsteps
 
 
-### 
+### More Shbeeb Criticisms
+- Scale down some of the props.
+- He said "we have to think about how the items got in that space"
+	- Like the couch not fitting through the door
+- The placement of props need to be more intentional
+	- We have to communicate the story of the scene more clearly. How do we tell the player that the people moved out in a panic
+- More props in the rooms
+	- Lights
+	- Cieling things
+	- 
