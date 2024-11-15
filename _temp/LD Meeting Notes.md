@@ -2,7 +2,8 @@
 - Use lighting & PP volumes n stuff
 - Turn off lights in the rooms the player doesn't need to go into (maybe have some light so its not in complete darkness)
 - Floor maps next to elevators / stairs
-	- We could add a map to the pause menu
+	- We *could* add a map to the pause menu (Resident Evil)
+	- We *could* also make the map an in-game item (Silent Hill)
 - Floor level indicators
 - Room number indicators
 - Windows in the outer rooms
