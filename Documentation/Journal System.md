@@ -1,2 +1,4 @@
 - Interactable objects throughout the level
-- When the player interacts with them, 
+- When the player interacts with them, a page appears on the screen
+	- The page will have text on it
+- The journal will be update
