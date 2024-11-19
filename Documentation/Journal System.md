@@ -1,4 +1,4 @@
 - Interactable objects throughout the level
-- When the player interacts with them, a page appears on the screen
-	- The page will have text on it
+- These objects will be ambiguous glowing BALLS (just so we don't have to model all the special items)
+- When the player interacts with them, an image / drawing of it will pop up w/ a 
 - The journal will be update
