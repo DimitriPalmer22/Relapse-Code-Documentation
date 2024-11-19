@@ -1,0 +1,2 @@
+- Interactable objects throughout the level
+- When the player interacts with them, 
