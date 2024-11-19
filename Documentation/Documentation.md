@@ -10,6 +10,7 @@ A list of all links for all topics covered by the documentation:
 	- **[Movement System](<./Player/Movement System/Movement System.md>)**
 	- **[Movement System v2](<./Player/Movement System v2/Movement System v2.md>)**
 - **[Powers](<./Powers/Powers.md>)**
+- [Untitled](<./Untitled.md>)
 - **[Weapons](<./Weapons/Weapons.md>)**
 
 %% End Waypoint %%
