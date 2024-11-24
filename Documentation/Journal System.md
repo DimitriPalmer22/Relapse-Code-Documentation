@@ -8,3 +8,4 @@
 - Image of the object
 - Title of the object
 - Longer lore-related description of the object
+
