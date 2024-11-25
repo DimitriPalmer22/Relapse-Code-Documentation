@@ -80,6 +80,13 @@ for (int i = 0; i < NodeList.Length; i++)
 ```
 
 Hashset
-- https://www.youtube.com/watch?v=XkRke_5_TFs&ab_channel=TeddySmith
-- https://www.youtube.com/watch?v=xP7F8DmYNNg&ab_channel=C%23interviewquestions
 
+- <https://www.youtube.com/watch?v=XkRke_5_TFs&ab_channel=TeddySmith>
+- <https://www.youtube.com/watch?v=xP7F8DmYNNg&ab_channel=C%23interviewquestions>
+
+Stacks
+- https://www.youtube.com/watch?v=KInG04mAjO0&ab_channel=BroCode
+- https://www.youtube.com/watch?v=HXt-q8bMeP4&ab_channel=tutorialsEU-C%23
+
+Queues
+- 
