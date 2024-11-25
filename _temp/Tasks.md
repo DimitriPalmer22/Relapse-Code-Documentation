@@ -78,3 +78,8 @@ for (int i = 0; i < NodeList.Length; i++)
 }
 
 ```
+
+Hashset
+- https://www.youtube.com/watch?v=XkRke_5_TFs&ab_channel=TeddySmith
+- https://www.youtube.com/watch?v=xP7F8DmYNNg&ab_channel=C%23interviewquestions
+
