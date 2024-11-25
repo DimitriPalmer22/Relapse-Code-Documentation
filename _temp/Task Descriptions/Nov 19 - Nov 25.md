@@ -39,22 +39,41 @@ You will build a C# console application that allows users to:
 ### **Step-by-Step Instructions**
 
 1. **Set Up the Project**:
-    
-    - Create a new console project in Visual Studio or your favorite C# IDE.
-    - Name the project `TaskManager`.
-2. **Create a `TaskManager` Class**:  
-    This class should have the following responsibilities:
-    
-    - Manage the list of tasks using a `HashSet<string>`.
-    - Provide methods to add tasks, mark tasks as completed, and view tasks.
-3. **Create a `TaskHistory` Class**:  
-    This class should:
-    
-    - Use a `Stack<string>` to track completed tasks for undo functionality.
-    - Provide methods to mark tasks as completed and undo task completion.
-4. **Create a `UrgentTaskManager` Class**:  
-    This class should:
-    
-    - Use a `Queue<string>` to manage urgent tasks.
-    - Provide methods to add urgent tasks and process them in order.
 
+	- Create a new console project in Visual Studio or your favorite C# IDE.
+	- Name the project `TaskManager`.
+2. **Create a `TaskManager` Class**:
+	This class should have the following responsibilities:
+
+	- Manage the list of tasks using a `HashSet<string>`.
+	- Provide methods to add tasks, mark tasks as completed, and view tasks.
+3. **Create a `TaskHistory` Class**:
+	This class should:
+
+	- Use a `Stack<string>` to track completed tasks for undo functionality.
+	- Provide methods to mark tasks as completed and undo task completion.
+4. **Create a `UrgentTaskManager` Class**:
+	This class should:
+
+	- Use a `Queue<string>` to manage urgent tasks.
+	- Provide methods to add urgent tasks and process them in order.
+
+### **Implementation Details**
+
+#### **Main Program Workflow**
+
+1. Display a menu with the following options:
+
+2. Add a task
+3. View all tasks
+4. Mark a task as completed
+5. Undo last completed task
+6. Add an urgent task
+7. Process urgent task
+8. Exit
+
+### **Expected Learning Outcomes**
+
+- Understand **when** and **how** to use `HashSet`, `Stack`, and `Queue`.
+- Practice following the **Single Responsibility Principle** by modularizing functionality into distinct classes.
+- Develop a console application that integrates multiple data structures and operations.
