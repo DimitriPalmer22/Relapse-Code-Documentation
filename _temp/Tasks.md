@@ -89,4 +89,5 @@ Stacks
 - https://www.youtube.com/watch?v=HXt-q8bMeP4&ab_channel=tutorialsEU-C%23
 
 Queues
-- 
+- https://www.youtube.com/watch?v=4MQwKvsGCms&pp=ygUIYyMgcXVldWU%3D
+- https://www.youtube.com/watch?v=nqXaPZi99JI&t=109s&pp=ygUIYyMgcXVldWU%3D
