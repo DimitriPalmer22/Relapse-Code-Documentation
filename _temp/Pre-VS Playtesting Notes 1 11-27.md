@@ -3,12 +3,13 @@
 ## General Notes
 - The player starts with powers, but they're not supposed to. I'll fix this in the prefab.
 - Get rid of ALL the on-screen UI elements that are on the gauntlet
-- The player's speed needs to be lowered
+- Do we feel good about the new player movement speed? Also, I kept sprinting on cuz I think slowing the player down AND not letting them sprint feels bad, but lmk.
+- The placeholder enemies need to be replaced. But first, a prefab needs to be made. I'll do this.
+### Model Issues
 - Replace the old chairs w/ the new, textured one.
 - Same with the tables.
 - Same with any bottles
 - Same with any couches
-- The placeholder enemies need to be replaced. But first, a prefab needs to be made. I can do this.
 
 ## 4th Floor
 - FIX THE FLOOR COLLIDERS. The player be bouncin n shit
