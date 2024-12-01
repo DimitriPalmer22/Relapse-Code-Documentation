@@ -1,16 +1,18 @@
-# Pre-VS Playtesting Notes 2 12-01
+# Pre-VS Playtesting Notes 2: 12-01
 
 ## General Notes
 - I built the game before playing.
 - The loading bar on the main menu works btw. Its only laggy in the editor :/
-- FPS is *playable* for most of the level. FPS feels the best in Alex's level. 
+- FPS is *playable* for most of the level. FPS feels the best in Alex's level.
 	- By *playable* I mean it's in the 25-60 on my laptop.
 	- I can see what I can do about this.
 - IN CASE THE PLAYER FALLS OUT THE MAP, a kill collider needs to be added to the bottom of the level.
 - The staircase needs to be fully covered and not exposed to the void
 - The new wardrobes need colliders
 - We might need to change the color of the keycard prefab. It makes it a little too difficult to see with the interactable material.
-- The keycard reader needs a material
+- The keycard reader:
+	- needs a material
+	- needs the interactable material
 ### Occlusion Culling
 - If possible, the debris objects should not be set as occluders because it causes too many artifacts with the occlusion culling.
 - Some of the rooms are messed up in terms of occlusion culling and idk why.
@@ -58,4 +60,4 @@
 ## After Floor 2
 - Andre's level section needs to be added to the end of Alex's level
 - Mikel's lobby needs to be added after that.
-- If for some reason we cannot add Andre's portion of the level, we just have the end of Alex's level lead into Mikel's level
+- If for some reason we cannot add Andre's portion of the level, we can have the end of Alex's level lead into Mikel's level
