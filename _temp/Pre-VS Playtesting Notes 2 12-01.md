@@ -34,7 +34,8 @@
 	- We won't have enough lore items before VS to have this many. For VS, we are planning to have 1 pickup. We can add them back later though. 
 	- Also, there's a prefab called "MinorMemory", which you should be using for these pickups. All you would need to do for these is create / edit a scriptable object & drag it in.
 - The door for the room in Brian's level where the keycard USED TO BE needs a collider. The player can walk through it and fall out of the map.
-- We need elevator buttons.
+- We need an elevator buttons model.
+	- Then, we need to replace the block that's next to the elevators
 
 ## 3rd Floor
 - We need elevator buttons
