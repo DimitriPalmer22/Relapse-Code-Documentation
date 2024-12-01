@@ -29,19 +29,19 @@
 - A lot of those lore pickups Brian on his level has that are just squares need to be disabled. 
 	- We won't have enough lore items before VS to have this many. For VS, we are planning to have 1 pickup. We can add them back later though. 
 	- Also, there's a prefab called "MinorMemory", which you should be using for these pickups. All you would need to do for these is create / edit a scriptable object & drag it in.
-- The door in Brian's level where the keycard USED TO BE needs a collider. The player can walk through it and fall out of the map.
-- We need elevator buttons
+- The door for the room in Brian's level where the keycard USED TO BE needs a collider. The player can walk through it and fall out of the map.
+- We need elevator buttons.
 
 ## 3rd Floor
 - We need elevator buttons
 - In the area that has the elevators, there's a floating bucket that looks out of place
-- The phone may need to be moved back to the table idk
+- The phone may need to be moved back to the table idk. It probably won't matter when we add the interactable material + the phone sounds.
 - The elevators are marked as static, so they wont visibly open when we use the keycard. We *can* still go through it, though
 - The elevator hole needs to be bigger 
 - We need a light inside the elevator shaft
 
 ## Floor 2
-- Noticeable FPS jump in this floor
+- Noticeable FPS jump in this floor for some reason.
 - I need to make a script that makes the syringe on the table give you your sprinting and jumping back.
 - We'll put this script on the big ass syringe on the table
 	- Speaking of this syringe, it needs to be scaled down and needs the interactable material on it
