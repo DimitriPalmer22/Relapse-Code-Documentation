@@ -1,9 +1,11 @@
 # Pre-VS Playtesting Notes 2 12-01
 
 ## General Notes
-- I built the game before playing btw
+- I built the game before playing.
 - The loading bar on the main menu works btw. Its only laggy in the editor :/
-- FPS is *playable* for most of the level. FPS feels the best in Alex's level. By *playable* I mean it's in the 25-60 on my laptop.
+- FPS is *playable* for most of the level. FPS feels the best in Alex's level. 
+	- By *playable* I mean it's in the 25-60 on my laptop.
+	- I can see what I can do about this.
 - IN CASE THE PLAYER FALLS OUT THE MAP, a kill collider needs to be added to the bottom of the level.
 - The staircase needs to be fully covered and not exposed to the void
 - The new wardrobes need colliders
@@ -51,8 +53,9 @@
 	- needs the vendor script
 	- needs the interactable material
 - Phone is floating above the table
-- The door at the end of the level is misaligned with the staircase
+- The door at the end of the level is misaligned with the staircase.
 
+## After Floor 2
 - Andre's level section needs to be added to the end of Alex's level
 - Mikel's lobby needs to be added after that.
 - If for some reason we cannot add Andre's portion of the level, we just have the end of Alex's level lead into Mikel's level
