@@ -21,14 +21,14 @@
 - Both vendors need to be interactable and have their corresponding vendor information
 
 ## 4th Floor
-- The lesion enemy that's currently in this level needs to be replaced by the new prefab. (It has melee in its name, so u can just search that up to find it)
-- The fat enemies need to be replaced by the new 
+- The lesions enemy that's currently in this level needs to be replaced by the new prefab. (It has melee in its name, so u can just search that up to find it)
+- The fat enemies need to be replaced by the new lesions enemy
 - There's a wardrobe blocking the little hallway between the gun room and the phone room. 
 
 ## 5th Floor
 - A lot of those lore pickups Brian on his level has that are just squares need to be disabled. 
-- We won't have enough lore items before VS to have this many. 
-	- Also, there's a prefab called MinorMemory, which you should be using for these pickups
+	- We won't have enough lore items before VS to have this many. For VS, we are planning to have 1 pickup. We can add them back later though. 
+	- Also, there's a prefab called "MinorMemory", which you should be using for these pickups. All you would need to do for these is create / edit a scriptable object & drag it in.
 - The door in Brian's level where the keycard USED TO BE needs a collider. The player can walk through it and fall out of the map.
 - We need elevator buttons
 
