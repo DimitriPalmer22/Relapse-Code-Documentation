@@ -41,11 +41,14 @@
 ## 3rd Floor
 - We need elevator buttons
 - In the area that has the elevators, there's a floating bucket that looks out of place
-- The phone may need to be moved back to the table idk. It probably won't matter when we add the interactable material + the phone sounds.
-- The elevators are marked as static, so they wont visibly open when we use the keycard. We *can* still go through it, though
+- The phone may need to be moved back to the table idk.
+	- It probably won't matter when we add the interactable material + the phone sounds.
+- The elevators are marked as static, so they wont visibly open when we use the keycard.
+	- We *can* still go through it, though, so it isn't game-breaking
 - The elevator hole needs to be bigger 
 - We need a light inside the elevator shaft
 - The elevator access keycard on Aiden's level needs to be replaced with the actual keycard model
+- IM GETTING LIKE 5 FPS IN THE ELEVATOR AREA FOR AIDEN'S LEVEL
 
 ## Floor 2
 - Noticeable FPS jump in this floor for some reason.
