@@ -8,6 +8,7 @@
 - The staircase needs to be fully covered and not exposed to the void
 - The new wardrobes need colliders
 - We might need to change the color of the keycard prefab. It makes it a little too difficult to see with the interactable material.
+- The keycard reader needs a material
 ### Occlusion Culling
 - If possible, the debris objects should not be set as occluders because it causes too many artifacts with the occlusion culling.
 - Some of the rooms are messed up in terms of occlusion culling and idk why.
@@ -21,8 +22,8 @@
 
 ## 4th Floor
 - The lesion enemy that's currently in this level needs to be replaced by the new prefab. (It has melee in its name, so u can just search that up to find it)
+- The fat enemies need to be replaced by the new 
 - There's a wardrobe blocking the little hallway between the gun room and the phone room. 
-- The keycard reader needs a material
 
 ## 5th Floor
 - A lot of those lore pickups Brian on his level has that are just squares need to be disabled. 
@@ -33,7 +34,7 @@
 
 ## 3rd Floor
 - We need elevator buttons
-- In the area that has the elevators, theres a floating bucket that looks out of place
+- In the area that has the elevators, there's a floating bucket that looks out of place
 - The phone may need to be moved back to the table idk
 - The elevators are marked as static, so they wont visibly open when we use the keycard. We *can* still go through it, though
 - The elevator hole needs to be bigger 
