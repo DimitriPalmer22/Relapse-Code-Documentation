@@ -45,6 +45,7 @@
 - The elevators are marked as static, so they wont visibly open when we use the keycard. We *can* still go through it, though
 - The elevator hole needs to be bigger 
 - We need a light inside the elevator shaft
+- The elevator access keycard on Aiden's level needs to be replaced with the actual keycard model
 
 ## Floor 2
 - Noticeable FPS jump in this floor for some reason.
