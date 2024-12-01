@@ -13,6 +13,7 @@
 - The keycard reader:
 	- needs a material
 	- needs the interactable material
+- Vendor idle animations need to be added
 ### Occlusion Culling
 - If possible, the debris objects should not be set as occluders because it causes too many artifacts with the occlusion culling.
 - Some of the rooms are messed up in terms of occlusion culling and idk why.
