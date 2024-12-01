@@ -1,4 +1,4 @@
-# Pre-VS Playtesting Notes 1 11-27
+# Pre-VS Playtesting Notes 1 11-27# Pre-VS Playtesting Notes 1 11-27
 
 ## General Notes
 - The player starts with powers, but they're not supposed to. I'll fix this in the prefab.
