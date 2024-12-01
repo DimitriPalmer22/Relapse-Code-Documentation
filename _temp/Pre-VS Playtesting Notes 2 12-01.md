@@ -42,11 +42,14 @@
 
 ## Floor 2
 - Noticeable FPS jump in this floor for some reason.
-- I need to make a script that makes the syringe on the table give you your sprinting and jumping back.
+- I (Dimitri) need to make a script that gives you your sprinting and jumping back.
 - We'll put this script on the big ass syringe on the table
-	- Speaking of this syringe, it needs to be scaled down and needs the interactable material on it
-- The doctor needs to be scaled down a little. Bro's ginormous
-- The doctor also needs to be interactable
+	- Speaking of this syringe, it might need to be scaled down.
+	- It also needs the interactable material on it
+- The doctor:
+	- needs to be scaled down a little. Bro has LeBron genetics.
+	- needs the vendor script
+	- needs the interactable material
 - Phone is floating above the table
 - The door at the end of the level is misaligned with the staircase
 
