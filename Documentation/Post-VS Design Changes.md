@@ -11,10 +11,14 @@ We are changing the art style.
 ### VFX
 - Think NFS Unbound
 - 2D graphic novel / comic art
-	- Think speech bubbles, impact effects, ect
+- Think speech bubbles, impact effects, etc.
 
 ## New Workflow
 
+***We don't have an actual new workflow rn.***
+
+> [!Important]
+> NO MORE HI-POLYS. It makes everything slower for the design team. A
 
 # Mechanics
 
