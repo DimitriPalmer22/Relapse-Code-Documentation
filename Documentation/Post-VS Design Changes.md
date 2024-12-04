@@ -57,7 +57,13 @@ We want each weapon to define a playstyle:
 
 With all this said, though, we know the player is going to play how they want. These are just how we are intending the design to be.
 
-The player has the oppor
+The player has the opportunity to get a new weapon in each level.
+- The player can only have 1 weapon at a time.
+- The player is forced to pick up the pistol in the 1st level.
+- In the second level, the SMG is introduced and they have the option to pick it up.
+- The third level has the shotgun.
+- In the 2nd and 3rd level, we will have areas where the player can choose to use a previous weapon. 
+	- Maybe include this as a part of the dealer's shop? It makes sense for a dealer to have 
 
 ## Powers
 
