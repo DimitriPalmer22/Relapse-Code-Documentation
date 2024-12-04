@@ -25,6 +25,31 @@ We are changing the art style.
 	- Instead, the bubbles will be separated into 2 different layers for foreground and background. The background will stay stationary, but the foreground PNG will be animated via the Unity animator.
 - We need 2D VFX for using the powers.
 
+### Player Animations
+- We are completely scrapping each hand operating independently. It looks too awkward.
+	- There's no way to naturally do this while showing the UI at the same time.
+- Use both hands to hold the gun por favor.
+- The left hand will transition from the gun to the power charge animation when the player uses the power.
+	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
+- Remove the syringe from the top side of the player's hand. Having something hang from an appendage is a little weird.
+- Instead, near the elbow (remember, the palm is facing upward), we will have all 4(?) power vials to indicate which powers the player currently has equipped.
+	- The vials drain when the player uses the power.
+	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes for the powers. The gauntlet uses vials to administer the powers.
+	- Also, we need to have some type of tube to convey that the tubes are draining into the player's system.
+- We need to add a camera shake for when the player gets hit.
+- Right now we have no way to convey to the player how charged the power is.
+	- When the player is actively charging the power, they'll have one animation. Maybe like an open hand. The hand is open, but tense.
+	- When the power is fully charged, the player will have a closed fist. It should also shake a lil bit.
+	- When the player uses the power, they will release their clenched fist.
+	- Keep in mind, the palm is still facing upward in all these motions so that the UI is still visible.
+- We are now gonna use both hands to reload. Powers are disabled while reloading.
+- Gun recoil animation
+- While the player is relapsing, shake the left hand.
+
+### Enemy Animations
+- Idle animation LOOP. it has to seamlessly loop
+- Transiti
+
 ## New ART Workflow
 
 We don't have an actual new workflow solidified right not, but we're planning to have specific people only work on specific things.
@@ -152,27 +177,6 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 
 ### Dynamic Post-Processing VFX
 - Chromatic Aberration heartbeat effect for the Mindbreaks
-
-### Animations
-- We are completely scrapping each hand operating independently. It looks too awkward.
-	- There's no way to naturally do this while showing the UI at the same time.
-- Use both hands to hold the gun por favor.
-- The left hand will transition from the gun to the power charge animation when the player uses the power.
-	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
-- Remove the syringe from the top side of the player's hand. Having something hang from an appendage is a little weird.
-- Instead, near the elbow (remember, the palm is facing upward), we will have all 4(?) power vials to indicate which powers the player currently has equipped.
-	- The vials drain when the player uses the power.
-	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes for the powers. The gauntlet uses vials to administer the powers.
-	- Also, we need to have some type of tube to convey that the tubes are draining into the player's system.
-- We need to add a camera shake for when the player gets hit.
-- Right now we have no way to convey to the player how charged the power is.
-	- When the player is actively charging the power, they'll have one animation. Maybe like an open hand. The hand is open, but tense.
-	- When the power is fully charged, the player will have a closed fist. It should also shake a lil bit.
-	- When the player uses the power, they will release their clenched fist.
-	- Keep in mind, the palm is still facing upward in all these motions so that the UI is still visible.
-- We are now gonna use both hands to reload. Powers are disabled while reloading.
-- Gun recoil animation
-- While the player is relapsing, shake the left hand.
 
 ## Auditory
 -
