@@ -157,7 +157,13 @@ The powers need to be much more dynamic in how the player uses them to play the 
 
 ## Enemies
 
-Enemies can be defined by two components: moevm
+Enemies can be defined by two components: movement behavior & attacking behavior.
+
+### Movement Behavior
+
+- Patrolling
+- Stationary
+- 
 
 # Designers
 
