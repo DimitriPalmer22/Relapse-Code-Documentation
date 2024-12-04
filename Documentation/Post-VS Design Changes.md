@@ -154,6 +154,8 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 - Chromatic Aberration heartbeat effect for the Mindbreaks
 
 ### Animations
--
+- We are completely scrapping each hand operating independently. It looks too awkward. 
+	- There's no way to naturally do this while showing the UI at the same time.
+- 
 ## Auditory
 -
