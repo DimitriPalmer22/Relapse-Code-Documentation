@@ -143,6 +143,10 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - Any screen overlays
 	- Low health screen overlay
 
+### Dynamic Post-Processing VFX
+- Chromatic Aberration
+
+
 ### Animations
 -
 ## Auditory
