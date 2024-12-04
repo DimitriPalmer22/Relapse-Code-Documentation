@@ -124,6 +124,10 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - 2D Animated muzzle flash effects
 - 2D Animated bullet hit effects
 	- Maybe some blood splatter?
-- 
+- Any screen overlays
+	- Low health screen overlay
+
+### Animations
+-
 ## Auditory
 -
