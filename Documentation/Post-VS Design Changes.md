@@ -156,6 +156,11 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 ### Animations
 - We are completely scrapping each hand operating independently. It looks too awkward. 
 	- There's no way to naturally do this while showing the UI at the same time.
+- Use both hands to hold the gun por favor.
+- The left hand will transition from the gun to the power charge animation when the player uses the power.
+	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
+- 
+- We need to add a camera shake for when the player gets hit.
 - 
 ## Auditory
 -
