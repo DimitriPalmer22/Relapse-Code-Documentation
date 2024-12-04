@@ -15,7 +15,7 @@ We are changing the art style.
 
 ## New Workflow
 
-***We don't have an actual new workflow rn solidified. But we're plann***
+***We don't have an actual new workflow rn solidified. But we're planning to have specific people only work on specific things. I.E. 1 person for texturing, 1 for hardsurface modeling***
 
 > [!Important]
 > NO MORE HI-POLYS. It makes everything slower for the design team. Also, If you're gonna do a high to low poly, keep the naming convention the same.
@@ -23,11 +23,15 @@ We are changing the art style.
 ## NAMING CONVENTIONS
 Make sure the names are consistent
 
-ObjectType_Asset
+ObjectTypePrefix_AssetName_Iteration
 
-| ObjectType_Asset | Naming Convention |
-| ---------------- | ----------------- |
-|                  |                   |
+- For example, the first version of a texture called RoofTiles would be named like: *T_RoofTiles_01*.
+	- The only exception 
+
+
+|     | Naming Convention |
+| --- | ----------------- |
+|     |                   |
 
 # Mechanics
 
