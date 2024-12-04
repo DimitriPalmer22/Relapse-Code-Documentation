@@ -115,7 +115,8 @@ The powers need to be much more dynamic in how the player uses them to play the 
 
 ### Power Ideas
 - A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
-- Blink like dishonor
+- Blink like Dishonored or that one guy in [Valorant](<#Valorant>)
+- Put down a mine
 
 ## Movement
 
@@ -199,3 +200,5 @@ Literally every hero shooter.
 
 ## Fragpunk
 - Hollowpoint's ability in Fragpunk is a good example of what we want the power VFX to look like.
+## Valorant
+- <https://www.youtube.com/watch?v=0s97LxpDz48&ab_channel=DiamondLobbyValorant>
