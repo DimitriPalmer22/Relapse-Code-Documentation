@@ -159,10 +159,11 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 - Use both hands to hold the gun por favor.
 - The left hand will transition from the gun to the power charge animation when the player uses the power.
 	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
-- Remove the syringe from the top side of the player's hand. Having something hand from an appendage is a little weird.
-- Instead, near the elbow, we will have all 4(?) power vials that the player currently has equipped.
-	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes. The gauntlet uses vials to administer the powers.
-	- Also, we need to have some type of tube to conve
+- Remove the syringe from the top side of the player's hand. Having something hang from an appendage is a little weird.
+- Instead, near the elbow (remember, the palm is facing upward), we will have all 4(?) power vials to indicate which powers the player currently has equipped.
+	- The vials drain when the player uses the power.
+	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes for the powers. The gauntlet uses vials to administer the powers.
+	- Also, we need to have some type of tube to convey that the tubes are draining into the player's system.
 - We need to add a camera shake for when the player gets hit.
 -
 ## Auditory
