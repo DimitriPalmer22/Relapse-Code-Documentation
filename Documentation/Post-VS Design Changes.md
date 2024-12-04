@@ -170,7 +170,8 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 	- When the power is fully charged, the player will have a closed fist. It should also shake a lil bit.
 	- When the player uses the power, they will release their clenched fist.
 	- Keep in mind, the palm is still facing upward in all these motions so that the UI is still visible.
-- 
+- We are now gonna use both hands to reload. Powers are disabled while reloading.
+- Gun recoil animation
 
 ## Auditory
 -
