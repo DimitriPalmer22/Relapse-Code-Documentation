@@ -63,6 +63,11 @@ Before we even start the favelas, we need to create some sort of test level that
 - This is done so we know the design intentions from the beginning.
 
 Restrict the creative freedom when it comes to individual areas between the levels.
+
 - Periodic level revision to keep things coherent and cohesive.
+
+Maintain a staggered schedule between the lead designer and the rest of the designers. Mikel is gonna be like a week ahead in terms of the work that needs to be done for level so that he can lead by example.
+
+- This, paired the regular check-ins, will help keep the team on track.
 
 
