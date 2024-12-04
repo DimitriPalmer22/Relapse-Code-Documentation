@@ -179,7 +179,8 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 - Combat needs to be engaging and challenging
 - Introduce the enemies and their mechanics in a way that the player can learn how to fight them. Then, ramp up the difficulty. Then, mix them together.
 	- Half Life 2 did this well apparently
-	- We'll have a small arena with 1 enemy in it. That enemy will have further range than normal so that the player can learn how to recognize the enemy
+	- We'll have a small arena with 1 enemy in it. That enemy will have further range than normal so that the player can learn how to recognize the enemy and how to fight it.
+	- We can also have a small arena with a few of the new enemy in it.
 # Designers
 
 ## New Workflow
