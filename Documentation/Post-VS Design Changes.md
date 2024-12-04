@@ -46,9 +46,14 @@ ObjectTypePrefix_AssetName_Iteration
 
 We have to revisit what we want each gun to do for the player. As of right now, they all do the same thing: Shoot and kill the monster.
 
-Pistol: Accurate, low damage
-Shotgun: Knockback, high damage
-SMG: Fast fire rate, low damage, low accuracy
+We want each weapon to define a playstyle:
+
+- Pistol: Accurate, low damage
+	- More methodical playstyle. The player needs to be more precise with their shots.
+- Shotgun: Knockback, high damage
+- SMG: Fast fire rate, low damage, low accuracy, really really good for short range damage.
+	- More run-and-gun playstyle. The player needs to be more aggressive with their shots & has to be constantly agg
+
 ## Powers
 
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
