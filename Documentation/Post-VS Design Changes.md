@@ -32,10 +32,10 @@ ObjectTypePrefix_AssetName_Iteration
 
 | Object Type     | Prefix |
 | --------------- | ------ |
-| Texture         | Tex    |
+| Texture         | Txtr   |
 | Low Poly Model  | LowP   |
-| High Poly Model | HiP    |
-|                 |        |
+| High Poly Model | HigP   |
+| Animation       | Anim   |
 
 
 # Mechanics
