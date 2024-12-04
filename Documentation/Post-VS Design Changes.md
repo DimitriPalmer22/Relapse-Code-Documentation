@@ -50,9 +50,12 @@ We want each weapon to define a playstyle:
 
 - Pistol: Accurate, low damage
 	- More methodical playstyle. The player needs to be more precise with their shots.
-- Shotgun: Knockback, high damage
 - SMG: Fast fire rate, low damage, low accuracy, really really good for short range damage.
-	- More run-and-gun playstyle. The player needs to be more aggressive with their shots & has to be constantly agg
+	- More run-and-gun playstyle. The player needs to be more aggressive with their shots & has to be constantly aggressive with the enemies to use it effectively.
+- Shotgun: Knockback, high damage. Less range than the pistol, but more than the SMG.
+	- More of a defensive playstyle. The player needs to be more strategic with their shots. We want the enemies to come towards you with the shotgun vs. actively seeking them out with the SMG.
+
+With all this said, though, we know the player is going to play 
 
 ## Powers
 
