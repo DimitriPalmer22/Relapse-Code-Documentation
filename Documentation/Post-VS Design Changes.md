@@ -58,4 +58,11 @@ ObjectTypePrefix_AssetName_Iteration
 ## New Workflow
 
 Before we even start the favelas, we need to create some sort of test level that reflects how we want the real level to play.
-- For instance, if we want a variety of wall-running and dashing 
+
+- For instance, if we want a variety of wall-running and dashing sections, the test level should reflect that.
+- This is done so we know the design intentions from the beginning.
+
+Restrict the creative freedom when it comes to individual areas between the levels.
+- Periodic level revision to keep things coherent and cohesive.
+
+
