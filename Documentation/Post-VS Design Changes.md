@@ -80,7 +80,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - Add juice somewhere
 - SFX, VFX
 
-# Enemies
+## Enemies
 
 # Designers
 
@@ -111,3 +111,12 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 
 - Instead, organize the hierarchy by the type of objects.
 - For example, use an empty game object called "Props" and then put all the props under there (not as a child, but literally under it)
+
+# Juice
+
+## Visual
+- 2D Animated tooltips
+- 2D Animated drug effects
+- 2D Animated gun shooting effect
+## Auditory
+-
