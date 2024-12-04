@@ -159,7 +159,7 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 - Use both hands to hold the gun por favor.
 - The left hand will transition from the gun to the power charge animation when the player uses the power.
 	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
-- 
+- Remove the syringe from the top side of the player's hand. Having something that
 - We need to add a camera shake for when the player gets hit.
 - 
 ## Auditory
