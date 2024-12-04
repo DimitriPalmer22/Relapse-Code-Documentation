@@ -112,6 +112,11 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - Instead, organize the hierarchy by the type of objects.
 - For example, use an empty game object called "Props" and then put all the props under there (not as a child, but literally under it)
 
+## What even is a Level Fr
+
+- We need areas in the levels that cater to the game's mechanics. Fuck ludonarrative dissonance
+- For example, we NEED arena sections where the player NEEDS to fight the enemies with their guns and powers to progress.
+
 # Juice
 
 ## Visual
