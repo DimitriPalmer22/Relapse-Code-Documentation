@@ -161,7 +161,8 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 	- The left hand animations will keep the palm facing up so that the diegetic UI will still be on-screen
 - Remove the syringe from the top side of the player's hand. Having something hand from an appendage is a little weird.
 - Instead, near the elbow, we will have all 4(?) power vials that the player currently has equipped.
-	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes. The gauntlet uses vials to a
+	- As a matter of fact, we need to redo the syringe images Robert made. The player is NOT using syringes. The gauntlet uses vials to administer the powers.
+	- Also, we need to have some type of tube to conve
 - We need to add a camera shake for when the player gets hit.
 -
 ## Auditory
