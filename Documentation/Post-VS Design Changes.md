@@ -115,8 +115,15 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 # Juice
 
 ## Visual
+
+### 2D VFX
 - 2D Animated tooltips
-- 2D Animated drug effects
-- 2D Animated gun shooting effect
+- 2D Animated power effects
+	- When using the power
+	- When a power comes into contact with a surface of game object
+- 2D Animated muzzle flash effects
+- 2D Animated bullet hit effects
+	- Maybe some blood splatter?
+- 
 ## Auditory
 -
