@@ -17,7 +17,8 @@ We are changing the art style.
 
 ## New Workflow
 
-***We don't have an actual new workflow rn solidified. But we're planning to have specific people only work on specific things. I.E. 1 person for texturing, 1 for hardsurface modeling***
+***We don't have an actual new workflow solidified right not, but we're planning to have specific people only work on specific things.
+	For example, 1 person for texturing, 1 for hard-surface modeling***
 
 > [!Important]
 > NO MORE HI-POLYS. It makes everything slower for the design team. Also, If you're gonna do a high to low poly, keep the naming convention the same.
