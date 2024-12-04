@@ -170,8 +170,11 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 ### Attack Behavior
 - Melee - Play melee attack animation
-- Ranged - 
-- 
+- Ranged - Fire a projectile at the player w/ a shooting animation
+- AOE - Play an AOE animation
+- Charge - Play the sprint animation & run toward the player
+
+### Enemy Placement
 
 # Designers
 
