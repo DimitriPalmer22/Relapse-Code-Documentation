@@ -57,7 +57,6 @@ We are changing the art style.
 ### Specific Enemy Animations
 - For each enemy model, we need to explicitly define EXACTLY how we it to attack.
 	- We may want to reuse models for the sake of different enemy variations.
--
 
 ## New ART Workflow
 
@@ -158,7 +157,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 
 ## Enemies
 
-
+Enemies can be defined by two components: moevm
 
 # Designers
 
