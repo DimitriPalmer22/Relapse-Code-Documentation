@@ -15,6 +15,7 @@ We are changing the art style.
 - For tooltips, we can have the regular tooltips be basic speech bubbles. For the tooltips that relate to objectives, we can have them be the spiky speech bubbles.
 	- NOTE: These will be animated. The speech bubbles themselves WILL NOT BE ANIMATED / WE ARE NOT USING VIDEO / GIF FILES FOR THESE.
 	- Instead, the bubbles will be separated into 2 different layers for foreground and background. The background will stay stationary, but the foreground PNG will be animated via the Unity animator.
+- We need 2D VFX for using the powers.
 
 ## New ART Workflow
 
@@ -58,12 +59,13 @@ We want each weapon to define a playstyle:
 With all this said, though, we know the player is going to play how they want. These are just how we are intending the design to be.
 
 The player has the opportunity to get a new weapon in each level.
+
 - The player can only have 1 weapon at a time.
 - The player is forced to pick up the pistol in the 1st level.
 - In the second level, the SMG is introduced and they have the option to pick it up.
 - The third level has the shotgun.
-- In the 2nd and 3rd level, we will have areas where the player can choose to use a previous weapon. 
-	- Maybe include this as a part of the dealer's shop? It makes sense for a dealer to have 
+- In the 2nd and 3rd level, we will have areas where the player can choose to use a previous weapon.
+	- Maybe include this as a part of the dealer's shop? It makes sense for a dealer to have weapons.
 
 ## Powers
 
