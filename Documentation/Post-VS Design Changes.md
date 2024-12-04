@@ -55,7 +55,9 @@ We want each weapon to define a playstyle:
 - Shotgun: Knockback, high damage. Less range than the pistol, but more than the SMG.
 	- More of a defensive playstyle. The player needs to be more strategic with their shots. We want the enemies to come towards you with the shotgun vs. actively seeking them out with the SMG.
 
-With all this said, though, we know the player is going to play 
+With all this said, though, we know the player is going to play how they want. These are just how we are intending the design to be.
+
+The player has the oppor
 
 ## Powers
 
