@@ -163,7 +163,9 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 - Patrolling
 - Stationary
-- Flying?
+- 
+
+- Flying Enemies that chase the player
 
 # Designers
 
