@@ -136,6 +136,9 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - Aurakinesis
 	- Change an enemy's aura so that other enemies see it as an enemy temporarily
 
+### Vendor
+-  
+
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
 - when you relapse, both hands tweak out for 5 secs.
