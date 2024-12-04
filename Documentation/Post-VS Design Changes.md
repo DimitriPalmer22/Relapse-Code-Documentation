@@ -136,6 +136,11 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Med
 - Aurakinesis
 	- Change an enemy's aura so that other enemies see it as an enemy temporarily
+- Kamikaze-Kinesis
+	- When the power is fully charged, the player will zoom forward for about 3 seconds
+	- When the power is released, release an explosion that:
+		- deals a little bit damage
+		- 
 
 ### Vendor
 - The vendors will carry more powers.
