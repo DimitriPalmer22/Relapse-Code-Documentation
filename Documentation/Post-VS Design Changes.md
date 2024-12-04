@@ -12,6 +12,8 @@ We are changing the art style.
 - Think NFS Unbound
 - 2D graphic novel / comic art
 - Think speech bubbles, impact effects, etc.
+- For tooltips, we can have the regular tooltips be basic speech bubbles. For the tooltips that relate to objectives, we can have them be the spiky speech bubbles.
+	- NOTE: These will be animated.
 
 ## New Workflow
 
@@ -29,14 +31,12 @@ ObjectTypePrefix_AssetName_Iteration
 - For example, the first version of a texture called RoofTiles would be named like: *Tex_RoofTiles_01*.
 	- The only exception to this would be the bones of a rigged character.
 
-
 | Object Type     | Prefix |
 | --------------- | ------ |
 | Texture         | Txtr   |
 | Low Poly Model  | LowP   |
 | High Poly Model | HigP   |
 | Animation       | Anim   |
-
 
 # Mechanics
 
