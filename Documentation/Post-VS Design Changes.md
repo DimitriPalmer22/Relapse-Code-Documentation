@@ -50,6 +50,8 @@ ObjectTypePrefix_AssetName_Iteration
 
 - Revisit how far you can wall-run for.
 	- The gravity is too strong right now
+- Add juice somewhere
+- SFX, VFX
 
 # Enemies
 
@@ -82,4 +84,3 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 
 - Instead, organize the hierarchy by the type of objects.
 - For example, use an empty game object called "Props" and then put all the props under there (not as a child, but literally under it)
-
