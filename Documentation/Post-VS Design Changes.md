@@ -134,6 +134,8 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- One tap an enemy or some shit idk
 - Rate of fire increase
 	- Med
+- Aurakinesis
+	- Change an enemy's aura so that other enemies see it as an enemy temporarily
 
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
