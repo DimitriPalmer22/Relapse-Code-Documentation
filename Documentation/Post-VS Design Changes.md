@@ -162,8 +162,8 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 ### Movement Behavior
 
 - Patrolling
-- Stationary
-- 
+- Stationary (dont move at all)
+- Guards (won't move until they see the player)
 
 - Flying Enemies that chase the player
 
