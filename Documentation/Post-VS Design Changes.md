@@ -164,8 +164,14 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 - Patrolling
 - Stationary (dont move at all)
 - Guards (won't move until they see the player)
+- Enemies with a front shield that can only be attacked from behind. They'll constantly reposition to face the player.
 
 - Flying Enemies that chase the player
+
+### Attack Behavior
+- Melee
+- Ranged
+- 
 
 # Designers
 
