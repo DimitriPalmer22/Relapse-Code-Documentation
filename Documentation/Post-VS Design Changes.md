@@ -129,7 +129,11 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Random change to activate a bad power that is exclusive to the random power.
 		- This can be the explosion power. It does damage to the player and the enemies
 - Gun-Kinesis
+	- Drug
 	- You shoot a fucking gun
+	- One tap an enemy or some shit idk
+- Rate of fire increase
+	- Med
 
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
