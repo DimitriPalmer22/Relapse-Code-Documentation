@@ -125,7 +125,8 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Dice rolling power
 	- 2D VFX could be rolling die
 	- Activate any one of the random powers
-	-
+	- Random change to activate a bad power that is exclusive to the random power.
+		- This can be the explosion power. It does damage to the player and the enemies
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
 - when you relapse, both hands tweak out for 5 secs.
@@ -134,7 +135,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - Immediate effect of a Relapse: the maximum value for the toxicity meter goes down by like 10%. This value persists between levels.
 	- The player cannot lose more than 50% of their max tolerance in each level.
 	- When they end the level, they regen half of the max tolerance they lost during the level.
-- Level-to-level effect: The maximum health value of the player goes down by 10% for each time you Relapse in that level up to a maximum of like
+- Level-to-level effect: The maximum health value of the player goes down by 5% for each time you Relapse in that level up to a maximum of like 80%
 
 [Toxicity Revamp.excalidraw](<../_META/Excalidraw/Toxicity Revamp.excalidraw.png>)
 
