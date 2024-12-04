@@ -173,7 +173,8 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 ### 2D VFX
 - 2D Animated tooltips
 - 2D Animated power effects
-	- When using the power
+	- When using the power. Different effects for each power
+		- [[#|Con]]
 	- When a power comes into contact with a surface of game object
 - 2D Animated muzzle flash effects
 - 2D Animated bullet hit effects
@@ -189,3 +190,8 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 
 ## Auditory
 -
+
+
+# Contemporaries
+
+## Fragpunk
