@@ -118,8 +118,10 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - For example, we NEED arena sections where the player NEEDS to fight the enemies with their guns and powers to progress.
 
 > [!Important]
-> With the way the narrative is rn, Kin (the player) is currently remembering their past actions. So, the part of the game that you are playing is all in his head. We can use this to be more abstract with the level design & design intentions. For example, we can have fog that blocks off certain areas of the level
+> With the way the narrative is, Kin (the player) is currently remembering their past actions. So, the part of the game that you are playing is all in their head. We can use this to be more abstract with the level design & design intentions. For example, we can have fog that blocks off certain areas of the level until we kill enough enemies to progress.
 
+- We need more areas that play into this abstract reality concept. We need the player to feel more like they are tripping balls.
+	- The apartment level is too 
 # Juice
 
 ## Visual
