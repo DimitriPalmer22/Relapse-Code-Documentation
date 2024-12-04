@@ -176,7 +176,7 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 ### Enemy Placement
 - Enemies need to be placed in a way that forces the player to use their mechanics (movement + gun + powers)
-- 
+- Our levels need to focus on verticality 
 
 # Designers
 
