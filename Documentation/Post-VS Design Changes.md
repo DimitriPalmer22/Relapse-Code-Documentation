@@ -113,7 +113,7 @@ The player has the opportunity to get a new weapon in each level.
 
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
-- A power like 
+- A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
 
 ## Movement
 
