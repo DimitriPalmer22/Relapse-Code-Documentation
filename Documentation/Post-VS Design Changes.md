@@ -176,7 +176,8 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 ### Enemy Placement
 - Enemies need to be placed in a way that forces the player to use their mechanics (movement + gun + powers)
-- Our levels need to focus on verticality 
+- Combat needs to be engaging and challenging
+- Intro
 
 # Designers
 
@@ -220,6 +221,7 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 
 - We need more areas that play into this abstract / surreal reality concept. We need the player to feel more like they are tripping balls.
 	- The apartment level is based too much in reality.
+- Our levels need to focus on verticality & our movement system
 # Juice
 
 ## Visual
