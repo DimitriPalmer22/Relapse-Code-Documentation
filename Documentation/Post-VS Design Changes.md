@@ -1,5 +1,6 @@
 # The Gameplay Loop?
-- 
+- GRIMWAR: Move really fast while wall-running and jumping. Use powers to navigate the levels / fight enemies. Over and over and over.
+- Veilwood: Farm during the day, fight during the night. Get money, go to town.
 
 # Art
 
