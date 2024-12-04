@@ -111,6 +111,8 @@ The player has the opportunity to get a new weapon in each level.
 
 ## Powers (Kinesis)
 
+List of kinetic powers: <https://powerlisting.fandom.com/wiki/List_of_Kinetic_Abilities>
+
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
 ### Power Ideas
@@ -119,6 +121,10 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - Put down a mine
 	- Regular fire mine
 	- Gravity mine - When enemies activate the mine, every enemy within a certain spherical range gets sucked in
+- [Záriakinesis](https://powerlisting.fandom.com/wiki/Dice_Manipulation "Dice Manipulation")
+	- Dice rolling power
+	- 2D VFX could be rolling die
+	- Activate any one of the random
 
 ## Movement
 
