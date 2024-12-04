@@ -5,8 +5,8 @@
 # The Gameplay Loop?
 - GRIMWAR: Move really fast while wall-running and jumping. Use powers to navigate the levels / fight enemies. Over and over and over.
 - Veilwood: Farm during the day, fight during the night. Get money, go to town.
-- Relapse: 1. Use powers, 2. Use weapons, 3. Use movement. Use the powers + weapons to kill enemies while skillfully traversing the environemt wi
-
+- Relapse: 1. Use powers, 2. Use weapons, 3. Use movement. 
+	- 
 # Art
 
 We are changing the art style.
