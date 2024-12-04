@@ -48,7 +48,9 @@ We are changing the art style.
 
 ### Enemy Animations
 - Idle animation LOOP. it has to seamlessly loop
-- Transiti
+- Walking LOOP. it has to seamlessly loop
+- Running LOOP. it has to seamlessly loop
+- Hurt / flinch animation. DOES NOT need to loop
 
 ## New ART Workflow
 
