@@ -125,12 +125,14 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Dice rolling power
 	- 2D VFX could be rolling die
 	- Activate any one of the random powers
-	- 
+	-
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
 - when you relapse, both hands tweak out for 5 secs.
 	- you cant use a gun or powers
-- INSTEAD OF 3 RELAPSES KILLS YOU, each time you Relapse, the maximum value for the toxicity meter goes down by like 
+- 3 RELAPSES WILL NO LONGER KILLS YOU,
+- Immediate effect of a Relapse: the maximum value for the toxicity meter goes down by like 10%. This value persists between levels. 
+- each time you Relapse, 
 
 ## Movement
 
