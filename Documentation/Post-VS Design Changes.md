@@ -141,7 +141,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - The player is still GUARANTEED 1 power from each vendor.
 - Half of the vendor's powers will be free.
 - The other half are the really good powers that require money to buy.
-- Regardless of if you get a free power or a paid power, you can only get ONE power.
+- Regardless of if you get a free power or a paid power, you can only get ONE power per vendor.
 
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
