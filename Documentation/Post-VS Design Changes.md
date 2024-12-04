@@ -163,7 +163,7 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 - Patrolling
 - Stationary
-- 
+- Flying?
 
 # Designers
 
