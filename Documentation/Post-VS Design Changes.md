@@ -79,3 +79,7 @@ Maintain a staggered schedule between the lead designer and the rest of the desi
 - Mikel had to manually replace like 150 game objects because they used the FBX file and not the prefab variants.
 
 Be careful of nesting things too many game objects into each other. This WILL cause performance issues if done too much.
+
+- Instead, organize the hierarchy by the type of objects.
+- For example, use an empty game object called "Props" and then put all the props under there (not as a child, but literally under it)
+
