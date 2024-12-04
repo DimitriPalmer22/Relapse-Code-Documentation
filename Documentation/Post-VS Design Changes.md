@@ -220,7 +220,7 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 Also, de-load the surrounding scene so it seems kinda trippy.
 
 ### Dynamic Post-Processing VFX
-- Chromatic Aberration heartbeat effect for the Mindbreaks
+- Chromatic Aberration heartbeat effect for the Mindbreak sections
 
 ## Auditory
 -
