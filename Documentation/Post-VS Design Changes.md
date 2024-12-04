@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> We are calling those black and white transition zones "Mindbreaks".
+
 # The Gameplay Loop?
 - GRIMWAR: Move really fast while wall-running and jumping. Use powers to navigate the levels / fight enemies. Over and over and over.
 - Veilwood: Farm during the day, fight during the night. Get money, go to town.
@@ -144,8 +148,7 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 	- Low health screen overlay
 
 ### Dynamic Post-Processing VFX
-- Chromatic Aberration
-
+- Chromatic Aberration heartbeat effect for the Mindbreaks
 
 ### Animations
 -
