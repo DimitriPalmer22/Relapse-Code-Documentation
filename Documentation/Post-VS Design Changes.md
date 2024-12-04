@@ -235,7 +235,9 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 	- The apartment level is based too much in reality.
 - Our levels need to focus on verticality & our movement system
 
-- Vendors can be placed in 
+- Vendors can be placed in hidden areas.
+	- These hidden vendors will *ONLY* have paid powers.
+	- The dialogue for these vendors need to imply that they are not tied to the character's backstory. Therefore, they will NOT give the player free drugs!
 # Juice
 
 ## Visual
