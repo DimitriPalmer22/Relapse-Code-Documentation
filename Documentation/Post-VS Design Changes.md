@@ -166,6 +166,9 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 	- Also, we need to have some type of tube to convey that the tubes are draining into the player's system.
 - We need to add a camera shake for when the player gets hit.
 - Right now we have no way to convey to the player how charged the power is.
-	- When the 
+	- When the player is actively charging the power, they'll have one animation. Maybe like an open hand.
+	- When the power is fully charged, the player will have a closed fist.
+	- When the player uses the power, they will release their clenched fist.
+
 ## Auditory
 -
