@@ -46,11 +46,17 @@ We are changing the art style.
 - Gun recoil animation
 - While the player is relapsing, shake the left hand.
 
-### Enemy Animations
+### Common Enemy Animations
+- Each of these animations is going to be found on every enemy, no matter how the behave.
 - Idle animation LOOP. it has to seamlessly loop
 - Walking LOOP. it has to seamlessly loop
 - Running LOOP. it has to seamlessly loop
 - Hurt / flinch animation. DOES NOT need to loop
+
+### Specific Enemy Animations
+- For each enemy model, we need to explicitly define EXACTLY how we it to attack.
+	- We may want to reuse models for the sake of different enemy variations.
+- 
 
 ## New ART Workflow
 
