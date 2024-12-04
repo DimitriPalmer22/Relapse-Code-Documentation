@@ -24,6 +24,7 @@ We are changing the art style.
 	- NOTE: These will be animated. The speech bubbles themselves WILL NOT BE ANIMATED / WE ARE NOT USING VIDEO / GIF FILES FOR THESE.
 	- Instead, the bubbles will be separated into 2 different layers for foreground and background. The background will stay stationary, but the foreground PNG will be animated via the Unity animator.
 - We need 2D VFX for using the powers.
+- Enemy death poof VFX. We need to have a poof of smoke when the enemies die.
 
 ### Player Animations
 - We are completely scrapping each hand operating independently. It looks too awkward.
@@ -56,7 +57,7 @@ We are changing the art style.
 ### Specific Enemy Animations
 - For each enemy model, we need to explicitly define EXACTLY how we it to attack.
 	- We may want to reuse models for the sake of different enemy variations.
-- 
+-
 
 ## New ART Workflow
 
@@ -112,7 +113,7 @@ The player has the opportunity to get a new weapon in each level.
 
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
--
+- A power like 
 
 ## Movement
 
