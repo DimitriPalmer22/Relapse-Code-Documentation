@@ -13,7 +13,8 @@ We are changing the art style.
 - 2D graphic novel / comic art
 - Think speech bubbles, impact effects, etc.
 - For tooltips, we can have the regular tooltips be basic speech bubbles. For the tooltips that relate to objectives, we can have them be the spiky speech bubbles.
-	- NOTE: These will be animated.
+	- NOTE: These will be animated. The speech bubbles themselves WILL NOT BE ANIMATED / WE ARE NOT USING VIDEO / GIF FILES FOR THESE.
+	- Instead, the bubbles will be separated into 2 different layers for foreground and background. The background will stay stationary, but the foreground PNG will be animated via the Unity animator.
 
 ## New Workflow
 
