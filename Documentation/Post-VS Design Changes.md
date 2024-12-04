@@ -143,6 +143,9 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - The other half are the really good powers that require money to buy.
 - Regardless of if you get a free power or a paid power, you can only get ONE power per vendor.
 
+#### Memories
+- Memories will give money on pickup to encourage exploration
+
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
 - when you relapse, both hands tweak out for 5 secs.
@@ -231,6 +234,8 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - We need more areas that play into this abstract / surreal reality concept. We need the player to feel more like they are tripping balls.
 	- The apartment level is based too much in reality.
 - Our levels need to focus on verticality & our movement system
+
+- Vendors can be placed in 
 # Juice
 
 ## Visual
