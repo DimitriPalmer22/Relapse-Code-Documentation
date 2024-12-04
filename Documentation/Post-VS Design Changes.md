@@ -175,6 +175,8 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 - Charge - Play the sprint animation & run toward the player
 
 ### Enemy Placement
+- Enemies need to be placed in a way that forces the player to use their mechanics (movement + gun + powers)
+- 
 
 # Designers
 
