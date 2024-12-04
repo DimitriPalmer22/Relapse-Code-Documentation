@@ -116,6 +116,7 @@ List of kinetic powers: <https://powerlisting.fandom.com/wiki/List_of_Kinetic_Ab
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
 ### Power Ideas
+- For NOW, we are deciding to categorize powers based on the type of kinesis they apply to. Fir 
 - A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
 - Blink like Dishonored or that one guy in [Valorant](<#Valorant>)
 - Put down a mine
@@ -127,6 +128,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Activate any one of the random powers
 	- Random change to activate a bad power that is exclusive to the random power.
 		- This can be the explosion power. It does damage to the player and the enemies
+
 ### Toxicity & Relapse
 - Bigger tolerance meter / more drugs until relapse
 - when you relapse, both hands tweak out for 5 secs.
