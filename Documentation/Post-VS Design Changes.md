@@ -172,6 +172,7 @@ Also, de-load the surrounding scene so it seems kinda trippy.
 	- Keep in mind, the palm is still facing upward in all these motions so that the UI is still visible.
 - We are now gonna use both hands to reload. Powers are disabled while reloading.
 - Gun recoil animation
+- While the player is relapsing, shake the left hand.
 
 ## Auditory
 -
