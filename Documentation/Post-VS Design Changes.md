@@ -117,6 +117,9 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 - We need areas in the levels that cater to the game's mechanics. Fuck ludonarrative dissonance
 - For example, we NEED arena sections where the player NEEDS to fight the enemies with their guns and powers to progress.
 
+> [!Important]
+> With the way the narrative is rn, Kin (the player) is currently remembering their past actions. So, the part of the game that you are playing is all in his head. We can use this to be more abstract with the level design & design intentions. For example, we can have fog that blocks off certain areas of the level
+
 # Juice
 
 ## Visual
