@@ -169,8 +169,8 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 - Flying Enemies that chase the player
 
 ### Attack Behavior
-- Melee
-- Ranged
+- Melee - Play melee attack animation
+- Ranged - 
 - 
 
 # Designers
