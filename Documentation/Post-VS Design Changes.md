@@ -15,15 +15,19 @@ We are changing the art style.
 
 ## New Workflow
 
-***We don't have an actual new workflow rn.***
+***We don't have an actual new workflow rn solidified. But we're plann***
 
 > [!Important]
 > NO MORE HI-POLYS. It makes everything slower for the design team. Also, If you're gonna do a high to low poly, keep the naming convention the same.
 
 ## NAMING CONVENTIONS
+Make sure the names are consistent
 
-- Make sure the names are consistent
-- 
+ObjectType_Asset
+
+| ObjectType_Asset | Naming Convention |
+| ---------------- | ----------------- |
+|                  |                   |
 
 # Mechanics
 
