@@ -16,7 +16,7 @@ We are changing the art style.
 	- NOTE: These will be animated. The speech bubbles themselves WILL NOT BE ANIMATED / WE ARE NOT USING VIDEO / GIF FILES FOR THESE.
 	- Instead, the bubbles will be separated into 2 different layers for foreground and background. The background will stay stationary, but the foreground PNG will be animated via the Unity animator.
 
-## New Workflow
+## New ART Workflow
 
 We don't have an actual new workflow solidified right not, but we're planning to have specific people only work on specific things.
 	For example, 1 person for texturing, 1 for hard-surface modeling
@@ -24,7 +24,7 @@ We don't have an actual new workflow solidified right not, but we're planning to
 > [!Important]
 > NO MORE HI-POLYS. It makes everything slower for the design team. Also, If you're gonna do a high to low poly, keep the naming convention the same.
 
-## NAMING CONVENTIONS
+### NAMING CONVENTIONS
 
 Make sure the names are consistent
 
@@ -52,3 +52,10 @@ ObjectTypePrefix_AssetName_Iteration
 	- The gravity is too strong right now
 
 # Enemies
+
+# Designers
+
+## New Workflow
+
+Before we even start the favelas, we need to create some sort of test level that reflects how we want the real level to play.
+- For instance, if we want a variety of wall-running and dashing 
