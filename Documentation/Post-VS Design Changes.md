@@ -70,4 +70,12 @@ Maintain a staggered schedule between the lead designer and the rest of the desi
 
 - This, paired the regular check-ins, will help keep the team on track.
 
+***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
 
+- Mikel had to manually replace like 150 game objects because they used the FBX file and not the prefab variants.
+
+Be careful of nesting things too many game objects into each other. This WILL cause performance issues if done too much.
