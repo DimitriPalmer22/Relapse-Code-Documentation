@@ -109,7 +109,7 @@ The player has the opportunity to get a new weapon in each level.
 - In the 2nd and 3rd level, we will have areas where the player can choose to use a previous weapon.
 	- Maybe include this as a part of the dealer's shop? It makes sense for a dealer to have weapons.
 
-## Powers
+## Powers (Kinesis)
 
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
@@ -117,6 +117,8 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
 - Blink like Dishonored or that one guy in [Valorant](<#Valorant>)
 - Put down a mine
+	- Regular fire mine
+	- Gravity mine - When enemies activate the mine, every enemy within a certain spherical range gets sucked in
 
 ## Movement
 
