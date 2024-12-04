@@ -146,6 +146,9 @@ Be careful of nesting things too many game objects into each other. This WILL ca
 	- Maybe some blood splatter?
 - Any screen overlays
 	- Low health screen overlay
+	- When we enter a Mindbreak, play a wobbly screen overlay effect
+
+Also, de-load the surrounding scene.
 
 ### Dynamic Post-Processing VFX
 - Chromatic Aberration heartbeat effect for the Mindbreaks
