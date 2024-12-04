@@ -125,7 +125,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Dice rolling power
 	- 2D VFX could be rolling die
 	- Activate any one of the random powers
-	- We 
+	- 
 
 ## Movement
 
