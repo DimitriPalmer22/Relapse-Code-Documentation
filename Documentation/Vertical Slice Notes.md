@@ -50,4 +50,6 @@
 	- Get the phone.
 
 # 2nd Floor
-- Go to the backrooms area to 
+- Backrooms:
+	- Look at the intro hallway n look at the 1 enemy there.
+	- DO NOT GO IN BRO. THE ENEMY PATHFINDING IS FUCKED UP.
