@@ -22,8 +22,12 @@
 	- Open the journal, click the memory and read it.
 - Dealer Room
 	- Pick up the checkpoint first cuz phone is a lil annoying
-	- Interact with him & then talk about the shop system and gossip system 
+	- Interact with him & then talk about the shop system and gossip system
 	- Gossip first, show of the different choices to show that we have reactive text
 	- Open the shop.
-		- Make 
+		- Make note that the left side of the UI has meds & the right side has drugs
 		- and buy burnout
+		- Show off the fact that we can't interact with the shop anymore.
+		- Elaborate the design intentions for why we can only get 1 item in the shop.
+		- Before we leave, inspect the gauntlet.
+		- Also, pick up the keycard.
