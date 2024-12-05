@@ -37,4 +37,7 @@
 # 3rd Floor
 - DO NOT GO DOWN THE DARK HALLWAY, WE FUCKED UP THE WALLS AND YOU CAN SEE THE WHITE AREA
 - As we go through the level, DO NOT TRY TO SHOOT OVER DEBRIS. IT DOESN'T ALWAYS WORK.
-- 
+- Broken room 1st visit:
+	- Try to interact with the planks to get the tooltip message
+- Traverse until we get to the room with the crowbar
+- Make a note: We use the lighting to guide the player to where they need to go.
