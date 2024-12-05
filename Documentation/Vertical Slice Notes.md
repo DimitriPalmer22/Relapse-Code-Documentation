@@ -72,4 +72,5 @@
 - Andre's area:
 	- DONT FUCKING FALL
 	- Explain the whole mindbreak
-		- These serve as transition sections between 
+		- These serve as transition sections between levels
+- 
