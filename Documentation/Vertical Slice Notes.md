@@ -20,4 +20,10 @@
 - Memory room
 	- Pick up the memory.
 	- Open the journal, click the memory and read it.
-- 
+- Dealer Room
+	- Pick up the checkpoint first cuz phone is a lil annoying
+	- Interact with him & then talk about the shop system and gossip system 
+	- Gossip first, show of the different choices to show that we have reactive text
+	- Open the shop.
+		- Make 
+		- and buy burnout
