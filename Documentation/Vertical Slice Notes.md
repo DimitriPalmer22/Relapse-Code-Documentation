@@ -68,7 +68,7 @@
 		- If u want, u can read the gossip dialogue, but it don't matter
 		- Pick up the med
 		- Open the journal to show that we have 2 different tabs to show the powers.
-		- Then, get hit by an enemy near
+		- Then, get hit by an enemy nearby so we can show off the regeneration power. We need to get hit twice by the enemy to show off the red border.
 - Go back & finish the 2nd floor
 - Andre's area:
 	- DONT FUCKING FALL
