@@ -15,3 +15,9 @@
 
 > [!NOTE] Title
 > FROM THIS POINT ONWARD. KILL EVERY MONSTER AS SOON AS YOU SEE IT. OR WALK PAST IT IF YOU CAN.
+
+# 3rd Floor
+- Memory room
+	- Pick up the memory.
+	- Open the journal, click the memory and read it.
+- 
