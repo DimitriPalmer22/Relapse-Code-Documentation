@@ -48,3 +48,6 @@
 	- Use the crowbar on the planks
 	- Get the keycard.
 	- Get the phone.
+
+# 2nd Floor
+- Go to the backrooms area to 
