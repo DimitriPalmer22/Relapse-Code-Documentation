@@ -33,6 +33,7 @@
 		- Elaborate the design intentions for why we can only get 1 item in the shop.
 	- Before we leave, inspect the gauntlet.
 	- Also, pick up the keycard.
+	- Then, open inventory to show inventory system
 - Demonstrate burnout on a monster
 - Go to the stairwell and show off the keycard system for the 4th floor.
 
@@ -67,3 +68,4 @@
 		- If u want, u can read the gossip dialogue, but it don't matter
 		- Pick up the med
 		- Open the journal to show that we have 2 different tabs to show the powers.
+- Go back to the lobby
