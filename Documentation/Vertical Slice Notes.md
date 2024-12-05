@@ -60,3 +60,5 @@
 	- Fall down the hole n pick up the card
 	- Walk through n open up the door
 - Walk to doctor room
+	- Pick up phone
+	- pick up 
