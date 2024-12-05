@@ -9,7 +9,9 @@
 	- Also show off the gun by shooting
 - Checkpoint room:
 	- Pick up the phone.
-	- stop to explain.
+	- stop to explain:
+		- The fact that the phone only plays when the player is near a checkpoint.
+		- how the checkpoint system works
 	- Then find an enemy and die
 	- THIS IS THE ONLY TIME WE DIE.
 
@@ -41,3 +43,8 @@
 	- Try to interact with the planks to get the tooltip message
 - Traverse until we get to the room with the crowbar
 - Make a note: We use the lighting to guide the player to where they need to go.
+- Pick up crowbar n walk back
+- Broken room 2nd visit:
+	- Use the crowbar on the planks
+	- Get the keycard.
+	- Get the phone.
