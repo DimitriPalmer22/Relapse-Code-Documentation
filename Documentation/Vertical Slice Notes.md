@@ -16,7 +16,7 @@
 	- THIS IS THE ONLY TIME WE DIE.
 
 > [!NOTE] Title
-> FROM THIS POINT ONWARD. KILL EVERY MONSTER AS SOON AS YOU SEE IT. OR WALK PAST IT IF YOU CAN.
+> FROM THIS POINT ONWARD. KILL EVERY MONSTER AS SOON AS YOU SEE IT. OR WALK PAST IT IF YOU CAN. ONCE WE GET THE BURNOUT DRUG, TRY TO USE IT REGULARLY TO
 
 # 5th Floor
 - Memory room
@@ -53,3 +53,6 @@
 - Backrooms:
 	- Look at the intro hallway n look at the 1 enemy there.
 	- DO NOT GO IN BRO. THE ENEMY PATHFINDING IS FUCKED UP.
+- After the enemy busts through the wall, go into the one room
+- DO NOT LOOK AT THE SHIT BUCKET
+- Go 
