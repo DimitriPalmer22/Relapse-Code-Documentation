@@ -140,7 +140,8 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- When the power is fully charged, the player will zoom forward for about 3 seconds
 	- When the power is released, release an explosion that:
 		- deals a little bit damage
-		- 
+		- knocks the player backwards IN THE DIRECTION THEY ARE FACING
+			- So if they are pointed downward, the explosion will send them straight up.
 
 ### Vendor
 - The vendors will carry more powers.
