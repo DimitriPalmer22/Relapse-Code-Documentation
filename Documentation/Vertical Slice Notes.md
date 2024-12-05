@@ -54,5 +54,9 @@
 	- Look at the intro hallway n look at the 1 enemy there.
 	- DO NOT GO IN BRO. THE ENEMY PATHFINDING IS FUCKED UP.
 - After the enemy busts through the wall, go into the one room
-- DO NOT LOOK AT THE SHIT BUCKET
-- Go 
+	- DO NOT LOOK AT THE SHIT BUCKET
+	- Go into the room to the left to show off the doors not being able to open
+- Leave room to go into the hallway with the hole
+	- Fall down the hole n pick up the card
+	- Walk through n open up the door
+- Walk to doctor room
