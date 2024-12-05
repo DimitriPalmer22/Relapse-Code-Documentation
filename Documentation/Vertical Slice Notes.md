@@ -16,7 +16,7 @@
 > [!NOTE] Title
 > FROM THIS POINT ONWARD. KILL EVERY MONSTER AS SOON AS YOU SEE IT. OR WALK PAST IT IF YOU CAN.
 
-# 3rd Floor
+# 5th Floor
 - Memory room
 	- Pick up the memory.
 	- Open the journal, click the memory and read it.
@@ -29,5 +29,7 @@
 		- and buy burnout
 		- Show off the fact that we can't interact with the shop anymore.
 		- Elaborate the design intentions for why we can only get 1 item in the shop.
-		- Before we leave, inspect the gauntlet.
-		- Also, pick up the keycard.
+	- Before we leave, inspect the gauntlet.
+	- Also, pick up the keycard.
+- Demonstrate burnout on a monster
+- Go to the stairwell and show off the keycard system for the 4th floor. 
