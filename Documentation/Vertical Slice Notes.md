@@ -66,3 +66,4 @@
 	- Interact w/ dealer.
 		- If u want, u can read the gossip dialogue, but it don't matter
 		- Pick up the med
+		- Open the journal to show that we have 2 different tabs to show the powers.
