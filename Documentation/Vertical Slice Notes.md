@@ -61,4 +61,8 @@
 	- Walk through n open up the door
 - Walk to doctor room
 	- Pick up phone
-	- pick up 
+	- Pick up drug.
+		- Explain that the player was injured while starting the level and now they can sprint and jump
+	- Interact w/ dealer.
+		- If u want, u can read the gossip dialogue, but it don't matter
+		- Pick up the med
