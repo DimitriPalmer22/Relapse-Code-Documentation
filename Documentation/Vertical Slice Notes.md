@@ -32,4 +32,9 @@
 	- Before we leave, inspect the gauntlet.
 	- Also, pick up the keycard.
 - Demonstrate burnout on a monster
-- Go to the stairwell and show off the keycard system for the 4th floor. 
+- Go to the stairwell and show off the keycard system for the 4th floor.
+
+# 3rd Floor
+- DO NOT GO DOWN THE DARK HALLWAY, WE FUCKED UP THE WALLS AND YOU CAN SEE THE WHITE AREA
+- As we go through the level, DO NOT TRY TO SHOOT OVER DEBRIS. IT DOESN'T ALWAYS WORK.
+- 
