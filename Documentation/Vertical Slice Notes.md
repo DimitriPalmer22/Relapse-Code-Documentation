@@ -76,4 +76,6 @@
 		- These serve as transition sections between levels
 	- Don't miss the orb, or do
 - Lobby Area
-	- IMMEDIATELY SWITCH TO THE BURNOUT POWER
+	- IMMEDIATELY SWITCH TO THE BURNOUT POWER CUZ THE UI IS BUGGED
+	- Go into the lobby and you kill all the enemies
+	- DON'T EVEN GO OUTSIDE. DON'T EVEN LOOK AT IT.
