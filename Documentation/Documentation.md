@@ -12,6 +12,7 @@ A list of all links for all topics covered by the documentation:
 	- **[Movement System v2](<./Player/Movement System v2/Movement System v2.md>)**
 - [Post-VS Design Changes](<./Post-VS Design Changes.md>)
 - **[Powers](<./Powers/Powers.md>)**
+- [Untitled](<./Untitled.md>)
 - [Vertical Slice Notes](<./Vertical Slice Notes.md>)
 - **[Weapons](<./Weapons/Weapons.md>)**
 
