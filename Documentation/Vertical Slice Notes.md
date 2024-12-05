@@ -68,9 +68,12 @@
 		- If u want, u can read the gossip dialogue, but it don't matter
 		- Pick up the med
 		- Open the journal to show that we have 2 different tabs to show the powers.
+		- Then, get hit by an enemy near
 - Go back & finish the 2nd floor
 - Andre's area:
 	- DONT FUCKING FALL
 	- Explain the whole mindbreak
 		- These serve as transition sections between levels
-- 
+	- Don't miss the orb, or do
+- Lobby Area
+	- IMMEDIATELY SWITCH TO THE BURNOUT POWER
