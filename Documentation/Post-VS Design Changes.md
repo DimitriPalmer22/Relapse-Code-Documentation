@@ -292,3 +292,4 @@ Literally every hero shooter.
 - https://www.reddit.com/r/Unity2D/comments/13ham78/unity_fullscreen_shader_graphs/
 - https://i.sstatic.net/PADZw.jpg
 - https://www.youtube.com/watch?v=JBpxSQrZRXg&ab_channel=MichaelsGameLab
+- https://www.youtube.com/watch?v=mNpC6nB4uFM&ab_channel=GabrielAguiarProd.
