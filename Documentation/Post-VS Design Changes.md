@@ -288,4 +288,7 @@ Literally every hero shooter.
 - https://www.google.com/search?q=borderlands+art+style+in+unity&sca_esv=22db317853775bed&ei=m7FTZ73yFZbIwN4Pn_rmoAM&ved=0ahUKEwj9q8OGzZSKAxUWJNAFHR-9GTQQ4dUDCA8&uact=5&oq=borderlands+art+style+in+unity&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJvcmRlcmxhbmRzIGFydCBzdHlsZSBpbiB1bml0eTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBUj7G1AAWJsbcAB4AJABAJgBeqAB8ROqAQQyNi40uAEDyAEA-AEBmAIeoALbFMICCxAuGIAEGJECGIoFwgIREC4YgAQYkQIY0QMYxwEYigXCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGNQCGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAggQABiABBixA8ICCxAuGIAEGLEDGNQCwgIaEC4YgAQYkQIYigUYlwUY3AQY3gQY4ATYAQHCAg0QLhiABBhDGNQCGIoFwgILEAAYgAQYkQIYigXCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICHBAuGIAEGEMY1AIYigUYlwUY3AQY3gQY4ATYAQHCAhAQLhiABBixAxhDGNQCGIoFwgINEC4YgAQYsQMYQxiKBcICCBAuGIAEGLEDwgILEC4YgAQYsQMYgwHCAgUQABiABMICBRAuGIAEwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICCBAAGKIEGIkFwgIFECEYqwKYAwC6BgYIARABGBSSBwQyNS41oAfXvwI&sclient=gws-wiz-serp
 - https://www.youtube.com/watch?v=9dIyEUpsb1Q
 - https://www.youtube.com/watch?v=3iZrZrEWQuA&ab_channel=DanielIlett
-- 
+- https://www.reddit.com/r/comicbooks/comments/sqh5e9/simulating_original_paper_colour_and_texture_for/
+- https://www.reddit.com/r/Unity2D/comments/13ham78/unity_fullscreen_shader_graphs/
+- https://i.sstatic.net/PADZw.jpg
+- https://www.youtube.com/watch?v=JBpxSQrZRXg&ab_channel=MichaelsGameLab
