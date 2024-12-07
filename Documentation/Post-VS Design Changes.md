@@ -278,3 +278,9 @@ Literally every hero shooter.
 - Hollowpoint's ability in Fragpunk is a good example of what we want the power VFX to look like.
 ## Valorant
 - <https://www.youtube.com/watch?v=0s97LxpDz48&ab_channel=DiamondLobbyValorant>
+
+- https://discussions.unity.com/t/graphic-novel-style-shader/847955
+- https://discussions.unity.com/t/comic-book-shader/691128
+- https://www.youtube.com/watch?v=xAdB3OxpC7Y&ab_channel=GameDevGuide
+- https://www.google.com/search?q=unity+graphic+novel+art+style&oq=unity+graphic+novel+art+style&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDMyNThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+- 
