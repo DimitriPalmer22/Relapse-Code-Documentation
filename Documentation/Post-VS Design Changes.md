@@ -279,17 +279,19 @@ Literally every hero shooter.
 ## Valorant
 - <https://www.youtube.com/watch?v=0s97LxpDz48&ab_channel=DiamondLobbyValorant>
 
-- https://discussions.unity.com/t/graphic-novel-style-shader/847955
-- https://discussions.unity.com/t/comic-book-shader/691128
-- https://www.youtube.com/watch?v=xAdB3OxpC7Y&ab_channel=GameDevGuide
-- https://www.google.com/search?q=unity+graphic+novel+art+style&oq=unity+graphic+novel+art+style&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDMyNThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
-- https://community.telltale.com/discussion/57236/how-to-draw-telltale-games-style
-- https://www.reddit.com/r/Unity3D/comments/12qhbfg/how_can_i_make_a_3d_game_look_2d_in_the_style_of/
-- https://www.google.com/search?q=borderlands+art+style+in+unity&sca_esv=22db317853775bed&ei=m7FTZ73yFZbIwN4Pn_rmoAM&ved=0ahUKEwj9q8OGzZSKAxUWJNAFHR-9GTQQ4dUDCA8&uact=5&oq=borderlands+art+style+in+unity&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJvcmRlcmxhbmRzIGFydCBzdHlsZSBpbiB1bml0eTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBUj7G1AAWJsbcAB4AJABAJgBeqAB8ROqAQQyNi40uAEDyAEA-AEBmAIeoALbFMICCxAuGIAEGJECGIoFwgIREC4YgAQYkQIY0QMYxwEYigXCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGNQCGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAggQABiABBixA8ICCxAuGIAEGLEDGNQCwgIaEC4YgAQYkQIYigUYlwUY3AQY3gQY4ATYAQHCAg0QLhiABBhDGNQCGIoFwgILEAAYgAQYkQIYigXCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICHBAuGIAEGEMY1AIYigUYlwUY3AQY3gQY4ATYAQHCAhAQLhiABBixAxhDGNQCGIoFwgINEC4YgAQYsQMYQxiKBcICCBAuGIAEGLEDwgILEC4YgAQYsQMYgwHCAgUQABiABMICBRAuGIAEwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICCBAAGKIEGIkFwgIFECEYqwKYAwC6BgYIARABGBSSBwQyNS41oAfXvwI&sclient=gws-wiz-serp
-- https://www.youtube.com/watch?v=9dIyEUpsb1Q
-- https://www.youtube.com/watch?v=3iZrZrEWQuA&ab_channel=DanielIlett
-- https://www.reddit.com/r/comicbooks/comments/sqh5e9/simulating_original_paper_colour_and_texture_for/
-- https://www.reddit.com/r/Unity2D/comments/13ham78/unity_fullscreen_shader_graphs/
-- https://i.sstatic.net/PADZw.jpg
-- https://www.youtube.com/watch?v=JBpxSQrZRXg&ab_channel=MichaelsGameLab
-- https://www.youtube.com/watch?v=mNpC6nB4uFM&ab_channel=GabrielAguiarProd.
+- <https://discussions.unity.com/t/graphic-novel-style-shader/847955>
+- <https://discussions.unity.com/t/comic-book-shader/691128>
+- <https://www.youtube.com/watch?v=xAdB3OxpC7Y&ab_channel=GameDevGuide>
+- <https://www.google.com/search?q=unity+graphic+novel+art+style&oq=unity+graphic+novel+art+style&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDMyNThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8>
+- <https://community.telltale.com/discussion/57236/how-to-draw-telltale-games-style>
+- <https://www.reddit.com/r/Unity3D/comments/12qhbfg/how_can_i_make_a_3d_game_look_2d_in_the_style_of/>
+- <https://www.google.com/search?q=borderlands+art+style+in+unity&sca_esv=22db317853775bed&ei=m7FTZ73yFZbIwN4Pn_rmoAM&ved=0ahUKEwj9q8OGzZSKAxUWJNAFHR-9GTQQ4dUDCA8&uact=5&oq=borderlands+art+style+in+unity&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJvcmRlcmxhbmRzIGFydCBzdHlsZSBpbiB1bml0eTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBUj7G1AAWJsbcAB4AJABAJgBeqAB8ROqAQQyNi40uAEDyAEA-AEBmAIeoALbFMICCxAuGIAEGJECGIoFwgIREC4YgAQYkQIY0QMYxwEYigXCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGNQCGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAggQABiABBixA8ICCxAuGIAEGLEDGNQCwgIaEC4YgAQYkQIYigUYlwUY3AQY3gQY4ATYAQHCAg0QLhiABBhDGNQCGIoFwgILEAAYgAQYkQIYigXCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICHBAuGIAEGEMY1AIYigUYlwUY3AQY3gQY4ATYAQHCAhAQLhiABBixAxhDGNQCGIoFwgINEC4YgAQYsQMYQxiKBcICCBAuGIAEGLEDwgILEC4YgAQYsQMYgwHCAgUQABiABMICBRAuGIAEwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICCBAAGKIEGIkFwgIFECEYqwKYAwC6BgYIARABGBSSBwQyNS41oAfXvwI&sclient=gws-wiz-serp>
+- <https://www.youtube.com/watch?v=9dIyEUpsb1Q>
+- <https://www.youtube.com/watch?v=3iZrZrEWQuA&ab_channel=DanielIlett>
+- <https://www.reddit.com/r/comicbooks/comments/sqh5e9/simulating_original_paper_colour_and_texture_for/>
+- <https://www.reddit.com/r/Unity2D/comments/13ham78/unity_fullscreen_shader_graphs/>
+- <https://i.sstatic.net/PADZw.jpg>
+- <https://www.youtube.com/watch?v=JBpxSQrZRXg&ab_channel=MichaelsGameLab>
+- <https://www.youtube.com/watch?v=mNpC6nB4uFM&ab_channel=GabrielAguiarProd>
+- <https://www.reddit.com/r/Unity3D/comments/pom3ju/how_to_make_my_lighting_more_or_less_similar_to/#lightbox>
+-
