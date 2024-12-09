@@ -40,5 +40,8 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 - This sub-scene should not be touched / used to test your scene out.
 - If you want the player in your scene, you can create a copy of this "PersistentScene", drag it into your hierarchy, and then move the player around / make whatever changes you want.
 
+## Also, the Player Prefab Changed, so You NEED that PersistentScene
+- I took all of that extra stuff off of the player
+
 ## Where Can I See an Example of All This?
 -
