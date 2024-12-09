@@ -9,12 +9,15 @@ The way we've been doing levels is completely WRONG WRONG WRONG. Although it hel
 - etc.
 
 ## From Now On, Each Level is Going to Be Split up into Multiple Scenes
+
+For the sake of keeping things clear, we're gonna call these smaller split-up scenes *sub-scenes*. Don't worry, they behave *exactly* like any regular scene in Unity.
+
 ### Why Do This?
 - This is high key how you're supposed to handle large and complex levels.
-- A large level can be broken up into smaller, more manageable scenes. This makes performance in the editor itself better and allows for collaboration between level designers. This also allows for proper asynchronous level loading
+- A large level can be broken up into smaller, more manageable sub-scenes. This makes performance in the editor itself better and allows for collaboration between level designers. This also allows for proper asynchronous level loading
 - Unity can have multiple scenes open at once in the editor.
 	- <https://youtu.be/6-0zD9Xyu5c?si=VFMHtA06wN21DsHn&t=583>
-- We can bake lights / occlusion culling for the entire level all at once, and the new lights / occlusion culling will show up in the individual scenes!
+- We can bake lights / occlusion culling for the entire level all at once, and the new lights / occlusion culling will show up in the individual sub-scenes!
 	- No more baking lights in someone's prefab level AND the apartment level!
 
 ## How Do We Do This?
@@ -28,9 +31,9 @@ The way we've been doing levels is completely WRONG WRONG WRONG. Although it hel
 - Then bake normally.
 - That's it. It *should* just work
 
-### Some Thing to Keep in Mind
+### Something to Keep in Mind
 - The sub-scenes for the level *should* only contain the level itself.
-- Do not put the player in your sub-scene.
+- Do not put the player in your sub-scene. It'll mess up the game once your sub-scene is loading
 
 ### How Do I Get the Player in My Level so I Can Test it out Real Quick?
 -
