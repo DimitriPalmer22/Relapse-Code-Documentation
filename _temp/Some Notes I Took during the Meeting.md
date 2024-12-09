@@ -13,9 +13,7 @@
 ### Art Workflow
 - Alex (Concept Art) -> Check-in 1 -> 3D Artists (low - mid - high - UV) -> Check-in 2 -> Rylan (Texture) -> Check-in 3 -> Designers
 	- Depending on how Rylan feels, the other artists can UV for him, or he can do both UVs and textures
-- These check-ins are to make sure that:
-	- the asset *fits with the game's creative vision*
-	- The asset is *game-ready*
+- These check-ins are to make sure the asset *fits with the game's creative vision* & is *game-ready*
 
 ### Communication: Get Rid of the Threads
 - Instead of individual threads, we should have threads for groups of people working on a specific feature / level.
