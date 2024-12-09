@@ -15,7 +15,7 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 ### Why Do This?
 - This is high key how you're supposed to handle large and complex levels.
 - A large level can be broken up into smaller, more manageable sub-scenes. This makes performance in the editor itself better and allows for collaboration between level designers. This also allows for proper asynchronous level loading
-- Unity can have multiple scenes open at once in the editor.
+- Unity can have multiple scenes open at once in the editor. Watch this video to see what I am talking about:
 	- <https://youtu.be/6-0zD9Xyu5c?si=VFMHtA06wN21DsHn&t=583>
 - We can bake lights / occlusion culling for the entire level all at once, and the new lights / occlusion culling will show up in the individual sub-scenes!
 	- No more baking lights in someone's prefab level AND the apartment level!
@@ -32,10 +32,12 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 - That's it. It *should* just work
 
 ### Something to Keep in Mind
-- The sub-scenes for the level *should* only contain the level itself.
+- The sub-scenes for each level *should* only contain the sub-scene's specific content.
 - Do not put the player in your sub-scene. It'll mess up the game once your sub-scene is loaded
 
 ### How Do I Get the Player in My Level so I Can Test it out Real Quick?
 - In our new system, the player, the UI, and any manager scripts are now in a sub-scene called "PersistentScene"
 - This sub-scene should not be touched / used to test your scene out.
 - If you want the player in your scene, you can create a copy of this "PersistentScene", drag it into your hierarchy, and then move the player around / make whatever changes you want.
+
+## Where Can I See an Example of All This?
