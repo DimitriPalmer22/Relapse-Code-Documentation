@@ -1,10 +1,12 @@
 # Changing the way We Do the Game's Levels
 
-The way we've been doing levels is completely WRONG WRONG WRONG. That whole prefab thing caused us more problems than it solved.
+The way we've been doing levels is completely WRONG WRONG WRONG. Although it helped with Git management, that whole prefab system thing caused us more problems than it solved.
 
 - Unnecessarily large prefab files
 - Long saving times when making changes to a level prefab
-- Things not being overridden in the ApartmentBlockout scene that are 
+- Things being overridden in the ApartmentBlockout scene, but not the scene the designer was working in.
+- "Bro, who touched my prefab?"
+- etc.
 
 ## From Now On, Each Level is Going to Be Split up into Multiple Scenes
 ### Why Do This?
