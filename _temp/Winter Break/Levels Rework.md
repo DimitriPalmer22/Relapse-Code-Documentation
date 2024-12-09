@@ -51,8 +51,7 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 
 ### Links N Stuff
 - <https://www.youtube.com/watch?v=6-0zD9Xyu5c&ab_channel=SasquatchBStudios>
-- https://discussions.unity.com/t/additive-scene-loading-and-data-persistence/773457/2
-- https://www.youtube.com/watch?v=CQEqJ4TJzUk&ab_channel=SasquatchBStudios
-- https://www.youtube.com/watch?v=zObWVOv1GlE&ab_channel=Unity
-- https://docs.unity3d.com/2022.3/Documentation/Manual/occlusion-culling-scene-loading.html
-- 
+- <https://discussions.unity.com/t/additive-scene-loading-and-data-persistence/773457/2>
+- <https://www.youtube.com/watch?v=CQEqJ4TJzUk&ab_channel=SasquatchBStudios>
+- <https://www.youtube.com/watch?v=zObWVOv1GlE&ab_channel=Unity>
+- <https://docs.unity3d.com/2022.3/Documentation/Manual/occlusion-culling-scene-loading.html>
