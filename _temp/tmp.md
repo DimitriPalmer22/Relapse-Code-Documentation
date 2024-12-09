@@ -4,3 +4,6 @@
 	- We loved the monsters and stuff Mia made, but Franco didn't think it fit the art style. He wanted more support from us for that.
 - We need consistent naming conventions for the sake of organization
 -
+
+Workflow has been established
+- 

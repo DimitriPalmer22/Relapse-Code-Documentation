@@ -278,6 +278,8 @@ Literally every hero shooter.
 ## Valorant
 - <https://www.youtube.com/watch?v=0s97LxpDz48&ab_channel=DiamondLobbyValorant>
 
+### Other Links N Stuff
+
 - <https://discussions.unity.com/t/graphic-novel-style-shader/847955>
 - <https://discussions.unity.com/t/comic-book-shader/691128>
 - <https://www.youtube.com/watch?v=xAdB3OxpC7Y&ab_channel=GameDevGuide>
