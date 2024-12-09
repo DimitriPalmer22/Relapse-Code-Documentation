@@ -21,4 +21,11 @@ The way we've been doing levels is completely WRONG WRONG WRONG. Although it hel
 - Each person is going to have their own scene(s)
 - If you want to see what your scene looks like within the full level, just drag the other scenes into your scene real quick.
 	- MAKE SURE NOT TO MAKE ANY CHANGES TO ANYONE ELSES SCENE WHILE YOU ARE DOING THIS. Me personally, I collapse the other scenes in the hierarchy just so I don't accidentally do something stupid in one of the other scenes.
+- *NOTE*: when dragging in the other scenes, your scene SHOULD line 
 - ***To bake lighting / occlusion culling***, literally just drag in all the sub-scenes you want the lights / occlusion culling to apply to. Then bake normally. That's it. It *should* just work
+
+### Something to Keep in Mind
+- The sub-scenes for the level *should* only contain the level itself. 
+
+### How Do I Get the Player in My Level so I Can Test it out Real Quick?
+-
