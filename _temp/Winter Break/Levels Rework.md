@@ -41,7 +41,10 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 - If you want the player in your scene, you can create a copy of this "PersistentScene", drag it into your hierarchy, and then move the player around / make whatever changes you want.
 
 ## Also, the Player Prefab Changed, so You NEED that PersistentScene
-- I took all of that extra stuff off of the player
+- I took a lot of that extra stuff off of the player and put em in the "PersistentScene"
+- The UI
+- The Global Object
+- The Cameras
 
 ## Where Can I See an Example of All This?
 -
