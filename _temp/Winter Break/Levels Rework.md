@@ -33,7 +33,9 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 
 ### Something to Keep in Mind
 - The sub-scenes for the level *should* only contain the level itself.
-- Do not put the player in your sub-scene. It'll mess up the game once your sub-scene is loading
+- Do not put the player in your sub-scene. It'll mess up the game once your sub-scene is loaded
 
 ### How Do I Get the Player in My Level so I Can Test it out Real Quick?
--
+- In our new system, the player, the UI, and any manager scripts are now in a sub-scene called "PersistentScene"
+- This sub-scene should not be touched without reason.
+- If you want the player in your scene, you can create a copy of this 
