@@ -71,9 +71,9 @@ We don't have an actual new workflow solidified right not, but we're planning to
 
 Make sure the names are consistent
 
-ObjectTypePrefix_AssetName_Iteration
+AssetName_Suffix_Iteration
 
-- For example, the first version of a texture called RoofTiles would be named like: *Tex_RoofTiles_01*.
+- For example, the first version of a low poly model called RoofTiles would be named like: *RoofTiles_low_01*.
 	- The only exception to this would be the bones of a rigged character.
 
 | Object Type     | Suffix |
