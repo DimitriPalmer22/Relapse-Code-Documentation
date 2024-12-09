@@ -8,12 +8,12 @@
 
 ### Art Workflow
 - Alex (Concept Art) -> Check-in 1 -> 3D Artists (low - mid - high - UV) -> Check-in 2 -> Rylan (Texture) -> Check-in 3 -> Designers
-	- Depending on how Rylan feels, the otUV for him, or he UVs and textures
-	- He will be the texture artist for consistency's sake
+	- Depending on how Rylan feels, the other artists can UV for him, or he can do both UVs and textures
 
-### Do away with the Threads
-- Instead of individual threads, we have threads for groups of people working on a specific feature / level.
-	- For example, we have a thread for UI, a thread for monsters + monster animations.
+### Communication: Get Rid of the Threads
+- Instead of individual threads, we should have threads for groups of people working on a specific feature / level.
+	- For example, we can have a thread for UI. Alex, Robert, and Brian could be in there.
+	- This could help communication between group members / departments
 
-### Camera Locks for Small Cutscenes so that the Player Does not Miss Something
+### Convey Info to Player: Camera Locks for Small Cutscenes so that the Player Does not Miss Something
 - We need to make sure the player is looking at the right thing at the right time
