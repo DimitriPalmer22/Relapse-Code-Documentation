@@ -10,5 +10,6 @@
 - Up to Rylan: we can we UV for him, or he UVs and textures
 	- He will be the texture artist for consistency's sake
 
-### Do away with the threads
-- Instead of individual threads
+### Do away with the Threads
+- Instead of individual threads, we have threads for groups.
+	- For example, we have a thread for UI, a thread for monster + enemies.
