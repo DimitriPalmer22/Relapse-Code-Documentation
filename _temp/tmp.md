@@ -12,4 +12,5 @@
 
 ### Do away with the Threads
 - Instead of individual threads, we have threads for groups.
-	- For example, we have a thread for UI, a thread for monster + enemies.
+	- For example, we have a thread for UI, a thread for monsters + monster animations.
+- 
