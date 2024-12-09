@@ -51,4 +51,5 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 
 ### Links N Stuff
 - <https://www.youtube.com/watch?v=6-0zD9Xyu5c&ab_channel=SasquatchBStudios>
--
+- https://discussions.unity.com/t/additive-scene-loading-and-data-persistence/773457/2
+- 
