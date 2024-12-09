@@ -14,7 +14,10 @@ The way we've been doing levels is completely WRONG WRONG WRONG. Although it hel
 - A large level can be broken up into smaller, more manageable scenes. This makes performance in the editor itself better and allows for collaboration between level designers. This also allows for proper asynchronous level loading
 - Unity can have multiple scenes open at once in the editor.
 	- <https://youtu.be/6-0zD9Xyu5c?si=VFMHtA06wN21DsHn&t=583>
+- We can bake lights / occlusion culling for the entire level all at once, and the new lights / occlusion culling will show up in the individual scenes!
+	- No more baking lights in someone's prefab level AND the apartment level!
+
 - Each person is going to have their own scene(s)
 - If you want to see what your scene looks like within the full level, just drag the other scenes into your scene real quick.
-	- MAKE SURE NOT TO MAKE ANY CHANGES TO ANYONE ELSES SCENE WHILE YOU ARE DOING THIS. Me personally, I collapse the other scenes in the hierarchy just so I don't accidentally do something stupid.
+	- MAKE SURE NOT TO MAKE ANY CHANGES TO ANYONE ELSES SCENE WHILE YOU ARE DOING THIS. Me personally, I collapse the other scenes in the hierarchy just so I don't accidentally do something stupid in one of the other scenes.
 -
