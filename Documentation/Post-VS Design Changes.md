@@ -76,9 +76,8 @@ ObjectTypePrefix_AssetName_Iteration
 - For example, the first version of a texture called RoofTiles would be named like: *Tex_RoofTiles_01*.
 	- The only exception to this would be the bones of a rigged character.
 
-| Object Type     | Prefix |
+| Object Type     | Suffix |
 | --------------- | ------ |
-| Texture         | Txtr   |
 | Low Poly Model  | _low   |
 | High Poly Model | _high  |
 | Animation       | Anim   |
