@@ -5,9 +5,7 @@
 - We need consistent naming conventions for the sake of organization
 -
 
-### Workflow has been established
-- 3D artists make 3D models: high - low - mid
-- Alex (Concept) -> 3D Artists -> Rylan (UV / Tex) -> Designer
+### Workflow Has Been Established
+- Alex (Concept Art) -> Check 1 (Leadership) -> 3D Artists (low - mid - high - UV) -> Check 2 -> Rylan (Texture) -> Check 3 -> Designer
 - Up to Rylan: we can we UV for him, or he UVs and textures
 	- He will be the texture artist for consistency's sake
-- 
