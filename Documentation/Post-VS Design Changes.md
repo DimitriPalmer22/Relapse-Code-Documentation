@@ -61,8 +61,13 @@ We are changing the art style.
 
 ## New ART Workflow
 
-We don't have an actual new workflow solidified right not, but we're planning to have specific people only work on specific things.
-	For example, 1 person for texturing, 1 for hard-surface modeling
+- Poly count limit:
+	- Enviro assets
+		- 3K is like the absolute hard limit. Really and truly nothing environmental needs to be this high
+		- No more than 1-2k per environmental asset.
+		- It really depends, but we really want it to be lower
+
+- Alex (Concept Art) -> Check 1 (Leadership) -> 3D Artists (low - mid - high - UV) -> Check 2 -> Rylan (Texture) -> Check 3 -> Designer
 
 > [!Important]
 > NO MORE HI-POLYS. It makes everything slower for the design team. Also, If you're gonna do a high to low poly, keep the naming convention the same.
@@ -202,9 +207,6 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 ## New Workflow
 
 ### Art Workflow
-
-- Poly count limit: 3K is like the hard limit. No more than 1-2k per environmental asset. It really depends, but we really want it to be lower
-- Alex (Concept Art) -> Check 1 (Leadership) -> 3D Artists (low - mid - high - UV) -> Check 2 -> Rylan (Texture) -> Check 3 -> Designer
 
 Before we even start the favelas, we need to create some sort of test level that reflects how we want the real level to play.
 
