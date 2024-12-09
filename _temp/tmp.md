@@ -15,3 +15,4 @@
 	- For example, we have a thread for UI, a thread for monsters + monster animations.
 
 ### Camera Locks for Small Cutscenes so that the Player Does not Miss Something
+- We need to make sure the player is looking at the right thing at the right time
