@@ -201,7 +201,10 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 
 ## New Workflow
 
-### Art Wor
+### Art Workflow
+
+- Poly count limit: 3K
+- Alex (Concept Art) -> Check 1 (Leadership) -> 3D Artists (low - mid - high - UV) -> Check 2 -> Rylan (Texture) -> Check 3 -> Designer
 
 Before we even start the favelas, we need to create some sort of test level that reflects how we want the real level to play.
 
