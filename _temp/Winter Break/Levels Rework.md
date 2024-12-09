@@ -37,5 +37,5 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 
 ### How Do I Get the Player in My Level so I Can Test it out Real Quick?
 - In our new system, the player, the UI, and any manager scripts are now in a sub-scene called "PersistentScene"
-- This sub-scene should not be touched without reason.
-- If you want the player in your scene, you can create a copy of this 
+- This sub-scene should not be touched / used to test your scene out.
+- If you want the player in your scene, you can create a copy of this "PersistentScene", drag it into your hierarchy, and then move the player around / make whatever changes you want.
