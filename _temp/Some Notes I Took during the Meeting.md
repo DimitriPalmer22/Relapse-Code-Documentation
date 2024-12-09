@@ -15,5 +15,5 @@
 	- For example, we can have a thread for UI. Alex, Robert, and Brian could be in there.
 	- This could help communication between group members / departments
 
-### Convey Info to Player: Camera Locks for Small Cutscenes so that the Player Does not Miss Something
-- We need to make sure the player is looking at the right thing at the right time
+### Convey Info to Player: Make the Camera Lock onto Something We want Them to See
+- We need to make sure the player is looking at the right thing at the right time so they know what to do type shit
