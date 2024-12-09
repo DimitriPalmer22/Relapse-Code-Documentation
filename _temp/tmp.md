@@ -11,6 +11,7 @@
 	- He will be the texture artist for consistency's sake
 
 ### Do away with the Threads
-- Instead of individual threads, we have threads for groups.
+- Instead of individual threads, we have threads for groups of people working on a specific feature / level.
 	- For example, we have a thread for UI, a thread for monsters + monster animations.
-- 
+
+### Camera Locks for Small Cutscenes so that the Player Does not Miss Something
