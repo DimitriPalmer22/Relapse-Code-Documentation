@@ -1,7 +1,9 @@
-## Some notes I took during the meeting
-### Other notes
-- Fix the level design
-- In terms of the art style, we need to make sure the art lead & the rest of the leadership are on the same page for what looks good or bad in terms of the art style.
+# Some Notes I Took during the Meeting
+
+- All of the choices we make for the game NEED to be informed by the game's original concept / vision.
+	- Andre says he wants less people to have voices in what goes into the game. "Too many cooks in the kitchen" type shit
+### Other Notes
+- In terms of the art style, we need to make sure the art leads & the rest of the leadership are on the same page for what looks good or bad in terms of the art style.
 	- We loved the monsters and stuff Mia made, but Franco didn't think it fit the art style. He wanted more support from us for that.
 - We need consistent naming conventions for the sake of organization
 
