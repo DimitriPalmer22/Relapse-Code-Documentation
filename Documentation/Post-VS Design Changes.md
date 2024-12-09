@@ -65,7 +65,7 @@ We are changing the art style.
 	- Enviro assets
 		- 3K is like the absolute hard limit. Really and truly nothing environmental needs to be this high
 		- No more than 1-2k per environmental asset.
-		- It really depends, but we really want it to be lower
+		- It really depends, but we really want it to be WAYYYYY lower
 
 - Alex (Concept Art) -> Check 1 (Leadership) -> 3D Artists (low - mid - high - UV) -> Check 2 -> Rylan (Texture) -> Check 3 -> Designer
 
