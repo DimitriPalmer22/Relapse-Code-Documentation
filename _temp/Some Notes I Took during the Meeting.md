@@ -1,7 +1,9 @@
 # Some Notes I Took during the Meeting
 
+### Creative Direction
 - All of the choices we make for the game NEED to be informed by the game's original concept / vision.
-	- Andre says he wants less people to have voices in what goes into the game. "Too many cooks in the kitchen" type shit
+- Less people should have voices in what goes into the game. Right now we have "Too many cooks in the kitchen" type shit
+- We need to say "no" to more of the content that goes into the game. Not enough things were reworked
 ### Art Stuff
 - In terms of the art style, we need to make sure the art leads & the rest of the leadership are on the same page for what looks good or bad in terms of the art style.
 - We need consistent naming conventions for the sake of organization
