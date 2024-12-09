@@ -41,3 +41,4 @@ For the sake of keeping things clear, we're gonna call these smaller split-up sc
 - If you want the player in your scene, you can create a copy of this "PersistentScene", drag it into your hierarchy, and then move the player around / make whatever changes you want.
 
 ## Where Can I See an Example of All This?
+-
