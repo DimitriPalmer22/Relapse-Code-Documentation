@@ -79,8 +79,8 @@ ObjectTypePrefix_AssetName_Iteration
 | Object Type     | Prefix |
 | --------------- | ------ |
 | Texture         | Txtr   |
-| Low Poly Model  | LowP   |
-| High Poly Model | HigP   |
+| Low Poly Model  | _low   |
+| High Poly Model | _high  |
 | Animation       | Anim   |
 
 # Mechanics
@@ -295,4 +295,3 @@ Literally every hero shooter.
 - <https://www.youtube.com/watch?v=mNpC6nB4uFM&ab_channel=GabrielAguiarProd>
 - <https://www.reddit.com/r/Unity3D/comments/pom3ju/how_to_make_my_lighting_more_or_less_similar_to/#lightbox>
 -
-
