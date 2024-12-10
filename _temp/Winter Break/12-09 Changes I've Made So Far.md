@@ -27,5 +27,8 @@
 
 ### Powers
 - Create some of the powers that were written down in [Post-VS Design Changes](<../../Documentation/Post-VS Design Changes.md>)
-	- More meds need to be made for sure. 
-	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the mids
+	- More meds need to be made for sure.
+	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the meds are just buffs / heals
+- Add a charge meter or something to the UI to convey to the player how charged their current power is
+- Implement the new mechanics for the Toxicity Meter & Relapsing
+- 
