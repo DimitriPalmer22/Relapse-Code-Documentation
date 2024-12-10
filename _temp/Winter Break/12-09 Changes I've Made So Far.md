@@ -1,5 +1,5 @@
 # Changes I've Made So Far
-1. Added a cel shader to the lesion enemies
+1. Added a cel shader to the enemies
 2. New black outline shader around pretty much everything
 3. New fullscreen shader that puts dots in dark areas of the screen to give a halftone effect
 4. Implemented a new asynchronous level loading system that only loads parts of the level at a time & DRASTICALLY increases performance
