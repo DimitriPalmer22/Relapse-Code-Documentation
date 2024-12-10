@@ -44,7 +44,9 @@
 - A test level needs to be made.
 - This level will be representative of how we want combat / movement / overall pace of play to feel in the next level.
 - Large & open combat areas:
-	- walls to run on & plat
+	- walls to run on
+	- platforms to jump on
+	- enough enemies so the player can get overwhelmed & they NEED to use some type of power
 
 ### Polish / Other Stuff
 - Add a flinch or something when getting hit & remove that debugging tooltip whenever the player takes damage
