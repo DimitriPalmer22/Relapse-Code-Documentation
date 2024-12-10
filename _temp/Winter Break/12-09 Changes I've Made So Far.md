@@ -5,6 +5,7 @@
 	- Remade the apartment level using this system & it works!
 4. Made new lighting settings that result in smaller & lower-res light maps.
 	- Baked the remade apartment scenes + the LobbyFavela scene w/ these settings
+	- We should be using these settings to bake for our weekly builds, NOT the high quality settings we've been using
 5. Made a new post-processing volume & applied it to the remade apartment scenes + the LobbyFavela scene
 6. Increased compression on EACH of the environmental textures in the game
 	- this cut the build size in half after I also made the light maps lower res
@@ -43,7 +44,8 @@
 ### Test Level
 - A test level needs to be made.
 - This level will be representative of how we want combat / movement / overall pace of play to feel in the rest of the game.
-- Large & open combat areas:
+- Open combat areas:
+	- Big enough to use the movement mechanics
 	- walls to run on
 	- platforms to jump on
 	- enough enemies so the player can get overwhelmed & they NEED to use some type of power
