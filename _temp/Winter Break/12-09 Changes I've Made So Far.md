@@ -13,5 +13,13 @@
 	- Once I get all the movement mechanics working fully again & make a little test scene for it, the player's movement should feel much more tight
 9. Also increased the base speed of the player a teeny bit
 
-# Things I Plan to Do
-- Make a test scene that 
+# Things I Plan to Do (Not in any particular order)
+
+### Enemies
+- Fix the jank for the currently existing enemies
+	- Fix their navmesh stuff
+	- Fix how easy they are to go around / get out of sight
+	- Fix how easy it is to get out of range of their attacks
+	- Make them move faster / make them an actual threat for the player
+- Make new enemy types idk
+	- At least 1 type of enemy that  
