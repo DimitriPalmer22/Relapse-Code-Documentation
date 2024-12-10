@@ -21,5 +21,9 @@
 	- Fix how easy they are to go around / get out of sight
 	- Fix how easy it is to get out of range of their attacks
 	- Make them move faster / make them an actual threat for the player
-- Make new enemy types idk
-	- At least 1 type of enemy that  
+- Make new enemy types
+	- At least 1 type of enemy that is medium / long ranged.
+	- I want to make these so we can know how to build the favelas around them
+
+### Powers
+- Create some of the powers that were written down in the other document
