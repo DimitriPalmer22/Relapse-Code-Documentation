@@ -42,7 +42,7 @@
 
 ### Test Level
 - A test level needs to be made.
-- This level will be representative of how we want combat / movement / overall pace of play to feel in the next level.
+- This level will be representative of how we want combat / movement / overall pace of play to feel in the rest of the game.
 - Large & open combat areas:
 	- walls to run on
 	- platforms to jump on
@@ -53,4 +53,5 @@
 
 ### Bug Fixes
 - Controls don't disable while in menus
+- If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
 - Other bugs idk
