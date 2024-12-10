@@ -15,6 +15,11 @@
 
 # Things I Plan to Do (Not in Any Particular order)
 
+# Movement
+- In general, I want to increase the pace of play, so I will change the current movement system to reflect that.
+- Fix the wall-running
+- Fix going up & down slopes
+
 ### Enemies
 - Fix the jank for the currently existing enemies
 	- Fix their navmesh stuff
