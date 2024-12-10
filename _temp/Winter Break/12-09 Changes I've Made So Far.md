@@ -19,6 +19,8 @@
 - In general, I want to increase the pace of play, so I will change the current movement system to reflect that.
 - Fix the wall-running
 - Fix going up & down slopes
+- Do cool visual effects when moving
+	- FOV change when sprinting
 
 ### Enemies
 - Fix the jank for the currently existing enemies
@@ -26,6 +28,7 @@
 	- Fix how easy they are to go around / get out of sight
 	- Fix how easy it is to get out of range of their attacks
 	- Make them move faster / make them an actual threat for the player
+	- Use animation events to control when the enemy's hitboxes become active
 - Make new enemy types
 	- At least 1 type of enemy that is medium / long ranged.
 	- I want to make these so we can know how to build the favelas around them
@@ -36,4 +39,7 @@
 	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the meds are just buffs / heals
 - Add a charge meter or something to the UI to convey to the player how charged their current power is
 - Implement the new mechanics for the Toxicity Meter & Relapsing
-- 
+-
+
+# Other Stuff
+- Add a flinch or something when getting hit & remove that deb
