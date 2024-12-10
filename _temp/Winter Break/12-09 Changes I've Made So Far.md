@@ -7,4 +7,7 @@
 5. Made a new post-processing volume & applied it to the remade apartment scenes + the LobbyFavela scene
 6. Increased compression on EACH of the environmental textures in the game
 	- this cut the build size in half after I also made the light maps lower res
-7. 
+7. Added fog 
+8. Increased the gravity in the physics menu so the player feels WAYYYYYYY less floaty now.
+	- Once I get all the movement mechanics working fully again & make a little test scene for it, 
+9. Also increased the base speed of the player a teeny bit
