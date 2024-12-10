@@ -1,18 +1,19 @@
 # Changes I've Made So Far
-1. New black outline shader around pretty much everything
-2. New fullscreen shader that puts dots in dark areas of the screen to give a halftone effect
-3. Implemented a new asynchronous level loading system that only loads parts of the level at a time & DRASTICALLY increases performance
+1. Added a cel shader to the lesion enemies
+2. New black outline shader around pretty much everything
+3. New fullscreen shader that puts dots in dark areas of the screen to give a halftone effect
+4. Implemented a new asynchronous level loading system that only loads parts of the level at a time & DRASTICALLY increases performance
 	- Remade the apartment level using this system & it works!
-4. Made new lighting settings that result in smaller & lower-res light maps.
+5. Made new lighting settings that result in smaller & lower-res light maps.
 	- Baked the remade apartment scenes + the LobbyFavela scene w/ these settings
 	- We should be using these settings to bake for our weekly builds, NOT the high quality settings we've been using
-5. Made a new post-processing volume & applied it to the remade apartment scenes + the LobbyFavela scene
-6. Increased compression on EACH of the environmental textures in the game
+6. Made a new post-processing volume & applied it to the remade apartment scenes + the LobbyFavela scene
+7. Increased compression on EACH of the environmental textures in the game
 	- this cut the build size in half after I also made the light maps lower res
-7. Added fog
-8. Increased the gravity in the physics menu so the player feels WAYYYYYYY less floaty now.
+8. Added fog
+9. Increased the gravity in the physics menu so the player feels WAYYYYYYY less floaty now.
 	- Once I get all the movement mechanics working fully again & make a little test scene for it, the player's movement should feel much more tight
-9. Also increased the base speed of the player a teeny bit
+10. Also increased the base speed of the player a teeny bit
 
 # Things I Plan to Do (In no Particular order)
 
