@@ -13,7 +13,7 @@
 	- Once I get all the movement mechanics working fully again & make a little test scene for it, the player's movement should feel much more tight
 9. Also increased the base speed of the player a teeny bit
 
-# Things I Plan to Do (Not in any particular order)
+# Things I Plan to Do (Not in Any Particular order)
 
 ### Enemies
 - Fix the jank for the currently existing enemies
@@ -26,4 +26,6 @@
 	- I want to make these so we can know how to build the favelas around them
 
 ### Powers
-- Create some of the powers that were written down in the other document
+- Create some of the powers that were written down in [Post-VS Design Changes](<../../Documentation/Post-VS Design Changes.md>)
+	- More meds need to be made for sure. 
+	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the mids
