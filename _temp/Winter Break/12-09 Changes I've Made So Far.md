@@ -15,7 +15,7 @@
 
 # Things I Plan to Do (Not in Any Particular order)
 
-# Movement
+### Movement
 - In general, I want to increase the pace of play, so I will change the current movement system to reflect that.
 - Fix the wall-running
 - Fix going up & down slopes
@@ -39,7 +39,10 @@
 	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the meds are just buffs / heals
 - Add a charge meter or something to the UI to convey to the player how charged their current power is
 - Implement the new mechanics for the Toxicity Meter & Relapsing
--
 
-# Other Stuff
-- Add a flinch or something when getting hit & remove that deb
+### Polish / Other Stuff
+- Add a flinch or something when getting hit & remove that debugging tooltip whenever the player takes damage
+
+### Bug Fixes
+- Controls don't disable while in menus
+- Other bugs idk
