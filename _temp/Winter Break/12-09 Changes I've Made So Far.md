@@ -4,3 +4,7 @@
 	- Remade the apartment level using this system & it works!
 4. Made new lighting settings that result in smaller & lower-res light maps.
 	- Baked the remade apartment scenes + the LobbyFavela scene w/ these settings
+5. Made a new post-processing volume & applied it to the remade apartment scenes + the LobbyFavela scene
+6. Increased compression on EACH of the environmental textures in the game
+	- this cut the build size in half after I also made the light maps lower res
+7. 
