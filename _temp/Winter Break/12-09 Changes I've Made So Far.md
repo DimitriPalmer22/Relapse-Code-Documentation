@@ -57,4 +57,6 @@
 ### Bug Fixes
 - Controls don't disable while in menus
 - If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
+- Add the main menu back to the game
+- Fix that one "Relapsed!" screen bug that locks the game
 - Other bugs idk
