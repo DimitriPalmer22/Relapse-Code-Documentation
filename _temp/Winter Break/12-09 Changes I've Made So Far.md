@@ -13,7 +13,7 @@
 	- Once I get all the movement mechanics working fully again & make a little test scene for it, the player's movement should feel much more tight
 9. Also increased the base speed of the player a teeny bit
 
-# Things I Plan to Do (Not in Any Particular order)
+# Things I Plan to Do (In no Particular order)
 
 ### Movement
 - In general, I want to increase the pace of play, so I will change the current movement system to reflect that.
@@ -39,6 +39,12 @@
 	- At least one of the meds needs to be a movement power or something. People are getting the wrong idea that the meds are just buffs / heals
 - Add a charge meter or something to the UI to convey to the player how charged their current power is
 - Implement the new mechanics for the Toxicity Meter & Relapsing
+
+### Test Level
+- A test level needs to be made.
+- This level will be representative of how we want combat / movement / overall pace of play to feel in the next level.
+- Large & open combat areas:
+	- walls to run on & plat
 
 ### Polish / Other Stuff
 - Add a flinch or something when getting hit & remove that debugging tooltip whenever the player takes damage
