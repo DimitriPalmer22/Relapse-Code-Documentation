@@ -55,8 +55,9 @@
 - Add a flinch or something when getting hit & remove that debugging tooltip whenever the player takes damage
 
 ### Bug Fixes
-- Controls don't disable while in menus
-- If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
-- Add the main menu back to the game
-- Fix that one "Relapsed!" screen bug that locks the game
-- Other bugs idk
+- [ ] Controls don't disable while in menus
+- [ ] If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
+- [ ] Add the main menu back to the game
+- [ ] Fix that one "Relapsed!" screen bug that locks the game
+- [x] Fireball not hitting enemies in the lobby
+- [ ] Other bugs idk
