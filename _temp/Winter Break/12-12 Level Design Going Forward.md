@@ -29,6 +29,10 @@ Maybe make use of keys and locked doors to explore some nonlinear levels?
 - This can lead to problems where the player can possibly miss understanding a certain mechanic if they take one path vs another.
 - The player can also get lost if there is no obvious indication of progression.
 
+### Linear Parts of a Nonlinear Level
+
+We don't want our levels to completely be nonlinear because that would pretty much make it an open-world game, and we don't want that.
+
 # Levels as Teachers
 
 Through the game's level design, the player learns about the game's mechanics.
