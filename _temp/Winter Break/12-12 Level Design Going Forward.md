@@ -37,7 +37,10 @@ On the other hand, we also don't want our levels to be completely linear because
 
 So what do we do?
 
-We can use "Choke Points"
+We can use "***Choke Points***", which are sections that the player *HAS* to reach at some point, no matter which nonlinear path they take.
+
+We can use these choke points to teach the player about specific mechanics, make them interact with essential NPCs, and more!
+
 # Levels as Teachers
 
 Through the game's level design, the player learns about the game's mechanics.
