@@ -31,8 +31,13 @@ Maybe make use of keys and locked doors to explore some nonlinear levels?
 
 ### Linear Parts of a Nonlinear Level
 
-We don't want our levels to completely be nonlinear because that would pretty much make it an open-world game, and we don't want that.
+We don't want our levels to completely be nonlinear because that would pretty much make it an open-world game, and we don't want that. This would make it too difficult to control how the player learns / progresses through the game.
 
+On the other hand, we also don't want our levels to be completely linear because that would make the game boring.
+
+So what do we do?
+
+We can use "Choke Points"
 # Levels as Teachers
 
 Through the game's level design, the player learns about the game's mechanics.
