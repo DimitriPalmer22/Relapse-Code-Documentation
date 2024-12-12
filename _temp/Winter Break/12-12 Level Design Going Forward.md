@@ -14,3 +14,8 @@ So basically:
 
 - Gameplay gardens should be made FIRST so that we can get a solid understanding of how we want the game to play
 - Then we will implement the ideas from our gameplay gardens into the actual game.
+
+Once you want to actually make a level, you just stitch a few of these gameplay gardens together.
+
+
+# Non
