@@ -55,7 +55,7 @@
 - Add a flinch or something when getting hit & remove that debugging tooltip whenever the player takes damage
 
 ### Bug Fixes
-- [ ] Controls don't disable while in menus
+- [ ] Controls don't disable while in menus / create a more robust menu system
 - [ ] If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
 - [x] Add the main menu back to the game
 - [x] Clicking the start button twice on the main menu loads the game twice
