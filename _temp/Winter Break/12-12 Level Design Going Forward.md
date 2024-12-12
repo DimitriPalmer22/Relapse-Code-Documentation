@@ -41,6 +41,8 @@ We can use "***Choke Points***", which are sections that the player *HAS* to rea
 
 We can use these choke points to teach the player about specific mechanics, make them interact with essential NPCs, and more!
 
+Here's an example of how we could use nonlinear design along with choke points:
+
 # Levels as Teachers
 
 Through the game's level design, the player learns about the game's mechanics.
