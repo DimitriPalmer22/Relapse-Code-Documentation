@@ -36,5 +36,11 @@ Through the game's level design, the player learns about the game's mechanics.
 Whenever you have a mechanic / feature present in one of the levels, you, as a level designer, have to think about the game as a WHOLE.
 
 - Did the player learn about this mechanic / feature beforehand?
-- If not, am I teaching them about it right now?
+- If not, am I properly teaching them about it right now?
 - For how skilled I expect the player to be at this point in the game, are there too many features / mechanics being used at once right now?
+- Am I teaching the player too many mechanics / features in this part of the game / level?
+- Is the way I'm teaching the player about this mechanic / feature confusing???
+
+### Concept Graph
+
+When making a level, it is important to keep track of all the information / mechanics / features the player needs to know in order to complete the level.
