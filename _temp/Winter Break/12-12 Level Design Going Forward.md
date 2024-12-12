@@ -23,4 +23,7 @@ Once you want to actually make a level, you just stitch a few of these gameplay 
 
 When making a level, having it be so linear makes the level deadass boring. Giving the players MEANINGFUL options in how to approach your game makes it fun.
 
-Maybe 
+Maybe make use of keys and locked doors to explore some nonlinear levels?
+
+- BE CAREFUL WITH THIS.
+- This can lead to problems where the player can possibly miss understanding a certain mechanic if they take one path vs another.
