@@ -4,6 +4,11 @@ The overall idea of this document is that your game's gameplay should dictate ho
 
 # Gameplay Gardens
 
-Instead of making each level completely from scratch, we can make use of "***Gameplay Gardens***". 
+Instead of making each level completely from scratch, we can make use of "***Gameplay Gardens***".
 
-These are free spaces where you place different obstacles & objects that let you test and fine-tune your mechanics / 
+These are free spaces where you place different obstacles & objects that let you test and fine-tune your mechanics / bits of gameplay.
+
+So basically:
+
+- Gameplay gardens should be made FIRST so that we can get a solid understanding of how we want the game to play
+- Then we will implement the ideas from our gameplay gardens into the actual game.
