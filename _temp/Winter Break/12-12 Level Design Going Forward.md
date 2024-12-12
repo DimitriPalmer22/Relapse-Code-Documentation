@@ -65,3 +65,5 @@ When making a level, it is important to keep track of all the information / mech
 Some ***concepts*** are dependent on other concepts.
 
 Making a concept graph makes it very easy to visualize which concepts still need to be taught to the player.
+
+> Going back to the concept of [Gameplay Gardens](<#Gameplay Gardens>), we can make a gameplay garden for each of these concepts or groups of concepts.
