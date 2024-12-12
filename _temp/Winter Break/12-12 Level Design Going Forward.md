@@ -27,3 +27,10 @@ Maybe make use of keys and locked doors to explore some nonlinear levels?
 
 - BE CAREFUL WITH THIS.
 - This can lead to problems where the player can possibly miss understanding a certain mechanic if they take one path vs another.
+- The player can also get lost if there is no obvious indication of progression.
+
+# Levels as Teachers
+
+Through the game's level design, the player learns about the game's mechanics.
+
+Whenever you introduce 
