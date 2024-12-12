@@ -33,4 +33,8 @@ Maybe make use of keys and locked doors to explore some nonlinear levels?
 
 Through the game's level design, the player learns about the game's mechanics.
 
-Whenever you introduce 
+Whenever you have a mechanic / feature present in one of the levels, you, as a level designer, have to think about the game as a WHOLE.
+
+- Did the player learn about this mechanic / feature beforehand?
+- If not, am I teaching them about it right now?
+- For how skilled I expect the player to be at this point in the game, are there too many features / mechanics being used at once right now?
