@@ -44,3 +44,9 @@ Whenever you have a mechanic / feature present in one of the levels, you, as a l
 ### Concept Graph
 
 When making a level, it is important to keep track of all the information / mechanics / features the player needs to know in order to complete the level.
+
+"***Concepts***" can range from being able to interact with items to using powers to traverse the environment better.
+
+Some ***concepts*** are dependent on other concepts.
+
+Making a concept graph makes it very easy to visualize which concepts still need to be taught to the player.
