@@ -56,10 +56,10 @@
 
 ### Bug Fixes
 - [x] Controls don't disable while in menus / create a more robust menu system
-- [ ] Buggy time scale stuff when pausing the game via menus
+- [ ] Buggy time scale stuff when pausing the game via menus / Create a time scale manager
 - [ ] If you get a checkpoint on one part of the level & unload that part of the level, the player will respawn at the checkpoint but the level will still be unloaded
 - [x] Add the main menu back to the game
 - [x] Clicking the start button twice on the main menu loads the game twice
-- [ ] Fix that one "Relapsed!" screen bug that locks the game
+- [x] Fix that one "Relapsed!" screen bug that locks the game
 - [x] Fireball not hitting enemies in the lobby
 - [ ] Other bugs idk
