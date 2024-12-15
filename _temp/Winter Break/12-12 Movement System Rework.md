@@ -9,4 +9,4 @@ In this equation, force serves as our acceleration and fixedDeltaTime is the var
 
 Therefore, if we get the derivative of this equation, we get the following:
 
-$${force = constant}$$
+$${force = ???}$$
