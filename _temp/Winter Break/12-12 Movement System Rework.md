@@ -25,6 +25,7 @@ $${force = ???}$$
 - When the player starts wall running, they preserve some of the momentum they had before wall running
 - The player gradually falls down the wall as they wall run
 - Wall jumping force and angle have been adjusted slightly
+- The player can now properly sprint while wall rn
 
 ## The Short-Ranged Dash is Better
 - The player can now dash up ramps / stairs
