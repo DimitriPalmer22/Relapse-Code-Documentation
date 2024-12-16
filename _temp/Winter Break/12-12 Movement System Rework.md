@@ -12,10 +12,11 @@ Therefore, if we get the derivative of this equation, we get the following:
 $${force = ???}$$
 
 ## Changes
+- The player's movement is now completely physics based.
+- Instead of immediately setting the velocity whenever the player moves, the player accelerates and decelerates based on the force applied to them.
 
 ### Basic Movement
-- The player's movement is now completely physics based. Instead of immediately setting the velocity whenever the player moves, the player accelerates and decelerates based on the force applied to them.
-- The player no longer get stuck on the floor panels when moving
+- The player no longer gets stuck on the floor panels when moving
 
 ### Wall Running is no Longer Buttcheeks
 - The player can no longer wall run backwards
