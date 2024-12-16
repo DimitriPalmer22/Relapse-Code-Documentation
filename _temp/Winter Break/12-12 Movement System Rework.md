@@ -38,3 +38,9 @@ You can check out my changes in the Garden_Wallrunning scene.
 - The player does not stick to the floor properly when going down slopes too fast
 - Jumping as the player lands can sometimes make the player jump higher than usual
 - I'm pretty sure I fixed this, but there *was* a bug where dashing on probuilder slopes would cause the player to no-clip and fall into the slope
+
+## Things to Improve
+- The player may need more control midair
+- The dash may need to be slower, but longer
+- The wall run speed threshold may need to be higher
+- There needs to be a timer for how long the player is midair before clinging onto the wall
