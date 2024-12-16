@@ -11,6 +11,10 @@ Therefore, if we get the derivative of this equation, we get the following:
 
 $${force = ???}$$
 
+# Movement System Rework
+
+You can check out my changes in the Garden_Wallrunning scene.
+
 ## Changes
 - The player's movement is now completely physics based.
 - Instead of immediately setting the velocity whenever the player moves, the player accelerates and decelerates based on the force applied to them.
@@ -27,7 +31,7 @@ $${force = ???}$$
 - Wall jumping force and angle have been adjusted slightly
 - The player can now properly sprint while wall running
 
-## The Short-Ranged Dash is Better
+### The Short-Ranged Dash is Better
 - The player can now dash up ramps / stairs
 
 ## Known Bugs
