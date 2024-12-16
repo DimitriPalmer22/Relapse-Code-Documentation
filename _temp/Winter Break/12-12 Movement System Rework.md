@@ -14,7 +14,12 @@ $${force = ???}$$
 ### Changes
 - The player no longer get stuck on the floor panels when moving
 - The player's movement is now completely physics based. Instead of immediately setting the velocity whenever the player moves, the player accelerates and decelerates based on the force applied to them.
-- 
+- Wall running is no longer buttcheeks
+	- The player can no longer wall run backwards
+	- The player will automatically fall off the wall if they are not moving fast enough
+	- The player will not stick to walls if they are not fast enough
+	- When the player starts wall running, they preserve some of the momentum they had before wall running
+	- Wall jumping
 
 ### Known Bugs
 - The player does not stick to the floor properly when going down slopes too fast
