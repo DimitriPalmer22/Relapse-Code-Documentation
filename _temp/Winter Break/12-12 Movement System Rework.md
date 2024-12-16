@@ -19,7 +19,8 @@ $${force = ???}$$
 	- The player will automatically fall off the wall if they are not moving fast enough
 	- The player will not stick to walls if they are not fast enough
 	- When the player starts wall running, they preserve some of the momentum they had before wall running
-	- Wall jumping
+	- The player gradually falls down the wall as they wall run
+	- Wall jumping force and angle have been adjusted slightly
 
 ### Known Bugs
 - The player does not stick to the floor properly when going down slopes too fast
