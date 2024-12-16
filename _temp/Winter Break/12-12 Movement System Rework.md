@@ -10,3 +10,10 @@ In this equation, force serves as our acceleration and fixedDeltaTime is the var
 Therefore, if we get the derivative of this equation, we get the following:
 
 $${force = ???}$$
+
+### Changes
+- 
+
+### Known Bugs
+- The player does not stick to the floor properly when going down slopes too fast
+- 
