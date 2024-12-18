@@ -10,4 +10,13 @@ Here are some ideas I got:
 - Some enemies can have a teleport ability than unpredictably moves them closer to the player / behind the player somewhere.
 - Some enemies have a dodge / counterattack ability where when they are shot at, they have a chance to "dodge" that attack. If the enemy dodges the bullet, they negate the damage from that shot and dash toward the player.
 
+Things like these would make crowds of enemies much more dangerous. Since that is the case, we would have more room for crowd control powers / abilities for the player to use.
+
+Think of powers like
+- AOE knockback
+- AOE stun
+- AOE slow
+- AOE damage
+- Make the enemies focus 
+
 
