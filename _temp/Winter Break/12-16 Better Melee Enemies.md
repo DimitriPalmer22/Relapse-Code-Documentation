@@ -9,3 +9,5 @@ Enemies are more of a threat now.
 - Animation Events for when EXACTLY to enable / disable each hand's hitbox during the different attack animations
 - Animation Events for when EXACTLY to enable / disable movement during the different attack animations
 - If you are within a certain range of the enemies, you get detected no matter what. This range has been increased.
+
+# Ideas for more interesting 
