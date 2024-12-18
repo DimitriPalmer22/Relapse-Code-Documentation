@@ -14,8 +14,10 @@ Enemies are more of a threat now.
 
 Right now, the melee enemies are kinda boring to fight and they're still not that much of a threat. They just chase the player around until the player guns them down.
 
-I looked up ways to make melee enemies more interesting for FPS games and came across [this Reddit thread](https://www.reddit.com/r/truegaming/comments/a0ch72/how_should_fps_games_approach_melee_enemies/).
+I looked up ways to make melee enemies more interesting for FPS games and came across [this Reddit thread](https://www.reddit.com/r/truegaming/comments/a0ch72/how_should_fps_games_approach_melee_enemies/). One of the main themes is that more maneuverability is good for melee enemies.
 
 Here are some ideas I got:
-- Some enemies can have an overdrive mode where they move WAY faster than usual and close the distance between them and the player
-- Some enemies can have a teleport ability than unpredictably moves them closer to the player / behind th
+
+- Some enemies can have an overdrive mode where they temporarily run WAY faster than usual and close the distance between them and the player
+- Some enemies can have a teleport ability than unpredictably moves them closer to the player / behind the player somewhere.
+- Some enemies have a dodge / counterattack ability where when they are shot at, they have a chance to become temporarily in
