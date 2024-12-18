@@ -1,10 +1,12 @@
 # Ideas for More Interesting Melee Enemies
 
-Right now, the melee enemies are kinda boring to fight and they're still not that much of a threat. They just chase the player around until the player guns them down.
+Right now, the melee enemies are kinda boring to fight and even with the buffs & bug fixes I did, they're still not that much of a threat. They just chase the player around until the player guns them down.
 
-I looked up ways to make melee enemies more interesting for FPS games and came across [this Reddit thread](https://www.reddit.com/r/truegaming/comments/a0ch72/how_should_fps_games_approach_melee_enemies/). One of the main themes is that more maneuverability is good for melee enemies.
+I looked up ways to make melee enemies more interesting for FPS games and came across [this Reddit thread](https://www.reddit.com/r/truegaming/comments/a0ch72/how_should_fps_games_approach_melee_enemies/).
 
-Here are some ideas I got:
+- One of the main themes from this thread is that more maneuverability is good for melee enemies.
+
+### Here Are Some Ideas I Got
 
 - Some enemies can have an overdrive mode where they temporarily run WAY faster than usual and close the distance between them and the player
 - Some enemies can have a teleport ability than unpredictably moves them closer to the player / behind the player somewhere.
@@ -22,3 +24,5 @@ Think of powers like
 - AOE damage
 - Make the enemies think that one of the enemies is a player so they attack them instead.
 - etc.
+
+We can also have powers that focus on evasion
