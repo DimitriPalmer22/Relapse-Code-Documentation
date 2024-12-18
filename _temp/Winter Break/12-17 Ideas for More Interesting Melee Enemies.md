@@ -26,3 +26,9 @@ Think of powers like
 - etc.
 
 We can also have powers that focus on evasion
+
+- Make the player invisible / make a smoke bomb
+- Launch the player into the air so they can relocate
+- Create a dummy that the enemies attack instead of the player
+- Ability that temporarily increases the player's movement speed
+- 
