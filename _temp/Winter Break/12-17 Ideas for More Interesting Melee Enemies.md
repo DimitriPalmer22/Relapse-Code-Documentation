@@ -31,3 +31,5 @@ Things like these would make crowds of enemies much more dangerous. Since that i
 - etc.
 
 If we lean more into the whole "tripping balls" theme of the game, then we can be really creative with what these powers can do.
+
+<https://www.reddit.com/r/gamedev/comments/wofi7p/how_do_i_stop_the_feet_from_sliding/>
