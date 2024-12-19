@@ -1,4 +1,4 @@
- '# Ideas for More Interesting Melee Enemies
+# Ideas for More Interesting Melee Enemies
 
 Right now, the melee enemies are kinda boring to fight and even with the buffs & bug fixes I did, they're still not that much of a threat. They just chase the player around until the player guns them down.
 
