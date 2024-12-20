@@ -2,6 +2,8 @@
 - [x] Dash as a power
 - [x] Fix jumping on slopes
 - [x] Stop wall jumping as soon as you touch a wall
+- [ ] Grab an enemy's attention when shooting them
+- [ ] Support for multiple interactable scripts on 1 object
 - [ ] Ranged Enemy
 - [ ] Script to control the PP volume so I can add dynamic PP effects
 	- [ ] Add a vignette that shows up when the power is done charging
