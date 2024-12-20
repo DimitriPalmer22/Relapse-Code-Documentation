@@ -2,7 +2,7 @@
 - [x] Dash as a power
 - [x] Fix jumping on slopes
 - [x] Stop wall jumping as soon as you touch a wall
-- [ ] Flinch not working in build
+- [ ] All dynamic cam effects not working in build
 - [ ] Grab an enemy's attention when shooting them
 - [ ] Enemies have different speed for unaware & aware states
 - [ ] Support for multiple interactable scripts on 1 object
