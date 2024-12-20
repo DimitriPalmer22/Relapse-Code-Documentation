@@ -3,6 +3,7 @@
 - [x] Fix jumping on slopes
 - [x] Stop wall jumping as soon as you touch a wall
 - [ ] Grab an enemy's attention when shooting them
+- [ ] Enemies have different speed for unaware & aware states
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] Find some way to convey invincible state to the player
 - [ ] Ranged Enemy
