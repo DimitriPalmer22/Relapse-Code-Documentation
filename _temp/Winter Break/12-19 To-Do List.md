@@ -1,6 +1,7 @@
 
 - [x] Dash as a power
-- [ ] Fix jumping on slopes
+- [x] Fix jumping on slopes
+- [ ] Stop wall jumping as soon as you touch a wall
 - [ ] Script to control the PP volume so I can add dynamic PP effects
 	- [ ] Add a vignette that shows up when the power is done charging
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
