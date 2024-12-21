@@ -5,7 +5,7 @@
 - [x] All dynamic cam effects not working in build
 - [x] Grab an enemy's attention when shooting them
 - [x] Player controller spring feels too squishy in the apartment level because THE ENTIRE THING IS SLANTED. So, have the slope fix be proportional to the slope of the surface
-- [ ] Enemies have different speed for unaware & aware states
+- [x] Enemies have different speed for unaware & aware states
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] Find some way to convey invincible state to the player
 - [ ] Ranged Enemy
