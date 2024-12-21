@@ -7,9 +7,9 @@
 - [x] Player controller spring feels too squishy in the apartment level because THE ENTIRE THING IS SLANTED. So, have the slope fix be proportional to the slope of the surface
 - [x] Enemies have different speed for unaware & aware states
 - [x] Find some way to convey invincible state to the player
-- [ ] Ranged Enemy
 - [ ] Script to control the PP volume so I can add dynamic PP effects
 	- [ ] Add a vignette that shows up when the power is done charging
+- [ ] Ranged Enemy
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [ ] Visual Effects / indication for when powers are done charging
