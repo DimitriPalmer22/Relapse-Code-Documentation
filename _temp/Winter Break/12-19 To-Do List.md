@@ -6,7 +6,7 @@
 - [x] Grab an enemy's attention when shooting them
 - [x] Player controller spring feels too squishy in the apartment level because THE ENTIRE THING IS SLANTED. So, have the slope fix be proportional to the slope of the surface
 - [x] Enemies have different speed for unaware & aware states
-- [ ] Find some way to convey invincible state to the player
+- [x] Find some way to convey invincible state to the player
 - [ ] Ranged Enemy
 - [ ] Script to control the PP volume so I can add dynamic PP effects
 	- [ ] Add a vignette that shows up when the power is done charging
@@ -15,6 +15,6 @@
 - [ ] Visual Effects / indication for when powers are done charging
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
-- [ ] Find a solution for showing names on UI
+- [ ] Find a solution for showing power names on UI
 - [ ] More enemy abilities
 - [ ] Support for multiple interactable scripts on 1 object
