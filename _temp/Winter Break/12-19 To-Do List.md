@@ -9,6 +9,7 @@
 - [x] Find some way to convey invincible state to the player
 - [x] Script to control the PP volume so I can add dynamic PP effects
 	- [x] Add a vignette that shows up when the power is done charging
+- [x] Fix enemy sliding as much as I can
 - [ ] Ranged Enemy
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
