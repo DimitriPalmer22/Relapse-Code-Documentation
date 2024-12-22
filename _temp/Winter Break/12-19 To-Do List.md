@@ -12,6 +12,14 @@
 - [x] Fix enemy sliding as much as I can
 - [x] Ranged Enemy
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
+- [ ] Support for different types of tooltips (they'll use different prefabs)
+	- [ ] Objective
+		- [ ] New Objective
+		- [ ] Objective Complete
+	- [ ] Money
+	- [ ] Tutorial
+	- [ ] General Information
+	- [ ] Debug
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [ ] Visual Effects / indication for when powers are done charging
 - [ ] Charge Meter on UI
