@@ -11,6 +11,7 @@
 	- [x] Add a vignette that shows up when the power is done charging
 - [x] Fix enemy sliding as much as I can
 - [x] Ranged Enemy
+- [ ] Replace animator for muzzle flash w/ a visual effect graph
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
