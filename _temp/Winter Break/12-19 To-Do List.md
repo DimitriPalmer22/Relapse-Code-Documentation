@@ -20,6 +20,7 @@
 	- [ ] Tutorial
 	- [ ] General Information
 	- [ ] Debug
+- [ ] Consolidate pistol & shotgun scripts
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [ ] Visual Effects / indication for when powers are done charging
 - [ ] Charge Meter on UI
