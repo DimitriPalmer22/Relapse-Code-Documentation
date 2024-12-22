@@ -20,7 +20,7 @@
 	- [ ] Tutorial
 	- [ ] General Information
 	- [ ] Debug
-- [ ] ~~Enemy tinting~~ sVisual Effects for enemy status effects
+- [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [ ] Visual Effects / indication for when powers are done charging
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
