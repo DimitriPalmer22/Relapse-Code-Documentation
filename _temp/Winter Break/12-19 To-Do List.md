@@ -13,6 +13,7 @@
 - [x] Ranged Enemy
 - [x] Replace animator for muzzle flash w/ a visual effect graph
 - [x] Time scale manager
+- [ ] Variable jump height
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
