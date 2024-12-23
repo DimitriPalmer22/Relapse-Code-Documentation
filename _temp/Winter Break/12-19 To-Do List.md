@@ -32,3 +32,5 @@
 - [ ] Find a solution for showing power names on UI
 - [ ] More enemy abilities
 - [ ] Support for multiple interactable scripts on 1 object
+- [ ] More responsive button input for menus
+	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
