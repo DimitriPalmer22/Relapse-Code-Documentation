@@ -8,7 +8,12 @@
 - When walking / running into a slide, a constant force added to the player at the start of the slide to push them forward
 - When jumping into a slide, the slide script takes into consideration the player's y velocity as they land and proportionally adds a force to push the player forward.
 - The player will automatically stop sliding once their velocity falls below a certain amount
+- Press the slide button again to stop sliding
+- You can also jump directly out of a slide
+	- Jumping out of a slide slightly preserves your momentum for a short time, so you can jump -> slide -> jump to move around faster
 - NOTE: the slide pushes the player in the direction they are already going, NOT the direction they are facing. So, they can theoretically be looking / shooting left while sliding right
 
 
 ### Bugs / Things to be added
+- Sliding down slopes does not continuously accelerate the player slide yet
+- 
