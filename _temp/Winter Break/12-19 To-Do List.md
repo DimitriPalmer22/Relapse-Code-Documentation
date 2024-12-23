@@ -14,6 +14,7 @@
 - [x] Replace animator for muzzle flash w/ a visual effect graph
 - [x] Time scale manager
 - [ ] Variable jump height
+- [ ] Prefire the jump (Make it override the slide & vice versa)
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
@@ -34,5 +35,5 @@
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
-	- [ ] Im ngl i need to make another input action
-- [ ] 
+	- [ ] Im ngl i need to make another input action for UI
+- [ ]
