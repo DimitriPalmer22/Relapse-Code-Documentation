@@ -19,4 +19,5 @@
 
 ### Bugs / Things to Be Added
 - Sliding down slopes does not continuously accelerate the player slide yet
+- The player does not get shorter when sliding yet
 - Other things idk
