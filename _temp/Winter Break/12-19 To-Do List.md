@@ -34,3 +34,5 @@
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
+	- [ ] Im ngl i need to make another input action
+- [ ] 
