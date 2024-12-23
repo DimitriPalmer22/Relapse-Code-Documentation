@@ -13,9 +13,9 @@
 - [x] Ranged Enemy
 - [x] Replace animator for muzzle flash w/ a visual effect graph
 - [x] Time scale manager
-- [ ] Hard speed limit
-- [ ] Variable jump height
+- [x] Hard speed limit
 - [ ] Prefire the jump (Make it override the slide & vice versa)
+- [ ] Variable jump height
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
