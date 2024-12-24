@@ -26,7 +26,7 @@
 	- [ ] Tutorial
 	- [ ] General Information
 	- [ ] Debug
-- [ ] Consolidate pistol & shotgun scripts
+- [x] Consolidate pistol & shotgun scripts
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [x] Visual Effects / indication for when powers are done charging
 	- [ ] Different VFX for each power
