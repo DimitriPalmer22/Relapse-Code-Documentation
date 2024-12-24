@@ -15,6 +15,8 @@
 - [x] Time scale manager
 - [x] Hard speed limit
 - [x] Prefire the jump (Make it override the slide & vice versa)
+- [x] Bullet hole code
+- [x] Bullet trail code
 - [ ] Slide down slopes
 - [ ] Variable jump height
 - [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
