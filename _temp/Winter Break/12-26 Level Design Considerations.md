@@ -9,7 +9,8 @@ For gameplay to remain consistent across the whole level, a couple things need t
 ### Movement System Sections
 - Jump Lengths.
 	- If the player is supposed to jump across a specific section of the level, having that size be consistent is a good way for the player to realize they are supposed to jump over something.
-- 
+-
 - Wall-runnable / Wall-slidable surfaces
 	- The appearance of wall-runnable surfaces needs to be consistent in terms of size and shape.
-	- The layout of the walls the player is supposed to jump 
+	- The layout of the walls the player is supposed to jump from. What I mean is, if a player reaches a wall-running segment where they need to jump from wall to wall, then the distances of the walls between each other and the lengths of each wall should be about the same between all instances of these segments.
+	- Also, the player *can* use wall-jumping to scale walls vertically even more so than they already do.
