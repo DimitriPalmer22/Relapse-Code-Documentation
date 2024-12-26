@@ -18,3 +18,10 @@ For gameplay to remain consistent across the whole level, a couple things need t
 	- The layout of the walls the player is supposed to jump from. What I mean is, if a player reaches a wall-running segment where they need to jump from wall to wall, then the distances of the walls between each other and the lengths of each wall should be about the same between all instances of these segments.
 	- Also, the player *can* use wall-jumping to scale walls vertically even more so than they already do. There are values on the player wall-running script we can play with to make them wall-jump higher / further.
 	- *ALSO*, the way we, the developers, implement wall-running needs to be consistent across all sections that require it. For objects that can be wall-run on, we should not just make the model of the object the wall-run layer and call it a day. This leads to quirks in the wall-running system. What we should be doing is putting invisible box colliders as children of these objects and making them the wall layer. This way, we get consistently smooth wall-running.
+
+## The Anatomy of a Combat Encounter
+
+Making combat arenas is hard and can take a lot of time. So, instead of making *MORE* combat arenas to fill out the level, we can increase the amount of time the player spends in a combat arena.
+
+### Making Combat Arenas Take Longer
+-
