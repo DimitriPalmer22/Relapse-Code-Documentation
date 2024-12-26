@@ -29,6 +29,7 @@ Making combat arenas is hard and can take a lot of time. The worst part about th
 	- finding a key to open a specific door
 	- having to interact with multiple items in the area to progress
 	- having very simple puzzles in the game that need to be solved to progress
+- It should be noted that the objective of the level should be clearly stated to the player so they aren't aimlessly shooting at enemies.
 - We can also introduce waves of enemies in the combat arenas instead of just one set of enemies that spawn in.
 	- For example, the player walks into a combat arena and clears all the enemies that are initially there. Then, the player interacts with some item, and all of a sudden, a completely new set of enemies spawn in. This can be done multiple times in a single combat arena depending on what the arena wants from the player.
-- We can also have enemies spawn indefinitely until the player completes a specific objective in the area. This e
+- We can also have enemies spawn indefinitely until the player completes a specific objective in the area. This ensures that the challenge of the game stays consistent and the player is always on their toes.
