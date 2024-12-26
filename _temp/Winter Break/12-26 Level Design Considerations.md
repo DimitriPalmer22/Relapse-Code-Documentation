@@ -21,7 +21,12 @@ For gameplay to remain consistent across the whole level, a couple things need t
 
 ## The Anatomy of a Combat Encounter
 
-Making combat arenas is hard and can take a lot of time. So, instead of making *MORE* combat arenas to fill out the level, we can increase the amount of time the player spends in a combat arena.
+Making combat arenas is hard and can take a lot of time. The worst part about this is that the player can probably clear a combat situation in like 30 seconds if it just has a bunch of enemies placed around. So, instead of making *MORE* combat arenas to fill out the level, we can increase the amount of time the player spends in each combat arena.
 
 ### Making Combat Arenas Take Longer
--
+- Have mini-objectives the player needs to complete in a combat area to progress.
+- This can mean:
+	- finding a key to open a specific door
+	- having to interact with multiple items in the area to progress
+	- having very simple puzzles in the game that need to be solved to progress
+- 
