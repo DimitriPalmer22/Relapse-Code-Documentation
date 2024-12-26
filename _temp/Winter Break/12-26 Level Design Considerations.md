@@ -5,6 +5,7 @@ For gameplay to remain consistent across the whole level, a couple things need t
 ### Architecture
 - Floor height across all buildings.
 	- The lesion enemies are approximately 4 Unity Units tall, so each floor of each building needs to be *AT LEAST* this tall.
+	- So, the floor would be 1 unit tall, the walls would be 4 units tall, and the ceiling would be 1 unit tall for a total of 6 units.
 - Cover objects in the combat areas need to be consistently sized, spaced, and arranged between combat areas.
 
 ### Movement System Sections
