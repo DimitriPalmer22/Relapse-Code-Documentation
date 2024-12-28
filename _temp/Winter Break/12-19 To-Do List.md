@@ -46,4 +46,5 @@
 
 ###### Keeping Player Information between States
 - [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
-- [ ] Whenever a scene is loaded, have a script check to s
+- [ ] Whenever a scene is loaded, have a script check to see if an instance of this data exists. If so, apply it to the player. Otherwise, keep the player's data as is.
+- [ ] When the player wants to SAVE the game, this script gets serialized
