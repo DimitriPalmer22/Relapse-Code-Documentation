@@ -15,7 +15,11 @@
 - Current ammo count
 
 ### Inventory
-- Current inventory items & counts
+- Current inventory entries
+
+### Movement
+- Whether each movement module is activated
+
 ## Overall Game State
 
 ## Settings
