@@ -42,7 +42,7 @@
 
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
-- [ ] Find a solution for showing power names on UI
+- [ ] Find a solution for showing power names on UI. Make a prefab that holds a TMP_Text object w/ the desired text on it. Instantiate this / copy its settings over whenever a power is selected
 
 ###### Keeping Player Information between States
 - [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
