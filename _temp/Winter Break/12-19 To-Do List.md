@@ -19,9 +19,9 @@
 - [x] Bullet trail code
 - [ ] Slide down slopes
 - [ ] Variable jump height
-- [ ] Fix the wall running 
+- [ ] Fix the wall running
 	- [ ] only the left and right rays detect if the player is wall running or not right now
-	- [ ] Make wall-running less sensit
+	- [ ] Make wall-running less sensitive. Make it so that the player's velocity has to be going into the wall somewhat for the player to wall-run (use dot product & angles)
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
 		- [ ] New Objective
