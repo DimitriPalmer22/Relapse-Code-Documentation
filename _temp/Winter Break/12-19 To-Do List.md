@@ -19,7 +19,9 @@
 - [x] Bullet trail code
 - [ ] Slide down slopes
 - [ ] Variable jump height
-- [ ] Fix the wall running (only the left and right rays detect if the player is wall running or not right now)
+- [ ] Fix the wall running 
+	- [ ] only the left and right rays detect if the player is wall running or not right now
+	- [ ] Make wall-running less sensit
 - [ ] Support for different types of tooltips (they'll use different prefabs)
 	- [ ] Objective
 		- [ ] New Objective
@@ -38,7 +40,6 @@
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
-- [ ]
 
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
