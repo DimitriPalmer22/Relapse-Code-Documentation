@@ -8,6 +8,7 @@
 
 ### Powers
 - Currently equipped powers
+- Current power index
 - Power tokens?
 
 ### Weapons
