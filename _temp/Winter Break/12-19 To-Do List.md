@@ -43,3 +43,7 @@
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
 - [ ] Find a solution for showing power names on UI
+
+###### Keeping Player Information between States
+- [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
+- [ ] Whenever a scene is loaded, have a script check to s
