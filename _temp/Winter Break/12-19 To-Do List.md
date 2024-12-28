@@ -30,14 +30,16 @@
 	- [ ] Debug
 - [x] Consolidate pistol & shotgun scripts
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
+- [ ] Visual Effects for when enemies are hit
 - [x] Visual Effects / indication for when powers are done charging
 	- [ ] Different VFX for each power
-- [ ] Charge Meter on UI
-- [ ] Cooldown Meter on UI (Make panel darker or something)
-- [ ] Find a solution for showing power names on UI
 - [ ] More enemy abilities
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
 - [ ]
+
+- [ ] Charge Meter on UI
+- [ ] Cooldown Meter on UI (Make panel darker or something)
+- [ ] Find a solution for showing power names on UI
