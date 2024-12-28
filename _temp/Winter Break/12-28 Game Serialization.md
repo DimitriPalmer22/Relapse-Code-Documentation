@@ -11,7 +11,11 @@
 - Power tokens?
 
 ### Weapons
-- 
+- Currently equipped weapon
+- Current ammo count
+
+### Inventory
+- Current inventory items & counts
 ## Overall Game State
 
 ## Settings
