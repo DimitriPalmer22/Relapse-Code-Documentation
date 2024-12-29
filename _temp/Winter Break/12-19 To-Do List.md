@@ -59,6 +59,7 @@
 	- [ ] Tutorial
 	- [ ] General Information
 	- [ ] Debug
+- [ ] World space UI element for displaying selected item text. (instead of just basic text on the screen)
 ###### Keeping Player Information between States
 - [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
 - [ ] Whenever a scene is loaded, have a script check to see if an instance of this data exists. If so, apply it to the player. Otherwise, keep the player's data as is.
