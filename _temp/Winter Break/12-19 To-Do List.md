@@ -17,19 +17,13 @@
 - [x] Prefire the jump (Make it override the slide & vice versa)
 - [x] Bullet hole code
 - [x] Bullet trail code
-- [ ] Slide down slopes
-- [ ] Variable jump height
+
+- [ ] ~Slide down slopes
+- [ ] ~Variable jump height
 - [ ] Fix the wall running
 	- [ ] only the left and right rays detect if the player is wall running or not right now
 	- [ ] Make wall-running less sensitive. Make it so that the player's velocity has to be going into the wall somewhat for the player to wall-run (use dot product & angles)
-- [ ] Support for different types of tooltips (they'll use different prefabs)
-	- [ ] Objective
-		- [ ] New Objective
-		- [ ] Objective Complete
-	- [ ] Money
-	- [ ] Tutorial
-	- [ ] General Information
-	- [ ] Debug
+
 - [x] Consolidate pistol & shotgun scripts
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
 - [ ] Visual Effects for when enemies are hit
@@ -44,7 +38,14 @@
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
 - [ ] Find a solution for showing power names on UI. Make a prefab that holds a TMP_Text object w/ the desired text on it. Instantiate this / copy its settings over whenever a power is selected
-
+- [ ] Support for different types of tooltips (they'll use different prefabs)
+	- [ ] Objective
+		- [ ] New Objective
+		- [ ] Objective Complete
+	- [ ] Money
+	- [ ] Tutorial
+	- [ ] General Information
+	- [ ] Debug
 ###### Keeping Player Information between States
 - [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
 - [ ] Whenever a scene is loaded, have a script check to see if an instance of this data exists. If so, apply it to the player. Otherwise, keep the player's data as is.
