@@ -58,6 +58,9 @@
 - [x] Also, fix the loading in the apartment scene
 
 ###### Sound
+
+<https://www.youtube.com/watch?v=DU7cgVsU2rM&ab_channel=SasquatchBStudios>
+
 - [x] Sound Mixing
 - [x] Might have to completely remove the sound manager script
 - [x] Instead, have several audio sources on the player that play specific sounds. This way, I can control which sounds are playing at any given time and which audio source they play from
