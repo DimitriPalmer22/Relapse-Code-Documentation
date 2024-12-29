@@ -35,12 +35,14 @@
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
-- [ ] Instead of having man
+- [ ] Instead of having menus pop up, have them fade in and out.
+- [ ] Also, transition menus to having an active flag in them
 - [ ] Black screen overlay for when
 	- [x] the player dies
 	- [ ] the player respawns
 - [ ] Some type of death animation / ragdoll
 - [ ] Disable player controls when dying
+- [ ] Shake screen while relapsing
 
 ###### UI
 - [ ] Charge Meter on UI
