@@ -36,7 +36,7 @@
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
-- [ ] Instead of having menus pop up, have them fade in and out.
+- [x] Instead of having menus pop up, have them fade in and out.
 - [ ] Also, transition menus to having an active flag in them
 - [ ] Black screen overlay for when
 	- [x] the player dies
