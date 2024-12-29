@@ -53,4 +53,10 @@
 - [ ] When the player wants to SAVE the game, this script gets serialized
 - [x] Also, fix the loading in the apartment scene
 
+###### Sound
 - [ ] Sound Mixing
+- [ ] Might have to completely remove the sound manager script
+- [ ] Instead, have several audio sources on the player that play specific sounds. This way, I can control which sounds are playing at any given time and which audio source they play from
+- [ ] Play sound when enemies are damaged
+- [ ] Play sound when player is damaged
+- [ ] Play sound when enemy dies
