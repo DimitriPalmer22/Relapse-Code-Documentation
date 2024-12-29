@@ -34,7 +34,8 @@
 - [ ] More enemy abilities
 - [ ] Support for multiple interactable scripts on 1 object
 - [ ] More responsive button input for menus
-	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
+	- [x] Back button
+	- [ ] menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
 - [x] Instead of having menus pop up, have them fade in and out.
 - [ ] Also, transition menus to having an active flag in them
