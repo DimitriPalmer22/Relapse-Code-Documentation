@@ -26,7 +26,7 @@
 
 - [x] Consolidate pistol & shotgun scripts
 - [ ] ~~Enemy tinting~~ Visual Effects for enemy status effects
-- [ ] Visual Effects for when enemies are hit
+- [x] Visual Effects for when enemies are hit
 - [x] Visual Effects / indication for when powers are done charging
 	- [ ] Different VFX for each power
 - [ ] More enemy abilities
