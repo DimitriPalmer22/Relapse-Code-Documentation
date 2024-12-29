@@ -18,6 +18,7 @@
 - [x] Bullet hole code
 - [x] Bullet trail code
 
+###### Movement
 - [ ] ~Slide down slopes
 - [ ] ~Variable jump height
 - [ ] Fix the wall running
@@ -34,12 +35,14 @@
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
+- [ ] Instead of having man
 - [ ] Black screen overlay for when
-	- [ ] the player dies
+	- [x] the player dies
 	- [ ] the player respawns
 - [ ] Some type of death animation / ragdoll
 - [ ] Disable player controls when dying
 
+###### UI
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
 - [ ] Find a solution for showing power names on UI. Make a prefab that holds a TMP_Text object w/ the desired text on it. Instantiate this / copy its settings over whenever a power is selected
