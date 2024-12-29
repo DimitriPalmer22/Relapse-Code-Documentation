@@ -1,4 +1,5 @@
 4
+
 - [x] Dash as a power
 - [x] Fix jumping on slopes
 - [x] Stop wall jumping as soon as you touch a wall
@@ -71,7 +72,7 @@
 - [x] Sound Mixing
 - [x] Might have to completely remove the sound manager script
 - [x] Instead, have several audio sources on the player that play specific sounds. This way, I can control which sounds are playing at any given time and which audio source they play from
-- [ ] Play sound when enemies are damaged
+- [x] Play sound when enemies are damaged
+Play sound when enemy dies
 - [ ] General enemy sounds to give them life (growls and stuff)
 - [ ] Play sound when player is damaged
-- [ ] Play sound when enemy dies
