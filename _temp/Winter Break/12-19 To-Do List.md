@@ -34,7 +34,11 @@
 - [ ] More responsive button input for menus
 	- [ ] Back button / menu stack support for ALL menus (use abstract methods)
 	- [ ] Im ngl i need to make another input action for UI
-- [ ] Black screen overlay for when the player dies & respawns
+- [ ] Black screen overlay for when
+	- [ ] the player dies
+	- [ ] the player respawns
+- [ ] Some type of death animation / ragdoll
+- [ ] Disable player controls when dying
 
 - [ ] Charge Meter on UI
 - [ ] Cooldown Meter on UI (Make panel darker or something)
