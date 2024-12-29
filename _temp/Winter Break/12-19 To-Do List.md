@@ -1,4 +1,3 @@
-4
 
 - [x] Dash as a power
 - [x] Fix jumping on slopes
