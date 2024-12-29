@@ -73,6 +73,6 @@
 - [x] Might have to completely remove the sound manager script
 - [x] Instead, have several audio sources on the player that play specific sounds. This way, I can control which sounds are playing at any given time and which audio source they play from
 - [x] Play sound when enemies are damaged
-Play sound when enemy dies
+- [x] Play sound when enemy dies
 - [ ] General enemy sounds to give them life (growls and stuff)
-- [ ] Play sound when player is damaged
+- [x] Play sound when player is damaged
