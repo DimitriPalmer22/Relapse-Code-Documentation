@@ -43,7 +43,7 @@
 	- [ ] the player respawns
 - [ ] Some type of death animation / ragdoll
 - [ ] Disable player controls when dying
-- [ ] Shake screen while relapsing
+- [x] Shake screen while relapsing
 - [ ] When the player is done relapsing, stop the overlay image from disappearing instantly. Use a lerp to make it fade out
 - [ ] Dynamically increase chromatic aberration when the player is relapsing / they have relapsed more than once on the level
 
