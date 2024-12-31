@@ -84,8 +84,11 @@
 - [ ] Scriptable objects for gun variations
 - [ ] Prefabs for gun variations
 - [ ] Buy guns
+	- [ ] Put a cost field in the scriptable object
+	- [ ] Make a game object (like an item frame in Minecraft) that holds the gun prefab. When the player interacts with this object, they can buy the gun
 
 TODO: 12-30
 
 - Guns
 - Make interface for objects that should be saved and loaded
+- Make a level script to set up keeping the player's information between levels.
