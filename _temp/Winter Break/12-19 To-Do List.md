@@ -93,7 +93,7 @@ TODO: 12-30
 
 TODO: 12-31
 
-- The rest of guns
-- Dynamic reticle support (Add a cursor type getter in the interactable interface)
-- Make interface for objects that should be saved and loaded
-- Make a level script to set up keeping the player's information between levels.
+- [ ] The rest of guns
+- [ ] Dynamic reticle support (Add a cursor type getter in the interactable interface)
+- [ ] Make interface for objects that should be saved and loaded
+- [ ] Make a level script to set up keeping the player's information between levels.
