@@ -59,7 +59,7 @@
 	- [ ] General Information
 	- [ ] Debug
 - [x] World space UI element for displaying selected item text. (instead of just basic text on the screen)
-- [ ] Dynamic reticle support (Change the icon based on what the player is looking at)
+- [x] Dynamic reticle support (Change the icon based on what the player is looking at)
 ###### Keeping Player Information between States
 - [ ] Store the player's information into a more serializable format (have a class or a struct or something for each important component of the player)
 - [ ] Whenever a scene is loaded, have a script check to see if an instance of this data exists. If so, apply it to the player. Otherwise, keep the player's data as is.
@@ -94,6 +94,6 @@ TODO: 12-30
 TODO: 12-31
 
 - [x] The rest of guns
-- [ ] Dynamic reticle support (Add a cursor type getter in the interactable interface)
+- [x] Dynamic reticle support (Add a cursor type getter in the interactable interface)
 - [ ] Make interface for objects that should be saved and loaded
 - [ ] Make a level script to set up keeping the player's information between levels.
