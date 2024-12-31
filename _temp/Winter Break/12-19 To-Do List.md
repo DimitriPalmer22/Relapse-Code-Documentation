@@ -78,3 +78,7 @@
 - [x] Play sound when enemy dies
 - [ ] General enemy sounds to give them life (growls and stuff)
 - [x] Play sound when player is damaged
+
+###### Gun Variations
+- Scriptable objects for gun variations
+- Prefabs for gun variations
