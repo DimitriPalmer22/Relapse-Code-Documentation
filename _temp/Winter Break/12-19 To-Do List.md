@@ -66,6 +66,7 @@
 - [ ] When the player wants to SAVE the game, this script gets serialized
 - [x] Also, fix the loading in the apartment scene
 - [ ] Serializing the scene: each level should have a script with a list of bools that represent the state of the level. When the player saves the game, this list gets serialized and saved to a file. When the player loads the game, the list gets deserialized and the level is set up based on the state of the list.
+	- [ ] This still doesn't account for enemies, but I have an idea. Make it so that in the Enemy class, each enemy has a specific ID. When the player saves the game, the list of enemies in the level is serialized. When the player loads the game, the list of enemies is deserialized and each enemy is spawned in based on the ID of the enemy. This way, the player can save the game and come back to the level with all the enemies they killed still dead.
 
 ###### Sound
 
@@ -79,6 +80,7 @@
 - [ ] General enemy sounds to give them life (growls and stuff)
 - [x] Play sound when player is damaged
 
-###### Gun Variations
-- Scriptable objects for gun variations
-- Prefabs for gun variations
+###### Guns
+- [ ] Scriptable objects for gun variations
+- [ ] Prefabs for gun variations
+- [ ] Buy guns
