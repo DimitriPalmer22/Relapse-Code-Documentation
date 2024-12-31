@@ -55,7 +55,6 @@
 	- [ ] Objective
 		- [ ] New Objective
 		- [ ] Objective Complete
-	- [ ] Money
 	- [ ] Tutorial
 	- [ ] General Information
 	- [ ] Debug
