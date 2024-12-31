@@ -89,6 +89,9 @@
 
 TODO: 12-30
 
-- Guns
+- [x] Guns
+
+TODO: 12-31
+
 - Make interface for objects that should be saved and loaded
 - Make a level script to set up keeping the player's information between levels.
