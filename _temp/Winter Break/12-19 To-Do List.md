@@ -84,3 +84,8 @@
 - [ ] Scriptable objects for gun variations
 - [ ] Prefabs for gun variations
 - [ ] Buy guns
+
+TODO: 12-30
+
+- Guns
+- Make interface for objects that should be saved and loaded
