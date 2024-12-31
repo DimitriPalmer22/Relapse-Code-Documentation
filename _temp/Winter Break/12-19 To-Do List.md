@@ -84,8 +84,8 @@
 - [x] Buy guns
 	- [x] Put a cost field in the scriptable object
 	- [x] Make a game object (like an item frame in Minecraft) that holds the gun prefab. When the player interacts with this object, they can buy the gun
-- [ ] Scriptable objects for gun variations
-- [ ] Prefabs for gun variations
+- [x] Scriptable objects for gun variations
+- [x] Prefabs for gun variations
 
 TODO: 12-30
 
@@ -93,7 +93,7 @@ TODO: 12-30
 
 TODO: 12-31
 
-- [ ] The rest of guns
+- [x] The rest of guns
 - [ ] Dynamic reticle support (Add a cursor type getter in the interactable interface)
 - [ ] Make interface for objects that should be saved and loaded
 - [ ] Make a level script to set up keeping the player's information between levels.
