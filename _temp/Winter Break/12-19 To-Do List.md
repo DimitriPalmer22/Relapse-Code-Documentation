@@ -65,6 +65,7 @@
 - [ ] Whenever a scene is loaded, have a script check to see if an instance of this data exists. If so, apply it to the player. Otherwise, keep the player's data as is.
 - [ ] When the player wants to SAVE the game, this script gets serialized
 - [x] Also, fix the loading in the apartment scene
+- [ ] Serializing the scene: each level should have a script with a list of bools that represent the state of the level. When the player saves the game, this list gets serialized and saved to a file. When the player loads the game, the list gets deserialized and the level is set up based on the state of the list.
 
 ###### Sound
 
