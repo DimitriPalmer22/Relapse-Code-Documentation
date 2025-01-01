@@ -45,7 +45,7 @@
 - [ ] Disable player controls when dying
 - [x] Shake screen while relapsing
 - [ ] When the player is done relapsing, stop the overlay image from disappearing instantly. Use a lerp to make it fade out
-- [ ] Dynamically increase chromatic aberration when the player is relapsing / they have relapsed more than once on the level
+- [x] Dynamically increase chromatic aberration when the player is relapsing / they have relapsed more than once on the level
 
 ###### UI
 - [ ] Charge Meter on UI
