@@ -103,8 +103,12 @@ TODO: 12-31
 Alright I played it for a while and here's my feedback:
 
 ### Difficulty
-- Right now, I think the arena feels a little too hard. And no, I'm not just bad at the game. Here are some possible fixes 
+- Right now, I think the arena feels a little too hard. And no, I'm not just bad at the game. Here are some possible fixes
 	- The guns need to be more powerful
 	- The melee enemies need to be a *teeny* bit slower
 	- There need to be less enemies altogether
-	- 
+	- The enemies need to do less damage
+- Whichever one of these we choose (if we do choose one), we have to make sure the rest of the game still feels good after the change. We wouldn't want the apartment level to feel too easy cuz of something we do here.
+
+### Movement
+- 
