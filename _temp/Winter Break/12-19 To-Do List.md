@@ -126,5 +126,5 @@ Alright I played it for a while and here's my feedback:
 	- Instead, we could:
 		- Have the slide area be a door that reacts to level so that the player has to clear out a certain number of enemies before it opens
 		- Have the slide area be a door that opens after like 30 seconds
-		- Move the slide entirely. We could have 
-		- I think the slide should be placed somewhere away from the arena's critical path so that the player can't just slide under the gate and avoid the enemies. Maybe we could put it in a side room or something idk.
+		- Move the slide entirely. We could replace it with a door and place the slide somewhere away from the arena's critical path so that the player can't just slide under the gate and avoid the enemies. Maybe we could put it in a side room or something idk.
+- The wall-running is a little too sensitive. I found myself wall-running when I didn't want to a couple of times. I've been planning to fix this for a while, but I've got a couple things backlogged f
