@@ -123,4 +123,8 @@ Alright I played it for a while and here's my feedback:
 - Also, we should probably set up patrol points for the enemies so that when they lose sight of the player, they don't just stand around. They should walk around the arena and look for the player.
 - I like the fact that you incorporated the slide as a part of the level's design, but I think where you put it should be moved.
 	- I'm assuming the enemies won't be able to walk past the gate that the player has to slide under. If that's the case, then the player would be able to immediately slide under the gate and the enemies wouldn't be able to follow. This would make the level too easy.
-	- Instead, I think the slide should be placed somewhere away from the arena's critical path so that the player can't just slide under the gate and avoid the enemies. Maybe we could put it in a side room or something idk.
+	- Instead, we could:
+		- Have the slide area be a door that reacts to level so that the player has to clear out a certain number of enemies before it opens
+		- Have the slide area be a door that opens after like 30 seconds
+		- Move the slide entirely. We could have 
+		- I think the slide should be placed somewhere away from the arena's critical path so that the player can't just slide under the gate and avoid the enemies. Maybe we could put it in a side room or something idk.
