@@ -99,3 +99,6 @@ TODO: 12-31
 - [ ] Make a level script to set up keeping the player's information between levels.
 
 <https://www.youtube.com/watch?v=gqtin0F3ejI&ab_channel=WishboneGames>
+
+Alright I played it for a while and here's my feedback:
+- Right now, the arena feels a little too hard. The guns either need to be more powerful
