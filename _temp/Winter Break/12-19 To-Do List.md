@@ -110,5 +110,7 @@ Alright I played it for a while and here's my feedback:
 	- The enemies need to do less damage
 - Whichever one of these we choose (if we do choose one), we have to make sure the rest of the game still feels good after the change. We wouldn't want the apartment level to feel too easy cuz of something we do here.
 
-### Movement
-- 
+### Movement & Architecture
+- I like the way the level is built. Visually, it is obvious that the player is about to enter a combat space.
+
+### Things that need to be fixed / changed
