@@ -121,4 +121,6 @@ Alright I played it for a while and here's my feedback:
 - That first animation with the gates going up is a little too slow. The player could immediately run over the gate before it goes all the way up.
 - I think we should have the enemies start inside the arena instead of outside. This way, the player can see all the enemies they're about to fight and plan accordingly.
 - Also, we should probably set up patrol points for the enemies so that when they lose sight of the player, they don't just stand around. They should walk around the arena and look for the player.
-- I like the fact that you incorporated the sli
+- I like the fact that you incorporated the slide as a part of the level's design, but I think where you put it should be moved.
+	- I'm assuming the enemies won't be able to walk past the gate that the player has to slide under. If that's the case, then the player would be able to immediately slide under the gate and the enemies wouldn't be able to follow. This would make the level too easy.
+	- Instead, I think the slide should be placed somewhere away from the arena's critical path so that the player can't just slide under the gate and avoid the enemies. Maybe we could put it in a side room or something idk.
