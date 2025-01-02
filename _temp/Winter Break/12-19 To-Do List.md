@@ -112,5 +112,8 @@ Alright I played it for a while and here's my feedback:
 
 ### Movement & Architecture
 - I like the way the level is built. Visually, it is obvious that the player is about to enter a combat space.
+- In terms of the cover objects, 
+	- I like the variety that we have. Some objects are tall and some are short. I like the short ones cuz they allow the player to shoot over them while making the enemies walk around. Maybe we could use more of these idk. I will say tho, the short objects could be a *teeny* bit shorter so its even easier for the player to shoot over them
+	- As a whole, I think the cover objects are a little too thick
 
 ### Things that need to be fixed / changed
