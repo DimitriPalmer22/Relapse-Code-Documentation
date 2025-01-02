@@ -101,4 +101,10 @@ TODO: 12-31
 <https://www.youtube.com/watch?v=gqtin0F3ejI&ab_channel=WishboneGames>
 
 Alright I played it for a while and here's my feedback:
-- Right now, the arena feels a little too hard. The guns either need to be more powerful
+
+### Difficulty
+- Right now, I think the arena feels a little too hard. And no, I'm not just bad at the game. Here are some possible fixes 
+	- The guns need to be more powerful
+	- The melee enemies need to be a *teeny* bit slower
+	- There need to be less enemies altogether
+	- 
