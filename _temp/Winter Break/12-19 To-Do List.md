@@ -109,11 +109,12 @@ Alright I played it for a while and here's my feedback:
 	- There need to be less enemies altogether
 	- The enemies need to do less damage
 - Whichever one of these we choose (if we do choose one), we have to make sure the rest of the game still feels good after the change. We wouldn't want the apartment level to feel too easy cuz of something we do here.
+- Or maybe we can look at the arena as it is now as like an end-game arena that supposed to be hard. In that case, we can use this as a reference point and have the earlier arenas be easier.
 
 ### Movement & Architecture
 - I like the way the level is built. Visually, it is obvious that the player is about to enter a combat space.
-- In terms of the cover objects, 
+- In terms of the cover objects,
 	- I like the variety that we have. Some objects are tall and some are short. I like the short ones cuz they allow the player to shoot over them while making the enemies walk around. Maybe we could use more of these idk. I will say tho, the short objects could be a *teeny* bit shorter so its even easier for the player to shoot over them
-	- As a whole, I think the cover objects are a little too thick
+	- As a whole, I think the cover objects are a little too thick. The area felt a little congested at times when I was trying to walk around.
 
-### Things that need to be fixed / changed
+### Things that Need to Be Fixed / Changed
