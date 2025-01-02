@@ -118,3 +118,6 @@ Alright I played it for a while and here's my feedback:
 	- As a whole, I think the cover objects are a little too thick. The area felt a little congested at times when I was trying to walk around.
 
 ### Things that Might Need to Be Fixed / Changed
+- That first animation with the gates going up is a little too slow. The player could immediately run over the gate before it goes all the way up.
+- I think we should have the enemies start inside the arena instead of outside. This way, the player can see all the enemies they're about to fight and plan accordingly.
+- Also, we could 
