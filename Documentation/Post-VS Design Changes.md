@@ -126,7 +126,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 - [x] Put down a mine
 	- [x] Regular explosive mine
 	- [ ] Gravity mine - When enemies activate the mine, every enemy within a certain spherical range gets sucked in
-	- [ ] Stun Mine
+	- [x] Stun Mine
 - [ ] [Záriakinesis](https://powerlisting.fandom.com/wiki/Dice_Manipulation "Dice Manipulation")
 	- Dice rolling power
 	- 2D VFX could be rolling die
