@@ -137,7 +137,7 @@ The powers need to be much more dynamic in how the player uses them to play the 
 	- Drug
 	- You shoot a fucking gun
 	- One tap an enemy or some shit idk
-- [ ] Rate of fire increase
+- [x] Rate of fire increase
 	- Med
 - [ ] Aurakinesis
 	- Change an enemy's aura so that other enemies see it as an enemy temporarily
