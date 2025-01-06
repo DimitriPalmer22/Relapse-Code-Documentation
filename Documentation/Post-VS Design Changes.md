@@ -148,10 +148,13 @@ The powers need to be much more dynamic in how the player uses them to play the 
 		- knocks the player backwards IN THE DIRECTION THEY ARE FACING
 			- So if they are pointed downward, the explosion will send them straight up.
 - [ ] Smoke bomb / substitution power
+	- Active effect power, not passive.
 	- Throw down smoke vfx
 	- Player becomes "invisible" while this is active
-	- Desaturate the screen
-	- Put a wooden log down that despawns after a
+	- Desaturate the screen & add a vignette while the player is invisible
+	- Put a wooden log down that despawns after a little while
+	- Enemies aggro the wooden log
+	- Shooting automatically deactivates the power(?)
 
 ### Vendor
 - The vendors will carry more powers.
