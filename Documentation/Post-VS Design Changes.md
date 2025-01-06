@@ -120,27 +120,28 @@ List of kinetic powers: <https://powerlisting.fandom.com/wiki/List_of_Kinetic_Ab
 The powers need to be much more dynamic in how the player uses them to play the game. As of right now, they're kinda just there. I forget about them sometimes I'm ngl. We need to find a way to make the player rely on powers more.
 
 ### Power Ideas
-- For NOW, we are deciding to categorize powers based on the type of kinesis they apply to. For example, pyrokinesis, telekinesis, etc.
-- A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
-- Blink like Dishonored or that one guy in [Valorant](<#Valorant>)
-- Put down a mine
-	- Regular fire mine
-	- Gravity mine - When enemies activate the mine, every enemy within a certain spherical range gets sucked in
-- [Záriakinesis](https://powerlisting.fandom.com/wiki/Dice_Manipulation "Dice Manipulation")
+- [ ] For NOW, we are deciding to categorize powers based on the type of kinesis they apply to. For example, pyrokinesis, telekinesis, etc.
+- [ ] A power like Wraith in apex legends. We disappear for a short time and reappear somewhere else.
+- [ ] Blink like Dishonored or that one guy in [Valorant](<#Valorant>)
+- [x] Put down a mine
+	- [x] Regular explosive mine
+	- [ ] Gravity mine - When enemies activate the mine, every enemy within a certain spherical range gets sucked in
+	- [ ] Stun Mine
+- [ ] [Záriakinesis](https://powerlisting.fandom.com/wiki/Dice_Manipulation "Dice Manipulation")
 	- Dice rolling power
 	- 2D VFX could be rolling die
 	- Activate any one of the random powers
 	- Random change to activate a bad power that is exclusive to the random power.
 		- This can be the explosion power. It does damage to the player and the enemies
-- Gun-Kinesis
+- [ ] Gun-Kinesis
 	- Drug
 	- You shoot a fucking gun
 	- One tap an enemy or some shit idk
-- Rate of fire increase
+- [ ] Rate of fire increase
 	- Med
-- Aurakinesis
+- [ ] Aurakinesis
 	- Change an enemy's aura so that other enemies see it as an enemy temporarily
-- Kamikaze-Kinesis
+- [ ] Kamikaze-Kinesis
 	- When the power is fully charged, the player will zoom forward for about 3 seconds
 	- When the power is released, release an explosion that:
 		- deals a little bit damage
