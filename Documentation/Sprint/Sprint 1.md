@@ -59,6 +59,10 @@ The features the player learns as they traverse the level.
 	- The player can jump off the wall
 	- The player can slide down the wall
 
+# Concept Graph For the Next Level
+
+The new features the player encounters as they traverse the level.
+
 - Crawler Enemy
 - Moving platforms (Make sure not to have unjustified floating platforms)
 - "Breakable" items
@@ -66,4 +70,4 @@ The features the player learns as they traverse the level.
 - Sliding
 	- How short is the player when they slide and what can they slide down?
 	- How fast is the player is when they slide?
-	- Slide cancelling
+	- Slide cancelling (jump cancel & sprint cancel)
