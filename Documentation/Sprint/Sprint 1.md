@@ -1,8 +1,14 @@
 ## Goal
 
-Designer -
+Designers:
+-
+
 Artists:
-- Create 
+
+- Model background buildings for the level
+
+Coders:
+- 
 
 ### Week 1
 
