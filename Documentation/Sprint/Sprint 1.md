@@ -40,9 +40,12 @@ The features the player learns as they traverse the level.
 	- How to differentiate them from the other enemies
 	- How to damage them
 	- How they attack & move
-- Crawler Enemy
 - Mindbreak section
 	- WTF is a Mindbreak (We can do more to convey to the player that this is a fractured state of mind area. Maybe a visual thing.)
 - Wall Running
-	- 
+	- The player can wall run on their left or right side
+	- The player can sprint while wall running
+	- The player can jump off the wall
+	- The player can wall slide
 
+- Crawler Enemy
