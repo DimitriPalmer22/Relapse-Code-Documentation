@@ -27,6 +27,8 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 
 Programmers:
 - Refine the movement system
+	- Wall-climbing
+	- 
 - 
 
 ### Week 1
