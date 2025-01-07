@@ -60,3 +60,6 @@ The features the player learns as they traverse the level.
 	- The player can wall slide
 
 - Crawler Enemy
+- Moving platforms
+- "Breakable" items
+	- Shoot at specific parts of the environment to break them & have things happen
