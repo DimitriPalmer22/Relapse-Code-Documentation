@@ -57,9 +57,13 @@ The features the player learns as they traverse the level.
 	- The player can wall run on their left or right side
 	- The player can sprint while wall running
 	- The player can jump off the wall
-	- The player can wall slide
+	- The player can slide down the wall
 
 - Crawler Enemy
-- Moving platforms
+- Moving platforms (Make sure not to have unjustified floating platforms)
 - "Breakable" items
 	- Shoot at specific parts of the environment to break them & have things happen
+- Sliding
+	- How short is the player when they slide and what can they slide down?
+	- How fast is the player is when they slide?
+	- Slide cancelling
