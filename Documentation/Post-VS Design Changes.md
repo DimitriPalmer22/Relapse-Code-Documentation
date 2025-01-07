@@ -213,6 +213,10 @@ Enemies can be defined by two components: movement behavior & attacking behavior
 	- We can also have a small arena with a few of the new enemy in it.
 # Designers
 
+Read this [[.
+
+Concept Graph
+
 ## New Workflow
 
 ### Art Workflow
