@@ -3,7 +3,8 @@
 - Get money
 
 Designers:
--
+- Implement the animations for the doctor
+- Enforce cohesion among the designers. We don't want extreme i
 
 Artists:
 
