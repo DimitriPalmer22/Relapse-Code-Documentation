@@ -1,6 +1,8 @@
 ## Goal
 
 Designer -
+Artists:
+- Create 
 
 ### Week 1
 
