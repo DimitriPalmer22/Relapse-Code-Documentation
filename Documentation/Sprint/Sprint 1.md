@@ -4,6 +4,11 @@
 
 Designers:
 
+> ***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+> ***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+> ***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
+> This is so when / if we ever need to replace a model, we can do it in one swoop for the entire level; NOT replacing them 1 by 1.
+
 - Implement the animations for the doctor.
 - Andre, Leo, and Mikel check for level cohesion & quality of the levels.
 - Leo - make sure the levels make sense in regards to Shbeeb's level design principles
