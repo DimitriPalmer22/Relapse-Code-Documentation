@@ -19,12 +19,13 @@ Artists:
 Generally, we have what we want for a lot of the art stuff in place. WE just need to get rid of the placeholders.
 
 - Modeling: Model background buildings for the level
-- Animations: Fix all the enemy animations
+- Animations: Redo all the enemy animations
+	- 
 - Textures: Establish a style for the textures and convey how to do the textures to the artists.
 - VFX: More VFX for the game.
 	- Explosion VFX (for the power)
 - Enemies:
-	- Fully retopologize the big guy
+	- Retopologize the big guy
 	- Retopologize the muscular guy
 - Bullet hole image
 
