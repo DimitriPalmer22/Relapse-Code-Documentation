@@ -6,7 +6,8 @@ Designers:
 Artists:
 
 - Model background buildings for the level
--
+- Fix all the enemy animations
+-  
 
 Coders:
 -
