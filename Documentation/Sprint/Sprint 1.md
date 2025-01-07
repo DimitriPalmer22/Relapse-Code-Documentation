@@ -8,3 +8,6 @@ Designer -
 
 
 # Concept Graph
+- Basic Movement (walking type shit)
+- Thoughts MechanicThe tooltips
+- 
