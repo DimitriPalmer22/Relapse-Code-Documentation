@@ -20,3 +20,12 @@ The features the player learns as they traverse the level.
 - Shooting
 	- Ammo (Find a way to convey this)
 	- Reloading
+- Vendors
+	- Buy Items
+	- Dialogue
+- Heavy Enemy 
+	- How to damage them
+	- How they attack
+	- How they 
+- 
+- Crawler Enemy
