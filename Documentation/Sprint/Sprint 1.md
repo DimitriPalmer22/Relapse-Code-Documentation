@@ -52,15 +52,16 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - Revisit the power sounds entirely
 	- Having a one-shot sounds for charging the power is not gonna work. We need a looping SFX for charging the power and a one-shot for releasing the power. We don't think the sound for this right now fits.
 	- We also need a different sound for when a power is done cooling down. We don't think the sound for this right now fits.
-- Also, we need non-placeholder sounds for:
+- Also, we need to replace the placeholder sounds for:
 	- shooting
 	- reloading
 	- player getting hit
 	- enemy getting hit
 - Also, we need some more sounds for the enemies to give them life
 	- Idle groaning / breathing sounds
-	- A sound for when the enemy is alerted of the player's presence
-	- 
+	- A sound for when the enemy is alerted of the player's presence. Like a grunt.
+	- A swipe / wind sound effect for when the enemy attacks
+	- A grunt for when the enemy attacks
 
 ### Week 1
 
