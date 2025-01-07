@@ -3,8 +3,9 @@
 - Get money
 
 Designers:
+
 - Implement the animations for the doctor
-- Enforce cohesion among the designers. We don't want extreme i
+- Enforce cohesion among the designers. We don't want extreme inconsistencies from designer to designer / area to area.
 
 Artists:
 
