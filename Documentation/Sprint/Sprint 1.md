@@ -19,6 +19,8 @@ Artists:
 
 Generally, we have what we want for a lot of the art stuff in place. WE just need to get rid of the placeholders.
 
+> Make sure to follow the naming conventions for any models you make. You MUST follow the naming conventions.
+
 - Modeling: Model background buildings for the level
 - Animations: Redo all the enemy animations
 	- Melee attack animation should NOT have the idle stances at the beginning or end
