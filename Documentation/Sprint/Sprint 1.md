@@ -5,9 +5,10 @@ Designers:
 
 Artists:
 
-- Model background buildings for the level
-- Fix all the enemy animations
--  
+- Modeling: Model background buildings for the level
+- Animations: Fix all the enemy animations
+- Textures: Establish a style for the textures and convey how to do the textures to the artists. 
+- VFX: 
 
 Coders:
 -
