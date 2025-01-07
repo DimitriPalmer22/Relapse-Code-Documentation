@@ -57,7 +57,10 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 	- reloading
 	- player getting hit
 	- enemy getting hit
-- Also, get some like breathing sounds & idle enemy sounds
+- Also, we need some more sounds for the enemies to give them life
+	- Idle groaning / breathing sounds
+	- A sound for when the enemy is alerted of the player's presence
+	- 
 
 ### Week 1
 
