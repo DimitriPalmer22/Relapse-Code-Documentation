@@ -4,7 +4,9 @@
 
 Designers:
 
-- Implement the animations for the doctor
+- Implement the animations for the doctor.
+- Andre, Leo, and Mikel check for level cohesion & quality of the levels.
+- Leo - make su
 - Enforce cohesion among the designers. We don't want extreme inconsistencies from designer to designer / area to area.
 
 Artists:
