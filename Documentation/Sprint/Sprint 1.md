@@ -11,6 +11,8 @@ Designers:
 - Alex & Brian - Traversal (for now)
 - Mikel & Aiden - Combat (for now)
 - Enforce cohesion among the designers. We don't want extreme inconsistencies from designer to designer / area to area.
+- For the traversal areas, we will actually be laying them out in relation to the level's critical path.
+- For the combat areas, we are making small combat arenas. For right now, they will not be plugged into the critical 
 
 Artists:
 
