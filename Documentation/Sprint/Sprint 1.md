@@ -23,7 +23,9 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - Textures: Establish a style for the textures and convey how to do the textures to the artists.
 - VFX: More VFX for the game.
 	- Explosion VFX (for the power)
-- Enemy: 
+- Enemies:
+	- Fully retopologize the big guy
+	- Retopologize the muscular guy
 - Bullet hole image
 
 Programmers:
