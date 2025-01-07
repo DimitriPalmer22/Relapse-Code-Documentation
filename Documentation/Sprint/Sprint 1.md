@@ -13,7 +13,7 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - VFX: More VFX for the game.
 	- Explosion VFX (for the power)
 
-Coders:
+Programmers:
 -
 
 ### Week 1
