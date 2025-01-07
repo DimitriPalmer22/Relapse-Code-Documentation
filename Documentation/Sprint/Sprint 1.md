@@ -1,15 +1,15 @@
 ## Goal
 
 Designers:
-- 
+-
 
 Artists:
 
 - Model background buildings for the level
-- 
+-
 
 Coders:
-- 
+-
 
 ### Week 1
 
