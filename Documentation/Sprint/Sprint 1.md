@@ -1,7 +1,7 @@
 ## Goal
 
 Designers:
--
+- 
 
 Artists:
 
@@ -14,7 +14,7 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 	- Explosion VFX (for the power)
 
 Programmers:
--
+- 
 
 ### Week 1
 
