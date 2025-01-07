@@ -6,8 +6,10 @@ Designers:
 
 - Implement the animations for the doctor.
 - Andre, Leo, and Mikel check for level cohesion & quality of the levels.
-- Leo - make sure the levels make sense in regards to Shbeeb's design principles
-- Mikel - in charge of overall level design cohesion.
+- Leo - make sure the levels make sense in regards to Shbeeb's level design principles
+- Mikel - in charge of overall level design cohesion & the overall structure of the level.
+- Alex & Brian - Traversal (for now)
+- Mikel & Aiden - Combat (for now)
 - Enforce cohesion among the designers. We don't want extreme inconsistencies from designer to designer / area to area.
 
 Artists:
