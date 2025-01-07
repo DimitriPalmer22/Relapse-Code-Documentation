@@ -2,7 +2,9 @@
 
 - Get money
 
-Designers:
+**Designers**:
+
+Develop toward the 1st vendor of level 2. This includes the movement and combat areas that lead to the vendor.
 
 > ***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
 > ***USE THE PREFAB VARIANTS TO SET DRESS PLEASE***
@@ -20,7 +22,7 @@ Designers:
 - For the combat areas, we are making small combat arenas. For right now, they will not be plugged into the critical path right now. We will be making combat sections and, based on how they feel, we will plug them into the level later.
 - Give us a list of props you need for your levels. The artists NEED to be ahead of the designers on this. Week 1, the designers are gonna request props. By the end of the week 1, the artists should have the props done with NO TEXTURES, and should be the low poly. Week 2, the artists should have the textures done.
 
-Artists:
+**Artists**:
 
 Generally, we have what we want for a lot of the art stuff in place. WE just need to get rid of the placeholders.
 
@@ -40,7 +42,7 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 	- Retopologize the muscular guy
 - Bullet hole image
 
-Programmers:
+**Programmers**:
 
 - Refine the movement system
 	- Wall-climbing
