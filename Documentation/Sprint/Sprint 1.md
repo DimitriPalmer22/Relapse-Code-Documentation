@@ -1,7 +1,9 @@
 ## Goal
 
+- Get money
+
 Designers:
-- 
+-
 
 Artists:
 
@@ -12,9 +14,10 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - Textures: Establish a style for the textures and convey how to do the textures to the artists.
 - VFX: More VFX for the game.
 	- Explosion VFX (for the power)
+- Bullet hole image
 
 Programmers:
-- 
+-
 
 ### Week 1
 
