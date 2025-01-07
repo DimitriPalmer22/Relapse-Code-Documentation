@@ -21,11 +21,17 @@ The features the player learns as they traverse the level.
 	- Ammo (Find a way to convey this)
 	- Reloading
 - Vendors
-	- Buy Items
+	- Get Items from the shop
+		- You can only pick one per vendor
 	- Dialogue
-- Heavy Enemy 
+- Powers
+	- Charging the power (charge duration and stuff)
+	- Releasing the power to activate it
+	- 
+	- How to use whichever power the player buys
+	- Toxicity meter
+- Heavy Enemy
+	- How to differentiate them from the other enemies
 	- How to damage them
-	- How they attack
-	- How they 
-- 
+	- How they attack & move
 - Crawler Enemy
