@@ -36,12 +36,13 @@ The features the player learns as they traverse the level.
 - Vendor 2
 	- Differentiate between doctors and dealers (convey to the player that these are completely different)
 	- Once the player gets the new power, they are able to switch powers.
-- Mindbreak section
-	- WTF is a Mindbreak (We can do more to convey to the player that this is a )
-	- 
-
 - Heavy Enemy
 	- How to differentiate them from the other enemies
 	- How to damage them
 	- How they attack & move
 - Crawler Enemy
+- Mindbreak section
+	- WTF is a Mindbreak (We can do more to convey to the player that this is a fractured state of mind area. Maybe a visual thing.)
+- Wall Running
+	- 
+
