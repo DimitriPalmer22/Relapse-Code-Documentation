@@ -6,7 +6,11 @@ Designer -
 
 ### Week 2
 
-# Concept Graph
+# Concept Graph For the Apartment
+The features the player learns as they traverse the level.
 - Basic Movement (walking type shit)
-- "Thoughts Mechanic" (The tooltips)
-- "Journal Mechanic"
+- Interacting w/ objects
+- Shooting
+	- Ammo (We need a way to convey this)
+	- Reloading
+- Enemies
