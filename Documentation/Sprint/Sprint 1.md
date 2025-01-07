@@ -50,12 +50,14 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - Charging enemy
 - More powers
 - Revisit the power sounds entirely
-	- Having a one-shot sounds for charging the power is not gonna work. We need a looping SFX for charging the power and a one-shot for releasing the power.
+	- Having a one-shot sounds for charging the power is not gonna work. We need a looping SFX for charging the power and a one-shot for releasing the power. We don't think the sound for this right now fits.
+	- We also need a different sound for when a power is done cooling down. We don't think the sound for this right now fits.
 - Also, we need non-placeholder sounds for:
 	- shooting
 	- reloading
 	- player getting hit
 	- enemy getting hit
+- Also, get some like breathing sounds & idle enemy sounds
 
 ### Week 1
 
