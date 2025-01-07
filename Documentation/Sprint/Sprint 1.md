@@ -20,7 +20,9 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 
 - Modeling: Model background buildings for the level
 - Animations: Redo all the enemy animations
-	- 
+	- Melee attack animation should NOT have the idle stances at the beginning or end
+	- Walk animation needs to be an actual cycle. Also, it should not have the idle stances at the beginning or end.
+	- We need a death animation
 - Textures: Establish a style for the textures and convey how to do the textures to the artists.
 - VFX: More VFX for the game.
 	- Explosion VFX (for the power)
