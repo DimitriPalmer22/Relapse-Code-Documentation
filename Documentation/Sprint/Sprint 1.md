@@ -20,6 +20,8 @@ Coders:
 The features the player learns as they traverse the level.
 
 - Basic Movement (walking)
+- Urge Mechanic
+	- Lead the player to the gun
 - Interacting w/ objects
 - Enemies
 	- How the enemies move
