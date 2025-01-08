@@ -10,8 +10,8 @@ Notes from the meeting we had after class on 01-07:
 - The gameplay / aesthetic of the level we showed in VS **DOES NOT** fully represent how we want the game to be. The game from this point on will be much faster paced.
 
 ## The Gauntlet / The UI
-- The game will NO LONGER have a completely diegetic UI through the gauntlet on the player's left hand. The gauntlet may not even be a gauntlet anymore.
-- In fact, the entire idea / design of the "device" on the player's left hand.
+- The game will NO LONGER have a completely diegetic UI through the gauntlet on the player's left hand.
+- The entire idea / design of the "device" on the player's left hand is changing.
 - Alex & Azalee are concepting new looks for it.
 	- *HOWEVER*, we still need to determine how exactly we want the "device" to be animated while the player is using a power.
 - We will have a more traditional minimal UI.
@@ -43,7 +43,7 @@ Notes from the meeting we had after class on 01-07:
 
 ## Problems with the Game
 
-One of the biggest problems we have is conveyance: when people play our game, they often have no idea wtf is going on.
+Our biggest problem is conveyance: when people play our game, they often have no idea wtf is going on.
 
 - Players had a hard time understanding what exactly the powers did.
 - Players couldn't really differentiate between drug-based powers and med-based powers.
