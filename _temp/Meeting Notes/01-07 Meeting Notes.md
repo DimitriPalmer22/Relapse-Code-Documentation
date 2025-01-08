@@ -28,3 +28,8 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 ## Art Style
 - We are leaning heavily into the more comic book aesthetic for the game.
 - To do this, we are implementing 2D effects in a lot of places to spice up the game visually.
+
+## Level Design
+- From now on, the game's levels need to properly account for the game's mechanics. 
+- To do this, we are splitting the next level into 2 different sets of sections: Movement sections and Combat Sections.
+- This way, we can more concretely focus on how we want the player to play the game in specific environments.
