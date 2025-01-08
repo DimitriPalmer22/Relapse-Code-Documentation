@@ -7,15 +7,15 @@ Notes from the meeting we had after class on 01-07:
 ## General Stuff
 - Sprints are 2 weeks long, Monday - Sunday
 - Halfway through each sprint, everyone's lead(s) will check in on them. This is to catch problems before they happen / determine if we need to reduce the game's scope.
-- The gameplay / aesthetic of the level we showed in Vertial Slice DOES NOT fully represent how we want the game to be. The game from this point on will be much faster paced.
+- The gameplay / aesthetic of the level we showed in VS **DOES NOT** fully represent how we want the game to be. The game from this point on will be much faster paced.
 
 ## The Gauntlet / The UI
-- The game will NO LONGER have a completely diegetic UI through the gauntlet on the player's left hand. In fact, the gauntlet might not even be a gauntlet anymore.
+- The game will NO LONGER have a completely diegetic UI through the gauntlet on the player's left hand. The gauntlet may not even be a gauntlet anymore.
 - In fact, the entire idea / design of the "device" on the player's left hand.
-- Alex & Azalee are in charge of concepting new looks for it.
-	- *HOWEVER*, we still need to pin down how exactly we want the "device" / left arm to be animated while the player is using a power.
-- From now on, we will have a more traditional minimal UI.
-- Any diegetic UI that is a part of the "device" on the player's left hand will purely be there to supplement the traditional UI.
+- Alex & Azalee are concepting new looks for it.
+	- *HOWEVER*, we still need to determine how exactly we want the "device" to be animated while the player is using a power.
+- We will have a more traditional minimal UI.
+- Any diegetic elements on the "device" will supplement the traditional UI.
 
 ### Why Are We Getting Rid of the Gauntlet???
 - If you look at almost any FPS game, the player's hands are directly in front of the screen. This is because this is the most natural position to hold a gun in. However, in our game, we would need to pose the hands awkwardly no matter what in order to show off any UI on the player's left hand.
