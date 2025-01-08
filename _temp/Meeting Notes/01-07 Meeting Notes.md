@@ -7,7 +7,7 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 ## General Stuff
 - Sprints are going to be Monday - Sunday
 - Our sprints are 2 weeks long.
-- Hal
+- Halfway through each sprint, everyone's respective lead(s) will check in on them to see how they're doing. This is to catch problems before they happen / determine if we need to reduce the game's scope for some reason.
 - The gameplay / aesthetic of the level we showed in Vertial Slice DOES NOT fully represent how we want the game to be. The game from this point on will be much faster paced.
 
 ## The Gauntlet / The UI
@@ -39,3 +39,9 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 - From now on, the game's levels need to properly account for the game's mechanics.
 - To do this, we are splitting the next level into 2 different sets of sections: Movement sections and Combat Sections.
 - This way, we can more concretely focus on how we want the player to play the game in specific environments.
+
+## Problems with the Game
+
+One of the biggest problems we have is conveyance: when people play our game, they often have no idea wtf is going on.
+
+- To fix this, we thought of a couple things
