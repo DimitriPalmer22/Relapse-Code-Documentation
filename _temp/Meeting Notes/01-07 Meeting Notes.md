@@ -1,6 +1,6 @@
 # 01-07 Meeting Notes
 
-@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT.
+@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, try to read the whole announcement, even it doesn't apply to you. We everyone 
 
 Here are some notes from the meeting we had after Shbeeb ended class early on 01-07:
 
@@ -30,6 +30,7 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 ## Art Style
 - We are leaning heavily into the more comic book aesthetic for the game.
 - To do this, we are implementing 2D effects in a lot of places to spice up the game visually.
+- Also, we are working on using lines in the textures of models to create this effect.
 
 ## Animations
 - The animations for the enemies that are currently in the game need to be reworked.
@@ -39,6 +40,7 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 - From now on, the game's levels need to properly account for the game's mechanics.
 - To do this, we are splitting the next level into 2 different sets of sections: Movement sections and Combat Sections.
 - This way, we can more concretely focus on how we want the player to play the game in specific environments.
+- Once we get the 2nd level down, then we can revisit the look and feel of the first level.
 
 ## Problems with the Game
 
@@ -56,4 +58,3 @@ One of the biggest problems we have is conveyance: when people play our game, th
 	- We want something like this to avoid incorporating the tutorials into the levels themselves.
 - To differentiate the drug-based powers from the med-based powers, we *could* have different icons for both. For example, the drug-based powers could have a skull icon while the med-based powers could have a green cross icon or something.
 	- Additionally, we *could* have separate animations for when a drug is used vs. when a med is used.
--
