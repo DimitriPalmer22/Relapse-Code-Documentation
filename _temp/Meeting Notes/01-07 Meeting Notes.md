@@ -1,6 +1,6 @@
 # 01-07 Meeting Notes
 
-@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, try to read the whole announcement, even it doesn't apply to you. We everyone to have a good understanding of what's going on.
+@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, PLEASE read the whole announcement, even it doesn't apply to you. We need everyone to have a good understanding of what's going on.
 
 Here are some notes from the meeting we had after Shbeeb ended class early on 01-07:
 
