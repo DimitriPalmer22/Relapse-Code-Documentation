@@ -53,7 +53,5 @@ One of the biggest problems we have is conveyance: when people play our game, th
 
 - Unique particle effects for the different powers in the game. This way, the player can easily tell what power they just used. This also plays into the whole aesthetic of the player tripping balls.
 - Better tutorials. Whenever the player encounters a new mechanic, the game pauses and a tutorial screen pops up with a video + text description of how to use the new thing.
-	- The player *should* also be able to access these tutorials from the pause menu.
-	- We want something like this to avoid incorporating the tutorials into the levels themselves.
-- To differentiate the drug-based powers from the med-based powers, we *could* have different icons for both. For example, the drug-based powers could have a skull icon while the med-based powers could have a green cross icon or something.
-	- Additionally, we *could* have separate animations for when a drug is used vs. when a med is used.
+	- The player can access these tutorials from the pause menu.
+- To differentiate the drugs from the meds, we'll have different icons for both. The drugs can have a skull icon & the meds powers could have a green cross.
