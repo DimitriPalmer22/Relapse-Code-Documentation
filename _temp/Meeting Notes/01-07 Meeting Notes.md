@@ -1,6 +1,6 @@
 # 01-07 Meeting Notes
 
-@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, try to read the whole announcement, even it doesn't apply to you. We everyone 
+@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, try to read the whole announcement, even it doesn't apply to you. We everyone to have a good understanding of what's going on.
 
 Here are some notes from the meeting we had after Shbeeb ended class early on 01-07:
 
@@ -29,7 +29,7 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 
 ## Art Style
 - We are leaning heavily into the more comic book aesthetic for the game.
-- To do this, we are implementing 2D effects in a lot of places to spice up the game visually.
+- To do this, we are implementing 2D effects / animations in a lot of places to spice up the game visually.
 - Also, we are working on using lines in the textures of models to create this effect.
 
 ## Animations
