@@ -1,6 +1,7 @@
 # 01-07 Meeting Notes
 
-@everyone REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, read the whole announcement, even it doesn't apply to you. We need everyone to understand what's going on.
+@everyone REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT.
+Also, read the whole announcement, even it doesn't apply to you. We need everyone to understand what's going on.
 
 Notes from the meeting we had after class on 01-07:
 
@@ -20,7 +21,7 @@ Notes from the meeting we had after class on 01-07:
 ### Why Are We Getting Rid of the Gauntlet???
 - If you look at almost any FPS game, the player's hands are directly in front of the screen. This is because this is the most natural position to hold a gun in. However, in our game, we would need to pose the hands awkwardly no matter what in order to show off any UI on the player's left hand.
 - If the player's left hand gets animated at any point, the diegetic UI on the arm becomes infinitely harder to read. Also, any pose / animation we do for the hands has to account for the player seeing the UI.
-- There's too much information we want to convey to the player for it all to fit on the UI. Instead of completely reworking the UI, it'd be easier to just make a more traditional UI.
+- There's too much information we want to convey to the player for it all to fit on the gauntlet. Instead of completely reworking the UI, it'd be easier to just make a more traditional UI.
 
 ## The Hands
 - The hands will be repositioned to hold the player's weapon more conventionally.
