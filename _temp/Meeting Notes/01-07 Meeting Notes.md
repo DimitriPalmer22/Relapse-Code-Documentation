@@ -21,7 +21,10 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 - If the player's left hand gets animated at any point, the diegetic UI on the arm becomes infinitely harder to read. Also, any pose / animation we do for the hands has to account for the player seeing the UI.
 - There's too much information we want to convey to the player for it all to fit on the UI. Instead of completely reworking the UI, it'd be easier to just make a more traditional UI.
 
-
 ## The Hands
-- The hands will be repositioned to hold the player's weapon more normally.
+- The hands will be repositioned to hold the player's weapon more conventionally.
 - Any time the player uses a power, the left hand will be animated to move away from the gun.
+
+## Art Style
+- We are leaning heavily into the more comic book aesthetic for the game.
+- To do this, we are implementing 2D effects in a lot of places to spice up the game visually.
