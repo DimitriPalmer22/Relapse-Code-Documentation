@@ -6,7 +6,9 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 
 ## General Stuff
 - Sprints are going to be Monday - Sunday
-- The gameplay / aesthetic of the level we showed in Vertial Slice DOES NOT fully represent how we want the game to be. The game from this point on will be much faster paced. 
+- Our sprints are 2 weeks long.
+- Hal
+- The gameplay / aesthetic of the level we showed in Vertial Slice DOES NOT fully represent how we want the game to be. The game from this point on will be much faster paced.
 
 ## The Gauntlet / The UI
 - The game will NO LONGER have a completely diegetic UI through the gauntlet on the player's left hand. In fact, the gauntlet might not even be a gauntlet anymore.
@@ -16,7 +18,7 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 - From now on, we will have a more traditional minimal UI.
 - Any diegetic UI that is a part of the "device" on the player's left hand will purely be there to supplement the traditional UI.
 
-### Why are we getting rid of the gauntlet???
+### Why Are We Getting Rid of the Gauntlet???
 - If you look at almost any FPS game, the player's hands are directly in front of the screen. This is because this is the most natural position to hold a gun in. However, in our game, we would need to pose the hands awkwardly no matter what in order to show off any UI on the player's left hand.
 - If the player's left hand gets animated at any point, the diegetic UI on the arm becomes infinitely harder to read. Also, any pose / animation we do for the hands has to account for the player seeing the UI.
 - There's too much information we want to convey to the player for it all to fit on the UI. Instead of completely reworking the UI, it'd be easier to just make a more traditional UI.
@@ -29,7 +31,11 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 - We are leaning heavily into the more comic book aesthetic for the game.
 - To do this, we are implementing 2D effects in a lot of places to spice up the game visually.
 
+## Animations
+- The animations for the enemies that are currently in the game need to be reworked.
+- Andre will be in touch to describe how the animations should be done.
+
 ## Level Design
-- From now on, the game's levels need to properly account for the game's mechanics. 
+- From now on, the game's levels need to properly account for the game's mechanics.
 - To do this, we are splitting the next level into 2 different sets of sections: Movement sections and Combat Sections.
 - This way, we can more concretely focus on how we want the player to play the game in specific environments.
