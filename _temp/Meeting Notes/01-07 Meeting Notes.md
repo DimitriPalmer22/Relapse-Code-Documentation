@@ -42,6 +42,6 @@ Here are some notes from the meeting we had after Shbeeb ended class early on 01
 
 ## Problems with the Game
 
-One of the biggest problems we have is conveyance: when people play our game, they often have no idea wtf is going on.
-
-- To fix this, we thought of a couple things
+One of the biggest problems we have is conveyance: when people play our game, they often have no idea wtf is going on. To fix this, we thought of a couple things:
+- Unique particle effects for the different powers in the game. This way, the player can easily tell what power they just used. This also plays into the whole aesthetic of the player tripping balls.
+- More proper tutorialization. Whenever the player encounters a new feature / mechanic / power, the game will pause and a tutoral screen will pop up with a video + text description of how to use the new thing.
