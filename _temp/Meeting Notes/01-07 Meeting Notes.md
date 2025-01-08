@@ -1,13 +1,12 @@
 # 01-07 Meeting Notes
 
-@everyone PLEASE REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, PLEASE read the whole announcement, even it doesn't apply to you. We need everyone to have a good understanding of what's going on.
+@everyone REPLY TO THIS MESSAGE TO CONFIRM THAT YOU'VE SEEN IT. Also, read the whole announcement, even it doesn't apply to you. We need everyone to understand what's going on.
 
-Here are some notes from the meeting we had after Shbeeb ended class early on 01-07:
+Notes from the meeting we had after class on 01-07:
 
 ## General Stuff
-- Sprints are going to be Monday - Sunday
-- Our sprints are 2 weeks long.
-- Halfway through each sprint, everyone's respective lead(s) will check in on them to see how they're doing. This is to catch problems before they happen / determine if we need to reduce the game's scope for some reason.
+- Sprints are 2 weeks long, Monday - Sunday
+- Halfway through each sprint, everyone's lead(s) will check in on them. This is to catch problems before they happen / determine if we need to reduce the game's scope.
 - The gameplay / aesthetic of the level we showed in Vertial Slice DOES NOT fully represent how we want the game to be. The game from this point on will be much faster paced.
 
 ## The Gauntlet / The UI
