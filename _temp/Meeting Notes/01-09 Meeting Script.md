@@ -26,4 +26,5 @@
 		- This way, we don't punish the players for committing to a certain playstyle through gameplay.
 - Looking forward:
 	- Right now we have 10 powers: 4 Neuros & 6 Vitals. We need at least 2 more neuros so we have 6 of each. Any ideas?????
-	- We need to know which powers will be available during which sections. This way, we can know how to 
+	- We need to know which powers will be available during which sections. This way, we can know how to design the sections around them.
+	- Also, we need to know how many combat + movement sections we'll have in level 2, as well as 
