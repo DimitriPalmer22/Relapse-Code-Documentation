@@ -9,5 +9,7 @@
 		- Remove the gauntlet as it is
 		- Change it to something more minimal
 		- We now have on-screen UI. We are going for a more traditional on-screen UI
-	- We are changing the name of the "drugs" and "meds". F
+	- We are changing the name of the "drugs" and "meds".
+		- From now on, the "drugs" will be called "Neural-chemicals" AKA "Neuros". "Meds" will be called "Vital-chemicals" AKA "Vitals". This is because the term "drugs" is too familiar to players and blah blah blah. 
 	- Doctors and Dealers
+		- Re-state how they already 
