@@ -20,5 +20,7 @@
 			- Players can INCREASE their max toxicity meter at dealers.
 			- Dealer rooms will also contain a selection of FUCKING GUNS the player can buy if they choose not to upgrade their toxicity meter.
 	- Toxicity Meter and Relapsing overhaul
-		- Y'know how we have it so we *Relapse* 3 times and immediately die? Yeah fuck that we're not doing that anymore. 
-		- Instead, we will allow the player to *RELAPSE* infinitely many times per level. There will be  
+		- Y'know how we have it so we *Relapse* 3 times and immediately die? Yeah fuck that we're not doing that anymore.
+		- Instead, we will allow the player to *RELAPSE* infinitely many times per level. There will be more immediate consequences for Relapsing like slowing the player, making them unable to shoot, etc.
+		- This way, we don't punish the players for committing to a certain playstyle through gameplay.
+	- 
