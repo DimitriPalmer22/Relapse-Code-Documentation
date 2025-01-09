@@ -1,5 +1,11 @@
 - Play the game in front of the rest of the group
+- Re-affirm what the problems with the game are (especially for the people )
 - Articulate:
 	- Designers: the overall design for the next level, as well as how their levels are gonna connect.
 	- Artists: what the game needs to look like and the work that everyone is responsible for / how their work is gonna contribute to the look of the game
-- Design changes
+- Design Changes:
+	- Gauntlet changes
+		- Remove the gauntlet as it is
+		- Change it to something more minimal
+		- We now have on-screen UI. We are going for a more traditional on-screen UI
+	- 
