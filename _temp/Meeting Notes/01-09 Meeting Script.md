@@ -1,3 +1,5 @@
+- Goals for the first month:
+	- 
 - Play the game in front of the rest of the group
 - Re-affirm what the problems with the game are (especially for the people who didn't read the announcement)
 - Go over the playtesting notes from yesterday.
