@@ -1,0 +1,5 @@
+- Play the game in front of the rest of the group
+- Articulate:
+	- To the designers the overall design for the next level, as well as how their levels are gonna connect.
+	- To the artists what the game needs to look like and the work that everyone is responsible for.
+- 
