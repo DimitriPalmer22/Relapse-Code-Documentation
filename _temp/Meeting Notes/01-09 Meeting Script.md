@@ -25,7 +25,7 @@
 	- Y'know how we have it so we *Relapse* 3 times and immediately die? Yeah fuck that we're not doing that anymore.
 	- Instead, we will allow the player to *RELAPSE* infinitely many times per level. There will be more immediate consequences for Relapsing like slowing the player, making them unable to shoot, etc.
 	- This way, we don't punish the players for committing to a certain playstyle through gameplay.
-
+![](<../../_META/Attachments/Pasted image 20250109010707.png>)
 ## Looking forward
 - Right now we have 10 powers: 4 Neuros & 6 Vitals. We need at least 2 more neuros so we have 6 of each. Any ideas?????
 - We need to know which powers will be available during which sections. This way, we can know how to design the sections around them.
