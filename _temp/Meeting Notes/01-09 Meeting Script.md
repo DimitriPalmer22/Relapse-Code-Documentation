@@ -10,8 +10,14 @@
 		- Change it to something more minimal
 		- We now have on-screen UI. We are going for a more traditional on-screen UI
 	- We are changing the name of the "drugs" and "meds".
-		- From now on, the "drugs" will be called "Neural-chemicals" AKA "Neuros". "Meds" will be called "Vital-chemicals" AKA "Vitals". This is because the term "drugs" is too familiar to players and blah blah blah. 
+		- From now on, the "drugs" will be called "Neural-chemicals" AKA "Neuros". "Meds" will be called "Vital-chemicals" AKA "Vitals". This is because the term "drugs" is too familiar to players and blah blah blah.
 	- Doctors and Dealers
-		- Re-state how they already work: 
+		- Re-state how they already work:
 			- Each doctor and dealer offers a selection of Neuros and Vitals. However, Doctors offer MORE choices for Vitals, while dealers offer MORE choices for Neuros.
 			- At each vendor, the player can get 1 Neuro / Vital FOR FREE per vendor. After that, the player can no longer get a Neuro / Vital from that vendor.
+		- New Design Changes:
+			- Players can INCREASE their max health at doctors.
+			- Players can INCREASE their max toxicity meter at dealers.
+			- Dealer rooms will also contain a selection of FUCKING GUNS the player can buy if they choose not to upgrade their toxicity meter.
+	- Toxicity Meter and Relapsing overhaul
+		- Y'know how we have it so 
