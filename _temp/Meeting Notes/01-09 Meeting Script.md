@@ -1,6 +1,7 @@
 - Play the game in front of the rest of the group
 - Re-affirm what the problems with the game are (especially for the people who didn't read the announcement)
-- Go over the playtesting notes from yesterday
+- Go over the playtesting notes from yesterday.
+	- We can go over the fixes for the problems and take suggestions from the other designers.
 - Articulate:
 	- Designers: the overall design for the next level, as well as how their levels are gonna connect.
 	- Artists: what the game needs to look like and the work that everyone is responsible for / how their work is gonna contribute to the look of the game
@@ -23,4 +24,4 @@
 		- Y'know how we have it so we *Relapse* 3 times and immediately die? Yeah fuck that we're not doing that anymore.
 		- Instead, we will allow the player to *RELAPSE* infinitely many times per level. There will be more immediate consequences for Relapsing like slowing the player, making them unable to shoot, etc.
 		- This way, we don't punish the players for committing to a certain playstyle through gameplay.
-	- 
+	-
