@@ -2,14 +2,15 @@
 	- Completely figure out EXACTLY how we want the game to play. Right now, with the gameplay gardens we have, we have an IDEA of what we want, but it still doesn't represent exactly how we want the game to play in terms of pace and feel.
 	- Finish the enemies (models, animations, AI, features)
 - Play the game in front of the rest of the group
-- Re-affirm what the problems with the game are (especially for the people who didn't read the announcement) (Just go over t)
-- Go over the playtesting notes from yesterday.
+- Re-affirm what the problems with the game are (especially for the people who didn't read the announcement) (Just go over the announcement we made)
+- Briefly go over the playtesting notes from yesterday.
 	- We can go over the fixes for the problems and take suggestions from the other designers.
 - Articulate:
 	- Designers: the overall design for the next level, as well as how their levels are gonna connect.
 	- Artists: what the game needs to look like and the work that everyone is responsible for / how their work is gonna contribute to the look of the game
 
 ## Design Changes
+- The "Favelas" are no longer Favelas.
 - Gauntlet changes
 	- Remove the gauntlet as it is
 	- Change it to something more minimal
