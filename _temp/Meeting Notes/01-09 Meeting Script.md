@@ -32,4 +32,4 @@
 - Also, we need to know how many combat + movement sections we'll have in level 2, as well as the order of these sections
 
 ## Other Level Design Stuff for Level 2 to Consider
--
+- As the game plays right now, we *can't completely* base the game's combat around Ghostrunner. Their enemies die too quick compared to ours. Also, we have fucking guns.
