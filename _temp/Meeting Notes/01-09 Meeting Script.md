@@ -1,8 +1,8 @@
-- Goals for the first month. Our sprint objectives are going to be based on this:
+- Address the goals for the first month. Our sprint objectives are going to be based on this:
 	- Completely figure out EXACTLY how we want the game to play. Right now, with the gameplay gardens we have, we have an IDEA of what we want, but it still doesn't represent exactly how we want the game to play in terms of pace and feel.
 	- Finish the enemies (models, animations, AI, features)
 - Play the game in front of the rest of the group
-- Re-affirm what the problems with the game are (especially for the people who didn't read the announcement)
+- Re-affirm what the problems with the game are (especially for the people who didn't read the announcement) (Just go over t)
 - Go over the playtesting notes from yesterday.
 	- We can go over the fixes for the problems and take suggestions from the other designers.
 - Articulate:
