@@ -1,8 +1,8 @@
 - [ ] Basic WASD Movement + Looking & Aiming
+- [ ] Checking the Journal
 - [ ] In the game, what items / decals / environmental clues are consistently going to guide me in the right direction?
-- [ ] Interacting with objects
+- [ ] Interacting with objects (Some obe)
 - [ ] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
 - [ ] Taking damage + Passive healing
 - [ ] Checkpoints & Respawning
-- [ ] Checking the Journal
-- [ ] Vendors
+- [ ] Vendors (Dealers & Doctors)
