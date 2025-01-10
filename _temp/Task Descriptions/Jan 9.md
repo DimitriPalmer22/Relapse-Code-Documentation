@@ -21,4 +21,4 @@
 > The code does not exist yet for some of these. DO NOT WORRY ABOUT IMPLEMENTING THESE SOUNDS. Just find them / ask your sound person to create them. From there, we will look at the sounds you've gathered and determine if they fit the game's aesthetic.
 
 Also, the menus in our game don't really feel good when trying to navigate using buttons (on a controller or even a keyboard)
-- In an emp
+- In an empty scene, create a simple menu system that feels good to navigate with a keyboard AND controller.
