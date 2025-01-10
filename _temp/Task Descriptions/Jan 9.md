@@ -30,6 +30,9 @@ Also, the menus in our game don't really feel good when trying to navigate using
 Based on this image, the menu should have:
 
 - A header with
-	- 4 buttons in it that  span across the top of the screen.
+	- 4 buttons in it that span across the top of the screen. I suggest you use a Horizontal Layout Group for this: <https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-HorizontalLayoutGroup.html>
 	- These buttons represent which page of the menu the player is currently on. The player can navigate to different pages by selecting a button.
 	- The selected page's button NEEDS to remain highlighted for as long as the player stays on the page.
+- Multiple pages, with each clearly having its own subset of elements
+- UI Elements
+	- 
