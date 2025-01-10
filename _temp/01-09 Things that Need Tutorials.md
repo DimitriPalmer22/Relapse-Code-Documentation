@@ -4,6 +4,6 @@
 - [x] Interacting with objects (Some objects require inventory items + inventory)
 - [x] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
 - [x] Taking damage + Passive healing
-- [ ] Checkpoints & Respawning
+- [x] Checkpoints & Respawning
 - [ ] Vendors (Dealers & Doctors)
 - [ ] You can now sprint + jump
