@@ -22,5 +22,11 @@
 
 Also, the menus in our game don't really feel good when trying to navigate using buttons (on a controller or even a keyboard)
 
-- In an empty scene, create a simple menu system that feels good to navigate with a keyboard AND controller.
+- In an empty scene, create a simple menu system that feels good to navigate with a keyboard AND controller. The menu doesn't have to do anything, but should be functional in terms of navigation and interacting with elements
 - The menu should look like the following:
+
+![](<../../_META/Excalidraw/01-09 New Menu Specifications.excalidraw.png>)
+
+Based on this image, the menu should have:
+- a header
+	- The header should spa
