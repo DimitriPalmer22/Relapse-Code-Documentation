@@ -1,5 +1,6 @@
 - [ ] Basic WASD Movement + Looking & Aiming
 - [ ] In the game, what items / decals / environmental clues are consistently going to guide me in the right direction?
 - [ ] Interacting with objects
-- [ ] Using guns (Shoot + Reload + On-screen UI + Shooting neemies)
-- [ ]
+- [ ] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
+- [ ] Taking damage + Passive healing
+- [ ] 
