@@ -3,7 +3,7 @@
 - [x] In the game, what items / decals / environmental clues are consistently going to guide me in the right direction?
 - [x] Interacting with objects (Some objects require inventory items + inventory)
 - [x] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
-- [ ] Taking damage + Passive healing
+- [x] Taking damage + Passive healing
 - [ ] Checkpoints & Respawning
 - [ ] Vendors (Dealers & Doctors)
 - [ ] You can now sprint + jump
