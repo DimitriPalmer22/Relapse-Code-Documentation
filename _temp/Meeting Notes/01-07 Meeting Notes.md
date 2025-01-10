@@ -76,3 +76,6 @@ Our biggest problem is conveyance: when people play our game, they often have no
 	- A sound for when the enemy is alerted of the player's presence. Like a grunt.
 	- A swipe / wind sound effect for when the enemy attacks
 	- A grunt for when the enemy attacks
+
+> The code does not exist yet for some of these. DO NOT WORRY ABOUT IMPLEMENTING THESE SOUNDS. Just find them / ask your sound person to create them. From there, we will look at the sounds you've gathered and determine if they fit the game's aesthetic.
+
