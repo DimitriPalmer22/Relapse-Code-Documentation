@@ -5,5 +5,5 @@
 - [x] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
 - [x] Taking damage + Passive healing
 - [x] Checkpoints & Respawning
-- [ ] Vendors (Dealers & Doctors)
-- [ ] You can now sprint + jump
+- [x] Vendors (Dealers & Doctors)
+- [x] You can now sprint + jump
