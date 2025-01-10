@@ -3,4 +3,6 @@
 - [ ] Interacting with objects
 - [ ] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
 - [ ] Taking damage + Passive healing
-- [ ] 
+- [ ] Checkpoints & Respawning
+- [ ] Checking the Journal
+- [ ] Vendors
