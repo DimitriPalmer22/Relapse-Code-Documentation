@@ -35,4 +35,9 @@ Based on this image, the menu should have:
 	- The selected page's button NEEDS to remain highlighted for as long as the player stays on the page.
 - Multiple pages, with each clearly having its own subset of elements
 - UI Elements
+	- Simple buttons. 
+		- These should work with the 'interact' button ()
+	- Value pickers. 
+		- These are buttons that increment / decrement a value when the player interacts with them. For example, the player can use these to change the volume of the game.
+		- When the player presses / holds left or right on a value picker, the value should increment / decrement.
 	- 
