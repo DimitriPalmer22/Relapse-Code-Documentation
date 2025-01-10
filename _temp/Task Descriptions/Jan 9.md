@@ -30,7 +30,7 @@ Also, the menus in our game don't really feel good when trying to navigate using
 Based on this image, the menu should have:
 
 - A header with
-	- 4 buttons in it that span across the top of the screen. I suggest you use a Horizontal Layout Group for this: <https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-HorizontalLayoutGroup.html>
+	- 4 buttons in it that span across the top of the screen. I suggest you use a [Horizontal Layout Group](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-HorizontalLayoutGroup.html) for this.
 	- These buttons represent which page of the menu the player is currently on. The player can navigate to different pages by selecting a button.
 	- The selected page's button NEEDS to remain highlighted for as long as the player stays on the page.
 - Multiple pages, with each clearly having its own subset of elements
@@ -43,6 +43,7 @@ Based on this image, the menu should have:
 	- Checkboxes
 		- These should work with the 'submit' button (Enter on keyboard, A on XB1 controller, X on PS4 controller)
 		- Pressing the submit button should toggle the checkbox's state between on and off
+	- It might help to organize the UI elements using a [vertical layout group](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-VerticalLayoutGroup.html).
 - A functional scrollbar.
 	- This should work with the mouse wheel, and should also work with a controller's joystick.
 	- Also, the scrollbar should reset whenever the player navigates to a new page
