@@ -28,5 +28,8 @@ Also, the menus in our game don't really feel good when trying to navigate using
 ![](<../../_META/Excalidraw/01-09 New Menu Specifications.excalidraw.png>)
 
 Based on this image, the menu should have:
-- a header
-	- The header should spa
+
+- A header with
+	- 4 buttons in it that  span across the top of the screen.
+	- These buttons represent which page of the menu the player is currently on. The player can navigate to different pages by selecting a button.
+	- The selected page's button NEEDS to remain highlighted for as long as the player stays on the page.
