@@ -1,5 +1,5 @@
-- [ ] Basic WASD Movement + Looking & Aiming
-- [ ] Checking the Journal
+- [x] Basic WASD Movement + Looking & Aiming
+- [x] Checking the Journal
 - [ ] In the game, what items / decals / environmental clues are consistently going to guide me in the right direction?
 - [ ] Interacting with objects (Some objects require inventory items + inventory)
 - [ ] Using guns (Shoot + Reload + On-screen UI + Shooting enemies)
