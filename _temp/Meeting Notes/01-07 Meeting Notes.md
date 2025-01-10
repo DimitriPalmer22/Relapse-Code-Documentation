@@ -56,3 +56,7 @@ Our biggest problem is conveyance: when people play our game, they often have no
 - Better tutorials. Whenever the player encounters a new mechanic, the game pauses and a tutorial screen pops up with a video + text description of how to use the new thing.
 	- The player can access these tutorials from the pause menu.
 - To differentiate the drugs from the meds, we'll have different icons for both. The drugs can have a skull icon & the meds powers could have a green cross.
+
+## Bruh
+- Austin
+- 
