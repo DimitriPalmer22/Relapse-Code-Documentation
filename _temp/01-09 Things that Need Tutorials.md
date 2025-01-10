@@ -6,3 +6,4 @@
 - [ ] Taking damage + Passive healing
 - [ ] Checkpoints & Respawning
 - [ ] Vendors (Dealers & Doctors)
+- [ ] You can now sprint + jump
