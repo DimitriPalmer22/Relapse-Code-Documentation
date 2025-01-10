@@ -27,7 +27,9 @@ Also, the menus in our game don't really feel good when trying to navigate using
 
 ![](<../../_META/Excalidraw/01-09 New Menu Specifications.excalidraw.png>)
 
-Based on this image, the menu should have:
+![](https://static.wikia.nocookie.net/temtem_gamepedia_en/images/f/f1/SettingsGame.png/revision/latest?cb=20201002182857)
+
+Based on these images, the menu should have:
 
 - A header with
 	- 4 buttons in it that span across the top of the screen. I suggest you use a [Horizontal Layout Group](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-HorizontalLayoutGroup.html) for this.
