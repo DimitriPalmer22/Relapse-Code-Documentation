@@ -59,6 +59,7 @@ Our biggest problem is conveyance: when people play our game, they often have no
 
 ## Bruh - Austin
 - Revisit the power sounds entirely
-	- Having a one-shot sounds for charging the power is not gonna work. We need a looping SFX for charging the power and a one-shot for releasing the power. We don't think the sound for this right now fits.
+	- Having a one-shot sounds for charging the power is not gonna work. We don't think the sound for this right now fits.
+	- Instead, we will have a looping sound effect when the player is charging their power. This way, the pl
 	- We also need a different sound for when a power is done cooling down. We don't think the sound for this right now fits.
 - 
