@@ -25,7 +25,7 @@ Also, the menus in our game don't really feel good when trying to navigate using
 - In an empty scene, create a simple menu system that feels good to navigate with a keyboard AND controller. The menu doesn't have to do anything, but should be functional in terms of navigation and interacting with elements
 - The menu should look like the following:
 
-![](
+![](<../../_META/Excalidraw/01-09 New Menu Specifications.excalidraw.png>)
 
 Based on this image, the menu should have:
 
@@ -43,8 +43,6 @@ Based on this image, the menu should have:
 	- Checkboxes
 		- These should work with the 'submit' button (Enter on keyboard, A on XB1 controller, X on PS4 controller)
 		- Pressing the submit button should toggle the checkbox's state between on and off
-- A functional scrollbar. 
+- A functional scrollbar.
 	- This should work with the mouse wheel, and should also work with a controller's joystick.
 	- Also, the scrollbar should reset whenever the player navigates to a new page
-
-
