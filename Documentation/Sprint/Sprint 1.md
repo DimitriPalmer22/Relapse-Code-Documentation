@@ -127,3 +127,18 @@ The new features the player encounters as they traverse the level.
 	- How short is the player when they slide and what can they slide down?
 	- How fast is the player is when they slide?
 	- Slide cancelling (jump cancel & sprint cancel)
+
+
+# Controller Controls
+- Move: Left Stick 
+- Look: Right Stick 
+
+- Shoot: Right Trigger
+- Reload: X
+
+- Interact: Y
+
+- Charge power: Hold Left Trigger
+- Release power: Release Left Trigger
+- Change Power: LB and RB
+- 
