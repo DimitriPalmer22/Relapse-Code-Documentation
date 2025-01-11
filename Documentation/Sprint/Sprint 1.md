@@ -47,10 +47,10 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 - Refine the movement system
 	- Wall-climbing
 	- Smoother wall-running
-		- Bigger angle to start wall-running
-		- Restrict the player from looking too far away from / into the wall while wall-running
-		- If you jump while too close to the wall, you immediately wall-run. Fix this by requiring the player's movement to be directed toward the wall.
-		- Sometimes the camera tilts the wrong way
+		- [x] Bigger angle to start wall-running
+		- [x] Restrict the player from looking too far away from / into the wall while wall-running
+		- [ ] If you jump while too close to the wall, you immediately wall-run. Fix this by requiring the player's movement to be directed toward the wall.
+		- [x] Sometimes the camera tilts the wrong way
 - Charging enemy
 - More powers
 - Revisit the power sounds entirely
