@@ -132,6 +132,9 @@ The new features the player encounters as they traverse the level.
 # Controller Controls
 - Move: Left Stick 
 - Look: Right Stick 
+- Sprint: Left Stick Click
+- Jump: A
+- Slide: B (While moving / Sprinting)
 
 - Shoot: Right Trigger
 - Reload: X
@@ -141,4 +144,5 @@ The new features the player encounters as they traverse the level.
 - Charge power: Hold Left Trigger
 - Release power: Release Left Trigger
 - Change Power: LB and RB
-- 
+
+- Pause: Start
