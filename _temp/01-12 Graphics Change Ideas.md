@@ -7,3 +7,5 @@
 <https://www.youtube.com/watch?v=MLl4yzaYMBY&list=PLAUha41PUKAaYVYT7QwxOtiUllckLZrir&index=2&ab_channel=NedMakesGames>
 
 <https://www.youtube.com/watch?v=9fa4uFm1eCE&ab_channel=GameDevGuide>
+
+<https://catlikecoding.com/unity/tutorials/custom-srp/>
