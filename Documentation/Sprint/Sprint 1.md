@@ -50,6 +50,7 @@ Generally, we have what we want for a lot of the art stuff in place. WE just nee
 		- [x] Bigger angle to start wall-running
 		- [x] Restrict the player from looking too far away from / into the wall while wall-running
 		- [ ] If you jump while too close to the wall, you immediately wall-run. Fix this by requiring the player's movement to be directed toward the wall.
+		- [ ] If you go into a wall at the wrong angle, you should not be able to wall-run. 
 		- [x] Sometimes the camera tilts the wrong way
 - Charging enemy
 - More powers
