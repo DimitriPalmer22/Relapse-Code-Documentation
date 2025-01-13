@@ -128,5 +128,3 @@ The new features the player encounters as they traverse the level.
 	- How short is the player when they slide and what can they slide down?
 	- How fast is the player is when they slide?
 	- Slide cancelling (jump cancel & sprint cancel)
-
-Mikel_Garden
