@@ -6,4 +6,6 @@
 
 - I like the fact that you repositioned the phone so its a lot harder to miss now.
 	- Side note: one of us has to make the collider for the phone bigger at some point cuz it feels a little hard to interact with sometimes.
+- The boxes on the 4th floor in the pic below need to be made a little smaller. The lesion enemy there gets stuck on the boxes and can't chase the player beyond that point
+![](<../_META/Attachments/Pasted image 20250118123002.png>)
 -
