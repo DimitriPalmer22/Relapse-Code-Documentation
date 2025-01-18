@@ -10,4 +10,6 @@
 ![](<../_META/Attachments/Pasted image 20250118123002.png>)
 - When the player leaves the phone room, they enter the lobby from the angle pictured below. I like the fact that the props initially obstruct the alternate paths from the player's view. However, I do think there needs to also be a MUCH stronger of the correct path that can be seen from this view. Maybe you can place an exit sign on the floor around the pink circle
 ![](<../_META/Attachments/Pasted image 20250118124730.png>)
+- There is a random invisible collider in the red circle in the pic below. I think its from a leftover trash can or something
+![](<../_META/Attachments/Pasted image 20250118125043.png>)
 -
