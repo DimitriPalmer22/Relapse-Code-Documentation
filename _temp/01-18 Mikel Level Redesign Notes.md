@@ -8,4 +8,5 @@
 	- Side note: one of us has to make the collider for the phone bigger at some point cuz it feels a little hard to interact with sometimes.
 - The boxes on the 4th floor in the pic below need to be made a little smaller. The lesion enemy there gets stuck on the boxes and can't chase the player beyond that point
 ![](<../_META/Attachments/Pasted image 20250118123002.png>)
--
+- When the player leaves the phone room, they enter the lobby from the angle pictured below. I like the fact that the props initially obstruct the alternate paths from the player's view. However, I do think there needs to be a much stronger of the correct path that can be seen from this view. Maybe you can place a  
+![](<../_META/Attachments/Pasted image 20250118124514.png>)
