@@ -12,4 +12,5 @@
 ![](<../_META/Attachments/Pasted image 20250118124730.png>)
 - There is a random invisible collider in the red circle in the pic below. I think its from a leftover trash can or something
 ![](<../_META/Attachments/Pasted image 20250118125043.png>)
--
+- In the tunnels that lead between the rooms (not the tunnel that eventually leads the exit. I mean the bigger set of tunnels that connects to 4 rooms), one of the rooms the tunnels leads to is completely empty (pictured below). We should figure out something to put in this room.
+![](<../_META/Attachments/Pasted image 20250118125406.png>)
