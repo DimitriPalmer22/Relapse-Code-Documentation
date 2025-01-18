@@ -7,10 +7,12 @@
 - I like the fact that you repositioned the phone so its a lot harder to miss now.
 	- Side note: one of us has to make the collider for the phone bigger at some point cuz it feels a little hard to interact with sometimes.
 - We should probably turn off the lights in all the bathrooms unless there is something significant in there. I'm tired of mfs playing our game and going straight to the shitter.
-- The boxes on the 4th floor in the pic below need to be made a little smaller. The lesion enemy there gets stuck on the boxes and can't chase the player beyond that point
-![](<../_META/Attachments/Pasted image 20250118123002.png>)
 - When the player leaves the phone room, they enter the lobby from the angle pictured below. I like the fact that the props initially obstruct the alternate paths from the player's view. However, I do think there needs to also be a MUCH stronger of the correct path that can be seen from this view. Maybe you can place an exit sign on the floor around the pink circle
 ![](<../_META/Attachments/Pasted image 20250118124730.png>)
+- The boxes on the 4th floor in the pic below need to be made a little smaller. The lesion enemy there gets stuck on the boxes and can't chase the player beyond that point
+![](<../_META/Attachments/Pasted image 20250118123002.png>)
+- At the end of the long hallway with the lesion
+![](<../_META/Attachments/Pasted image 20250118125955.png>)
 - There is a random invisible collider in the red circle in the pic below. I think its from a leftover trash can or something
 ![](<../_META/Attachments/Pasted image 20250118125043.png>)
 - In the tunnels that lead between the rooms (not the tunnel that eventually leads the exit. I mean the bigger set of tunnels that connects to 4 rooms), one of the rooms the tunnels leads to is completely empty (pictured below). We should figure out something to put in this room.
