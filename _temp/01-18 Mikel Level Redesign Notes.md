@@ -11,7 +11,9 @@
 ![](<../_META/Attachments/Pasted image 20250118124730.png>)
 - The boxes on the 4th floor in the pic below need to be made a little smaller. The lesion enemy there gets stuck on the boxes and can't chase the player beyond that point
 ![](<../_META/Attachments/Pasted image 20250118123002.png>)
-- At the end of the long hallway with the lesion (pictured below), there's really nothing of note here for the player to do after they've killed the monster, so it feels a little like wasted space. What we could do is block it off by putting a blocker at the end of the hallway OR
+- At the end of the long hallway with the lesion (pictured below), there's really nothing of note here for the player to do after they've killed the monster, so it feels a little like wasted space. What we could do is
+	- block it off by putting a blocker at the end of the hallway
+	- ORRRRR. We can put a collectible or something in this area. There is ALREADY an empty open room if you turn the corner and explore a little bit. We can put something in there.
 ![](<../_META/Attachments/Pasted image 20250118125955.png>)
 - There is a random invisible collider in the red circle in the pic below. I think its from a leftover trash can or something
 ![](<../_META/Attachments/Pasted image 20250118125043.png>)
