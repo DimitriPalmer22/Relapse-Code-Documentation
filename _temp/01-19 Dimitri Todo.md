@@ -2,3 +2,4 @@
 - [ ] Make a script for removing the gun in the tutorial
 - [x] Exploding Barrell script
 - [ ] Make a different layer for wall climbing vs wall running
+- [ ] Reset save data when pressing play
