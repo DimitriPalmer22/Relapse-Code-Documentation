@@ -3,3 +3,4 @@
 - [x] Exploding Barrell script
 - [ ] Make a different layer for wall climbing vs wall running
 - [ ] Reset save data when pressing play
+- [ ] Menu Stack (specifically for having tutorials before you enter a menu)
