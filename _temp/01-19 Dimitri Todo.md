@@ -1,4 +1,4 @@
 - [x] Wall climb when you're on the ground
 - [ ] Make a script for removing the gun in the tutorial
-- [ ] Exploding Barrell script
+- [x] Exploding Barrell script
 - [ ] Make a different layer for wall climbing vs wall running
