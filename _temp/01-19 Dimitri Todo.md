@@ -9,4 +9,5 @@
 
 ### Elevator Script
 - This script should work with any moving platform that uses the animator to move (not just up and down)
-- The animator component NEEDS to have the "update mode" set to "Animate Physics". Otherwi
+- The animator component NEEDS to have the "update mode" set to "Animate Physics". Otherwise, the player will not stick to the platform
+- As a child of the platform that is animated, create a trigger collider that about is as wide as the platform. Move the trigger a little bit above the platform. Then, attach 
