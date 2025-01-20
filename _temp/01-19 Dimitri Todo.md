@@ -1,0 +1,3 @@
+- [ ] Wall climb when you're on the ground
+- [ ] Make a different layer for wall climbing vs wall running
+- [ ] Make a script for removing the gun in the tutorial
