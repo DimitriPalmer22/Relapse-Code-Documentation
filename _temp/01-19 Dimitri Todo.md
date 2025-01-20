@@ -4,3 +4,4 @@
 - [x] Reset save data when pressing play
 - [x] Menu Stack (specifically for having tutorials before you enter a menu)
 - [ ] Make a different layer for wall climbing vs wall running
+- [ ] Speed threshold when trying to wall climb from the floor
