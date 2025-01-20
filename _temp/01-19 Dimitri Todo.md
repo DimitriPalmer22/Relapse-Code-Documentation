@@ -1,6 +1,6 @@
 - [x] Wall climb when you're on the ground
-- [ ] Make a script for removing the gun in the tutorial
+- [x] Make a script for removing the gun in the tutorial
 - [x] Exploding Barrell script
-- [ ] Make a different layer for wall climbing vs wall running
 - [ ] Reset save data when pressing play
+- [ ] Make a different layer for wall climbing vs wall running
 - [ ] Menu Stack (specifically for having tutorials before you enter a menu)
