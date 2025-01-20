@@ -6,3 +6,7 @@
 - [ ] Make a different layer for wall climbing vs wall running
 - [x] Speed threshold when trying to wall climb from the floor
 - [ ] Elevator platform script for player
+
+### Elevator Script
+- This script should work with any moving platform that uses the animator to move (not just up and down)
+- The animator component NEEDS to have the "update mode" set to "Animate Physics". Otherwi
