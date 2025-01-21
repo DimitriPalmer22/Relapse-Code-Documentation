@@ -21,4 +21,4 @@
 	- Lightning would stun if enemy runs into and provides cover,
 	- fire would inflict burn DOT if enemy runs into it and cover)
 - [ ] AOE debuff zone
-- [ ] BLACKOUT - Deadass just the chain lightning power, but
+- [ ] BLACKOUT - Deadass just the chain lightning power, but YOURE the thing that moves
