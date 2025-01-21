@@ -14,7 +14,7 @@
 - If you wanna see an example, check out the "Elevator" game object in the Garden_WallRunning scene.
 
 ### Powers
-- [ ] Chain damage ability (chain lightning type shit)
+- [x] Chain damage ability (chain lightning type shit)
 - [ ] Spread damage / shotgun ability (imagine a bunch of small fireballs with big spread)
 - [ ] Virus infliction ability (attack 1 enemy with a poison ability, killing this enemy spreads the poison to nearby enemies)
 - [ ] Defensive wall (could be elemental with inflictions upon the enemy if they run into the wall. Ex, lightning wall, fire wall.
