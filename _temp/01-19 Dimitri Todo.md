@@ -12,3 +12,6 @@
 - The animator component NEEDS to have the "update mode" set to "Animate Physics". Otherwise, the player will not stick to the platform
 - As a child of the platform that is animated, create a trigger collider that about is as wide as the platform. Move the trigger a little bit above the platform. Then, attach the "ElevatorPlatform" script to the trigger. That's it.
 - If you wanna see an example, check out the "Elevator" game object in the Garden_WallRunning scene.
+
+### Powers
+-  
