@@ -21,8 +21,3 @@
 	- Lightning would stun if enemy runs into and provides cover,
 	- fire would inflict burn DOT if enemy runs into it and cover)
 - [ ] AOE debuff zone
-
-s = the remaining calories until knightro earns another smoothie
-total_cal = the number of calories he already has
-
-s=total_cal%250
