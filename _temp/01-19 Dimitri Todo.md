@@ -82,4 +82,10 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Was there any point of the level that felt too dark or too bright?
 - Was there any point where you felt like you didn't know what was going on?
 
-### D
+### Debug Controls:
+- Comma to decrease brightness
+- Period to increase brightness
+- K to decrease toxicity
+- L to increase toxicity
+- K to take damage
+- M to heal
