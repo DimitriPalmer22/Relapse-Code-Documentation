@@ -51,7 +51,9 @@ Shaders
 - Jumping
 - Guns:
 	- Standard Pistol
-	- 
+	- Automatic Pistol
+	- Hand cannon
+	- Shotgun
 
 ### Scenes to Test
 - NAB_PlayerData
