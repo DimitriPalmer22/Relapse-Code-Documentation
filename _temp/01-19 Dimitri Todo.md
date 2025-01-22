@@ -56,10 +56,10 @@ Shaders
 	- Shotgun
 
 ### Scenes to Test in the Editor
-- Garden_Ghostrunner - Test the movement & test rhdash power
+- Garden_Ghostrunner - Test the movement & test the dash power
 - Garden_CombatArena - Test all the guns & powers that are available. How does combat overall feel?
 - Alex_Garden_Combat (Turn off the Player UI game object to get rid of the images staying on screen). Test combat + test level navigation
 - Mikel_GardenCombat. Test combat + test level navigation + test how it feels to have spaces with both movement and combat
--
+- Mikel_GardenMovement. Test movement + test level navigation
 
 # Play the Main Level in the Build
