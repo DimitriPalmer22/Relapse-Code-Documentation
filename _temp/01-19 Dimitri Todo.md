@@ -27,6 +27,7 @@ Add more convenient button controls to the menu
 Create a demonstration for the menu
 
 Post processing
+
 - Color temperature change to make the game look warmer
 - Subtle vignette around the corners of the screen
 - Subtle film grain
@@ -36,11 +37,16 @@ Post processing
 - Slight motion blur
 
 Shaders
+
 - Fullscreen Posterization shader to reduce the range of colors
 - Fullscreen Halftone shader that puts dots all over the screen
 - Cel shader for the enemy models
 
-### Scenes to test
+## Features to Test
+- Sliding down the first slope
+- The wall-running system
+- 
+
+### Scenes to Test
+- NAB_PlayerData
 - Garden_Ghostrunner
-	- Sliding down the first slope
-	- Wall running
