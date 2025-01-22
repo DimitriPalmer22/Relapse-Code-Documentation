@@ -49,7 +49,9 @@ Shaders
 	- Wall jumping when pressing the jump button while on the wall
 - The slide ability
 - Jumping
--
+- Guns:
+	- Standard Pistol
+	- 
 
 ### Scenes to Test
 - NAB_PlayerData
