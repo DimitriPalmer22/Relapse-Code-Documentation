@@ -26,6 +26,13 @@
 Add more convenient button controls to the menu
 Create a demonstration for the menu
 
+- Color temperature change to make the game look warmer
+- Subtle vignette around the corners of the screen
+- Subtle film grain
+- Chromatic Aberration
+- Lens distortion to make the center of the screen bulge away from the player
+- 
+
 ### Scenes to test
 - Garden_Ghostrunner
 	- Sliding down the first slope
