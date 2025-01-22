@@ -25,3 +25,8 @@
 
 Add more convenient button controls to the menu
 Create a demonstration for the menu
+
+### Scenes to test
+- Garden_Ghostrunner
+	- Sliding down the first slope
+	- Wall running
