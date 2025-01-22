@@ -43,30 +43,37 @@ Shaders
 - Cel shader for the enemy models
 
 ## Features to Test
+
+Try to look for any outstanding bugs / polish issues in the following features:
+
 - The wall-running system:
 	- Running along the walls when hitting the walls with your side
 	- Wall climbing when hitting the walls with your front
 	- Wall jumping when pressing the jump button while on the wall
-- The slide ability
+- The slide ability (c on keyboard)
 - Jumping
 - Guns:
 	- Standard Pistol
 	- Automatic Pistol
 	- Hand cannon
 	- Shotgun
+- Enemy behavior:
+	- Melee enemies
+	- Ranged enemies
 
 ### Scenes to Test in the Editor
 - Garden_Ghostrunner - Test the movement & test the dash power
 - Garden_CombatArena - Test all the guns & powers that are available. How does combat overall feel?
-- Alex_Garden_Combat (Turn off the Player UI game object to get rid of the images staying on screen). Test combat + test level navigation
-- Mikel_GardenCombat. Test combat + test level navigation + test how it feels to have spaces with both movement and combat
-- Mikel_GardenMovement. Test movement + test level navigation
+- Alex_Garden_Combat - (Turn off the Player UI game object to get rid of the images staying on screen). Test combat + test level navigation
+- Mikel_GardenCombat - Test combat + test level navigation + test how it feels to have spaces with both movement and combat
+- Mikel_GardenMovement - Test movement + test level navigation
 
 # Play the Main Level in the Build
+- Did the game boot up properly without any hitches?
 - Is it easier to find where you need to be?
 - Does the pace of the game feel slightly better?
 - Does the level feel more polished?
 - Are there any outstanding bugs?
-- Were you able to get to the end section (the mindbreak area at the end)?
+- Were you able to get to the end section (the "mindbreak" area at the end)?
 - Did the game feel more interesting?
-- Do you think anything should be changed to make the game feel more interesting?
+- Do you think anything should be changed in this level to make the game feel more interesting?
