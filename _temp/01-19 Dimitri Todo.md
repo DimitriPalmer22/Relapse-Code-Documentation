@@ -43,9 +43,13 @@ Shaders
 - Cel shader for the enemy models
 
 ## Features to Test
-- Sliding down the first slope
-- The wall-running system
-- 
+- The wall-running system:
+	- Running along the walls when hitting the walls with your side
+	- Wall climbing when hitting the walls with your front
+	- Wall jumping when pressing the jump button while on the wall
+- The slide ability
+- Jumping
+-
 
 ### Scenes to Test
 - NAB_PlayerData
