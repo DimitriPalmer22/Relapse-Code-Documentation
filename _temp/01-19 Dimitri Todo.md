@@ -63,3 +63,10 @@ Shaders
 - Mikel_GardenMovement. Test movement + test level navigation
 
 # Play the Main Level in the Build
+- Is it easier to find where you need to be?
+- Does the pace of the game feel slightly better?
+- Does the level feel more polished?
+- Are there any outstanding bugs?
+- Were you able to get to the end section (the mindbreak area at the end)?
+- Did the game feel more interesting?
+- Do you think anything should be changed to make the game feel more interesting?
