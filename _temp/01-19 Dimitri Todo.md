@@ -58,6 +58,7 @@ Shaders
 ### Scenes to Test in the Editor
 - Garden_Ghostrunner - Test the movement & dash power
 - Garden_CombatArena - Test all the guns & powers that are available
-- 
+- Alex_Garden_Combat (Turn off the Player UI game object to get rid of the images staying on screen)
+-
 
 # Play the Main Level in the Build
