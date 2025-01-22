@@ -60,6 +60,8 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Enemy behavior:
 	- Melee enemies
 	- Ranged enemies
+- Interacting with objects in the environment
+- The tutorial system
 
 ### Scenes to Test in the Editor
 - Garden_Ghostrunner - Test the movement & test the dash power
@@ -77,3 +79,7 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Were you able to get to the end section (the "mindbreak" area at the end)?
 - Did the game feel more interesting?
 - Do you think anything should be changed in this level to make the game feel more interesting?
+- Was there any point of the level that felt too dark or too bright?
+- Was there any point where you felt like you didn't know what was going on?
+
+### D
