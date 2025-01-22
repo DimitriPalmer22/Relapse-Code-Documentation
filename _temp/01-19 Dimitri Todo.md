@@ -55,6 +55,8 @@ Shaders
 	- Hand cannon
 	- Shotgun
 
-### Scenes to Test
+### Scenes to test in the Editor
 - NAB_PlayerData
 - Garden_Ghostrunner
+
+# Play the level in the build
