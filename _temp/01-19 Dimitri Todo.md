@@ -26,12 +26,19 @@
 Add more convenient button controls to the menu
 Create a demonstration for the menu
 
+Post processing
 - Color temperature change to make the game look warmer
 - Subtle vignette around the corners of the screen
 - Subtle film grain
 - Chromatic Aberration
 - Lens distortion to make the center of the screen bulge away from the player
-- 
+- Bloom
+- Slight motion blur
+
+Shaders
+- Fullscreen Posterization shader to reduce the range of colors
+- Fullscreen Halftone shader that puts dots all over the screen
+- Cel shader for the enemy models
 
 ### Scenes to test
 - Garden_Ghostrunner
