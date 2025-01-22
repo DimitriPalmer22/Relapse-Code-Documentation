@@ -56,7 +56,8 @@ Shaders
 	- Shotgun
 
 ### Scenes to Test in the Editor
-- Garden_Ghostrunner
-- Garden_CombatArena
+- Garden_Ghostrunner - Test the movement & dash power
+- Garden_CombatArena - Test all the guns & powers that are available
+- 
 
 # Play the Main Level in the Build
