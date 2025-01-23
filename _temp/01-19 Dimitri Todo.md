@@ -23,8 +23,8 @@
 - [ ] AOE debuff zone
 - [ ] BLACKOUT - Deadass just the chain lightning power, but YOURE the thing that moves
 
-Add more convenient button controls to the menu
-Create a demonstration for the menu
+
+
 
 Post processing
 
