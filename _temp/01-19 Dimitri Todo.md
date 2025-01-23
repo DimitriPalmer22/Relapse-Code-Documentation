@@ -70,7 +70,7 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Mikel_GardenCombat - Test combat + test level navigation + test how it feels to have spaces with both movement and combat
 - Mikel_GardenMovement - Test movement + test level navigation
 
-# Play the Main Level in the Build
+### Play the Main Level in the Build
 - Did the game boot up properly without any hitches?
 - Is it easier to find where you need to be?
 - Does the pace of the game feel slightly better?
@@ -82,10 +82,11 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Was there any point of the level that felt too dark or too bright?
 - Was there any point where you felt like you didn't know what was going on?
 
-### Debug Controls:
+### Debug Controls
 - Comma to decrease brightness
 - Period to increase brightness
 - K to decrease toxicity
 - L to increase toxicity
 - K to take damage
+- N to take a little damage
 - M to heal
