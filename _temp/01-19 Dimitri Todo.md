@@ -22,6 +22,7 @@
 	- fire would inflict burn DOT if enemy runs into it and cover)
 - [ ] AOE debuff zone
 - [ ] BLACKOUT - Deadass just the chain lightning power, but YOURE the thing that moves
+---
 
 Post processing
 
