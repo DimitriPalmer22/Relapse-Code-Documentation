@@ -48,7 +48,7 @@ Try to look for any outstanding bugs / polish issues in the following features:
 	- Running along the walls when hitting the walls with your side
 	- Wall climbing when hitting the walls with your front
 	- Wall jumping when pressing the jump button while on the wall
-- The slide ability (c on keyboard)
+- The slide (c on keyboard)
 - Jumping
 - Guns:
 	- Standard Pistol
