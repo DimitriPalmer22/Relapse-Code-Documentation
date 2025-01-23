@@ -23,9 +23,6 @@
 - [ ] AOE debuff zone
 - [ ] BLACKOUT - Deadass just the chain lightning power, but YOURE the thing that moves
 
-
-
-
 Post processing
 
 - Color temperature change to make the game look warmer
