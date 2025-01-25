@@ -10,3 +10,4 @@ NEW IDEA FOR THE APARTMENT
 	- Aiden's level player repositioning
 - We could rearrange how we go up / down the stairs now that the apartment is no longer continuous. For example, we don't need to go from 4 to 5 to 3 since it'll be a little confusing.
 - Each floor of the apartment is planned to have different transitions to keep the sections visually interesting
+- Also, we need to get a new ambient-ish background song for the mindbreak
