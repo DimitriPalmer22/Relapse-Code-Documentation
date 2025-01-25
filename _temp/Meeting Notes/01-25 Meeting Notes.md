@@ -1,3 +1,5 @@
+# 01-25 Meeting Notes
+
 NEW IDEA FOR THE APARTMENT
 
 - Instead of having the apartment be 1 big continuous section of ass gameplay, we'll split it up throughout the whole game
