@@ -9,4 +9,4 @@ NEW IDEA FOR THE APARTMENT
 	- Maybe spawn enemies in dark corridors of the hallways so we keep intensity up
 	- Aiden's level player repositioning
 - We could rearrange how we go up / down the stairs now that the apartment is no longer continuous. For example, we don't need to go from 4 to 5 to 3 since it'll be a little confusing.
-- The 
+- Each floor of the apartment is planned to have different transitions to keep the sections visually interesting
