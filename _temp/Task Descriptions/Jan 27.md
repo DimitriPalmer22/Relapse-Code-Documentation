@@ -80,6 +80,8 @@ This is another projectile-based power, so it should not be too different code-w
 - Once the projectile hits an enemy, the enemy is "infected" for a short period of time.
 - While "infected", the enemy will take damage over time.
 	- Use a coroutine to do this
+	- To be more specific, the "infection" will tick X times. Whenever a tick happens, the enemy will take Y damage. The "infection" will tick every Z seconds.
+	- So, the total damage the enemy takes is X * Y over the course of X * Z seconds.
 - The projectile should be slightly slower than the fireball projectile
 - You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
 
