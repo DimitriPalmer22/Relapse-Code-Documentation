@@ -1,5 +1,3 @@
-- Playtesting: Most of the same notes for playtesting as last time still apply
-
 ## Playtesting
 
 Try to look for any outstanding bugs / polish issues in the following features:
@@ -16,7 +14,7 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - Interacting with objects in the environment
 - The tutorial system
 
-### Scenes to Test in the Editor
+### Scenes
 
 You *should* also be able to access these scenes from the main menu. So, you can choose to build the game before you play or play in-editor.
 
