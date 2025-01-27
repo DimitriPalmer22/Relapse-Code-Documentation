@@ -5,32 +5,20 @@
 Try to look for any outstanding bugs / polish issues in the following features:
 
 - The wall-running system:
-
-	- Running along the walls when hitting the walls with your side
-
-		- Wall climbing when hitting the walls with your front
-		- Wall jumping when pressing the jump button while on the wall
-
+	- Any hiccups with the wall running that make the game feel janky
+	- Is the player randomly falling off the walls / is it hard to initially stick to a wall?
 - The slide ability (c on keyboard)
 - Jumping
 - Guns:
-
-	- Standard Pistol
-
-		- Automatic Pistol
-		- Hand cannon
-		- Shotgun
-
 - Enemy behavior:
-
 	- Melee enemies
-
-		- Ranged enemies
-
+	- Ranged enemies
 - Interacting with objects in the environment
 - The tutorial system
 
 ### Scenes to Test in the Editor
+ 
+You *should* also be able to access these scenes from the main menu. So, you can choose to build the game before you play or play
 
 - Garden_Ghostrunner - Test the movement & test the dash power
 - Garden_CombatArena - Test all the guns & powers that are available. How does combat overall feel?
