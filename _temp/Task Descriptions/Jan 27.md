@@ -56,12 +56,30 @@ Note: the names of the levels in the editor don't match the names of the levels 
 
 This is another projectile-based power, so it should not be too different code-wise from the fireball power.
 
-Refresher for making powers
+[Refresher for making powers](<../../Documentation/Powers/Powers.md>)
 
 ### Overview
 - The player fires X physical projectiles, each having its own forward direction
 - The direction each fireball goes should be completely random each time the power is used
 - These projectiles should be about half the size of the fireball projectiles
+- You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
+
+### Configurable Values in Editor
+- Damage: the amount of damage each projectile does
+- Projectile Count: the number of projectiles that are fired at once
+- Any other values you think would be necessary. You might even want to check the fireball power for any values that would be good to have.
+
+
+## Virus Infection Power
+
+This is another projectile-based power, so it should not be too different code-wise from the fireball power.
+
+[Refresher for making powers](<../../Documentation/Powers/Powers.md>)
+
+### Overview
+- The player fires a physical projectile.
+- Once the projectile hits an enemy, the enemy is infected with a virus.
+- The projectile should be slightly slower than the fireball projectile
 - You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
 
 ### Configurable Values in Editor
