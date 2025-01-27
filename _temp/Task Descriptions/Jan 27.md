@@ -83,10 +83,15 @@ This is another projectile-based power, so it should not be too different code-w
 	- To be more specific, the "infection" will tick X times. Whenever a tick happens, the enemy will take Y damage. The "infection" will tick every Z seconds.
 	- So, the total damage the enemy takes is X * Y over the course of X * Z seconds.
 - The projectile should be slightly slower than the fireball projectile
-- You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
+- The projectile should also be slightly larger than the fireball projectile
 
 ### Configurable Values in Editor
 - Damage: the amount of damage each projectile does initially.
 - Damage Per Tick: the total amount of damage the enemy takes while infected
-- Duration: the amount of time the enemy is infected for
+- Time Between Ticks: the time between each tick
+- Total Ticks: the total number of ticks the enemy takes
 - Any other values you think would be necessary. You might even want to check the fireball power for any values that would be good to have.
+
+## Go through the Game for Things that Need VFX
+
+As you play the game, look for any features / mechanics / powers that need more visual feedback for the player to understand what is going on. Make a list and send it in the Discord
