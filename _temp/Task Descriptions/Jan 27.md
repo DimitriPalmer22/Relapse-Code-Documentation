@@ -17,9 +17,12 @@ Try to look for any outstanding bugs / polish issues in the following features:
 - The tutorial system
 
 ### Scenes to Test in the Editor
- 
-You *should* also be able to access these scenes from the main menu. So, you can choose to build the game before you play or play
 
+You *should* also be able to access these scenes from the main menu. So, you can choose to build the game before you play or play in-editor.
+
+Note: the names of the levels in the editor don't match the names of the levels in the menu.
+
+- Aiden_Garden - Test the level overall. How is movement + combat + the progression of the level?
 - Garden_Ghostrunner - Test the movement & test the dash power
 - Garden_CombatArena - Test all the guns & powers that are available. How does combat overall feel?
 - Alex_Garden_Combat - (Turn off the Player UI game object to get rid of the images staying on screen). Test combat + test level navigation
