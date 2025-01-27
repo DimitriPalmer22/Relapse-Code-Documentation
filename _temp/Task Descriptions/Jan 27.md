@@ -57,6 +57,8 @@ Note: the names of the levels in the editor don't match the names of the levels 
 This is another projectile-based power, so it should not be too different code-wise from the fireball power.
 
 ### Overview
+- The player fires X physical projectiles, each having its own forward direction
 - 
 
 ### Configurable values in Editor
+- Damage: the amount of damage each projectile does
