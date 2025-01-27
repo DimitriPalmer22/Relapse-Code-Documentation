@@ -69,7 +69,6 @@ This is another projectile-based power, so it should not be too different code-w
 - Projectile Count: the number of projectiles that are fired at once
 - Any other values you think would be necessary. You might even want to check the fireball power for any values that would be good to have.
 
-
 ## Virus Infection Power
 
 This is another projectile-based power, so it should not be too different code-wise from the fireball power.
@@ -78,11 +77,14 @@ This is another projectile-based power, so it should not be too different code-w
 
 ### Overview
 - The player fires a physical projectile.
-- Once the projectile hits an enemy, the enemy is infected with a virus.
+- Once the projectile hits an enemy, the enemy is "infected" for a short period of time.
+- While "infected", the enemy will take damage over time.
+	- Use a coroutine to do this
 - The projectile should be slightly slower than the fireball projectile
 - You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
 
 ### Configurable Values in Editor
-- Damage: the amount of damage each projectile does
-- Projectile Count: the number of projectiles that are fired at once
+- Damage: the amount of damage each projectile does initially.
+- Damage Per Tick: the total amount of damage the enemy takes while infected
+- Duration: the amount of time the enemy is infected for
 - Any other values you think would be necessary. You might even want to check the fireball power for any values that would be good to have.
