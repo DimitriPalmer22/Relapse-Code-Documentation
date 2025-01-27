@@ -51,3 +51,12 @@ Note: the names of the levels in the editor don't match the names of the levels 
 - K to take damage
 - N to take a little damage
 - M to heal
+
+## Spread Damage / Shotgun Power
+
+This is another projectile-based power, so it should not be too different code-wise from the fireball power.
+
+### Overview
+- 
+
+### Configurable values in Editor
