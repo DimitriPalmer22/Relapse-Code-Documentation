@@ -58,7 +58,9 @@ This is another projectile-based power, so it should not be too different code-w
 
 ### Overview
 - The player fires X physical projectiles, each having its own forward direction
-- 
+- The direction each fireball goes should be completely random each time the power 
+- These projectiles should be about half the size of the fireball projectiles
+- You could probably even copy the fireball projectile prefab and just make it smaller. Then use that prefab for the power
 
 ### Configurable values in Editor
 - Damage: the amount of damage each projectile does
