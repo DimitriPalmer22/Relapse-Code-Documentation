@@ -19,7 +19,7 @@
 - So, a big focus for development was the theme of conveyance; how do we let the player what they NEED to know THROUGH the GAME?
 - So, if at any point you feel like a part of the game is confusing, or needs more visual / auditory feedback, its helpful to let us know.
 
-### Resume into the Level. Introduce the Art Style Changes. Stop and look around rq
+### Resume into the Level. Introduce the Art Style Changes. Stop and Look around Rq
 - Another big focus for the game's development over the break & the first couple weeks of this semester was reinforcing the art style.
 - So, just to reiterate, we've been leaning into a comic book type of aesthetic. To do this, we:
 	- The new outline shader
@@ -30,20 +30,20 @@
 	- 2D Visual effects
 	- Cel shader on the enemies & on the player's hands
 	- Also, our hands are animated to be at a low FPS. We're still workshopping that, so that's one of the things we're specifically looking for feedback on.
-# Continue with the rest of the apartment
+# Continue with the Rest of the Apartment
 - Point out changes in wayfinding
 	- Exit signs (tutorialized in the beginning)
 	- Volumetric lighting spilling from the doors
 	- More blockages in the level to funnel the player into the critical path
 - Point out the animated dealer card
 
-...
+…
 
 # Mindbreak
 - Explain what the mindbreaks are
 	- Sections of the game where the main character loses their grip on reality and falls back into their mind
-	- WE use these sections to:
-		- provide lore details about the main character's past
-		- 
-
-
+	- WE, the devs, use these sections to:
+		- ***provide lore details*** about the main character's past
+		- ***tutorialize*** upcoming segments of the game for the player
+	- This section in particular tutorializes wall running
+- Finish the mindbreak
