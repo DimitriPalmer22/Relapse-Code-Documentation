@@ -26,7 +26,7 @@
 	- The shaders that are being applied to the game at all times
 		- Dots
 		- Posterization to limit the range of colors
-		- IM SHOWING OFF THE FUCKING DOTS. PRESS , AND . TO MAKE THE SCREEN DARKER AND BRIGHTER SO WE SEE THE DOTS
+		- IM SHOWING OFF THE FUCKING DOTS. PRESS , AND . TO MAKE THE SCREEN DARKER AND BRIGHTER SO WE SEE THE DOTS CHANGE
 	- 2D Visual effects
 	- Cel shader on the enemies & on the player's hands
-- 
+-
