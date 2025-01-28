@@ -50,3 +50,4 @@
 
 # Explain the change in level design philosophy
 - Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels 
+- 
