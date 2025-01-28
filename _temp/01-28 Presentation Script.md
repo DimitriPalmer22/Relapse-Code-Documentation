@@ -49,4 +49,4 @@
 - Finish the mindbreak
 
 # Explain the change in level design philosophy
-- Given that 
+- Given that our apartment level doesn't really reflect the full scope of our gameplay
