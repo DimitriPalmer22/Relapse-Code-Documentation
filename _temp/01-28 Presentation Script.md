@@ -17,4 +17,4 @@
 	- What's the difference between this and that?
 	- How would I know to do this?
 - So, a big focus for development was the theme of conveyance; how do we let the player what they NEED to know THROUGH the GAME?
-- So, if at any point you feel like a part of the game is confusing, or needs more visual / auditory feedback, let us know.
+- So, if at any point you feel like a part of the game is confusing, or needs more visual / auditory feedback, its helpful to let us know.
