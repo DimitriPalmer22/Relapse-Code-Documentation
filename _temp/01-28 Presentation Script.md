@@ -49,5 +49,5 @@
 - Finish the mindbreak
 
 # Explain the change in level design philosophy
-- Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels 
-- 
+- Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels are gonna work 
+- Basically, our game's high concept primarily focuses on fighting enemies with BOTH firearms and powers AND also focuses 
