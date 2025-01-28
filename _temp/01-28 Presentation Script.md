@@ -19,7 +19,7 @@
 - So, a big focus for development was the theme of conveyance; how do we let the player what they NEED to know THROUGH the GAME?
 - So, if at any point you feel like a part of the game is confusing, or needs more visual / auditory feedback, its helpful to let us know.
 
-### Resume into the Level. Introduce the Art Style Changes
+### Resume into the Level. Introduce the Art Style Changes. Stop and look around rq
 - Another big focus for the game's development over the break & the first couple weeks of this semester was reinforcing the art style.
 - So, just to reiterate, we've been leaning into a comic book type of aesthetic. To do this, we:
 	- The new outline shader
@@ -30,4 +30,6 @@
 	- 2D Visual effects
 	- Cel shader on the enemies & on the player's hands
 	- Also, our hands are animated to be at a low FPS. We're still workshopping that, so that's one of the things we're specifically looking for feedback on.
-# 
+# Continue with the rest of the apartment
+- Point out changes in wayfinding
+	- 
