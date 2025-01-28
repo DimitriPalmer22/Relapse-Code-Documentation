@@ -29,5 +29,6 @@
 		- IM SHOWING OFF THE FUCKING DOTS. PRESS , AND . TO MAKE THE SCREEN DARKER AND BRIGHTER SO WE SEE THE DOTS CHANGE
 	- 2D Visual effects
 	- Cel shader on the enemies & on the player's hands
+	- Also, our hands are animated to be at a low FPS. We're
 
 # 
