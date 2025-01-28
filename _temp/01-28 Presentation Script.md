@@ -20,4 +20,5 @@
 - So, if at any point you feel like a part of the game is confusing, or needs more visual / auditory feedback, its helpful to let us know.
 
 ### Resume into the Level. Introduce the Art Style Changes
-- Another big focus for the game's development over the break & the first couple weeks of this semester was
+- Another big focus for the game's development over the break & the first couple weeks of this semester was reinforcing the art style.
+- So, just to
