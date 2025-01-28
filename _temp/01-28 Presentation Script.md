@@ -8,4 +8,5 @@
 - Pick up the gun
 - Read the tutorial. Make a dumb joke about my unity editor
 
-# 
+## Take a pause rq to talk about conveyance
+- A big problem we had whenever we presented the game or showed it to game testers is that 
