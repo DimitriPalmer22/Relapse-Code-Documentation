@@ -32,4 +32,6 @@
 	- Also, our hands are animated to be at a low FPS. We're still workshopping that, so that's one of the things we're specifically looking for feedback on.
 # Continue with the rest of the apartment
 - Point out changes in wayfinding
-	- 
+	- Exit signs (tutorialized in the beginning)
+	- Volumetric lighting spilling from the doors
+	- More blockages in the level to funnel the player into the critical path
