@@ -21,4 +21,9 @@
 
 ### Resume into the Level. Introduce the Art Style Changes
 - Another big focus for the game's development over the break & the first couple weeks of this semester was reinforcing the art style.
-- So, just to
+- So, just to reiterate, we've been leaning into a comic book type of aesthetic. To do this, we: 
+	- The new outline shader
+	- The shaders that are being applied to the game at all times
+		- Dots
+		- Posterization to limit the range of colors
+	- 2D 
