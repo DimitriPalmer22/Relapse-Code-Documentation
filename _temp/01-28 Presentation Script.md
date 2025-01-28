@@ -48,6 +48,8 @@
 	- This section in particular tutorializes wall running
 - Finish the mindbreak
 
-# Explain the change in level design philosophy
-- Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels are gonna work 
-- Basically, our game's high concept primarily focuses on fighting enemies with BOTH firearms and powers AND also focuses 
+# Before We Play the Extra Levels, Explain the Change in Level Design Philosophy
+- Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels are gonna work
+- Basically, our game's high concept primarily focuses on fighting enemies with BOTH firearms and powers.
+- After that, it focuses on moving through the levels with our movement system.
+- 
