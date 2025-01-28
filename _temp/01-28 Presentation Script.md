@@ -8,5 +8,6 @@
 - Pick up the gun
 - Read the tutorial. Make a dumb joke about my unity editor
 
-## Take a pause rq to talk about conveyance
-- A big problem we had whenever we presented the game or showed it to game testers is that 
+### Take a pause rq to talk about conveyance
+- Whenever we presented the game or showed it to game testers / showed people the game, WE found a big problem we had was that they had a hard time understanding what was going on.
+- So, a big focus for development was 
