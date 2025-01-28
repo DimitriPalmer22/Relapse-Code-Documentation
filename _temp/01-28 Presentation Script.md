@@ -37,4 +37,13 @@
 	- More blockages in the level to funnel the player into the critical path
 - Point out the animated dealer card
 
+...
+
+# Mindbreak
+- Explain what the mindbreaks are
+	- Sections of the game where the main character loses their grip on reality and falls back into their mind
+	- WE use these sections to:
+		- provide lore details about the main character's past
+		- 
+
 
