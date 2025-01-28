@@ -4,4 +4,4 @@
 
 # Level
 - Get into the tutorial mindbreak.
-- Walk around until you see the exit sign
+- Walk around until you see the exit sign. EMPHASIZE THE EXIT SIGN.
