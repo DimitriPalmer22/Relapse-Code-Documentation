@@ -9,5 +9,8 @@
 - Read the tutorial. Make a dumb joke about my unity editor
 
 ### Take a pause rq to talk about conveyance
-- Whenever we presented the game or showed it to game testers / showed people the game, WE found a big problem we had was that they had a hard time understanding what was going on.
-- So, a big focus for development was 
+- Whenever we presented the game or showed it to game testers / showed people the game, WE found a big problem we had was that they had a hard time understanding what was going on. 
+- Even now, we're still trying to nail that.
+	- Where am I at?
+	- How would I know to do this?
+- So, a big focus for development was the theme of conveyance; how do let the player know 
