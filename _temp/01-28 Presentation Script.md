@@ -35,3 +35,4 @@
 	- Exit signs (tutorialized in the beginning)
 	- Volumetric lighting spilling from the doors
 	- More blockages in the level to funnel the player into the critical path
+	- Point out the animated dealer card
