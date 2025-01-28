@@ -47,3 +47,6 @@
 		- ***tutorialize*** upcoming segments of the game for the player
 	- This section in particular tutorializes wall running
 - Finish the mindbreak
+
+# Explain the change in level design philosophy
+- Given that 
