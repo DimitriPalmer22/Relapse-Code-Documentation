@@ -6,4 +6,6 @@
 - Get into the tutorial mindbreak.
 - Walk around until you see the exit sign. EMPHASIZE THE EXIT SIGN.
 - Pick up the gun
-- 
+- Read the tutorial. Make a dumb joke about my unity editor
+
+# 
