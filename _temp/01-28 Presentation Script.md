@@ -52,4 +52,4 @@
 - Given that our apartment level doesn't really reflect the full scope of our gameplay, we had re-evaluate how the rest of game's levels are gonna work
 - Basically, our game's high concept primarily focuses on fighting enemies with BOTH firearms and powers.
 - After that, it focuses on moving through the levels with our movement system.
-- So, for how we design our levels for these two concepts, we made a clear distinction
+- So, for how we design our levels for these two concepts, we tried to make a clear distinction. This way, we *should* end up with level designs that support our mechanics more
