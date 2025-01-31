@@ -1,0 +1,8 @@
+- Remove the key delay for the WASD minigame. Some **absoulute gamers** are too good, which makes them get stuck after pressing the keys too fast.
+- Sometimes the speaking audio goes on for longer than the text does
+- Say that the bags are next to the dining hall rather than the gate
+- Indicate items that are current quest objectives
+- Right now, the journal only scrolls when you hover over the scrollbar
+- Death animation or some way to convey that the player just died
+- When chance is thinking, find a way to articulate that he's thinking
+- Load zone back from zone 4 is borked
