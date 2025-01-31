@@ -1,8 +1,8 @@
 - Remove the key delay for the WASD minigame. Some **absoulute gamers** are too good, which makes them get stuck after pressing the keys too fast.
 - Sometimes the speaking audio goes on for longer than the text does
-- Say that the bags are next to the dining hall rather than the gate
-- Indicate items that are current quest objectives
-- Right now, the journal only scrolls when you hover over the scrollbar
+- For that one quest where you have to collect the bags from the Southwest gate, it would be a little more helpful to say that the bags are next to the dining hall rather than the gate.
+- Find some way to highlight items that are current quest objectives. (idk put a custom shader on them when the quest is active, or put a world-space UI element over them)
+- Right now, the journal only scrolls when you hover over the scrollbar and use the scro
 - Death animation or some way to convey that the player just died
 - When chance is thinking, find a way to articulate that he's thinking
 - Load zone back from zone 4 is borked
