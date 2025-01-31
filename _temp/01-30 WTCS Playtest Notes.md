@@ -1,5 +1,6 @@
 ### 01-30 WTCS Playtest Notes
-- Remove the key delay for the WASD minigame. Some **absoulute gamers** are too good, which makes them get stuck after pressing the keys too fast.
+- I like the beginning cutscene. I wanna see what it looks like when it's fully done 
+- You should probably remove the key delay for the WASD minigame. Some ***absolute gamers*** are too good, which makes them get stuck after pressing the keys too fast.
 - Sometimes the speaking audio goes on for longer than the text does
 - For that one quest where you have to collect the bags from the Southwest gate, it would be a little more helpful to say that the bags are next to the dining hall rather than the gate.
 - Find some way to highlight items that are current quest objectives. (idk put a custom shader on them when the quest is active, or put a world-space UI element over them)
