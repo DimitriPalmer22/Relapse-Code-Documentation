@@ -6,5 +6,5 @@
 - Find some way to highlight items that are current quest objectives. (idk put a custom shader on them when the quest is active, or put a world-space UI element over them)
 - Right now, the journal only scrolls when you first hover over the scrollbar and then use the scroll wheel. Our game has the same issue and idk how to solve it yet
 - There should be some type of death animation or some other way to convey that the player just died
-- When Chance is thinking, find a way to articulate that he's thinking instead of just removing his character sprite. Maybe italicize the text too?
+- When Chance is thinking, find a way to articulate that he's thinking instead of just removing his character sprite. Maybe italicize the text too? You could even have a unique set of charac
 - Hey guys the load zones don't work
