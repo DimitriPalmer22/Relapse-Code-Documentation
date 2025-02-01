@@ -15,4 +15,4 @@
 
 **Task**: Compose a 1 minute pitch about yourself geared towards an ideal position. Record yourself giving the pitch. This can be done by recording a voice-over and showing works or a slide with your name OR recording yourself. Feel free to get creative.
 
-My na
+My name is x, and I am looking to become a gameplay programmer. My skills include programming. I also have extensive experience with using Unity and C#. I have a passion for creating games that are fun and engaging. I am a quick learner and I am always looking to improve my skills. I am confident that I can bring value to your company by creating games that are both fun and engaging. I am excited to work with you and I am looking forward to the opportunity to work with you. Thank you for your time. 
