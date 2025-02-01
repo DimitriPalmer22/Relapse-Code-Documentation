@@ -8,3 +8,11 @@
 - There should be some type of death animation or some other way to convey that the player just died
 - When Chance is thinking, find a way to articulate that he's thinking instead of just removing his character sprite. Maybe italicize the text too? You could even have a unique set of character images specifically for his thoughts.
 - Load zones lol
+
+---
+
+**Purpose**: Explain who you are, How you’d bring value to a company, and What are your abilities/skills/passions.
+
+**Task**: Compose a 1 minute pitch about yourself geared towards an ideal position. Record yourself giving the pitch. This can be done by recording a voice-over and showing works or a slide with your name OR recording yourself. Feel free to get creative.
+
+My na
