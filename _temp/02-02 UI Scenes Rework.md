@@ -1,0 +1,4 @@
+- [ ] Pause
+- [ ] Vendor
+- [ ] Tutorial
+- [ ] Death
