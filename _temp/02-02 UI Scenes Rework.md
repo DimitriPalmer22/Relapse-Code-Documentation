@@ -8,4 +8,5 @@ Yo ___ I wanna redo how the designers are setting up their checkpoints in their 
 ### New Checkpoint System
 Basically, this system uses 2 types of colliders:
 - Checkpoint colliders: When the player touches these, the script automatically stores the most recent checkpoint the player reached.
-- Reset colliders: When the player touches these, the script will reset the player's position to the *most recent* checkpoint they crossed. This way, the designers can just put big ass teleporter  
+- Reset colliders: When the player touches these, the script will reset the player's position to the *most recent* checkpoint they crossed. This way, the designers can just put big ass reset colliders everywhere to make sure that the player can never get out of the level. Also, the designers wouldn't have to specify respawn positions for every single collider they place.
+The only downside for this is the fact that the designers would have to redo their colliders for their levels.
