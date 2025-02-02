@@ -7,4 +7,5 @@ Yo ___ I wanna redo how the designers are setting up their checkpoints in their 
 
 ### New Checkpoint System
 Basically, this system uses 2 types of colliders:
-- Checkpoint colliders: When the player touches these, the script automatically stores the most recent checkpoint the player reached
+- Checkpoint colliders: When the player touches these, the script automatically stores the most recent checkpoint the player reached.
+- Reset colliders: When the player touches these, the script will reset the player's position to the *most recent* checkpoint they crossed. This way, the designers can just put big ass teleporter  
