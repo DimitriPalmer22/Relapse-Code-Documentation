@@ -29,6 +29,11 @@ Basically, this system uses 2 types of colliders:
 - Checkpoint colliders: When the player touches these, the script automatically stores the most recent checkpoint the player reached.
 - Reset colliders: When the player touches these, the script will reset the player's position AND ROTATION to the *most recent* checkpoint they crossed. This way, the designers can just put big ass reset colliders everywhere to make sure that the player can never get out of the level. Also, the designers don't have to specify respawn positions for every single collider they place.
 
-### How to Use
+## How to Use
 
-- ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" L***
+### Creating a Checkpoint Collider
+- To create a checkpoint collider, create a new game object w/ a trigger collider on it. 
+- Then, put the "LevelCheckpointCheckpoint" script on it.
+- Since this new system will respawn the player facing a specific direction, you may to adjust the rotation. 
+
+- ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" LAYER***
