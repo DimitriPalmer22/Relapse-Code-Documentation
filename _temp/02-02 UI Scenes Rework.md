@@ -13,3 +13,6 @@ The only downside for this is the fact that the designers would have to redo the
 
 
 # New Checkpoint System
+
+### Brief Summary
+The current system you guys have been using 
