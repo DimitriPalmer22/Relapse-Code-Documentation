@@ -43,5 +43,11 @@ Basically, this system uses 2 types of colliders:
 
 ### Creating a Reset Collider
 - Create a trigger collider
+- Put the "LevelCheckpointReset" script on it
+- Adjust the collider how you please
 
 - ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" LAYER***
+
+## If Your Level Has the OLD System in it
+You do not need to completely delete your old checkpoints if you don't want to. You can transfer these to the new system by:
+1. Select ALL of the colliders with the 
