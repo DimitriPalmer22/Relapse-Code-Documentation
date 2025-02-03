@@ -16,8 +16,12 @@ The only downside for this is the fact that the designers would have to redo the
 
 The current system you guys have been using for when the player falls of the level is a placeholder. I have made a new system to replace it / make it better.
 
+You can see examples of this new system in:
+- The Garden_WallRunning scene under the CHECKPOINTING GameObject
+- The Garden_Ghostrunner scene under the CHECKPOINTING (NEW) GameObject
+
 ### Overview
 Basically, this system uses 2 types of colliders:
 - Checkpoint colliders: When the player touches these, the script automatically stores the most recent checkpoint the player reached.
-- Reset colliders: When the player touches these, the script will reset the player's position AND ROTATION to the *most recent* checkpoint they crossed. This way, the designers can just put big ass reset colliders everywhere to make sure that the player can never get out of the level. Also, the designers wouldn't have to specify respawn positions for every single collider they place.
+- Reset colliders: When the player touches these, the script will reset the player's position AND ROTATION to the *most recent* checkpoint they crossed. This way, the designers can just put big ass reset colliders everywhere to make sure that the player can never get out of the level. Also, the designers don't have to specify respawn positions for every single collider they place.
 
