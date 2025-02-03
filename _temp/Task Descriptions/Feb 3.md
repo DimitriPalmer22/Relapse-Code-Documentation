@@ -10,7 +10,9 @@ To aid with playtesting, debugging, and showcasing the game, we need some tools 
 - Same playtest notes as normal
 ### Font Curation
 
-Since we are getting closer to the end of the project, we are starting to replace the placeholder assets with more finalized versions. This includes the fonts we use for the game.
+Since we are getting closer to the end of the project, we are starting to replace the placeholder assets with more finalized versions. This includes the fonts we use for the game. We need to find a font that fits the game's aesthetic and is easy to read.
+
+
 
 ### Tutorial Video Creation
 -
