@@ -32,10 +32,16 @@ Basically, this system uses 2 types of colliders:
 ## How to Use
 
 ### Creating a Checkpoint Collider
-1. To create a checkpoint collider, create a new game object w/ a trigger collider on it. 
+1. To create a checkpoint collider, create a new game object w/ a trigger collider on it.
 2. Then, put the "LevelCheckpointCheckpoint" script on it.
 3. This script needs a transform that the player will respawn at. You can just drag the game object into this slot, OR you can use some other game object if you want
-4. Since this new system will respawn the player facing a specific direction, you may to adjust the rotation. To do this, you can either adjust the y-rotation of the respawn point OR change the "rotation" value in the "LevelCheckpointCheckpoint" component.
-5. The green ball gizmo shows you where 
+4. Then, you need to adjust the box collider's bounds to make it easier for the player to walk through the collider while playing the game.
+5. Since this new system will respawn the player facing a specific direction, you may to adjust the rotation. To do this, you can either adjust the y-rotation of the respawn point OR change the "rotation" value in the "LevelCheckpointCheckpoint" component.
+6. The green ball gizmo shows you where the player will respawn at. The red arrow gizmo above that shows you which direction the player will be facing when they respawn.
+
+- ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" LAYER***
+
+### Creating a Reset Collider
+- Create a trigger collider
 
 - ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" LAYER***
