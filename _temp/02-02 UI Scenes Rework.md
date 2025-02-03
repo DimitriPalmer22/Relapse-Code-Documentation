@@ -50,4 +50,9 @@ Basically, this system uses 2 types of colliders:
 
 ## If Your Level Has the OLD System in it
 You do not need to completely delete your old checkpoints if you don't want to. You can transfer these to the new system by:
-1. Select ALL of the colliders with the 
+1. Select ALL of the colliders with the old "Teleporter" script on them
+	- If you want to search for every object in the scene with the Teleporter script on it, look up "t: Teleporter" (without the quotes) in the hierarchy.
+2. Disable / Delete the Teleporter script on these objects.
+3. Add the "LevelCheckpointReset" script to them
+
+That's it! You success
