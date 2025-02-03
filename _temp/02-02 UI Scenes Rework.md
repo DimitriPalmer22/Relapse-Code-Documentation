@@ -22,7 +22,7 @@ You can see examples of this new system in:
 - The Garden_WallRunning scene under the CHECKPOINTING object
 - The Garden_Ghostrunner scene under the "CHECKPOINTING (NEW)" object
 
-### Overview
+## Overview
 
 Basically, this system uses 2 types of colliders:
 
@@ -49,10 +49,14 @@ Basically, this system uses 2 types of colliders:
 - ***FOR THE LOVE OF GOD, PLEASE PUT ALL OF YOUR TRIGGER COLLIDERS ON THE "NonPhysical" LAYER***
 
 ## If Your Level Has the OLD System in it
+
 You do not need to completely delete your old checkpoints if you don't want to. You can transfer these to the new system by:
+
 1. Select ALL of the colliders with the old "Teleporter" script on them
 	- If you want to search for every object in the scene with the Teleporter script on it, look up "t: Teleporter" (without the quotes) in the hierarchy.
 2. Disable / Delete the Teleporter script on these objects.
 3. Add the "LevelCheckpointReset" script to them
 
-That's it! You success
+That's it! You successfully converted these to reset colliders.
+
+*YOU STILL NEED TO MAKE THE CHECKPOINT COLLIDERS MANUALLY, THOUGH*
