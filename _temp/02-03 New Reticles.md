@@ -9,7 +9,7 @@ Lock-On Reticle (Bottom Right Triangle):
 
 Pistol: Simple crosshair
 
-Neuros (Drugs)
+### Neuros (Drugs)
 
 - Chain Lighting
 - Explosion
@@ -18,11 +18,11 @@ Neuros (Drugs)
 - Spreadblast
 - Virus
 
-Vitals (Meds)
+### Vitals (Meds)
 
 - Damage Multiplier
 - Dash
-- Fire Rate Multiplier(?)
+- Fire Rate Multiplier(?) (I think u guys wanted to remove this one)
 - Position Swap
 - Regeneration
 - Stun Mine
