@@ -8,3 +8,7 @@ Lock-On Reticle (Bottom Right Triangle):
 <https://opengameart.org/sites/default/files/previewzh.png>
 
 Pistol: Simple crosshair
+
+Neuros
+- Chain Lighting
+- 
