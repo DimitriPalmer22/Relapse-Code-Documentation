@@ -9,6 +9,11 @@ Lock-On Reticle (Bottom Right Triangle):
 
 Pistol: Simple crosshair
 
-Neuros
+Neuros (Drugs)
 - Chain Lighting
-- 
+- Explosion
+- Explosive Mine
+- Fireball
+- Spreadblast
+- Virus
+
