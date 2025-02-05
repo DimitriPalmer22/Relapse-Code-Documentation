@@ -15,4 +15,9 @@ Since we are getting closer to the end of the project, we are starting to replac
 Don't replace the fonts for the UI elements in the game yet, as they might still be getting worked on. Instead, make a scene that shows off the several fonts you are considering and get feedback from the team.
 
 ### Tutorial Video Creation
-The scriptable objects for the tutorials can be found in the 'Asse'
+
+Right now, the tutorials in the game are still using placeholder videos. This needs to change. We need to start getting iterations of the tutorial videos in the game so we can start getting some feedback on them.
+
+The scriptable objects for the tutorials can be found in the 'Assest/Scriptable Objects/Tutorials_SO'.
+
+
