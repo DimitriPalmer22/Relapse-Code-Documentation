@@ -6,10 +6,12 @@ To aid with playtesting, debugging, and showcasing the game, we need some tools 
 	- Change the player's health
 	- Change the player's inventory
 
-This is moreso for your benefit rather than that of the playtesters. It will make it easier for you to test the game and see how it's working. So, if you
+This is moreso for your benefit rather than that of the playtesters. It will make it easier for you to test the game and see how it's working. So, if you have any ideas for debugging tools you would like to create, feel free to do so.
 
 ### Playtest
 - Same playtest notes as normal
+- Try to use the debugging tools you created to help with the playtest
+
 ### Font Curation
 
 Since we are getting closer to the end of the project, we are starting to replace the placeholder assets with more finalized versions. This includes the fonts we use for the game. We need to find a font that fits the game's aesthetic and is easy to read.
