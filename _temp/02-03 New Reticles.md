@@ -27,3 +27,43 @@ Pistol: Simple crosshair
 - Regeneration
 - Stun Mine
 - Time Slow
+
+## 2/4 In-Class Discussion
+
+### Skills
+
+- Gameplay programming
+- Data analysis
+- IT guy. Maintaining servers and stuff
+- UI programming
+- Animation programming
+
+### Tools
+
+- C#
+- C++
+- Python
+- Java
+- JS
+- Unity
+- Unreal
+
+### Potential Responsibilities of Your Job
+
+- Creating gameplay mechanics
+- Optimization 
+- Debugging
+- Server management
+- Graphics programming
+
+### Job Titles
+
+- Lead programmer
+- Gameplay programmer
+- Scripter
+- Software engineer
+- Server operator
+- Technical Playtester
+- Technical designer
+
+Each of these positions has the potential to be a junior, assistant, senior, or lead role.
