@@ -26,4 +26,4 @@ The way the tutorials work, you can have a different video for each page of the 
 
 Do this for each of the tutorial scriptable objects you see in the folder.
 
-DO NOT IMMEDIATELY PUSH THE VIDEOS INTO THE PROJECT'S REPOSIT
+DO NOT IMMEDIATELY PUSH THE VIDEOS INTO THE PROJECT'S REPOSITORY. Video files are pretty large and the GitHub repository is limited on space. Instead, send them through the discord or upload them to the OneDrive and ask for feedback first. Then, once they get approved, they can be added to the project.
