@@ -6,6 +6,8 @@ To aid with playtesting, debugging, and showcasing the game, we need some tools 
 	- Change the player's health
 	- Change the player's inventory
 
+This is moreso for your benefit rather than that of the playtesters. It will make it easier for you to test the game and see how it's working. So, if you
+
 ### Playtest
 - Same playtest notes as normal
 ### Font Curation
