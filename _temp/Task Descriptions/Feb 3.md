@@ -20,4 +20,8 @@ Right now, the tutorials in the game are still using placeholder videos. This ne
 
 The scriptable objects for the tutorials can be found in the 'Assest/Scriptable Objects/Tutorials_SO'.
 
+The way the tutorials work, you can have a different video for each page of the tutorial OR a single video for the entire tutorial. To change the video for a page of the tutorial, in the "Tutorial
+
+
+![](<../../_META/Attachments/Pasted image 20250204200020.png>)
 
