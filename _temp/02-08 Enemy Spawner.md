@@ -28,4 +28,9 @@ Under the "Spawner Area 1" object, there is a game object called "SPAWNING", whi
 
 ### When Do the Enemies Spawn?
 - I set it up so that spawner does NOT start automatically and instead is started externally.
-- When the player enters the trigger called ""
+- When the player enters the trigger called "Start Checkpoint Area 1", the spawner is set to start
+- When the player exits the area and walks through the trigger called "Mover" (under the return door game object), the spawner is set to stop.
+
+### How many enemies are spawned
+- The spawner is set to have up to 10 enemies active at once.
+- The spawner is NOT infinite, and will stop spawning after 12 enemies total are spawned.
