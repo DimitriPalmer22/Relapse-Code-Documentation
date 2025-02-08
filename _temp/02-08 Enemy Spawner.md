@@ -31,6 +31,9 @@ Under the "Spawner Area 1" object, there is a game object called "SPAWNING", whi
 - When the player enters the trigger called "Start Checkpoint Area 1", the spawner is set to start
 - When the player exits the area and walks through the trigger called "Mover" (under the return door game object), the spawner is set to stop.
 
-### How many enemies are spawned
+### How Many Enemies Are Spawned
 - The spawner is set to have up to 10 enemies active at once.
 - The spawner is NOT infinite, and will stop spawning after 12 enemies total are spawned.
+
+### Extra Functionality
+- Just to test out the functionality, I made it so that a big green block appears when the spawner is done and the player kills the last enemy.
