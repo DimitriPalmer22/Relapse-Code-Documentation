@@ -42,6 +42,7 @@
 		- Other
 	- UI Sfx
 - Each track has a volume setting that can be controlled.
-- Your job is to create sliders in the settings menu that control the volufor each of these tracks.
+- Your job is to create sliders in the settings menu that control the volume for each of these tracks.
+	- There is *NOT* existing code for this in the `UserSettings` file. You will need to create this code.
 
 ![](<../../_META/Attachments/Pasted image 20250210182636.png>)
