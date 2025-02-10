@@ -20,9 +20,11 @@
 ### Connecting the Slider and the Brightness Setting
 
 - I recommend adding a new script to the slider.
-- In this new script, make a function called `OnValueChanged(float value)` or something like that.
+- In this new script, make a function called `ChangeGamma(float value)` or something like that.
 	- Inside this function, call the `SetGamma(float value)` function in the `UserSettings` script.
-- 
+- On the slider component, drag the slider script you just made into the "On Value Changed" event. Then, assign the `ChangeGamma` function to this event.
+	- Doing this will make it so that when the slider is moved, the brightness setting in the game will change.
+- For polish, I recommend that in the start function of this script, you set the slider's value to the current brightness setting in the game.
 
 ## Settings for Audio Settings in the Menu
 
