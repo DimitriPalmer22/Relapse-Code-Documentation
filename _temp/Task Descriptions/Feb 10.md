@@ -3,7 +3,8 @@
 
 Set up a tab system for the settings menu
 
-- Eac
+- From now on, you will need edit the settings menu in the scene called "PauseUIScene" to edit the pause menu
+- Each tab in the settings
 
 Settings for Brightness in the menu
 -
