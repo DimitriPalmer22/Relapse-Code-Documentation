@@ -6,7 +6,8 @@ Set up a tab system for the settings menu
 - From now on, you will need edit the settings menu in the scene called "PauseUIScene" to edit the pause menu. Changes made here will be reflected in the rest of the game
 - Each button in the header of the settings menu should have its own separate page in the settings menu.
 - Don't worry about having controller compatibility for this portion of the menu yet. It's buggy and I'm working on a fix for it.
-- The current sliders for 
+- The current sliders for controller / mouse sensitivity should be moved to the "Controls" tab of the settings menu. Also, it should be noted that these sliders are placeholders that will eventually be replaced.
+- The rest of the tabs do not need to be populated yet.
 
 
 Settings for Brightness in the menu
