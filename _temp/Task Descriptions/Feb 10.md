@@ -31,6 +31,17 @@
 - This task will most likely take you the most time out of all your tasks for this week.
 - For this task, you are allowed to edit the `UserSettings` file, and you are encouraged to do so.
 - The settings for this task will go in the "Audio" tab of the settings menu.
-- The volume for the audio in our game uses the audio mixer in Unity. The audio mixer is a powerful tool that allows us to control the volume of different audio sources in .
+- The volume for the audio in our game uses the audio mixer in Unity. The audio mixer is a powerful tool that allows us to group and control the volume of all the audio in the game.
+- Look up "AudioMixer" in the assets folder and you'll find the asset for the audio mixer.
+- Our audio mixer has 7 tracks:
+	- Master
+	- Music
+	- Game Sfx
+		- Player
+		- Enemies
+		- Other
+	- UI Sfx
+- Each track has a volume setting that can be controlled.
+- Your job is to create sliders in the settings menu that control the volufor each of these tracks.
 
 ![](<../../_META/Attachments/Pasted image 20250210182636.png>)
