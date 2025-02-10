@@ -16,7 +16,7 @@
 - This slider will go in the "Video" tab of the settings menu.
 - The code / behavior for the brightness setting in the game already exists. We just need a UI element in the settings menu that changes it.
 - This setting exists in the `UserSettings` script. To change the brightness, you can call the `SetGamma(float value)` function in this script.
--
+- 
 
 ### Settings for Audio Settings in the Menu
 
