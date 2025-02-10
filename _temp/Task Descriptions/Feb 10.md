@@ -31,3 +31,6 @@
 - This task will most likely take you the most time out of all your tasks for this week.
 - For this task, you are allowed to edit the `UserSettings` file, and you are encouraged to do so.
 - The settings for this task will go in the "Audio" tab of the settings menu.
+- The volume for the audio in our game uses the audio mixer in Unity. The audio mixer is a powerful tool that allows us to control the volume of different audio sources in .
+
+![](<../../_META/Attachments/Pasted image 20250210182636.png>)
