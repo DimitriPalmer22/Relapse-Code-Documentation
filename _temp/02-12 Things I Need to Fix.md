@@ -1,2 +1,4 @@
--  When respawning into from a different level back into the apartment,
-	- [ ] The addio 
+- When respawning into from a different level back into the apartment,
+	- [ ] The additional menu scenes get reloaded
+	- [ ] The level you were just in does not get unloaded
+-
