@@ -1,0 +1,2 @@
+-  When respawning into from a different level back into the apartment,
+	- [ ] The addio 
