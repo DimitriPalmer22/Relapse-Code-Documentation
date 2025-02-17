@@ -1,10 +1,12 @@
-# Azalee
+# 02-17 Art Meeting Notes
+
+## Azalee
 - Kin model has clothes
 
-# Andre
+## Andre
 - Hand Animations
 
-# Mia
+## Mia
 - Drunkard variants
 	- Headless drunkard
 		- Jit stumpy fr
@@ -16,21 +18,21 @@
 	- Also make the stomach flatter.
 	- No shirt / make it a wifebeater
 
-# Rylan
+## Rylan
 - Buildings
 - Vents
 	- Like 95% done but some vertices need to be merged and some bevels are fucked.
 - World space textures
 
-# Mikel
+## Mikel
 - Buildings
 
-# Dimitri
+## Dimitri
 - New outline shader. The game looks cleaner compared to the old ones
 - Selection Shader
 - I also fixed the posterization and halftone shader so that they stay consistent no matter how high the player turns up the brightness
 
-# James
+## James
 - Retweaking the enforcer anims from last week
 - Arm no longer teleports in the running animation
 - Shooting animation
@@ -44,7 +46,7 @@
 	- How to not make it not look "goofy as fuck" (his words not mine)
 	- Maintain that hunched over pose
 
-# Franco
+## Franco
 - Skyride
 	- He can bring the roof down. In trains, the ceiling on the inside typically isn't the top of the train.
 		- Move the door down to then bring the ceiling down
