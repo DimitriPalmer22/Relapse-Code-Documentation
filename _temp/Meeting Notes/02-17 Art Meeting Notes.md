@@ -15,7 +15,7 @@
 	- She should pull the pants over the stomach so that it looks less like the boomer.
 	- Also make the stomach flatter.
 	- No shirt / make it a wifebeater
-- 
+-
 
 # Rylan
 - Buildings
@@ -23,7 +23,10 @@
 	- Like 95% done but some vertices need to be merged and some bevels are fucked.
 - World space textures
 
+# Mikel
+- Buildings
+
 # Dimitri
 - New outline shader. The game looks cleaner compared to the old ones
 - I also fixed the posterization and halftone shader so that they stay consistent no matter how high the player turns up the brightness
-- 
+-
