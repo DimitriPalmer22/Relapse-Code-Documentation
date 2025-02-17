@@ -28,5 +28,13 @@
 
 # Dimitri
 - New outline shader. The game looks cleaner compared to the old ones
+- Selection Shader
 - I also fixed the posterization and halftone shader so that they stay consistent no matter how high the player turns up the brightness
--
+
+# James
+- Retweaking the enforcer anims from last week
+- Arm no longer teleports in the running animation
+- Shooting animation
+	- He wasnt sure about the head, but andre will make it head track
+- Idle
+	- The feet are still sliding, so maybe keep 1 foor
