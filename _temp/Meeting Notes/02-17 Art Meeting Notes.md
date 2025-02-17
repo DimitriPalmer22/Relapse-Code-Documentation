@@ -43,3 +43,7 @@
 		- We also need some time for the player to react
 	- How to not make it not look "goofy as fuck" (his words not mine)
 	- Maintain that hunched over pose
+
+# Franco
+- Skyride
+	- Skinny? idk
