@@ -20,7 +20,7 @@
 # Rylan
 - Buildings
 - Vents
-	- Like 95% done but some vertices nee
+	- Like 95% done but some vertices need to be merged and some bevels are fucked.
 
 # Dimitri
 - New outline shader. The game looks cleaner compared to the old ones
