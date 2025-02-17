@@ -46,5 +46,6 @@
 
 # Franco
 - Skyride
-	- He can bring the roof down. In trains, the ceiling on the inside typically isn't the top of the train
+	- He can bring the roof down. In trains, the ceiling on the inside typically isn't the top of the train.
+		- Move the door down to then bring the ceiling down
 	- The poles are mighty thick
