@@ -37,4 +37,8 @@
 - Shooting animation
 	- He wasnt sure about the head, but andre will make it head track
 - Idle
-	- The feet are still sliding, so maybe keep 1 foor
+	- The feet are still sliding, so maybe keep 1 foot still or something
+- Heavy Attack Animation thing
+	- Might be a little too fast
+	- How to not make it not look "goofy as fuck" (his words not mine)
+	- Maintain that hunched over pose
