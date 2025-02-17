@@ -12,4 +12,9 @@
 	- There's also one w/ a head
 		- Version without eyes
 - The stomach also looks like the L4D2 Boomer
-	- Maybe she should pull the pants over the stomach of the boomer?
+	- She should pull the pants over the stomach of the boomer?
+	- Also make the stomach flatter?
+- 
+
+# Dimitri
+- New outline shader. The c
