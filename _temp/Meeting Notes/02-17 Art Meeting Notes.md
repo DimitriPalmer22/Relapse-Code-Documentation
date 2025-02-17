@@ -15,7 +15,6 @@
 	- She should pull the pants over the stomach so that it looks less like the boomer.
 	- Also make the stomach flatter.
 	- No shirt / make it a wifebeater
--
 
 # Rylan
 - Buildings
@@ -40,5 +39,7 @@
 	- The feet are still sliding, so maybe keep 1 foot still or something
 - Heavy Attack Animation thing
 	- Might be a little too fast
+		- Maybe there should be a buildup that leads into the animation
+		- We also need some time for the player to react
 	- How to not make it not look "goofy as fuck" (his words not mine)
 	- Maintain that hunched over pose
