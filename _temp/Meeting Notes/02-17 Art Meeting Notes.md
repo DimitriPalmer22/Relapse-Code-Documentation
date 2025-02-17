@@ -46,5 +46,5 @@
 
 # Franco
 - Skyride
-	- Skinny? idk
 	- He can bring the roof down. In trains, the ceiling on the inside typically isn't the top of the train
+	- The poles are mighty thick
