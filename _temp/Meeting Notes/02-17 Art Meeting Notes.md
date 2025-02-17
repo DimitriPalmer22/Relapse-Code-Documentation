@@ -10,4 +10,6 @@
 		- Jit stumpy fr
 		- Neck needs to be thicker?
 	- There's also one w/ a head
-		- Without eyes
+		- Version without eyes
+- The stomach also looks like the L4D2 Boomer
+	- Maybe she should pull the pants over the stomach of the boomer?
