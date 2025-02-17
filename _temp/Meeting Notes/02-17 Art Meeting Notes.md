@@ -14,8 +14,13 @@
 - The stomach also looks like the L4D2 Boomer
 	- She should pull the pants over the stomach so that it looks less like the boomer.
 	- Also make the stomach flatter.
-	- No shirt
+	- No shirt / make it a wifebeater
 - 
+
+# Rylan
+- Buildings
+- Vents
+	- Like 95% done but some vertices nee
 
 # Dimitri
 - New outline shader. The game looks cleaner compared to the old ones
