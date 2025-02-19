@@ -78,8 +78,10 @@ Powers in Relapse are made up of 2 parts:
 	- The only things that would need to be changed in this scriptable object are the cooldown time and the "base tolerance meter impact" (which only neuros (drugs) have)
 - The power logic prefab that contains the power-specific values that actually need to be tweaked.
 	- Each power has its own set of values that need to be tweaked, so you will need to go through each power and adjust the values as needed.
-	- Some powers use projectile prefabs, so 
+	- Some powers use projectile prefabs, so make sure to change those too if necessary.
 
 The scriptable objects for the powers are located in `/Assets/Scriptable Objects/Power_SO`.
 
 The power logic prefabs for the powers are located in `Assets/Prefabs/Player_Prefabs/Power Logic`.
+
+Remember, the point of the game is to encourage the player to use each of the powers
