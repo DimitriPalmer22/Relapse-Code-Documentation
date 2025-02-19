@@ -19,7 +19,10 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Hand Cannon
 
 ### Balancing Tips
-- 
+
+#### Pistol
+
+The pistol is supposed to be the most
 
 # Power Balancing
 -
