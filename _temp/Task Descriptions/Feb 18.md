@@ -86,5 +86,6 @@ The power logic prefabs for the powers are located in `Assets/Prefabs/Player_Pre
 
 Remember, the point of the game is to encourage the player to use each of the powers. So, make sure that each power is balanced in a way that makes it a viable option for the player to use.
 
-# Extra Settings
+# Fly Mode For Debugging
 
+You asked to make a fly mode for your purposes. This is up to your discretion.
