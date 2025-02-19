@@ -24,7 +24,9 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 
 #### Pistol
 
-The pistol is supposed to be the most reliable weapon in the game. It should have a good balance of damage and accuracy with a moderate rate of fire.
+The pistol is supposed to be the most reliable weapon in the game. Do not think of the pistol as the weakest weapon in the game. It should be strong enough that it is a viable option for the player to use.
+
+The pistol focuses on accuracy, long range, and decent damage over a long distance. The pistol's limiting factor is it's semi-automatic firing mode and its lower rate of fire.
 
 # Power Balancing
 -
