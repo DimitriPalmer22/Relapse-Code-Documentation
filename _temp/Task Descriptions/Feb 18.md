@@ -28,7 +28,11 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Range: how far the bullet can travel before damage stops registering
 - Magazine size: how many bullets the gun can hold before needing to reload (this does not apply for the shotgun)
 - Reload time: how long it takes to reload the gun (leave this alone)
-- 
+- Damage falloff curve: a visual representation of how the bullet's damage changes based on how far it travels.
+	- The x-axis represents what percentage of the bullet's range has been traveled.
+	- The y-axis represents what percentage of the bullet's damage is left.
+	- For example, a point at (0.5, 0.5) for the automatic pistol shown a means that the bullet has traveled 50% of its range and has 50% of its damage left.
+
 ### Balancing Tips
 
 Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire. The stronger versions of the pistol could have a higher rate of fire.
