@@ -22,7 +22,13 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 
 ![](<../../_META/Attachments/Pasted image 20250218210936.png>)
 
-- Base damage: how much damage the gun does per shot b
+- Base damage: how much damage the gun does per shot before damage falloff starts
+- Fire rate: how many shots the gun can fire per second
+- Bloom angle: the random angle that the gun's bullets can go in. Having a bloom angle of 10 means that a bullet can go within 10 degrees of the gun's aim in any direction
+- Range: how far the bullet can travel before damage stops registering
+- Magazine size: how many bullets the gun can hold before needing to reload (this does not apply for the shotgun)
+- Reload time: how long it takes to reload the gun (leave this alone)
+- 
 ### Balancing Tips
 
 Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire. The stronger versions of the pistol could have a higher rate of fire.
