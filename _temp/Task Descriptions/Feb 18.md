@@ -26,7 +26,16 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 
 The pistol is supposed to be the most reliable weapon in the game. Do not think of the pistol as the weakest weapon in the game. It should be strong enough that it is a viable option for the player to use.
 
-The pistol focuses on accuracy, long range, and decent damage over a long distance. The pistol's limiting factor is it's semi-automatic firing mode and its lower rate of fire.
+The pistol focuses on accuracy, long range, and decent damage over a long distance. The pistol's limiting factor is it's semi-automatic firing mode and its lower rate of fire. Player's who are able to hit their shots consistently will be rewarded when using this weapon.
+
+#### Automatic Pistol
+
+The automatic pistol is the game's fully automatic weapon. It is supposed to be the hardest weapon to control, but it should also have the highest rate of fire. 
+
+The automatic pistol should have a higher DPS than the pistol, but it should also have a higher spread and recoil.
+
+
+#### Shotgun
 
 # Power Balancing
 -
