@@ -69,4 +69,9 @@ Upgrades to the shotgun can reduce the spread of the shotgun so that more pellet
 
 # Power Balancing
 
-In Relapse, there 7 Neuros and 7 Vitals (Drugs and Meds).
+In Relapse, there 7 Neuros and 7 Vitals (Drugs and Meds) that will be in the game. They are shown in the image below:
+![](<../../_META/Attachments/Pasted image 20250218212311.png>)
+
+Powers in Relapse are made up of 2 parts:
+- The scriptable object that contains the very general information about the power.
+- The power logic prefab that contains the 
