@@ -35,7 +35,12 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Horizontal Recoil: how much the gun's aim moves left or right after firing a shot
 - Horizontal Recoil bias: How far left or right the gun's aim moves after firing a shot (0 = center, 1 = right, -1 = left)
 - Vertical Recoil: how much the gun's aim moves up or down after firing a shot
-- Min Horizontal Recoil: the minimum amount of horizontal recoil that the gun can have. Higher values make the gun's recoil more consistent, whereas lower 
+- Min Horizontal Recoil Percent: the minimum amount of horizontal recoil that the gun can have. Higher values make the gun's recoil more consistent, whereas lower values make it feel more random.
+- Min Vertical Recoil Percent: Same as horizontal
+- Recoil Lerp Amount: How fast the gun reacts to the recoil. Higher values make the gun's aim move more quickly, whereas lower values make it move more slowly.
+- Recovery Lerp Amount: How fast the gun's aim recovers after firing a shot. Higher values make the gun's aim recover more quickly, whereas lower values make it recover more slowly.
+- Recoil Noise: Camera shake when shooting: Leave this alone.
+
 
 ### Balancing Tips
 
