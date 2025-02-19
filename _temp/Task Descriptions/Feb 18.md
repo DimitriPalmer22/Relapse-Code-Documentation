@@ -68,4 +68,5 @@ The shotgun focuses on damage, close range, and spread. The shotgun's limiting f
 Upgrades to the shotgun can reduce the spread of the shotgun so that more pellets hit a single target more consistently.
 
 # Power Balancing
--
+
+In Relapse, there 7 Neuros and 7 Vitals (Drugs and Meds).
