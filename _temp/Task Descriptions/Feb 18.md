@@ -31,7 +31,11 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Damage falloff curve: a visual representation of how the bullet's damage changes based on how far it travels.
 	- The x-axis represents what percentage of the bullet's range has been traveled.
 	- The y-axis represents what percentage of the bullet's damage is left.
-	- For example, a point at (0.5, 0.5) for the automatic pistol shown a means that the bullet has traveled 50% of its range and has 50% of its damage left.
+	- For example, a point at (0.5, 0.5) for the automatic pistol shown above means that the bullet has traveled 50% of its range (20 units) and has 50% of its damage left (9 damage).
+- Horizontal Recoil: how much the gun's aim moves left or right after firing a shot
+- Horizontal Recoil bias: How far left or right the gun's aim moves after firing a shot (0 = center, 1 = right, -1 = left)
+- Vertical Recoil: how much the gun's aim moves up or down after firing a shot
+- Min Horizontal Recoil: the minimum amount of horizontal recoil that the gun can have. Higher values make the gun's recoil more consistent, whereas lower 
 
 ### Balancing Tips
 
