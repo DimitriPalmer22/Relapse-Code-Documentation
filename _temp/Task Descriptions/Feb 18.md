@@ -22,7 +22,8 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 
 ### Balancing Tips
 
-Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire.
+Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire. The stronger versions of the pistol could have a higher rate of fire.
+
 #### Pistol
 
 The pistol is supposed to be the most reliable weapon in the game. Do not think of the pistol as the weakest weapon in the game. It should be strong enough that it is a viable option for the player to use.
@@ -36,6 +37,13 @@ The automatic pistol is the game's fully automatic weapon. It is supposed to be 
 The automatic pistol focuses on rate of fire, medium range, and decent damage. The automatic pistol's limiting factors are its recoil and magazine capacity. Players who are able to control the automatic pistol's recoil and properly manage their ammo will be rewarded when using this weapon.
 
 #### Shotgun
+
+The shotgun is the game's close range weapon. It is supposed to be the most powerful weapon in the game in the right hands, but it should also have the shortest range.
+
+The shotgun focuses on damage, close range, and spread. The shotgun's limiting factors are its range and spread. The more pellets that hit the target, the more damage the shotgun does. So, players who are able to get close to their enemies and hit them with as many pellets as possible will be rewarded.
+
+Upgrades to the shotgun can reduce the spread of the shotgun so that more pellets hit a single target.
+
 
 # Power Balancing
 -
