@@ -20,9 +20,14 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Shotgun 3
 - Hand Cannon
 
+![](<../../_META/Attachments/Pasted image 20250218210936.png>)
+
+- Base damage: how much damage the gun does per shot b
 ### Balancing Tips
 
 Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire. The stronger versions of the pistol could have a higher rate of fire.
+
+Also, you could try to think of the weapons' strongest component. The stronger versions of the weapon could improve that component. For example, the shotgun has high damage. The stronger versions of the shotgun could have even higher damage.
 
 #### Pistol
 
@@ -42,8 +47,7 @@ The shotgun is the game's close range weapon. It is supposed to be the most powe
 
 The shotgun focuses on damage, close range, and spread. The shotgun's limiting factors are its range and spread. The more pellets that hit the target, the more damage the shotgun does. So, players who are able to get close to their enemies and hit them with as many pellets as possible will be rewarded.
 
-Upgrades to the shotgun can reduce the spread of the shotgun so that more pellets hit a single target.
-
+Upgrades to the shotgun can reduce the spread of the shotgun so that more pellets hit a single target more consistently.
 
 # Power Balancing
 -
