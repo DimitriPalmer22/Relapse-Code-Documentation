@@ -2,6 +2,8 @@
 
 In Relapse, the player will (eventually) have the ability to purchase newer, more powerful versions of the guns in the vendor areas. We need the weapons that the player can buy to be more balanced.
 
+Every weapon has a base version (the name of it ends with 1) that is the weakest version of the weapon. The other versions of the weapon are stronger and more expensive (the number at the end of the weapon's name increases with the weapon's power).
+
 ### How to Change the Gun Values
 
 The guns are composed of two main parts:
@@ -22,7 +24,7 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 
 #### Pistol
 
-The pistol is supposed to be the most
+The pistol is supposed to be the most reliable weapon in the game. It should have a good balance of damage and accuracy with a moderate rate of fire.
 
 # Power Balancing
 -
