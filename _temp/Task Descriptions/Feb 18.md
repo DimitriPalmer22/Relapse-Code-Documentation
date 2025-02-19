@@ -73,5 +73,9 @@ In Relapse, there 7 Neuros and 7 Vitals (Drugs and Meds) that will be in the gam
 ![](<../../_META/Attachments/Pasted image 20250218212311.png>)
 
 Powers in Relapse are made up of 2 parts:
+
 - The scriptable object that contains the very general information about the power.
-- The power logic prefab that contains the 
+	- The only things that would need to be changed in this scriptable object are the cooldown time and the "base tolerance meter impact" (which only neuros (drugs) have)
+- The power logic prefab that contains the values that actually need to be tweaked.
+
+The scriptable objects for the powers are located in `/Assets/Scriptable Objects/Power_SO`.
