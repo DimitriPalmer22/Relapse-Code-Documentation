@@ -41,7 +41,6 @@ DO NOT REBALANCE THESE GUNS. THEY WILL NOT BE USED!:
 - Recovery Lerp Amount: How fast the gun's aim recovers after firing a shot. Higher values make the gun's aim recover more quickly, whereas lower values make it recover more slowly.
 - Recoil Noise: Camera shake when shooting: Leave this alone.
 
-
 ### Balancing Tips
 
 Think of each weapon's weakest component. The stronger versions of that weapon *could* improve that component. For example, the pistol has a low rate of fire. The stronger versions of the pistol could have a higher rate of fire.
