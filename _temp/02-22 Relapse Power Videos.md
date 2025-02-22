@@ -4,6 +4,10 @@
 
 #### Explosion
 
+When the player uses the explosion power, they release a powerful blast from their body that damages all enemies within a short range of the player.
+
+Video Link:  
+
 #### Explosive Mine
 
 #### Fireball
