@@ -64,6 +64,8 @@ When the player uses this power, their guns deal more damage for a short period 
 
 **Overview**:
 
+When the player uses this power, they quickly move in the direction they are moving. By default, they move in the direction they are facing, but they *can* move in the direction they are inputting.
+
 **Video Link**:
 
 #### Position Swap
