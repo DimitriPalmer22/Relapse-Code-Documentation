@@ -18,6 +18,7 @@ When the player uses the explosion power, they release a powerful blast from the
 #### Explosive Mine
 
 **Overview**:
+The player fires a 'mine' from their hand that sticks to any surface it hits (including walls, but excluding enemies). Once 
 
 **Video Link**:
 
