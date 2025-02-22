@@ -70,6 +70,8 @@ When the player uses this power, they quickly move in the direction they are mov
 
 #### Position Swap
 
+When the player uses this power, they 
+
 **Overview**:
 
 **Video Link**:
