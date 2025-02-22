@@ -7,9 +7,9 @@ This document provides a brief description for each of the powers in the game an
 
 **Overview**:
 
-This is already done lol
+Lightning shoots from the player's hand to the enemy they're targeting. The lightning chains to other enemies within a certain range of the targeted enemy. The lightning deals damage to all enemies it hits. It also stuns them temporarily.
 
-**Video Link**: https://youtu.be/cT8hJEUnDW0
+**Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
 #### Explosion
 
@@ -17,7 +17,7 @@ This is already done lol
 
 When the player uses the explosion power, they release a powerful blast from their body that damages all enemies within a short range of the player.
 
-**Video Link**: 
+**Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
 #### Explosive Mine
 
@@ -25,7 +25,7 @@ When the player uses the explosion power, they release a powerful blast from the
 
 The player fires a 'mine' from their hand that sticks to any surface it hits (including walls, but excluding enemies). Once the mine has stuck to a surface, it will stay there. Once an enemy comes within a certain range of the mine, the mine's fuse starts. The fuse lasts for a second, and then the mine explodes, damaging any enemies within the blast radius.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
 #### Fireball
 
@@ -33,7 +33,7 @@ The player fires a 'mine' from their hand that sticks to any surface it hits (in
 
 The fireball is a simple projectile that the player shoots from their hand. The fireball damages the enemy it makes direct contact with.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
 #### Spreadblast
 
