@@ -39,7 +39,7 @@ The fireball is a simple projectile that the player shoots from their hand. The 
 
 **Overview**:
 
-The player fires a couple pellets from their hand that spread out as they travel. The pellets damage any enemies they make contact with. Think of this as like a shotgun blast. Pellets that don't hit enemies and instead 
+The player fires a couple pellets from their hand that spread out as they travel. The pellets damage any enemies they make contact with. Think of this as like a shotgun blast. Pellets that don't hit enemies and instead hit the ground / a wall leave behind a fiery residue that damages enemies that walk over it.
 
 **Video Link**:
 
