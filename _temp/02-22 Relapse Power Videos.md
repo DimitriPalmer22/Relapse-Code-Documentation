@@ -5,6 +5,8 @@ This document provides a brief description for each of the powers in the game an
 
 **Overview**:
 
+This is already done lol
+
 **Video Link**:
 
 #### Explosion
