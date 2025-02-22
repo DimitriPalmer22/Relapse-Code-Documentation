@@ -88,12 +88,14 @@ The player regenerates health over time for a short period of time. While this p
 
 **Overview**:
 
-Behaves almost exactly like the explosive mine. Howe
+Behaves almost exactly like the explosive mine. However, instead of releasing an explosion that damages enemies, the mine releases a shockwave that stuns enemies.
 
 **Video Link**:
 
 #### Time Slow
 
 **Overview**:
+
+For a brief period, time slows down for EVERYTHING in the game.
 
 **Video Link**:
