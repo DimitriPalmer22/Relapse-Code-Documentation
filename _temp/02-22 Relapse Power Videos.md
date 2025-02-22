@@ -3,7 +3,7 @@ This document provides a brief description for each of the powers in the game an
 > NOTE: Any power that is not in this list is probably not going to be in the game.
 
 # Neuros
-#### Chain Lightning
+### Chain Lightning
 
 **Overview**:
 
@@ -11,7 +11,7 @@ Lightning shoots from the player's hand to the enemy they're targeting. The ligh
 
 **Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
-#### Explosion
+### Explosion
 
 **Overview**:
 
@@ -19,7 +19,7 @@ When the player uses the explosion power, they release a powerful blast from the
 
 **Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
-#### Explosive Mine
+### Explosive Mine
 
 **Overview**:
 
@@ -27,7 +27,7 @@ The player fires a 'mine' from their hand that sticks to any surface it hits (in
 
 **Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
-#### Fireball
+### Fireball
 
 **Overview**:
 
@@ -35,7 +35,7 @@ The fireball is a simple projectile that the player shoots from their hand. The 
 
 **Video Link**: <https://youtu.be/cT8hJEUnDW0>
 
-#### Spreadblast
+### Spreadblast
 
 **Overview**:
 
@@ -43,7 +43,7 @@ The player fires a couple pellets from their hand that spread out as they travel
 
 **Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
-#### Virus
+### Virus
 
 **Overview**:
 
@@ -52,7 +52,7 @@ The player fires out a projectile that explodes, but the explosion doesn't do an
 **Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
 # Vitals
-#### Damage Multiplier
+### Damage Multiplier
 
 **Overview**:
 
@@ -60,7 +60,7 @@ When the player uses this power, their guns deal more damage for a short period 
 
 **Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
-#### Dash
+### Dash
 
 **Overview**:
 
@@ -68,7 +68,7 @@ When the player uses this power, they quickly move in the direction they are mov
 
 **Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
-#### Position Swap
+### Position Swap
 
 **Overview**:
 
@@ -76,7 +76,7 @@ When the player uses this power, they swap positions with the enemy they are aim
 
 **Video Link**: <https://youtu.be/8UAB-PcTndY>
 
-#### Regeneration
+### Regeneration
 
 **Overview**:
 
@@ -84,7 +84,7 @@ The player regenerates health over time for a short period of time. While this p
 
 **Video Link**: <https://youtu.be/8UAB-PcTndY>
 
-#### Stun Mine
+### Stun Mine
 
 **Overview**:
 
@@ -92,7 +92,7 @@ Behaves almost exactly like the explosive mine. However, instead of releasing an
 
 **Video Link**: <https://youtu.be/8UAB-PcTndY>
 
-#### Time Slow
+### Time Slow
 
 **Overview**:
 
