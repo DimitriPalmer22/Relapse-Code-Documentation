@@ -3,6 +3,10 @@ This document provides a brief description for each of the powers in the game an
 # Neuros
 #### Chain Lightning
 
+**Overview**:
+
+**Video Link**:
+
 #### Explosion
 
 **Overview**:
