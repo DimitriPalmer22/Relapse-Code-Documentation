@@ -20,6 +20,7 @@ When the player uses the explosion power, they release a powerful blast from the
 #### Explosive Mine
 
 **Overview**:
+
 The player fires a 'mine' from their hand that sticks to any surface it hits (including walls, but excluding enemies). Once the mine has stuck to a surface, it will stay there. Once an enemy comes within a certain range of the mine, the mine's fuse starts. The fuse lasts for a second, and then the mine explodes, damaging any enemies within the blast radius.
 
 **Video Link**:
