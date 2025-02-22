@@ -70,9 +70,9 @@ When the player uses this power, they quickly move in the direction they are mov
 
 #### Position Swap
 
-When the player uses this power, they 
-
 **Overview**:
+
+When the player uses this power, they swap positions with the enemy they are aiming at.
 
 **Video Link**:
 
@@ -80,11 +80,15 @@ When the player uses this power, they
 
 **Overview**:
 
+The player regenerates health over time for a short period of time. While this power's effect is active, the player CAN use other powers.
+
 **Video Link**:
 
 #### Stun Mine
 
 **Overview**:
+
+Behaves almost exactly like the explosive mine. Howe
 
 **Video Link**:
 
