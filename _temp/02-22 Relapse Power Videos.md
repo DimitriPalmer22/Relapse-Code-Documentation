@@ -1,5 +1,7 @@
 This document provides a brief description for each of the powers in the game and provides links to videos that show the powers in action.
 
+> NOTE: Any power that is not in this list is probably not going to be in the game.
+
 # Neuros
 #### Chain Lightning
 
@@ -33,12 +35,6 @@ The fireball is a simple projectile that the player shoots from their hand. The 
 
 **Video Link**:
 
-#### Grenade
-
-**Overview**:
-
-**Video Link**:
-
 #### Spreadblast
 
 **Overview**:
@@ -50,6 +46,8 @@ The player fires a couple pellets from their hand that spread out as they travel
 #### Virus
 
 **Overview**:
+
+The player fires out a projectile that explodes, but the explosion doesn't do any immediate damage. Instead, it "infects" any enemies that are in range. Infected enemies take damage over time.
 
 **Video Link**:
 
@@ -63,12 +61,6 @@ When the player uses this power, their guns deal more damage for a short period 
 **Video Link**:
 
 #### Dash
-
-**Overview**:
-
-**Video Link**:
-
-#### Fire Rate Multiplier
 
 **Overview**:
 
