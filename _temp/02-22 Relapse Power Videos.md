@@ -9,7 +9,7 @@ This document provides a brief description for each of the powers in the game an
 
 This is already done lol
 
-**Video Link**:
+**Video Link**: https://youtu.be/cT8hJEUnDW0
 
 #### Explosion
 
@@ -17,7 +17,7 @@ This is already done lol
 
 When the player uses the explosion power, they release a powerful blast from their body that damages all enemies within a short range of the player.
 
-**Video Link**:
+**Video Link**: 
 
 #### Explosive Mine
 
@@ -41,7 +41,7 @@ The fireball is a simple projectile that the player shoots from their hand. The 
 
 The player fires a couple pellets from their hand that spread out as they travel. The pellets damage any enemies they make contact with. Think of this as like a shotgun blast. Pellets that don't hit enemies and instead hit the ground / a wall leave behind a fiery residue that damages enemies that walk over it.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
 #### Virus
 
@@ -49,7 +49,7 @@ The player fires a couple pellets from their hand that spread out as they travel
 
 The player fires out a projectile that explodes, but the explosion doesn't do any immediate damage. Instead, it "infects" any enemies that are in range. Infected enemies take damage over time.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
 # Vitals
 #### Damage Multiplier
@@ -58,7 +58,7 @@ The player fires out a projectile that explodes, but the explosion doesn't do an
 
 When the player uses this power, their guns deal more damage for a short period of time. While this power's effect is active, the player cannot use other powers.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
 #### Dash
 
@@ -66,7 +66,7 @@ When the player uses this power, their guns deal more damage for a short period 
 
 When the player uses this power, they quickly move in the direction they are moving. By default, they move in the direction they are facing, but they *can* move in the direction they are inputting.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/LDHg0APZ7pc>
 
 #### Position Swap
 
@@ -74,7 +74,7 @@ When the player uses this power, they quickly move in the direction they are mov
 
 When the player uses this power, they swap positions with the enemy they are aiming at.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/8UAB-PcTndY>
 
 #### Regeneration
 
@@ -82,7 +82,7 @@ When the player uses this power, they swap positions with the enemy they are aim
 
 The player regenerates health over time for a short period of time. While this power's effect is active, the player CAN use other powers.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/8UAB-PcTndY>
 
 #### Stun Mine
 
@@ -90,7 +90,7 @@ The player regenerates health over time for a short period of time. While this p
 
 Behaves almost exactly like the explosive mine. However, instead of releasing an explosion that damages enemies, the mine releases a shockwave that stuns enemies.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/8UAB-PcTndY>
 
 #### Time Slow
 
@@ -98,4 +98,4 @@ Behaves almost exactly like the explosive mine. However, instead of releasing an
 
 For a brief period, time slows down for EVERYTHING in the game.
 
-**Video Link**:
+**Video Link**: <https://youtu.be/8UAB-PcTndY>
