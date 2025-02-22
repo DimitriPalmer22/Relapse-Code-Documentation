@@ -53,7 +53,7 @@ The fireball is a simple projectile that the player shoots from their hand. The 
 
 **Overview**:
 
-When the player uses this power, their guns deal more damage for a short period of time.
+When the player uses this power, their guns deal more damage for a short period of time. While this power's effect is active, the player cannot use other powers.
 
 **Video Link**:
 
