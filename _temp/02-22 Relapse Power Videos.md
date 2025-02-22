@@ -1,4 +1,6 @@
 
+This document prov
+
 # Neuros
 #### Chain Lightning
 
@@ -12,6 +14,8 @@ Video Link:
 
 #### Fireball
 
+The fireball is a simple projectile that the player shoots from their hand. The fireball damages the enemy it makes direct contact with.
+
 #### Grenade
 
 #### Spreadblast
@@ -20,6 +24,8 @@ Video Link:
 
 # Vitals
 #### Damage Multiplier
+
+When the player uses this power, they temporarily
 
 #### Dash
 
