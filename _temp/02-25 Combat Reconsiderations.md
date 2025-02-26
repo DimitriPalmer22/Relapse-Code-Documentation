@@ -48,4 +48,7 @@
 ##### Boss Fight
 - The boss fight is fighting NEEGA-Kin
 - The boss should be enforcer-size
-- _IDEA_: the boss gets whichever Neuros the player has 
+- _IDEA_: the boss gets whichever Neuros the player has
+- _IDEA_: Since not all powers translate 1:1, the boss can have boss-specific counterparts to those powers
+	- Y'know since the player's powers are overpowered
+- _IDEA_: 
