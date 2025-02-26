@@ -51,4 +51,6 @@
 - _IDEA_: the boss gets whichever Neuros the player has
 - _IDEA_: Since not all powers translate 1:1, the boss can have boss-specific counterparts to those powers
 	- Y'know since the player's powers are overpowered
-- _IDEA_: 
+- _IDEA_: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
+	- Fireball
+	- Chain
