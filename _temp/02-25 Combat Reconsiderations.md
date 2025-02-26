@@ -80,7 +80,9 @@ Combat in the game needs to be refined more to make it more engaging.
 - ***We need to better convey that the player is tripping out throughout the course of the game.***
 - We can use the same jittery material that is on the billboards but put it more throughout the rest of the game
 - We need some type of consistent visual motif for anything that SHOULD NOT exist in a city normally.
-	- For example, if a billboard is in a place it should not be in normally, then it needs some type of ef
+	- For example, if a billboard is in a place it should not be in normally, then it needs some type of effect
+- We could use the floating lights that are in Mikel's Mindbreak
+
 - Alex's slide is good, but how is it gonna look with finalized assets?
 	- *IDEA*: use one of the sloped buildings for it?
 	- *IDEA*: use some type of blackout around the hole
