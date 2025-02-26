@@ -48,8 +48,6 @@
 ##### Boss Fight
 - The boss fight is fighting NEEGA-Kin
 - The boss should be enforcer-size
-- *IDEA*: Since not all powers translate 1:1, the boss can have boss-specific counterparts to those powers
-	- Y'know since the player's powers are overpowered
 - *IDEA*: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
 	- PRESET POWERS:
 		- Fireball
@@ -58,8 +56,10 @@
 			- Telegraph when / where the lightning is gonna hit
 			- Stuns the player (does a lil damage cuz the player is still gonna be shooting)
 		- Explosion
+			- NEEDS to be very obviously telegraphed
 			- Push the player back.
 			- "Get off me" type shit
+			- Should do 35% of damage
 		- Virus
 			- Should behave the same way as the normal virus
 			- The initial hit should do 10% and the damage over time should do 15%
