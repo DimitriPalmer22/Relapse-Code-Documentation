@@ -7,3 +7,11 @@
 	- The enforcers should be ranged and should pester the player from a distance.
 	- The Lesion should be a slower, hard-hitting melee enemy that is able to take some damage
 	- The fat nigga blows up or runs at the player
+
+#### Andre
+- Go in, kill waves of fodder enemies
+- Then, for the final wave of enemies, have some type of indication that this is the final wave
+- Then, have some type of punctuation to the wave so that it doesn't seem like the combat is just ending
+	- Like an enemy dropping something
+	- Think of something that connects the combat section to the next section of the game.
+		- Remember, the combat is supposed to stop them from progressing until theuy 
