@@ -23,14 +23,19 @@
 #### Mikel
 - The player should have some level of understanding of the goal / objective they are trying to reach
 - It should be clear that the enemy / enemies are the reason they cannot progress.
-- Therefore, the player is motivated to kill the enemies 
-
+- Therefore, the player is motivated to kill the enemies
 
 #### Combined Thoughts
 - Waves should progressively become more difficult.
+	- IDEA for harder waves
+		- 1st wave has only crawlers
+		- 2nd wave adds a lesion surrounded by crawlers
+		- 3rd have some big guys
+		- 4th wave has everything
+	- The "Elite" enemy *could* just be the drunkard 
 - The waves need some type of concluding element to let the player know they're done.
-- The player should have a clear understanding of what objective the enemies are preventing them from obtaining
+- The player should have a clear understanding of what objective the enemies are preventing them from obtaining.
 - Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
 - *Some* areas are gonna have placed enemies.
-- 
-- Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly. 
+-
+- Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly.
