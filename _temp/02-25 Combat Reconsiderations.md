@@ -39,7 +39,6 @@
 - The player should have a clear understanding of what objective the enemies are preventing them from obtaining.
 - Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
 - *Some* areas are gonna have placed enemies.
--
 - Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly.
 - For the crawler, INSTEAD of having two different types of crawlers (one melee one ranged), the crawler will be a 2-in-1 (melee and ranged).
 	- The crawler will randomly choose to be in melee or ranged mode every couple of seconds.
