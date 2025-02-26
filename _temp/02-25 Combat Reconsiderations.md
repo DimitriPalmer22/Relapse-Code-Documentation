@@ -14,4 +14,8 @@
 - Then, have some type of punctuation to the wave so that it doesn't seem like the combat is just ending
 	- Like an enemy dropping something
 	- Think of something that connects the combat section to the next section of the game.
-		- Remember, the combat is supposed to stop them from progressing until theuy 
+		- Remember, the combat is supposed to stop them from progressing until they finish it
+- While killing the fodder, the player should be using powers
+- For that final "wave" / boss wave, the player should be thinking "which enemies should I take out first so that this is easier for me as a player".
+	- Should not be mindlessly shooting enemies.
+	- Should be an overwhelming force that requires them to adjust their style of play or else they will frustrating
