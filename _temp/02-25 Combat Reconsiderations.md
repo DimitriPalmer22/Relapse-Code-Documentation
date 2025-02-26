@@ -49,6 +49,7 @@ Combat in the game needs to be refined more to make it more engaging.
 ### Areas w/ Placed Enemies
 - *Some* areas are gonna have placed enemies as opposed to enemy waves.
 - ***Areas w/ placed enemies only serve to slow the player down slightly***.
+- Generally, these areas are going the feel a little uninteresting since the player will most likely be able to walk past the enemies here.
 
 ### More Info about the Crawler
 - For the crawler, INSTEAD of having two different types of crawlers (one melee one ranged), the crawler will be a 2-in-1 (melee and ranged).
@@ -56,7 +57,7 @@ Combat in the game needs to be refined more to make it more engaging.
 	- The tail being up or down will be the visual indication to the player of the crawler's mode
 
 ### Boss Fight
-- The boss fight is fighting NEEGA-Kin
+- The boss fight is fighting NEGA-Kin
 - The boss should be enforcer-size
 - *IDEA*: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
 	- PRESET POWERS:
