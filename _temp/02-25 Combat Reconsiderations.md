@@ -33,7 +33,7 @@
 		- 3rd have some big guys
 		- 4th wave has everything
 	- The "Elite" enemy *could* just be the drunkard as opposed to placing them within the existing waves.
-		- Idea: the attack changes based on his health. He attacks by spitting blood out of his neck, and he progressively.
+		- Idea: The attack changes based on his health. He attacks by spitting blood out of his neck. As he takes damage his attack types change. So, he can charge toward the player and explode.
 - The waves need some type of concluding element to let the player know they're done.
 - The player should have a clear understanding of what objective the enemies are preventing them from obtaining.
 - Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
