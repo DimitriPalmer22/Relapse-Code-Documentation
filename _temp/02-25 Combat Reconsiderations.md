@@ -48,9 +48,15 @@
 ##### Boss Fight
 - The boss fight is fighting NEEGA-Kin
 - The boss should be enforcer-size
-- _IDEA_: the boss gets whichever Neuros the player has
-- _IDEA_: Since not all powers translate 1:1, the boss can have boss-specific counterparts to those powers
+- *IDEA*: Since not all powers translate 1:1, the boss can have boss-specific counterparts to those powers
 	- Y'know since the player's powers are overpowered
-- _IDEA_: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
-	- Fireball
-	- Chain
+- *IDEA*: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
+	- PRESET POWERS:
+		- Fireball
+			- Make it home in on the player a lil bit
+		- Chain lighting
+			- Stuns the player (does a lil damage)
+		- Explosion
+			- Push
+		- Virus
+	- When determining which powers to give the boss, the game will prioritize the powers the player has. Then, the game will fill in the rest with the preset powers.
