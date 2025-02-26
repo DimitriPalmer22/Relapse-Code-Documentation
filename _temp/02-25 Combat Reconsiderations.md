@@ -55,8 +55,12 @@
 		- Fireball
 			- Make it home in on the player a lil bit
 		- Chain lighting
-			- Stuns the player (does a lil damage)
+			- Telegraph when / where the lightning is gonna hit
+			- Stuns the player (does a lil damage cuz the player is still gonna be shooting)
 		- Explosion
-			- Push
+			- Push the player back.
+			- "Get off me" type shit
 		- Virus
+			- Should behave the same way as the normal virus
+			- The initial hit should do 10% and the damage over time should do 15%
 	- When determining which powers to give the boss, the game will prioritize the powers the player has. Then, the game will fill in the rest with the preset powers.
