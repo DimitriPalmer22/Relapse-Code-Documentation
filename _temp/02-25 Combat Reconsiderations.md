@@ -41,4 +41,7 @@
 - *Some* areas are gonna have placed enemies.
 -
 - Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly.
-- For the crawler, INSTEAD of having two different types of c
+- For the crawler, INSTEAD of having two different types of crawlers (one melee one ranged), the crawler will be a 2-in-1 (melee and ranged).
+	- The crawler will randomly choose to be in melee or ranged mode every couple of seconds.
+	- The tail being up or down will be the visual indication to the player of the crawler's mode
+- 
