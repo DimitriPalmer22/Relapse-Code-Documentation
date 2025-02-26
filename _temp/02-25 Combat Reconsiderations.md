@@ -18,4 +18,13 @@
 - While killing the fodder, the player should be using powers
 - For that final "wave" / boss wave, the player should be thinking "which enemies should I take out first so that this is easier for me as a player".
 	- Should not be mindlessly shooting enemies.
-	- Should be an overwhelming force that requires them to adjust their style of play or else they will frustrating
+	- Should be an overwhelming force that requires them to adjust their style of play or else they will frustratingly keep dying
+
+#### Mikel
+- The player should have some level of understanding of the goal / objective they are trying to reach
+- It should be clear that the enemy / enemies are the reason they cannot progress.
+- Therefore, the player is motivated to kill the enemies 
+
+
+#### Combined THoughts
+- Waves should progressively become more
