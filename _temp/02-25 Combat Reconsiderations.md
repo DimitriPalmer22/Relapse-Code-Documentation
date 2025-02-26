@@ -25,7 +25,7 @@
 - It should be clear that the enemy / enemies are the reason they cannot progress.
 - Therefore, the player is motivated to kill the enemies
 
-#### Combined Thoughts
+## Combat
 - Waves should progressively become more difficult.
 	- IDEA for harder waves
 		- 1st wave has only crawlers
@@ -44,7 +44,7 @@
 	- The crawler will randomly choose to be in melee or ranged mode every couple of seconds.
 	- The tail being up or down will be the visual indication to the player of the crawler's mode
 
-#### Boss Fight
+### Boss Fight
 - The boss fight is fighting NEEGA-Kin
 - The boss should be enforcer-size
 - *IDEA*: The boss can ONLY have up to 4 neuros. Based on the number of neuros the player picks up, the boss gets that number of neuros.
@@ -64,7 +64,7 @@
 			- The initial hit should do 10% and the damage over time should do 15%
 	- When determining which powers to give the boss, the game will prioritize the powers the player has. Then, the game will fill in the rest with the preset powers.
 
-#### It's All in Your Head
+### It's All in Your Head
 - We need to better convey that the player is tripping out
 - Use the same jittery material that is on the billboards but put it more throughout the rest of the game
 - We need some type of consistent visual motif for anything that SHOULD NOT exist in that space.
