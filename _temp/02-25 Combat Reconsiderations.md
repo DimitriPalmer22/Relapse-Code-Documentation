@@ -31,8 +31,8 @@
 	- An EXAMPLE of how harder waves *could* work:
 		- 1st wave has only crawlers
 		- 2nd wave adds a lesion surrounded by crawlers
-		- 3rd have some big guys
-		- 4th wave has everything
+		- 3rd has some enforcers
+		- 4th wave has an "elite" enemy
 	- The "Elite" enemy *could* just be the drunkard as opposed to placing them within the existing waves.
 		- The attack changes based on his health. He attacks by spitting blood out of his neck. As he takes damage his attack types change. So, he can charge toward the player and explode.
 		- The visual indication that he is getting weaker is more blood spurting. The indication that he is about to blow tf up is a big ass spurt of blood (more intense that the other one).
