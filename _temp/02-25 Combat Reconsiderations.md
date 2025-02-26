@@ -26,8 +26,9 @@
 - Therefore, the player is motivated to kill the enemies
 
 ## Combat
-- Waves should progressively become more difficult.
-	- An EXAMPLE of how harder waves *could* work
+- Combat in the game needs to be refined more.
+- For areas with waves, the waves should progressively become more difficult.
+	- An EXAMPLE of how harder waves *could* work:
 		- 1st wave has only crawlers
 		- 2nd wave adds a lesion surrounded by crawlers
 		- 3rd have some big guys
