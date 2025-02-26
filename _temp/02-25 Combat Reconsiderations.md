@@ -25,8 +25,10 @@
 - It should be clear that the enemy / enemies are the reason they cannot progress.
 - Therefore, the player is motivated to kill the enemies
 
-## Combat
-- Combat in the game needs to be refined more.
+# Combat Revision
+Combat in the game needs to be refined more.
+
+### Waves
 - For areas with waves, the waves should progressively become more difficult.
 	- An EXAMPLE of how harder waves *could* work:
 		- 1st wave has only crawlers
