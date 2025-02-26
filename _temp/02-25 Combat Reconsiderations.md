@@ -26,5 +26,9 @@
 - Therefore, the player is motivated to kill the enemies 
 
 
-#### Combined THoughts
-- Waves should progressively become more
+#### Combined Thoughts
+- Waves should progressively become more difficult.
+- The waves need some type of concluding element to let the player know they're done
+- The player should have a clear understanding of what objective the enemies are preventing them from obtaining
+- Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
+- *Some* areas are gonna have placed enemies
