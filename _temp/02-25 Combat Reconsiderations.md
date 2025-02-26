@@ -40,9 +40,9 @@ Combat in the game needs to be refined more.
 	- The attack changes based on his health. He attacks by spitting blood out of his neck. As he takes damage his attack types change. So, he can charge toward the player and explode.
 	- The visual indication that he is getting weaker is more blood spurting. The indication that he is about to blow tf up is a big ass spurt of blood (more intense that the other one).
 - ***The waves need some type of concluding element to let the player know they're done***.
-- The player should have a clear understanding of what objective the enemies are preventing them from obtaining.
-- Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
-- *Some* areas are gonna have placed enemies.
+- ***The player should have a clear understanding of what objective the enemies are preventing them from obtaining***.
+- Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies. We want the game to feel like more than just mowing down enemies.
+- *Some* areas are gonna have placed enemies as opposed to enemy waves.
 - Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly.
 - For the crawler, INSTEAD of having two different types of crawlers (one melee one ranged), the crawler will be a 2-in-1 (melee and ranged).
 	- The crawler will randomly choose to be in melee or ranged mode every couple of seconds.
