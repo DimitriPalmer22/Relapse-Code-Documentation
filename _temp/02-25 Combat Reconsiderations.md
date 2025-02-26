@@ -46,4 +46,6 @@
 	- The tail being up or down will be the visual indication to the player of the crawler's mode
 
 ##### Boss Fight
-- IDEA: 
+- The boss fight is fighting NEEGA-Kin
+- The boss should be enforcer-size
+- _IDEA_: the boss gets whichever Neuros the player has 
