@@ -27,7 +27,7 @@
 
 ## Combat
 - Waves should progressively become more difficult.
-	- IDEA for harder waves
+	- An EXAMPLE of how harder waves *could* work
 		- 1st wave has only crawlers
 		- 2nd wave adds a lesion surrounded by crawlers
 		- 3rd have some big guys
