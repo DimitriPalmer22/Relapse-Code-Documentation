@@ -28,7 +28,9 @@
 
 #### Combined Thoughts
 - Waves should progressively become more difficult.
-- The waves need some type of concluding element to let the player know they're done
+- The waves need some type of concluding element to let the player know they're done.
 - The player should have a clear understanding of what objective the enemies are preventing them from obtaining
 - Synergy between different enemy types should encourage the player to use the powers and to critically think of how to kill the enemies.
-- *Some* areas are gonna have placed enemies
+- *Some* areas are gonna have placed enemies.
+- 
+- Wave-based areas should be areas the player cannot progress past without completing. Areas w/ placed enemies only serve to slow the player down slightly. 
