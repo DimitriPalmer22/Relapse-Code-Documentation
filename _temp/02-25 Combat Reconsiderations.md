@@ -70,4 +70,4 @@
 - Use the same jittery material that is on the billboards but put it more throughout the rest of the game
 - Alex's slide is good, but how is it gonna look with finalized assets?
 	- _Idea_: use one of the sloped buildings for it?
-	- _Idea_: 
+	- _Idea_: use some type of blackout around the hole
