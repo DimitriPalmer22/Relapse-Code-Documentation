@@ -44,4 +44,6 @@
 - For the crawler, INSTEAD of having two different types of crawlers (one melee one ranged), the crawler will be a 2-in-1 (melee and ranged).
 	- The crawler will randomly choose to be in melee or ranged mode every couple of seconds.
 	- The tail being up or down will be the visual indication to the player of the crawler's mode
-- 
+
+##### Boss Fight
+- IDEA: 
