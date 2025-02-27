@@ -1,6 +1,9 @@
 
 ### Loaders in new scenes
 - [ ] Mindbreaks
+	- [ ] Wall running mindbreak
+	- [ ] Wall climbing mindbreak
+	- [ ] Shootable object mindbreak
 - [ ] Apartment levels
 - [ ] City Levels
 
