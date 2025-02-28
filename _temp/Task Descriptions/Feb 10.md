@@ -51,3 +51,5 @@
 - Material complexity
 - Colliders
 - Reconsider the back-faces of the building blocks
+
+- We might need a different reload animation for the automatic pistol altot
