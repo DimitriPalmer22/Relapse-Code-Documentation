@@ -107,13 +107,12 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
 ### Other
+- Sound needs to be balanced. Shbeeb was getting earfucked
 - Our game's time to kill (TTK) kinda sucks because there is not much variability.
 	- Conventionally, accuracy, locational damage, and stat modifiers (buffs & debuffs) add variability to the TTK
 	- So, headshots WILL now be in the game and WILL now do 1.5x damage
 	- This means, that TTK in our game will now be influenced by accuracy (bloom / recoil / missing shots), locational damage (headshots / critical spots), and buffs (overdrive power)
 	- The TTK calculations need to factor these in
-
-- Sound needs to be balanced. Shbeeb was getting earfucked
 
 ### Adding "JUICE" to the Game
 - Put the glowy eyes on every monster
@@ -123,11 +122,11 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 		- References, Halo Infinite, Call of duty, Apex legends
 	- If we do a SFX, limit the sounds per second so the player doesn't get obliterated by the sound
 
-Tuesday
+### What We Need for Tuesday
 
-- Get the whiteboxed shit out of the levels
-- Seamless level transitions
-- Drunkard by Tuesday
+- Get the whiteboxed parts out of the levels
+- Make sure the seamless level transitions work without fail
+- Drunkard should be in the game by Tuesday (It's already modeled and animated)
 - Emissive Lighting in the level
 - Put in the power effects on the hand
 - We'll use the test level to show off powers
