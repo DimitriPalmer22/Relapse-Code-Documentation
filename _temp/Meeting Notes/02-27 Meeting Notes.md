@@ -97,6 +97,10 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- Why?: We are using too many game objects / the buildings are made up of too many faces. Even with static batching, the performance is still taking a hit.
 	- Possible fix: Instead of making the buildings using models of individual blocks, we need models of "chunks" of the buildings (1 or more floors).
 
+### Designer
+
+- 
+
 - Weapon balancing
 - TTK is hard to gauge since there's no variability(?)
 	- Missing introduces variability
