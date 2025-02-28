@@ -86,7 +86,6 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 # 02-27 Meeting Notes
 
 ### Art
-
 - The current UI is the wrong type of cartoony
 	- The bags for the powers might not look the best in-game
 	- Shbeeb suggested that we ONLY use the bags inside the shop & instead use the icons for the powers for the in-game UI.
@@ -99,8 +98,8 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- If we populate Aiden's level, we *should* be good for the rest of the levels
 	- We need debris / clutter
 	- shipping container
-### Designer
 
+### Designer
 - For right now, since we don't have optimized building assets, the designers are going to have to do a bit of their own optimization.
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 - The levels are too dark. Simply increasing the intensity of the directional light may not be enough.
@@ -131,7 +130,6 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- We can do special on-screen effects whenever a critical hit (headshot) is landed
 
 ### What We Need for Tuesday
-
 - Get the whiteboxed parts out of the levels
 - Make sure the seamless level transitions work without fail
 - Drunkard should be in the game by Tuesday (It's already modeled and animated). We just need to construct the prefab
