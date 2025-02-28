@@ -91,7 +91,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 - The current UI is the wrong type of cartoony
 	- The bags for the powers might not look the best in-game
-	- Shbeeb suggested that we use the 
+	- Shbeeb suggested that we ONLY use the bags inside the shop & instead use the icons for the powers for the in-game UI.
 
 - Our current buildings are causing performance issues (low FPS).
 	- Why?: We are using too many game objects / the buildings are made up of too many faces. Even with static batching, the performance is still taking a hit.
