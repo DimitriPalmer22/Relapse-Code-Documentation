@@ -104,20 +104,20 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 ### Other
 - Our game's time to kill kinda sucks because there is not much variability.
-	- In normal games, TKK
-- Headshots WILL be in the game and WILL do 1.5x damage
+	- Conventionally, accuracy, locational damage, and stat modifiers (buffs & debuffs) add variability to the TTK
+	- So, headshots WILL now be in the game and WILL now do 1.5x damage
+	- This means, that TTK in our game will now be influenced by 
 - Weapon balancing
-	- TTK is hard to gauge since there's no variability(?)
-		- Missing introduces variability
-			- Magazine and reload time introduces variability 
-			- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
-		- There's also too little feedback for getting a hit
-		- Sound, ui element
-			- If we do a sfx, limit the sounds per second
-			- Look at Halo Infinite as a reference
-			- Cant tell if the shots are actually landing
-			- Call of duty 
-			- Apex legends
+	- Missing introduces variability
+		- Magazine and reload time introduces variability 
+		- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
+	- There's also too little feedback for getting a hit
+	- Sound, ui element
+		- If we do a sfx, limit the sounds per second
+		- Look at Halo Infinite as a reference
+		- Cant tell if the shots are actually landing
+		- Call of duty 
+		- Apex legends
 - Sound needs to be balanced. Shbeeb was getting earfucked
 - Texturing
 - Borderlandsy type. We needa go back and redo the textures
