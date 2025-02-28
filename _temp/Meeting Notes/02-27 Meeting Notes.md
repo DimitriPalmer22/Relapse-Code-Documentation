@@ -83,11 +83,11 @@ Da end
 
 For Alex warehouse, he can make it so that the crane moves into position after killing the enemies 
 
-# Meeting notes
+# 02-27 Meeting notes
 
-- Do main menu
-- The current ui is the wrong type of cartoony
-- We need building chunks
+- We need to update the main menu.
+- The current UI is the wrong type of cartoony.
+- Our current buildings are causing performance issues (low FPS). Instead of individual blocks, We need building chunks
 - Weapon balancing
 - TTK is hard to gauge since there's no variability(?)
 	- Missing introduces variability
