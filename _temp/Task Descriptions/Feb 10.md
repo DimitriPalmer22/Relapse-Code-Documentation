@@ -46,3 +46,8 @@
 	- There is *NOT* existing code for this in the `UserSettings` file. You will need to create this code.
 
 ![](<../../_META/Attachments/Pasted image 20250210182636.png>)
+
+- Re-check GPU instancing
+- Material complexity
+- Colliders
+- Reconsider the back-faces of the building blocks
