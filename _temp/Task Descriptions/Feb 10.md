@@ -52,4 +52,5 @@
 - Colliders
 - Reconsider the back-faces of the building blocks
 
-- We might need a different reload animation for the automatic pistol altot
+- We might need a different (longer) reload animation for the automatic pistol altogether.
+	- There's not much distinguishing the automatic pistol from the regular pistol.
