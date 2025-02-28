@@ -103,9 +103,11 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
 ### Other
+- Our game's time to kill kinda sucks because there is not much variability.
+	- In normal games, TKK
 - Headshots WILL be in the game and WILL do 1.5x damage
 - Weapon balancing
-	- Our game's time to kill kinda sucks because there is not much variabilityTTK is hard to gauge since there's no variability(?)
+	- TTK is hard to gauge since there's no variability(?)
 		- Missing introduces variability
 			- Magazine and reload time introduces variability 
 			- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
