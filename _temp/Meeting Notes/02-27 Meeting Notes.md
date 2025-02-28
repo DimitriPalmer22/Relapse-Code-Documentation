@@ -110,6 +110,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- Instead, we can use emissive materials to add light to the levels.
 - Make sure the NavMeshes are rebaked before Tuesday
 - Find more props / objects that could use the special jittery outline shader
+- For the apartments, we can place some spawners to stop the player from just running through it.
 
 ### Other
 - The game's audio needs to be balanced. Shbeeb was getting destroyed.
