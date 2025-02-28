@@ -97,9 +97,9 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- Possible fix: Instead of making the buildings using models of individual blocks, we need models of "chunks" of the buildings (1 or more floors).
 - Texturing
 	- Borderlands type of textures. The textures need to be redone
-- More props and clutter
-	- If we populate Aiden's level, we should be good for the rest of the levels
-	- Debris
+- More props
+	- If we populate Aiden's level, we *should* be good for the rest of the levels
+	- We need debris / clutter
 	- shipping container
 ### Designer
 
@@ -122,9 +122,10 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 		- Apex legends
 - Sound needs to be balanced. Shbeeb was getting earfucked
 
--
+
+### Adding "JUICE" to the game
 - Put the glowy eyes on every monster
-- Make the eyes brighter as the enemy gets further away
+	- Make the eyes brighter as the enemy gets further away so they're easier to see from further away
 
 Tuesday
 
