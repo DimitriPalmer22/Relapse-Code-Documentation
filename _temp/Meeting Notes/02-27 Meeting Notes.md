@@ -110,8 +110,10 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- Instead, we can use emissive materials to add light to the levels.
 
 ### Other
-- The game's audio needs to be balanced. Shbeeb was getting earfucked.
-	- Make sure that any audio sources
+- The game's audio needs to be balanced. Shbeeb was getting destroyed.
+	- Make sure that any audio sources you're placing:
+		- Are not too loud compared to the rest of the game
+		- Use one of the mixer channels
 - Our game's time to kill (TTK) kinda sucks because there is not much variability.
 	- Conventionally, accuracy, locational damage, and stat modifiers (buffs & debuffs) add variability to the TTK
 	- So, headshots WILL now be in the game and WILL now do 1.5x damage
@@ -121,10 +123,11 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 ### Adding "JUICE" to the Game
 - Put the glowy eyes on every monster
 	- Make the eyes brighter as the enemy gets further away so they're easier to see from further away
-- There's too little feedback for hitting an enemy. Players have a hard time telling if shots are landing.
+- One reason the game's gunplay feels a little weak is because there's too little feedback for hitting an enemy. Players have a hard time telling if shots are landing.
 	- Conventionally, sound and UI elements help out here
 		- References, Halo Infinite, Call of duty, Apex legends
 	- If we do a SFX, limit the sounds per second so the player doesn't get obliterated by the sound
+	- We can do special on-screen effects whenever a critical hit (headshot) is landed
 
 ### What We Need for Tuesday
 
