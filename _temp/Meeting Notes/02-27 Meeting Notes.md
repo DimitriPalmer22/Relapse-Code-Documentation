@@ -138,3 +138,5 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - We'll use the test level to show off powers
 - FIX NAVMESHES IN YOUR LEVELS
 - Place the enemy spawners in the apartment
+
+<https://www.youtube.com/watch?v=apD2NgXulxE&ab_channel=DevDunk>
