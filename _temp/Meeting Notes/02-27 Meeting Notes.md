@@ -85,8 +85,6 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 # 02-27 Meeting Notes
 
-- We need to update the main menu.
-
 ### Art
 
 - The current UI is the wrong type of cartoony
