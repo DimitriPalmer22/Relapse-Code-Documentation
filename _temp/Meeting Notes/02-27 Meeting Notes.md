@@ -92,11 +92,15 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - The current UI is the wrong type of cartoony
 	- The bags for the powers might not look the best in-game
 	- Shbeeb suggested that we ONLY use the bags inside the shop & instead use the icons for the powers for the in-game UI.
-
 - Our current buildings are causing performance issues (low FPS).
 	- Why?: We are using too many game objects / the buildings are made up of too many faces. Even with static batching, the performance is still taking a hit.
 	- Possible fix: Instead of making the buildings using models of individual blocks, we need models of "chunks" of the buildings (1 or more floors).
-
+- Texturing
+	- Borderlands type of textures. The textures need to be redone
+- More props and clutter
+	- If we populate Aiden's level, we should be good for the rest of the levels
+	- Debris
+	- shipping container
 ### Designer
 
 - For right now, since we don't have optimized building assets, the designers are going to have to do a bit of their own optimization.
@@ -109,7 +113,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- This means, that TTK in our game will now be influenced by accuracy (bloom / recoil / missing shots), locational damage (headshots / critical spots), and buffs (overdrive power)
 	- The TTK calculations need to factor these in
 
-	- There's also too little feedback for getting a hit
+- There's also too little feedback for getting a hit
 	- Sound, ui element
 		- If we do a sfx, limit the sounds per second
 		- Look at Halo Infinite as a reference
@@ -117,11 +121,8 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 		- Call of duty 
 		- Apex legends
 - Sound needs to be balanced. Shbeeb was getting earfucked
-- Texturing
-- Borderlandsy type. We needa go back and redo the textures
-	- Debris + shipping container
-	- If we populate Aiden's level, we should be good for the rest of the levels
-- 
+
+-
 - Put the glowy eyes on every monster
 - Make the eyes brighter as the enemy gets further away
 
