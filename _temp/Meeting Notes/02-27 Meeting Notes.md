@@ -108,6 +108,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - The levels are too dark. Simply increasing the intensity of the directional light may not be enough.
 - We need to use lights in our levels for some type of wayfinding. We can *probably* bake lights but with the way our buildings are set up, it may take too long.
 	- Instead, we can use emissive materials to add light to the levels.
+- Make sure the NavMeshes are rebaked before Tuesday
 
 ### Other
 - The game's audio needs to be balanced. Shbeeb was getting destroyed.
