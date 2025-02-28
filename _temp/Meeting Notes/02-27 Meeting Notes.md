@@ -135,7 +135,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 - Get the whiteboxed parts out of the levels
 - Make sure the seamless level transitions work without fail
-- Drunkard should be in the game by Tuesday (It's already modeled and animated)
+- Drunkard should be in the game by Tuesday (It's already modeled and animated). We just need to construct the prefab
 - Emissive Lighting in the level so that we don't have to place & bake lights
 - Put in the power effects on the hand lol
 - We'll use the test level to show off powers
