@@ -103,9 +103,9 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
 ### Other
-- 
+- Headshots WILL be in the game and WILL do 1.5x damage
 - Weapon balancing
-	- TTK is hard to gauge since there's no variability(?)
+	- Our game's time to kill kinda sucks because there is not much variabilityTTK is hard to gauge since there's no variability(?)
 		- Missing introduces variability
 			- Magazine and reload time introduces variability 
 			- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
@@ -116,8 +116,6 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 			- Cant tell if the shots are actually landing
 			- Call of duty 
 			- Apex legends
-		- If we do a critical hit spot, we should do a the head
-		- 1.5x multiplier
 - Sound needs to be balanced. Shbeeb was getting earfucked
 - Texturing
 - Borderlandsy type. We needa go back and redo the textures
