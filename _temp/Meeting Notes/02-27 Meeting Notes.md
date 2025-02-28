@@ -113,20 +113,15 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- This means, that TTK in our game will now be influenced by accuracy (bloom / recoil / missing shots), locational damage (headshots / critical spots), and buffs (overdrive power)
 	- The TTK calculations need to factor these in
 
-
 - Sound needs to be balanced. Shbeeb was getting earfucked
 
-
-### Adding "JUICE" to the game
+### Adding "JUICE" to the Game
 - Put the glowy eyes on every monster
 	- Make the eyes brighter as the enemy gets further away so they're easier to see from further away
-- There's too little feedback for hitting an enemy
+- There's too little feedback for hitting an enemy. Players have a hard time telling if shots are landing.
 	- Conventionally, sound and UI elements help out here
-		- If we do an SFX, limit the sounds per second
-		- Look at Halo Infinite as a reference
-		- Cant tell if the shots are actually landing
-		- Call of duty 
-		- Apex legends
+		- References, Halo Infinite, Call of duty, Apex legends
+	- If we do a SFX, limit the sounds per second so the player doesn't get obliterated by the sound
 
 Tuesday
 
