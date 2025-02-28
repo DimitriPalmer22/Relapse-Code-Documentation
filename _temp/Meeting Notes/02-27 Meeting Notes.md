@@ -81,13 +81,9 @@ Da end
 - If we do have a FOV slider, consider how the dynamic FOV contributes to that
 - he likes rhe other UI, but the main menu needs to get done
 
-Another combat scene
-
-- D
-
 For Alex warehouse, he can make it so that the crane moves into position after killing the enemies 
 
-Meeting notes
+# Meeting notes
 
 - Do main menu
 - The current ui is the wrong type of cartoony
