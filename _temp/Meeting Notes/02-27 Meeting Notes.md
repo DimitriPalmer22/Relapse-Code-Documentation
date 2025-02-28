@@ -103,14 +103,12 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
 ### Other
-- Our game's time to kill kinda sucks because there is not much variability.
+- Our game's time to kill (TTK) kinda sucks because there is not much variability.
 	- Conventionally, accuracy, locational damage, and stat modifiers (buffs & debuffs) add variability to the TTK
 	- So, headshots WILL now be in the game and WILL now do 1.5x damage
-	- This means, that TTK in our game will now be influenced by 
-- Weapon balancing
-	- Missing introduces variability
-		- Magazine and reload time introduces variability 
-		- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
+	- This means, that TTK in our game will now be influenced by accuracy (bloom / recoil / missing shots), locational damage (headshots / critical spots), and buffs (overdrive power)
+	- The TTK calculations need to factor these in
+
 	- There's also too little feedback for getting a hit
 	- Sound, ui element
 		- If we do a sfx, limit the sounds per second
