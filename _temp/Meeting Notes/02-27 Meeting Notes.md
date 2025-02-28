@@ -99,7 +99,8 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 ### Designer
 
-- 
+- For right now, since we don't have optimized building assets, the designers are going to have to do a bit of their own optimization.
+	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
 - Weapon balancing
 - TTK is hard to gauge since there's no variability(?)
@@ -120,7 +121,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - Borderlandsy type. We needa go back and redo the textures
 	- Debris + shipping container
 	- If we populate Aiden's level, we should be good for the rest of the levels
-- FOR NOW, we should do a gameobject / face count limit for the buildings
+- 
 - Put the glowy eyes on every monster
 - Make the eyes brighter as the enemy gets further away
 
