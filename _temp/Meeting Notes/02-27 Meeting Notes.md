@@ -105,11 +105,13 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 - For right now, since we don't have optimized building assets, the designers are going to have to do a bit of their own optimization.
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
+- The levels are too dark. Simply increasing the intensity of the directional light may not be enough.
 - We need to use lights in our levels for some type of wayfinding. We can *probably* bake lights but with the way our buildings are set up, it may take too long.
-	- Instead 
+	- Instead, we can use emissive materials to add light to the levels.
 
 ### Other
-- Sound needs to be balanced. Shbeeb was getting earfucked
+- The game's audio needs to be balanced. Shbeeb was getting earfucked.
+	- Make sure that any audio sources
 - Our game's time to kill (TTK) kinda sucks because there is not much variability.
 	- Conventionally, accuracy, locational damage, and stat modifiers (buffs & debuffs) add variability to the TTK
 	- So, headshots WILL now be in the game and WILL now do 1.5x damage
