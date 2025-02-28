@@ -87,7 +87,9 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 
 - We need to update the main menu.
 - The current UI is the wrong type of cartoony.
-- Our current buildings are causing performance issues (low FPS). Instead of individual blocks, We need building chunks
+- Our current buildings are causing performance issues (low FPS). 
+	- Why?: We are using too many game objects / the buildings are made up of too many faces. Even with static batching, the performance is still taking a hit.
+	- Possible fInstead of individual blocks, we need models of "chunks" of the buildings (1 or more floors). This 
 - Weapon balancing
 - TTK is hard to gauge since there's no variability(?)
 	- Missing introduces variability
