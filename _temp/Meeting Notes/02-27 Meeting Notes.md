@@ -102,20 +102,22 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - For right now, since we don't have optimized building assets, the designers are going to have to do a bit of their own optimization.
 	- FOR NOW, we should do a hard limit on the number of Game Objects AND a hard face count limit for the buildings
 
+### Other
+- 
 - Weapon balancing
-- TTK is hard to gauge since there's no variability(?)
-	- Missing introduces variability
-		- Magazine and reload time introduces variability 
-		- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
-	- There's also too little feedback for getting a hit
-	- Sound, ui element
-		- If we do a sfx, limit the sounds per second
-		- Look at Halo Infinite as a reference
-		- Cant tell if the shots are actually landing
-		- Call of duty 
-		- Apex legends
-	- If we do a critical hit spot, we should do a the head
-	- 1.5x multiplier
+	- TTK is hard to gauge since there's no variability(?)
+		- Missing introduces variability
+			- Magazine and reload time introduces variability 
+			- TTK numbers are based on NOT MISSING. So he can go in and re-tune them
+		- There's also too little feedback for getting a hit
+		- Sound, ui element
+			- If we do a sfx, limit the sounds per second
+			- Look at Halo Infinite as a reference
+			- Cant tell if the shots are actually landing
+			- Call of duty 
+			- Apex legends
+		- If we do a critical hit spot, we should do a the head
+		- 1.5x multiplier
 - Sound needs to be balanced. Shbeeb was getting earfucked
 - Texturing
 - Borderlandsy type. We needa go back and redo the textures
