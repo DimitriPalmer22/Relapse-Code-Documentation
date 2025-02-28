@@ -109,6 +109,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - We need to use lights in our levels for some type of wayfinding. We can *probably* bake lights but with the way our buildings are set up, it may take too long.
 	- Instead, we can use emissive materials to add light to the levels.
 - Make sure the NavMeshes are rebaked before Tuesday
+- Find more props / objects that could use the special jittery outline shader
 
 ### Other
 - The game's audio needs to be balanced. Shbeeb was getting destroyed.
@@ -136,7 +137,7 @@ For Alex warehouse, he can make it so that the crane moves into position after k
 - Make sure the seamless level transitions work without fail
 - Drunkard should be in the game by Tuesday (It's already modeled and animated)
 - Emissive Lighting in the level so that we don't have to place & bake lights
-- Put in the power effects on the hand
+- Put in the power effects on the hand lol
 - We'll use the test level to show off powers
 - FIX NAVMESHES IN YOUR LEVELS
 - Place the enemy spawners in the apartment
