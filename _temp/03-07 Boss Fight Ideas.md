@@ -1,8 +1,18 @@
 [02-27 Meeting Notes](<./Meeting Notes/02-27 Meeting Notes.md>)
 
+# Firearm
+The boss is gonna use the standard pistol. However,
+
 # Neuro / Vital Powers
 
 I need a centralized way to easily add boss logic to EACH power.
+
+Boss Power SO
+
+- Corresponding Player Power
+- Charging
+	- Move while charging
+	- 
 
 # Extra Abilities
 
