@@ -1,4 +1,5 @@
 
+# 03-06 Ricky Playtest Notes
 ### Tutorial Mindbreak
 - Beginning mindbreak is bright asf. Bright enough for him to go into the settings and turn the brightness down.
 - The place where the enemies are in the mindbreak is dark asf
@@ -34,11 +35,11 @@
 
 ### Wall Climbing Mindhreak
 
-- All black
+- Im ngl i was writing something but i forgot what it was
 
 ### Movement2
 
-- We need ACTUAL lighting. Its lowkey fucking ip Brians level cuz its too hard to see where to go
+- We need ACTUAL lighting. Its lowkey fucking up Brians level cuz its too hard to see where to go
 - The billboard is confusing cuz it lowkey faces one way
 - Slide zones are too low
 - Change the model of the big enemy
@@ -46,7 +47,7 @@
 
 ### Combat 2
 
-- Replqfe the projectile lesions w/ enforcers
+- Replace the projectile lesions w/ enforcers
 - That section w/ the wall running w/ billboards and then the wall climbing is a lil hard
 - The player can just run away from the combat area
 - Scale the doors cuz they may be a lil small
@@ -70,7 +71,7 @@
 - The immediate drop caught the player off guard
 - More range for the gun so the player can shoot the barrels
 - Lowkey the slope at the end doesnt need to be a slope
-- Also, having the planks highlighted here is mispesring
+- Also, having the planks highlighted here is misleading
 
 ### Other Notes
 
