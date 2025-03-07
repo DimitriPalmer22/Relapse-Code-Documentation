@@ -74,8 +74,8 @@
 
 ### Other Notes
 
-- He suggested segmenting the ammo counter to
-- Colliders for enforcer are wonky
+- He suggested segmenting the ammo counter to make it even clearer how much ammo the player has left
+- Hitboxes for the enforcer are wonky (he was shooting them in the shoulder and they weren't dying)
 - Power tutorials needa be finalized
 - He lowkey missed the volumetric lighting 
 - Something I noticed is that he killed ALL the enemies instead of running past them
