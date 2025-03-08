@@ -1,4 +1,4 @@
-[02-27 Meeting Notes](<./Meeting Notes/02-27 Meeting Notes.md>)
+[02-25 Combat Reconsiderations](<./02-25 Combat Reconsiderations.md>)
 
 # Firearm
 
