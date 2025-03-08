@@ -7,6 +7,7 @@ DECOUPLE:
 
 - Movement & Detection behaviors. Movement script should only control moving from point to point. The brain of the enemy determines which function to run.
 - New movement script: Contains all the code possible for walking to a given point, strafing, or wandering.
+	- Each movement state has its own corresponding update function
 - The old movement scripts will be used as additional logic for if a specific movement state should be implemented
 
 ### Behavior State
