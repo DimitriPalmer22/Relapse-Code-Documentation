@@ -19,3 +19,7 @@ DECOUPLE:
 	- Movement Action
 		- Weight
 		- Cooldown Range (How long it should do the action for )
+
+- FIELDS
+	- Time since last seen target
+	- Number of other enemies nearby
