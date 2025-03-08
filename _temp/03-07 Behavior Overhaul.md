@@ -30,3 +30,13 @@ DECOUPLE:
 		- Attack Action Sub State (Scriptable object) is the derived class
 	- Movement Action (Scriptable Object) is the base class
 		- Movement Action Sub State (Scriptable object) is the derived class
+
+BRAIN
+- Check for which behavior state to go in
+	- Single Behavior State
+		- Conditions
+		- Attack Action
+		- Movement Action
+	- Behavior Substate Holder
+		- Conditions
+		- Single 
