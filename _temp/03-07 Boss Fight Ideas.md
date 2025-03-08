@@ -1,7 +1,10 @@
 [02-27 Meeting Notes](<./Meeting Notes/02-27 Meeting Notes.md>)
 
 # Firearm
-The boss is gonna use the standard pistol. However,
+
+The boss is gonna use the standard pistol. However, we need a clear and easy way to telegraph that the enemy is about to shoot. We also need to make sure it is easy enough for the player to dodge the enemy attack.
+
+- Honestly, using the existing code in the Shooting attack script might suffice. Like the enforcer / lesion ranged enemies, we can use an animation event to show that the enemy is shooting.
 
 # Neuro / Vital Powers
 
@@ -12,7 +15,7 @@ Boss Power SO
 - Corresponding Player Power
 - Charging
 	- Move while charging
-	- 
+	-
 
 # Extra Abilities
 
