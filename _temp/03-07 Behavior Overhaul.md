@@ -2,5 +2,6 @@
 
 - Determining how to attack / move is determine by 1 BRAIN script
 - The brain checks a series of variables to determine the different *behavior States*
-- Movement state:
-	- 
+
+### Behavior State:
+- A set of conditions (To determine )
