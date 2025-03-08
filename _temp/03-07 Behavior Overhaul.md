@@ -23,3 +23,7 @@ DECOUPLE:
 - FIELDS
 	- Time since last seen target
 	- Number of other enemies nearby
+
+- BEHAVIOR SUB STATES
+	- Attack Action (Scriptable Object) is the base class
+	- Attack Action Sub State (Scriptable object) is the derived class
