@@ -4,4 +4,6 @@
 - The brain checks a series of variables to determine the different *behavior States*
 
 ### Behavior State:
-- A set of conditions (To determine if the state )
+- A set of conditions (To determine if the state)
+- A set of Things the enemy can do:
+	- 
