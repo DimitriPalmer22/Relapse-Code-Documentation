@@ -25,5 +25,8 @@ DECOUPLE:
 	- Number of other enemies nearby
 
 - BEHAVIOR SUB STATES
+	- Interface for classes that will be used to determine the behavior of the enemy (BehaviorState and SubState Classes)
 	- Attack Action (Scriptable Object) is the base class
-	- Attack Action Sub State (Scriptable object) is the derived class
+		- Attack Action Sub State (Scriptable object) is the derived class
+	- Movement Action (Scriptable Object) is the base class
+		- Movement Action Sub State (Scriptable object) is the derived class
