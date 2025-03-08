@@ -11,4 +11,4 @@
 		- Weight (for random change)
 	- Movement Action
 		- Weight
-		- Cooldown Range (How long it should do the action for)
+		- Cooldown Range (How long it should do the action for )
