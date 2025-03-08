@@ -13,9 +13,8 @@ I need a centralized way to easily add boss logic to EACH power.
 Boss Power SO
 
 - Corresponding Player Power
-- Charging
-	- Move while charging
-	-
+- 
+
 
 # Extra Abilities
 
