@@ -3,6 +3,9 @@
 - Determining how to attack / move is determine by 1 BRAIN script
 - The brain checks a series of variables to determine the different *behavior States*
 
+DECOUPLE:
+- Movement & Detection behaviors. Movement script should only control moving from point to po
+
 ### Behavior State
 - A set of conditions (To determine if the state)
 - A set of Things the enemy can do:
