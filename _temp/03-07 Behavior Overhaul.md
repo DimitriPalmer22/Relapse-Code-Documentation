@@ -3,7 +3,12 @@
 - Determining how to attack / move is determine by 1 BRAIN script
 - The brain checks a series of variables to determine the different *behavior States*
 
-### Behavior State:
+### Behavior State
 - A set of conditions (To determine if the state)
 - A set of Things the enemy can do:
-	- 
+	- Attack
+		- Attack number (to play a specific animation)
+		- Weight (for random change)
+	- Movement Action
+		- Weight
+		- Cooldown Range (How long it should do the action for)
