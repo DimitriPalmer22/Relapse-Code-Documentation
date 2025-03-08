@@ -4,7 +4,8 @@
 - The brain checks a series of variables to determine the different *behavior States*
 
 DECOUPLE:
-- Movement & Detection behaviors. Movement script should only control moving from point to po
+
+- Movement & Detection behaviors. Movement script should only control moving from point to point. The brain of the enemy determines which function to run.
 
 ### Behavior State
 - A set of conditions (To determine if the state)
