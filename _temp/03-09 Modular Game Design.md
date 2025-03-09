@@ -19,4 +19,12 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 ## Things that Can Be Kept in the Logic
 ### Basic Player Info
 - Regenerations settings
-- 
+-
+
+# Guns
+
+## Things that Can Be Put into a Scriptable Object
+
+### Sound Info
+- SFX for normal hit
+- SFX for critical hit
