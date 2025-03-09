@@ -11,6 +11,8 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 - Current / Max Health
 - Current / Max Toxicity
 - Remaining Relapse Time
+- Current / Max Stamina
 
 ### Power Info
 - Current Power Loadout
+- Power Tokens
