@@ -29,5 +29,6 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 - SFX for normal hit
 	- IDamager has a SFX slot
 - SFX for critical hit
+	- IDamager has a SFX slot
 - Reticle Image (enum Dropdown)
 - Hitmarker
