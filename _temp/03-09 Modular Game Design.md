@@ -28,3 +28,4 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 ### Sound Info
 - SFX for normal hit
 - SFX for critical hit
+- Reticle Image
