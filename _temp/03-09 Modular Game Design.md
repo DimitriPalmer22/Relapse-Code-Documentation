@@ -27,7 +27,7 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 
 ### Sound Info
 - SFX for normal hit
-	- IDama
+	- IDamager has a SFX slot
 - SFX for critical hit
 - Reticle Image (enum Dropdown)
 - Hitmarker
