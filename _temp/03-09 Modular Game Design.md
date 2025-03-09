@@ -15,4 +15,5 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 
 ### Power Info
 - Current Power Loadout
-- Power Tokens
+
+## Things that Can Be Kept in the Logic
