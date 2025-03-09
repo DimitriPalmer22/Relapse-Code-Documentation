@@ -17,3 +17,6 @@ Right now, the `PlayerInfo` script contains all the data for the player as well 
 - Current Power Loadout
 
 ## Things that Can Be Kept in the Logic
+### Basic Player Info
+- Regenerations settings
+- 
