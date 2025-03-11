@@ -6,7 +6,7 @@
 	- Crawlers should be small & fast, but easy to kill
 	- The enforcers should be ranged and should pester the player from a distance.
 	- The Lesion should be a slower, hard-hitting melee enemy that is able to take some damage
-	- The fat nigga blows up or runs at the player
+	- The fat guy blows up or runs at the player
 
 #### Andre
 - Go in, kill waves of fodder enemies
