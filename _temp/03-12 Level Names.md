@@ -6,7 +6,7 @@
 | Combat 1                   | Izer Warehouse                  |
 | Floor 5                    | Metrowest Apartments: 5th Floor |
 | Wall Climb Mindbreak       | ???                             |
-| Movement 2                 | Mikel be bullshittin i          |
+| Movement 2                 | Retroit Rooftops                |
 | Combat 2                   |                                 |
 | Floor 3                    | Metrowest Apartments: 3rd Floor |
 | Shootable Object Mindbreak | ???                             |
