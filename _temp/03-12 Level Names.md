@@ -2,8 +2,8 @@
 | -------------------------- | ------------------------------- |
 | Floor 4                    | Metrowest Apartments: 4th Floor |
 | Wall running Mindbreak     | ???                             |
-| Movement 1                 |                                 |
-| Combat 1                   |                                 |
+| Movement 1                 | Transit                         |
+| Combat 1                   | Izer Warehouse                  |
 | Floor 5                    | Metrowest Apartments: 5th Floor |
 | Wall Climb Mindbreak       | ???                             |
 | Movement 2                 |                                 |
