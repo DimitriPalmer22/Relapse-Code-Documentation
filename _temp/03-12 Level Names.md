@@ -6,10 +6,11 @@
 | Combat 1                   | Izer Warehouse                  |
 | Floor 5                    | Metrowest Apartments: 5th Floor |
 | Wall Climb Mindbreak       | ???                             |
-| Movement 2                 |                                 |
+| Movement 2                 | Mikel be bullshittin i          |
 | Combat 2                   |                                 |
 | Floor 3                    | Metrowest Apartments: 3rd Floor |
 | Shootable Object Mindbreak | ???                             |
 | Movement 3                 |                                 |
 | Combat 3                   |                                 |
 | Floor 2                    | Metrowest Apartments: 2nd Floor |
+| Lebron James               | *Re (O): lapse*                 |
