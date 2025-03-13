@@ -14,6 +14,6 @@
 | **Floor 3**                    | Metrowest Apartments | 3rd Floor                 |
 | **Shootable Object Mindbreak** | ???                  | ???                       |
 | **Movement 3**                 | Retroit Outskirts    | Path to Construction Yard |
-| **Combat 3**                   | Construction Yard    |                           |
+| **Combat 3**                   | Construction Yard    | *On top of Sky Tower*     |
 | **Floor 2**                    | Metrowest Apartments | 2nd Floor                 |
 | **BOSS**                       | *Relapse*            |                           |
