@@ -25,5 +25,10 @@
 - Drunkard has the most health.
 - Crawler has the least.
 
-- Enemies will become more difficult
-- 
+- Enemies will become more difficult in each level.
+
+- How do we convey that the player is in a space where they can't continue without killing all enemies?
+	- Leo's dissolve shader. It'll fade in as you enter the space and fade out as you leave / clear it.
+	- Also, some type of visual motif to signal the area
+
+- Hoard mode. Spe
