@@ -17,6 +17,7 @@
 - INSTEAD of just going through the void, the orb leads you through the different floors of the apartments.
 	- The orb leads you on where to go, BUT you can turn around and explore the apartments if you want.
 - Also, we're playing this scene BEFORE the boss fight btw.
+- This works cuz the orb is the boss
 
 # Combat
 
@@ -31,4 +32,11 @@
 	- Leo's dissolve shader. It'll fade in as you enter the space and fade out as you leave / clear it.
 	- Also, some type of visual motif to signal the area
 
-- Hoard mode. Spe
+- Hoard mode.
+- Special game mode where the player fights waves of enemies.
+- Keep going forever.
+
+# Motifs for Mindbreak Areas
+- Post processing change
+- Background ambience in the areas
+- Mindbreak splotches as decals or some shit
