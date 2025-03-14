@@ -43,5 +43,9 @@
 # Motifs for Mindbreak Areas
 - Post processing change
 - Background ambience in the areas
-- Mindbreak splotches as decals or some shit
-- Dissolve shader for 
+- Mindbreak splotches as decals or something
+- Dissolve shader for enemy wave spaces.
+
+# Journal
+- Converting the pause menu into the journal
+- 
