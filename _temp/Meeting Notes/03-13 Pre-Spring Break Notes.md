@@ -65,3 +65,8 @@ Get rid of the journal as-is
 - The new enemies need new sounds
 - The enemy groan gotta go
 - The animations NEED sounds to go along with them
+- Footsteps
+	- Floor
+	- Wall running
+	- Etc
+- Slide
