@@ -6,4 +6,5 @@
 	- It may be a good idea to end the level after breaking the glass
 
 MIKEL IDEA: FOR THE ORB SCENE IN BRIAN'S LEVEL
-- Orb has 3 posi
+- Orb has 3 positions. 
+- INSTEAD of just going through the void, the orb lea
