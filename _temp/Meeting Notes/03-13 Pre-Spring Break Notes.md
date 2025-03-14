@@ -9,7 +9,9 @@
 
 - The boss fight is too dense & has too much going on with it
 
-###
+### No Court Room Arena
+- Having a section where the player fights in the courtroom feels a little busy
+- The courtroom can be used for a cutscene
 
 ### MIKEL IDEA: FOR THE VOID SCENE IN BRIAN'S LEVEL
 
@@ -18,6 +20,7 @@
 	- The orb leads you on where to go, BUT you can turn around and explore the apartments if you want.
 - Also, we're playing this scene BEFORE the boss fight btw.
 - This works cuz the orb is the boss
+- This is an actual intro to the boss
 
 # Combat
 
@@ -35,8 +38,10 @@
 - Hoard mode.
 - Special game mode where the player fights waves of enemies.
 - Keep going forever.
+- We'll use this
 
 # Motifs for Mindbreak Areas
 - Post processing change
 - Background ambience in the areas
 - Mindbreak splotches as decals or some shit
+- Dissolve shader for 
