@@ -76,3 +76,7 @@ Get rid of the journal as-is
 	- Etc
 - Slide
 - Shotgun blast sfx
+
+# Moving the Apartments
+- The apartments will no longer be in the order of the game as they currently are
+- Remember, we are moving them to the orb scene 
