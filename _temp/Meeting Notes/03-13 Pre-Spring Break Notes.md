@@ -47,5 +47,12 @@
 - Dissolve shader for enemy wave spaces.
 
 # Journal
+
+Get rid of the journal as-is
+
 - Converting the pause menu into the journal
-- 
+- Objectives are not present in the rest of the level and are lowkey not needed
+- Inventory - Just showed in the main menu
+- Powers - Just show in the main menu
+- Memories are too high-scope, so we no longer need them hoes
+- Show the numeric value in the pause menu for 
