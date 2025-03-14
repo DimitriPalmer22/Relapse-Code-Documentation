@@ -12,6 +12,7 @@
 ### No Court Room Arena
 - Having a section where the player fights in the courtroom feels a little busy
 - The courtroom can be used for a cutscene
+- Move the courtroom cutscene to the end
 
 ### MIKEL IDEA: FOR THE VOID SCENE IN BRIAN'S LEVEL
 - Orb has 3 positions.
