@@ -53,3 +53,9 @@ Get rid of the journal as-is
 - Powers - Just show in the main menu
 - Memories are too high-scope, so we no longer need them hoes
 - Show the numeric value for health and toxicity values in the pause menu AND the upgrade menu for the vendors
+
+# VFX
+- Spawn VFX for enemies so that they don't just pop in
+	- Mindbreak VFX effect 
+- We need grayscale versions of Alex's VFX animations so we can spam them everywhere
+- Use the exclamation point as a VFX so that 
