@@ -62,4 +62,6 @@ Get rid of the journal as-is
 
 # Sound
 - We NEED sound effects for everything in the game
-- The new 
+- The new enemies need new sounds
+- The enemy groan gotta go
+- The animations NEED sounds to go along with them
