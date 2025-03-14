@@ -5,7 +5,12 @@
 - Brian's movement needs to be shortened
 	- It may be a good idea to end the level after breaking the glass
 
-MIKEL IDEA: FOR THE VOID SCENE IN BRIAN'S LEVEL
+# Boss Fight
+
+- The boss fight is too dense & has too much going on with it
+- 
+
+### MIKEL IDEA: FOR THE VOID SCENE IN BRIAN'S LEVEL
 
 - Orb has 3 positions.
 - INSTEAD of just going through the void, the orb leads you through the different floors of the apartments.
