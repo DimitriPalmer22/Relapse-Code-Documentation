@@ -56,6 +56,10 @@ Get rid of the journal as-is
 
 # VFX
 - Spawn VFX for enemies so that they don't just pop in
-	- Mindbreak VFX effect 
+	- Mindbreak VFX effect
 - We need grayscale versions of Alex's VFX animations so we can spam them everywhere
-- Use the exclamation point as a VFX so that 
+- Use the exclamation point as a VFX so that points of interests are easier to see
+
+# Sound
+- We NEED sound effects for everything in the game
+- The new 
