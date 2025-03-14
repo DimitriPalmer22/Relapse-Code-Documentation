@@ -34,7 +34,10 @@
 	- Leo's dissolve shader. It'll fade in as you enter the space and fade out as you leave / clear it.
 	- Also, some type of visual motif to signal the area
 
-#### 
+- How many enemies are left?
+	- Show a tooltip in the top right to show how many enemies are left in the spawner
+
+#### Extra Gamemode
 - Hoard mode
 - Special game mode where the player fights waves of enemies.
 - Keep going forever.
