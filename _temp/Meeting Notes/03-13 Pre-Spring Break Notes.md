@@ -32,14 +32,13 @@
 	- Leo's dissolve shader. It'll fade in as you enter the space and fade out as you leave / clear it.
 	- Also, some type of visual motif to signal the area
 
-- Hoard mode.
+- Hoard mode
 - Special game mode where the player fights waves of enemies.
 - Keep going forever.
-- We'll use this
 
 # Motifs for Mindbreak Areas
 - Post processing change
-- Background ambience in the areas
+- Background music ambience in the areas
 - Mindbreak splotches as decals or something
 - Dissolve shader for enemy wave spaces
 
