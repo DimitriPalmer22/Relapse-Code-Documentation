@@ -70,3 +70,4 @@ Get rid of the journal as-is
 	- Wall running
 	- Etc
 - Slide
+- Shotgun blast sfx
