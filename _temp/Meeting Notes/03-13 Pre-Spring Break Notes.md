@@ -96,6 +96,9 @@ Get rid of the journal as-is
 - Mindbreak splotches along the critical path will become more dense for each apartment level. I.E. floor 4 has the least. Floor 2 has the most
 - Parts of the apartment that aren't along the critical path will have little-to-no splotches
 
+### Lore
+- Forced to walk in the distressed hallways
+
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
 - The vendors are now just "a guy". They have different names
