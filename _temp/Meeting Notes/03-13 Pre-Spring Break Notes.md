@@ -77,7 +77,7 @@ Get rid of the journal as-is
 - Slide
 - Shotgun blast sfx
 
-# Moving the Apartments
+# Absolutely Changing the Apartments
 - THIS DOES NOT APPLY TO ALEX'S FLOOR
 - Remove phone / dealers
 - Since the player can still EXPLORE the apartments, we can keep the level populated with some things to keep the player interested
