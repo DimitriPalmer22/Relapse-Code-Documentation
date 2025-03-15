@@ -42,4 +42,6 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Game config file
 - Inventory
 - Enemy Stats
-- 
+- Audio collection
+
+# SINGLETONS!!!
