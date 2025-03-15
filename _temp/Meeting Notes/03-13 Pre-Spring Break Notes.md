@@ -106,7 +106,13 @@ Get rid of the journal as-is
 - Forced to walk in the distressed hallways. This way we can make sure we deliver the story
 - We delay the delivery of the dialogue (subtitles) to the player until at least after they buy a power
 	- Have the dialogue in that hallway after they leave the vendor room
-- 
+- The intro dialogue for the vendors is the MAJORITY of the lore the player gets from the vendors
+	- This is where ALL the critical story beats are
+- The "Chat" / "Gossip" option in the vendors is just a summary / reiteration of what was said in the intro.
+	- MAYBE we can give an extra tid-bit of info.
+- Who gives what dialoge?
+- dealers teach you the story of the world and kind of yourself
+- evil kin dialogue in apartment is more for figuring out who tf evil kin is
 
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
