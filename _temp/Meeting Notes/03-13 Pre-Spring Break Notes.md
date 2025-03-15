@@ -101,3 +101,4 @@ Get rid of the journal as-is
 - The vendors are now just "a guy". They have different names
 - Each dealer will have an increasing selection of powers, which allows you to get the powers that you missed before
 - Power tutorials inside the vendor UI so the player knows how the powers work BEFORE they buy it
+- When buying NEUROS ONLY, have a have a confirmation saying "are you sure you want to buy this?" to provide additional hinting for not buying neuros
