@@ -113,7 +113,7 @@ Get rid of the journal as-is
 - Who gives what dialoge?
 - dealers teach you the story of the world and kind of yourself
 - evil kin dialogue in apartment is more for figuring out who tf evil kin is
-	- Evil kin's dialogue should be delivered in as little narrative lines as possible
+	- Evil kin's dialogue should be delivered in as little narrative lines as possible. Rule of 3 is 
 
 ## What Are We Doing
 - Moving where the vendor
