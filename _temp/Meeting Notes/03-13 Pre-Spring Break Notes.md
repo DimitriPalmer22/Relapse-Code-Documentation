@@ -93,16 +93,19 @@ Get rid of the journal as-is
 - However, the player can still EXPLORE the apartments to keep the space interesting
 - 
 
+```
 - At the end of the critical path, have "Nega" Kin visible at the end of the critical path.
 	- Have a light shining on him
 	- Have a SFX accompanying him
 	- For right now, have him poof away and leave behind an explosion VFX
 	- (POST-ALPHA) Have the dissolve thing around the player's camera instead of a fade to and from white
+```
 
 ### Visuals
 - Dense mindbreak splotches along the critical path
 - Mindbreak splotches along the critical path will become more dense for each apartment level. I.E. floor 4 has the least. Floor 2 has the most
 - Parts of the apartment that aren't along the critical path will have little-to-no splotches
+- IDEA: Brian said to make the orb in the apartments black since its NOT Kin's wife (the wife orb in the mindbreak)
 
 ### Lore
 - Forced to walk in the distressed hallways. This way we can make sure we deliver the story
