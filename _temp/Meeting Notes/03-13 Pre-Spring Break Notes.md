@@ -95,6 +95,7 @@ Get rid of the journal as-is
 	- Have a light shining on him
 	- Have a SFX accompanying him
 	- For right now, have him poof away and leave behind an explosion VFX
+	- (POST-ALPHA) Have the dissolve thing around the player's camera instead of a fade to and from white
 
 ### Visuals
 - Dense mindbreak splotches along the critical path
