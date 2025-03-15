@@ -80,10 +80,17 @@ Get rid of the journal as-is
 # Absolutely Changing the Apartments
 - THIS DOES NOT APPLY TO ALEX'S FLOOR since its pretty much in-line with what we want anyway
 
-- The critical pathing of the apartments will be shortened a little
+### The Idea
+- The apartment levels are used PURELY for:
+	- getting a power from the vendor
+	- Getting Dialogue / Lore
+
+### Pathing
+
+- The critical pathing of the apartments NEEDS to be shortened a little
 - However, the player can still EXPLORE the apartments to keep the space interesting
 
-- Use mindbreak splotches along the main pathway we want the player to follow
+### Visuals
 
 - The apartments will no longer be in the order of the game as they currently are
 - Remember, we are moving them to the orb scene before the boss level
