@@ -91,7 +91,7 @@ Get rid of the journal as-is
 - The player starts in the vendor room
 - The player CANNOT exit the dealer room because the door is locked. They NEED to get a power to unlock this door. (interacting with the door gives you a tooltip or something)
 - However, the player can still EXPLORE the apartments to keep the space interesting
-- a BLACK orb is guiding the player through the apartments. The black orb represents evil Kin 
+- a BLACK orb is guiding the player through the apartments. The black orb represents evil Kin
 
 ```
 - At the end of the critical path, have "Nega" Kin visible at the end of the critical path.
@@ -105,7 +105,7 @@ Get rid of the journal as-is
 - Dense mindbreak splotches along the critical path
 - Mindbreak splotches along the critical path will become more dense for each apartment level. I.E. floor 4 has the least. Floor 2 has the most
 - Parts of the apartment that aren't along the critical path will have little-to-no splotches
-- IDEA: Brian said to make the orb in the apartments black since its NOT Kin's wife (the wife orb in the mindbreak)
+- Brian said to make the orb in the apartments black since its NOT Kin's wife (the wife orb in the mindbreak)
 
 ### Lore
 - Forced to walk in the distressed hallways. This way we can make sure we deliver the story
@@ -115,10 +115,11 @@ Get rid of the journal as-is
 	- This is where ALL the critical story beats are
 - The "Chat" / "Gossip" option in the vendors is just a summary / reiteration of what was said in the intro.
 	- MAYBE we can give an extra tid-bit of info.
-- Who gives what dialoge?
+- Who gives what dialogue?
 - dealers teach you the story of the world and kind of yourself
 - evil kin dialogue in apartment is more for figuring out who tf evil kin is
 	- Evil kin's dialogue should be delivered in as little narrative lines as possible. Rule of 3 is key here.
+- These dialogue lines are color-coded based on who's speaking (Evil kin vs his wife)
 
 ## What Are We Doing
 - Moving where the vendor
