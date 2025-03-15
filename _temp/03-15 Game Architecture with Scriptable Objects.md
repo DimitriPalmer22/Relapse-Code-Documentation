@@ -58,9 +58,11 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Dependency Nightmare
 - Single Instance!
 
-
 ## Solutions
 - How do we reduce the need for global managers?
 - Inversion of control
 	- Dependency injection
-	- Objects are given the things they depend on rather than 
+	- Objects are given the things they depend on rather than going out and getting them.
+
+# Modular Data
+
