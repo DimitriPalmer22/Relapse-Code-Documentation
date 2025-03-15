@@ -32,3 +32,14 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Test any single piece in isolation
 - The more editability we have, the more we can have debug views and features.
 - Never consider some feature done until you have some plan for how you're going to debug it.
+
+# Scriptable Object Basics
+- Serializable data container class
+- saved as .asset files OR can be instantiated at runtime without an asset
+	- Also, you can save multiple instances of a scriptable object into a single asset file.
+
+## Simple Use Cases
+- Game config file
+- Inventory
+- Enemy Stats
+- 
