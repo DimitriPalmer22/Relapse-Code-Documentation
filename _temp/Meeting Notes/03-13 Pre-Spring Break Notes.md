@@ -97,7 +97,8 @@ Get rid of the journal as-is
 - Parts of the apartment that aren't along the critical path will have little-to-no splotches
 
 ### Lore
-- Forced to walk in the distressed hallways
+- Forced to walk in the distressed hallways. This way we can make sure we deliver the story
+- 
 
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
