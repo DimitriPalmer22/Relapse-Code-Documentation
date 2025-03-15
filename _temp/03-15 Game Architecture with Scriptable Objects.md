@@ -22,4 +22,9 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 ### Components
 - Break things up into components that do 1 thing and only 1 thing.
 ## Editable (At runtime)
+- Focus on data-driven design.
+- Our game is data. Our systems are machines that process this data.
+- Change the game without changing code.
+- This allows for *emergent design*: Designers can make things without having to ask for a specific feature. We can make new game mechanics we didn't even know existed.
+
 ## Debuggable
