@@ -70,3 +70,6 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Instead of using variables directly in your scripts, use scriptable objects that contain those variables.
 	- For instance, you can have a scriptable object that simply holds a float value. You can then reference that scriptable object in your script. This way, you can change the value in the scriptable object without having to change the script.
 - However, at some point, this can be VERY annoying.
+- This makes it VERY easy to create modular systems that don't rely on hard references. Instead, they can just use the reference to the scriptable object.
+
+## Event Archi
