@@ -48,4 +48,19 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Easy to understand
 - Consistent
 - Easy to plan
-- 
+- Access anything from anywhere
+- But they are not modular
+
+## Why Are They Bad
+- Use rigid connections
+- No polymorphism
+- Not very testable
+- Dependency Nightmare
+- Single Instance!
+
+
+## Solutions
+- How do we reduce the need for global managers?
+- Inversion of control
+	- Dependency injection
+	- Objects are given the things they depend on rather than 
