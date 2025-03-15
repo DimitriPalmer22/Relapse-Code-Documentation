@@ -26,5 +26,9 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Our game is data. Our systems are machines that process this data.
 - Change the game without changing code.
 - This allows for *emergent design*: Designers can make things without having to ask for a specific feature. We can make new game mechanics we didn't even know existed.
+- The more we can change the game at runtime, the more we can fine-tune and experiment with values. If we can save our runtime-state (like how we can with scriptable objects), then great!
 
 ## Debuggable
+- Test any single piece in isolation
+- The more editability we have, the more we can have debug views and features.
+- Never consider some feature done until you have some plan for how you're going to debug it.
