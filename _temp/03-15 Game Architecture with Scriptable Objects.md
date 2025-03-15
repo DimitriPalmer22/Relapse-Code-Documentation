@@ -44,4 +44,8 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 - Enemy Stats
 - Audio collection
 
-# SINGLETONS!!!
+# SINGLETONS!!! (Are bad)
+- Easy to understand
+- Consistent
+- Easy to plan
+- 
