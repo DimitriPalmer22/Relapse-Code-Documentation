@@ -91,7 +91,10 @@ Get rid of the journal as-is
 - The player starts in the vendor room
 - The player CANNOT exit the dealer room because the door is locked. They NEED to get a power to unlock this door. (interacting with the door gives you a tooltip or something)
 - However, the player can still EXPLORE the apartments to keep the space interesting
-- At the end of the critical path, have 
+- At the end of the critical path, have "Nega" Kin visible at the end of the critical path.
+	- Have a light shining on him
+	- Have a SFX accompanying him
+	- For right now, have him poof away and leave behind an explosion VFX
 
 ### Visuals
 - Dense mindbreak splotches along the critical path
