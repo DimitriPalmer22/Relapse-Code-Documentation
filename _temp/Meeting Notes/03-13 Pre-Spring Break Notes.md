@@ -104,7 +104,9 @@ Get rid of the journal as-is
 
 ### Lore
 - Forced to walk in the distressed hallways. This way we can make sure we deliver the story
--
+- We delay the delivery of the dialogue (subtitles) to the player until at least after they buy a power
+	- Have the dialogue in that hallway after they leave the vendor room
+- 
 
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
