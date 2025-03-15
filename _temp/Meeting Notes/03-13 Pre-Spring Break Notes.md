@@ -78,9 +78,11 @@ Get rid of the journal as-is
 - Shotgun blast sfx
 
 # Moving the Apartments
+- THIS DOES NOT APPLY TO ALEX'S FLOOR
 - Remove phone / dealers
 - Since the player can still EXPLORE the apartments, we can keep the level populated with some things to keep the player interested
 - However, the critical pathing of the apartments will be shortened a little
+- Use mindbreak splotches along the main pathway we want the player to follow
 
 - The apartments will no longer be in the order of the game as they currently are
 - Remember, we are moving them to the orb scene before the boss level
