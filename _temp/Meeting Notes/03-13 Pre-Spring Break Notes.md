@@ -114,6 +114,12 @@ Get rid of the journal as-is
 - dealers teach you the story of the world and kind of yourself
 - evil kin dialogue in apartment is more for figuring out who tf evil kin is
 
+## What Are We Doing
+- Moving where the vendor
+- Moving the player's spawn position into the vendor room
+- Lock the vendor's door until after they buy a power
+- Place mindbreak sploc
+
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
 - The vendors are now just "a guy". They have different names
