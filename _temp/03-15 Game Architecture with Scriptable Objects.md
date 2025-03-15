@@ -66,3 +66,6 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 
 # Modular Data
 
+## Scriptable Object Variables
+- Instead of using variables directly in your scripts, use scriptable objects that contain those variables.
+	- For instance, you can have a scriptable object that simply holds a float value. You can then reference that scriptable object in your script. This way, you can change the value in the scriptable object without having to change the script.
