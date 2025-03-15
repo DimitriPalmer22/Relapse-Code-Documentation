@@ -11,6 +11,15 @@ Based on [this video](https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Uni
 ### Scenes as Clean Slates
 - No transient data between scenes
 - Minimize objects that use "Don't destroy on load"
-- This allows for scenes that have unique behavior that is not present in other scebes
+- This allows for scenes that have unique behavior that is not present in other scenes
+- You want prefabs that work on their own. (Don't rely on other prefabs)
+	- Helps with source control in larger teams.
+	- Helps with modularity
+
+> IN SUMMARY
+> Scenes are just a list of prefabs. Prefabs are the individual functionality.
+
+### Components
+- Break things up into components that do 1 thing and only 1 thing.
 ## Editable (At runtime)
 ## Debuggable
