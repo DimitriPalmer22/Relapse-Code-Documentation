@@ -93,3 +93,8 @@ Get rid of the journal as-is
 ### Visuals
 - The apartments will no longer be in the order of the game as they currently are
 - Remember, we are moving them to the orb scene before the boss level
+
+# Vendor Rework
+- Eliminate the idea of "Doctors" and "Dealers".
+- The vendors are now just "a guy"
+- Each dealer will have an increasing selection of powers
