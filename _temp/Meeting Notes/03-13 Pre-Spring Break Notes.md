@@ -94,9 +94,7 @@ Get rid of the journal as-is
 ### Visuals
 - Dense mindbreak splotches along the critical path
 - Mindbreak splotches along the critical path will become more dense for each apartment level. I.E. floor 4 has the least. Floor 2 has the most
-- 
-
-- Remember, we are moving them to the orb scene before the boss level
+- Parts of the apartment that aren't along the critical path will have little-to-no splotches
 
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
