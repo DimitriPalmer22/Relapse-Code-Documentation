@@ -118,7 +118,9 @@ Get rid of the journal as-is
 - Moving where the vendor
 - Moving the player's spawn position into the vendor room
 - Lock the vendor's door until after they buy a power
-- Place mindbreak sploc
+- Place mindbreak splotches along the critical path (After the vendor room)
+- Place Evil Kin at the end of the hallway
+- Place the dialogue in the hallway after the vendor room
 
 # Vendor Rework
 - Eliminate the idea of "Doctors" and "Dealers"
