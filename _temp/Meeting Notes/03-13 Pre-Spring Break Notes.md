@@ -92,7 +92,10 @@ Get rid of the journal as-is
 - However, the player can still EXPLORE the apartments to keep the space interesting
 
 ### Visuals
-- The apartments will no longer be in the order of the game as they currently are
+- Dense mindbreak splotches along the critical path
+- Mindbreak splotches along the critical path will become more dense for each apartment level. I.E. floor 4 has the least. Floor 2 has the most
+- 
+
 - Remember, we are moving them to the orb scene before the boss level
 
 # Vendor Rework
