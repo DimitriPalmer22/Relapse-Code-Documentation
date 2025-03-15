@@ -73,9 +73,9 @@ Get rid of the journal as-is
 - Footsteps
 	- Floor
 	- Wall running
-	- Etc
+	- etc.
 - Slide
-- Shotgun blast sfx
+- Shotgun blast SFX
 
 # Absolutely Changing the Apartments
 - THIS DOES NOT APPLY TO ALEX'S FLOOR since its pretty much in-line with what we want anyway
@@ -86,12 +86,10 @@ Get rid of the journal as-is
 	- Getting Dialogue / Lore
 
 ### Pathing
-
 - The critical pathing of the apartments NEEDS to be shortened a little
 - The player CANNOT exit the dealer room because the door is locked. They NEED to get a power to unlock this door. (interacting with the door gives you a tooltip or something)
 - However, the player can still EXPLORE the apartments to keep the space interesting
 
 ### Visuals
-
 - The apartments will no longer be in the order of the game as they currently are
 - Remember, we are moving them to the orb scene before the boss level
