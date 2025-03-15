@@ -87,10 +87,12 @@ Get rid of the journal as-is
 
 ### Pathing
 - The critical pathing of the apartments NEEDS to be shortened a little.
-	- *Like Deadass turn the path after the vendor room into a hallway*
+	- *Like deadass turn the path after the vendor room into a hallway*
 - The player starts in the vendor room
 - The player CANNOT exit the dealer room because the door is locked. They NEED to get a power to unlock this door. (interacting with the door gives you a tooltip or something)
 - However, the player can still EXPLORE the apartments to keep the space interesting
+- 
+
 - At the end of the critical path, have "Nega" Kin visible at the end of the critical path.
 	- Have a light shining on him
 	- Have a SFX accompanying him
