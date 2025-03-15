@@ -95,6 +95,7 @@ Get rid of the journal as-is
 - Remember, we are moving them to the orb scene before the boss level
 
 # Vendor Rework
-- Eliminate the idea of "Doctors" and "Dealers".
-- The vendors are now just "a guy"
-- Each dealer will have an increasing selection of powers
+- Eliminate the idea of "Doctors" and "Dealers"
+- The vendors are now just "a guy". They have different names
+- Each dealer will have an increasing selection of powers, which allows you to get the powers that you missed before
+- Power tutorials inside the vendor UI so the player knows how the powers work BEFORE they buy it
