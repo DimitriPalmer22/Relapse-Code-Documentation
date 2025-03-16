@@ -46,7 +46,13 @@ However, you can experiment with moving the health & stamina bars to different l
 - You can keep them in the top middle if you want
 - Or you can move them to the top left
 - The top-right is being used for tooltips, so we can't put them there
-- The bottom right *might* 
+- The bottom right *might* be too out of the way
+
+### Shape and Style
+
+When making the bars, try to make the actual image as horizontal as possible, we can rotate them in-engine to get the look you want.
+
+The bars should be simple and clean. We don't want them to be too detailed. They should be 
 
 # HI-FI RUSH
 
