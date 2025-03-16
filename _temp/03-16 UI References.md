@@ -16,6 +16,10 @@ In fact, not every single bar needs to be visible at all times (this can still c
 - The stamina bar only shows up when the stamina is below 100%
 - The toxicity meter only shows up if the players toxicity is above 0
 
+![](<../_META/Attachments/Pasted image 20250316152032.png>)
+
+Also, we need a large comic-y text box asset for the game's longer dialogue. It should roughly be the same size as the image above.
+
 ## What Do We Want?
 
 We want two different types of bars:
