@@ -76,6 +76,9 @@ If you zoom in on the health bar, you can see very subtle dots used to create a 
 
 If the halftone effect is too much, we can ***try*** to replicate this effect using shaders in-engine.
 
-### The Yellow
+### The Yellow Comic Bubble
 
-I'm not sure if we need 
+I'm not sure if we need a bubble like this, but this is a good example of the overall shape of the comic bubbles we want.
+
+Also, they have this halftone shadow behind the bubble. If we want to replicate this, make the shadow a separate asset / image file. This way, w This way, we can easily change the shadow's color in-engine.
+
