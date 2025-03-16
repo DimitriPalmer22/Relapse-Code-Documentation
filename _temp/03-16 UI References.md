@@ -18,7 +18,7 @@ In fact, not every single bar needs to be visible at all times (this can still c
 
 ![](<../_META/Attachments/Pasted image 20250316152032.png>)
 
-Also, we need a large comic-y text box asset for the game's longer dialogue. It should roughly be the same size as the image above.
+Also, we need a large comic-y text box asset for the game's longer dialogue. It should roughly be the same size (in terms of width-to-height ratio) as the image above.
 
 ## What Do We Want?
 
@@ -89,3 +89,8 @@ This is the idea we're going for with the large dialogue text bubble for our gam
 In comparison to the large text bubble we need for our game, this one is a little to small vertically.
 
 For our game, we need a taller textbox to support longer dialogue.
+
+Also, look at the name tag above the textbox. If you want,
+
+- you *could* do something like this so we can show the dealer's name outside of the textbox. This would require you to make a whole new asset though
+- OR, you could make the dialogue box tall enough to put the name of the dealer inside the textbox. This would probably be easier for you to do.
