@@ -8,7 +8,7 @@ Right now, we have 3 bars that need to be redone:
 - Stamina bar (Below the health bar)
 - Toxicity meter (Bottom left)
 
-As far as I know, our in-game UI is still supposed to be somewhat minimal.
+As far as I know, our in-game UI is still supposed to be somewhat minimal. The UI isn't supposed to take up too much space on the screen.
 
 In fact, not every single bar needs to be visible at all times (this can still change, though). For example:
 
@@ -18,11 +18,14 @@ In fact, not every single bar needs to be visible at all times (this can still c
 
 ### What Do We Want?
 
+We want two different types of bars:
 
+- The health bar (a unique and identifiable bar)
+- A general bar (for stamina and toxicity)
 
 # HI-FI RUSH
 
-![](<../_META/Attachments/Pasted image 20250316144542.png>)
+![HI-FI Rush Screenshot](<../_META/Attachments/Pasted image 20250316144542.png>)
 <https://www.youtube.com/watch?v=pVtx3C5sb1o&ab_channel=GameRiot>
 
 Try to watch the video in the highest resolution possible because YouTube's compression makes it really hard to see the halftones on some parts of the UI.
