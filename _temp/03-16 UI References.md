@@ -1,5 +1,23 @@
 # What UI Does Our Game Need Right Now?
 
+![](<../_META/Attachments/Pasted image 20250316150025.png>)
+
+Right now, we have 3 bars that need to be redone:
+
+- Health bar (Top middle)
+- Stamina bar (Below the health bar)
+- Toxicity meter (Bottom left)
+
+As far as I know, our in-game UI is still supposed to be somewhat minimal.
+
+In fact, not 
+
+### The Health Bar
+
+### The Stamina Bar
+
+### The Toxicity Meter
+
 # HI-FI RUSH
 
 ![](<../_META/Attachments/Pasted image 20250316144542.png>)
