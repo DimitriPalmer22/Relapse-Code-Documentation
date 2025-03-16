@@ -35,9 +35,9 @@ We want two different types of bars:
 
 ### Colors
 
-Each bar is going to be 1 color. However, a gradient from black to that color is fine.
+***You don't need to color the bars in yourself. We can tint them in-engine. In fact, we'd prefer if you sent us the bars in black-and-white / greyscale so its easier to tint in-engine.***
 
-You don't need to color the bars in yourself. We can tint them in-engine. In fact, we'd prefer if you sent us the bars in greyscale so its easier to tint in-engine.
+Each bar is going to be 1 color. However, a gradient from black to that color is fine.
 
 > If you want to put a gradient on the bar, then you can use a gradient from black to white when making the asset. In-engine, we can then tint the bar from black to the color of the bar.
 
@@ -77,3 +77,5 @@ If you zoom in on the health bar, you can see very subtle dots used to create a 
 If the halftone effect is too much, we can ***try*** to replicate this effect using shaders in-engine.
 
 ### The Yellow
+
+I'm not sure if we need 
