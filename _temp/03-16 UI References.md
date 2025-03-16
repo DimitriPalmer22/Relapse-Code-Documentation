@@ -33,9 +33,20 @@ We want two different types of bars:
 
 Each bar is going to be 1 color. However, a gradient from black to that color is fine.
 
-You don't need to color the bars in yourself. We can tint them in-engine. In fact, we'd prefer if you sent us the bars in black and white so its easier to tint in-engine.
+You don't need to color the bars in yourself. We can tint them in-engine. In fact, we'd prefer if you sent us the bars in greyscale so its easier to tint in-engine.
 
 > If you want to put a gradient on the bar, then you can use a gradient from black to white when making the asset. In-engine, we can then tint the bar from black to the color of the bar.
+
+### Placement
+
+The toxicity meter is going to remain in the same spot.
+
+However, you can experiment with moving the health & stamina bars to different locations on the screen.
+
+- You can keep them in the top middle if you want
+- Or you can move them to the top left
+- The top-right is being used for tooltips, so we can't put them there
+- The bottom right *might* 
 
 # HI-FI RUSH
 
