@@ -80,5 +80,12 @@ If the halftone effect is too much, we can ***try*** to replicate this effect us
 
 I'm not sure if we need a bubble like this, but this is a good example of the overall shape of the comic bubbles we want.
 
-Also, they have this halftone shadow behind the bubble. If we want to replicate this, make the shadow a separate asset / image file. This way, w This way, we can easily change the shadow's color in-engine.
+Also, they have this halftone shadow behind the bubble. If we want to replicate this, make the shadow a separate asset / image file. This way, we can move / scale it in-engine. Also, make the shadow asset white. This way, we can easily change the shadow's color (or just change it to black) in-engine.
 
+### The White Bubble At the Bottom
+
+This is the idea we're going for with the large dialogue text bubble for our game.
+
+In comparison to the large text bubble we need for our game, this one is a little to small vertically.
+
+For our game, we need a taller textbox to support longer dialogue.
