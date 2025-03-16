@@ -10,13 +10,15 @@ Right now, we have 3 bars that need to be redone:
 
 As far as I know, our in-game UI is still supposed to be somewhat minimal.
 
-In fact, not 
+In fact, not every single bar needs to be visible at all times (this can still change, though). For example:
 
-### The Health Bar
+- The health bar only shows up when the player's health is below 100%
+- The stamina bar only shows up when the stamina is below 100%
+- The toxicity meter only shows up if the players toxicity is above 0
 
-### The Stamina Bar
+### What Do We Want?
 
-### The Toxicity Meter
+
 
 # HI-FI RUSH
 
