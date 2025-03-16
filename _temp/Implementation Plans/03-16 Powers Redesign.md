@@ -4,4 +4,4 @@
 
 # Power UI
 - Field: List for the currently equipped powers
-- Field: The currently equipped power
+- Field: Int for currently equipped power index
