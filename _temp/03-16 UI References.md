@@ -21,8 +21,17 @@ In fact, not every single bar needs to be visible at all times (this can still c
 We want two different types of bars:
 
 - The health bar (a unique and identifiable bar)
-	- Since we're still trying to go for a
+	- Since we're still trying to go for a minimal look, we don't want the health bar to be *too* detailed
+	- The bars fade in and out, so it'd seem a little strange to have this crazy detailed health bar pop up out of nowhere
 - A general bar (for stamina and toxicity)
+	- These should be simpler and more generic than the health bar
+	- This way, we can slap them on the screen without them looking out of place
+
+## How Do We want Them?
+
+### Colors
+
+You don't need to color the bars in yourself. We can tint them in-engine.
 
 # HI-FI RUSH
 
@@ -40,4 +49,4 @@ Try not to replicate the overall shape / angle / placement of the health bar. In
 
 If you zoom in on the health bar, you can see very subtle dots used to create a halftone effect.
 
-### The yellow
+### The Yellow
