@@ -31,7 +31,11 @@ We want two different types of bars:
 
 ### Colors
 
-You don't need to color the bars in yourself. We can tint them in-engine.
+Each bar is going to be 1 color. However, a gradient from black to that color is fine.
+
+You don't need to color the bars in yourself. We can tint them in-engine. In fact, we'd prefer if you sent us the bars in black and white so its easier to tint in-engine.
+
+> If you want to put a gradient on the bar, then you can use a gradient from black to white when making the asset. In-engine, we can then tint the bar from black to the color of the bar.
 
 # HI-FI RUSH
 
