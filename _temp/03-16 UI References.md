@@ -52,7 +52,7 @@ However, you can experiment with moving the health & stamina bars to different l
 
 When making the bars, try to make the actual image as horizontal as possible, we can rotate them in-engine to get the look you want.
 
-The bars should be simple and clean. We don't want them to be too detailed. They should be 
+The bars should be simple and clean. We don't want them to be too detailed. They should be very easy to read at a glance considering the player needs to be able to see them while in combat / moving around the level.
 
 # HI-FI RUSH
 
@@ -66,8 +66,10 @@ The bars should be simple and clean. We don't want them to be too detailed. They
 Try not to replicate the overall shape / angle / placement of the health bar. Instead, focus on the details.
 
 - Their health bar is too jagged
-- The angle is tilted upward, which we don't really want for our game (at least I don't think we do)
+- The angle is tilted upward. This works for them since their UI is in the top corner of the screen.
 
 If you zoom in on the health bar, you can see very subtle dots used to create a halftone effect.
+
+If the halftone effect is too much, we can ***try*** to replicate this effect using shaders in-engine.
 
 ### The Yellow
