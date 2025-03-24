@@ -6,8 +6,11 @@
 
 # BAKING
 - [x] Movement1
-- [ ] Combat1
-- [ ] Movement2
-- [ ] Combat2
+- [ ] Combat1 - ANDRE
+- [ ] Movement2 - MIKEL
+- [ ] Combat2 - DIMITRI
+
+NOT READY
+
 - [ ] Movement3
 - [ ] Combat3
