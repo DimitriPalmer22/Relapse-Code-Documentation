@@ -10,7 +10,6 @@
 - [ ] Movement2 - MIKEL
 - [ ] Combat2 - DIMITRI
 
-NOT READY
-
+### Scenes NOT READY
 - [ ] Movement3
 - [ ] Combat3
