@@ -5,6 +5,11 @@
 - [ ] Make sure each of the powers has some type of noise (like an explosion sound or something)
 
 # BAKING
+
+Use the "Low res lighting test settings". pls don't change the settings. If you want to change the lighting settings, clone the settings and edit those.
+
+Turn off any big ass planes before baking. These planes mess up bake times & bake a lot of unnecessary info.
+
 - [x] Movement1
 - [ ] Combat1 - ANDRE
 - [ ] Movement2 - MIKEL
