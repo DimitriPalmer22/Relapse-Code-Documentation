@@ -3,3 +3,10 @@
 - [ ] Replace bad player sfx
 - [ ] Replace bad enemy groin noise
 - [ ] Make sure each of the powers has some type of noise (like an explosion sound or something)
+
+# BAKING
+- [ ] Movement1
+- [ ] Combat1
+- [ ] Movement2
+- [ ] Combat2
+- [ ] 
