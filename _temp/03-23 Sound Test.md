@@ -5,8 +5,9 @@
 - [ ] Make sure each of the powers has some type of noise (like an explosion sound or something)
 
 # BAKING
-- [ ] Movement1
+- [x] Movement1
 - [ ] Combat1
 - [ ] Movement2
 - [ ] Combat2
-- [ ] 
+- [ ] Movement3
+- [ ] Combat3
