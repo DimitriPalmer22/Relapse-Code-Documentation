@@ -9,4 +9,4 @@ Narrative got reworked.
 - Construction areas:
 	- Graffiti to show the rebel side of the game
 - City Areas
-	- Billboards w/ Izer ads on em
+	- Billboards w/ Izer ads on em. We'll put these on the sides of the buildings
