@@ -6,4 +6,7 @@ Narrative got reworked.
 - d
 
 ### Worldbuilding
-- Graffiti to show 
+- Construction areas:
+	- Graffiti to show the rebel side of the game
+- City Areas
+	- Billboards w/ Izer ads on em
