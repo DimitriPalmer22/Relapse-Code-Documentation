@@ -6,4 +6,4 @@ Narrative got reworked.
 - d
 
 ### Worldbuilding
-- Graffiti
+- Graffiti to show 
