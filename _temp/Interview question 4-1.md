@@ -20,15 +20,15 @@
 	- Size (number of employees?) (number of people on the local team?) (number of people you have direct contact with)
 	- How long the company's been around?
 	- Larger studios kinda let u do ur own thing and expect u to know what ur doing
-- ^When environment would u be ideally productive in?
+- ^What environment would u be ideally productive in?
 - provide specific things
 	- Think about the things i've worked on and what i liked/disliked about em
 - Disclosure questions 
-- - "Getting to know you"
-	- Human that is knowable and personable
+- "Getting to know you"
+	- let them know that you are a human that is knowable and personable
 	- Its ok to have work and life be separate things
 	- Don't disclose things that u don't want to mix with work
-	- Am i weird
+	- Am i weird?
 		- Is it polarizing
 		- Would i talk about this in a room full of employers?
 	- I do this and enjoy this aspect of this
