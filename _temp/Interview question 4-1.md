@@ -1,8 +1,8 @@
-- They're not testing your recall. They're testing your ability to grow from reflection
+- When people ask you these types of questions, they're not testing your recall. They're testing your ability to grow from reflection
 - Describe abstractly the nature of things
-- - We tend to focus on the negative
-    - State the negative abstractly. Don't just complain. State how you overcame the thing
-    - If you talk about your past things so negatively, then they'll be lkke "this guy will say rhe same thing about us"
+- When we reflect on our past work, we tend to focus on the negative
+    - State the negative abstractly. Don't just complain. State how you overcame the thing that was bad
+    - If you talk about your past things so negatively, then they'll be like "this guy will say the same thing about us when he eventually leaves our company"
 - What should your manager know about u to motivate you to get the best version of you at work.
 - - Don't say money
     - At least know the ways u need help
