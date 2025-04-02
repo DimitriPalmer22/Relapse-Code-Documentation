@@ -59,7 +59,7 @@
 	- Are you NORMAL? 
 		- Can we abuse you?
 		- How many hours do you typically ask of people in this position?
-	- How often do tou expect to be promoted or given a raise
+	- How often do you expect to be promoted or given a raise
 	- U should prolly change companies every 3 years. You are more valuable to another company than your own
 		- Are invested in staying
 		- Are u ok with staying a grunt
