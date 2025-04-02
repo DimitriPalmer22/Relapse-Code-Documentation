@@ -50,13 +50,12 @@
 		- Think about the worst-case interpretation of your response
 		- Don't just think about the outcome of working on a project. Outcomes are a crapshoot
 		- U enjoy the process of game dev. I enjoy developing x for myself. The process is satisfying in its own right.
-- Red flag questions that put u at a point of concern
+- Red flag questions that put u at a point of concern:
 - Can u work overtime or weekends
 	- Are you flexible 
 		- Are you exploitable![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)
 		- How often do u guys ask ppl to work overtime? What is the company doing to avoid having to work overtime? What is the compensation for doing this?
-	- Salary or hourly?
-	- How many hours abweek are u willing to commit to the project 
+	- How many hours a week are u willing to commit to the project 
 	- Are you NORMAL? 
 		- Can we abuse you?
 		- How many hours do you typically ask of people in this position?
