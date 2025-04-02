@@ -1,0 +1,68 @@
+- They're not testing your recall. They're testing your ability to grow from reflection
+- Describe abstractly the nature of things
+- - We tend to focus on the negative
+    - State the negative abstractly. Don't just complain. State how you overcame the thing
+    - If you talk about your past things so negatively, then they'll be lkke "this guy will say rhe same thing about us"
+- What should your manager know about u to motivate you to get the best version of you at work.
+- - Don't say money
+    - At least know the ways u need help
+    - Idk say gold plating
+- Why were you frustrated
+- - Context of employment space
+    - Context of ppl in the space
+    - Context of the project ur working on
+    - Context of ur own expectations
+- What will i do in the future to fix that
+- What kinda studio u wanna work for
+- - Culture
+    - Type of work
+    - Promotion policies and vertical movement
+    - Size (number of employees?) (number of people on the local team?) (number of people you have direct contact with)
+    - How long the company's been around?
+    - Larger studios kinda let u do ur own thing and expect u to know what ur doing
+- ^When environment would u be ideally productive in?
+- - provide specific things
+    - Think about the things i've worked on and what i liked/disliked about em
+- Disclosure questions 
+- - "Getting to know you"
+    - Human that is knowable and personable
+    - Its ok to have work and life be separate things
+    - Don't disclose things that u don't want to mix with work
+    - - Am i weird
+        - Is it polarizing
+        - Would i talk about this in a room full of employers?
+    - I do this and enjoy this aspect of this
+    - Don't nerd out. PLEASE
+    - Might have meetings on Zoom
+    - - Read the room literally
+        - If their bg is a little empty, they wanna separate work and outside of work
+        - Don't look at their BG and be like "oh u have that? I have that too!"
+    - Interests should reflect you being better as a person
+    - "What games do you play for fun?"
+    - - Don't say the one they make. They need someone who is objective
+        - "I dont play games." bruh. If ur gonna say this, at least state how you're keeping current 
+        - Dont say nothing weird. If they ask about a popular game, u should know about it
+    - "Tell me about yourself" this is an evil question
+    - - Blank canvas syndrome or whatever
+        - Reply with "is there something specific u want me to talk about"
+    - "Why did u choose to work in games as opposed to any other industry"
+    - - Don't say anything that makes is sound like you'll only work on x project if u aren't doing y
+        - Think about the worst-case interpretation of your response
+        - Don't just think about the outcome of working on a project. Outcomes are a crapshoot
+        - - U enjoy the process of game dev. I enjoy developing x for myself. The process is satisfying in its own right.
+- Red flag questions that put u at a point of concern
+- - Can u work overtime or weekends
+    - - Are you flexible 
+        - Are you exploitable![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)![👀](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f440/32.png)
+        - How often do u guys ask ppl to work overtime? What is the company doing to avoid having to work overtime? What is the compensation for doing this?
+    - Salary or hourly?
+    - How many hours abweek are u willing to commit to the project 
+    - - Are you NORMAL? 
+        - Can we abuse you?
+        - How many hours do you typically ask of people in this position?
+    - How often do tou expect to be promoted or given a raise
+    - - U should prolly change companies every 3 years. You are more valuable to another company than your own
+        - Are invested in staying
+        - Are u ok with staying a grunt
+        - How often am i evaluated? Are there protections in place to guarantee that type of thing? What are the stages of progression
+        - I should be Reviewed by my lead every 6 months to a year
