@@ -19,7 +19,7 @@
 
 ### Combat1
 - Remove static enemies inside the warehouse. It's confusing to have 12 enemies in front of you and the UI says "8 enemies remaining"
-- The rooftop combat after the warehouse took WAYYY too long. 
+- The rooftop combat after the warehouse took WAYYY too long.
 	- A continuous spawner does not work here. Especially if the spawn points are spread all across the multiple buildings. The player frequently has to run back and forth between the rooftops to find enemies.
 	- Those small rooftops at the far left and far right sides of the area should not have melee enemies on them. Since there is a rooftop right before them, the player can just stand on the other rooftop and shoot the melee enemies with absolutely no threat.
 - Change the spawners to use the wave spawner script instead of continuous
@@ -27,17 +27,18 @@
 - fix the respawn points (the ones for when you fall off the level)
 ### Movement2
 
-- We still need to change the direction of the wall climbs so that the player does not need to wind around the wall OR
+- We still need to change the direction of the wall climbs so that the player does not need to wind around the wall OR make the spaces before the wall climbs more open so that its easier for the player to get a running start.
 - Z fighting on one of the roofs
-- The transition to the cinematic is a bit abrupt. If it's gonna be immediate, at least make the camera transition.
+- The transition to the cinematic is a bit abrupt. If it's gonna be immediate, at least make the camera transition smoothly
 
 ### Aiden Mindbreak
 
-- Move the trigger colliders back so the player can complete the level in rhythm
+- Move the trigger colliders back so the player can complete the level without having to stop as they wait for the animation to play. Having to wait completely stops the flow of the game.
 
 ### Movement3
 
-- We could have a flashing light for some things to draw attention to where the 
+- A real problem we have is that the crane moves the shipping containers to areas offscreen. As a result, the player does not know where to go sometimes. 
+- We could have a flashing light for some things to draw attention to where the cranes move to.
 
 - The space isnt engaging enough rn
 - Add some interactable elements
