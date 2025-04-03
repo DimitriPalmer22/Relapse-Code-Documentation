@@ -1,5 +1,3 @@
-# 04-03 Shbeeb Playtesting Notes
-
 ### General Notes
 
 - Scale audio logarithmically
@@ -49,13 +47,13 @@
 	- The vendor scene: a mindbreak area that has JUST the vendor in it. From here, the player can exit the mindbreak area and go to the horde mode area
 	- Combat scene 1: A combat area that 1 level designer works on.
 	- Combat scene 2: A different variation of the combat area that a different level designer works on.
-	- (I)
-- So basically, 
-	- the player spawns in the vendor scene, chooses a power, and exits. 
-	- They are placed into combat scene 1. 
-	- They fight like 5 waves of enemies. 
-	- Then, they are teleported back to the vendor scene to get another power. 
+	- (Its lowkey better to do it like this so we can very easily reset the levels to restore any interactable objects)
+- So basically,
+	- the player spawns in the vendor scene, chooses a power, and exits.
+	- They are placed into combat scene 1.
+	- They fight like 5 waves of enemies.
+	- Then, they are teleported back to the vendor scene to get another power.
 	- The game gets harder. The player exits the vendor scene
-	- This time, they are placed into combat scene 2. 
+	- This time, they are placed into combat scene 2.
 	- They do the same thing: fight 5 waves, get teleported back to the vendor scene, get a new power, and then go back to combat scene 1.
-	- Repeat this cycle till they get tired of playing
+	- Repeat this cycle till they get tired of playing or die.
