@@ -18,8 +18,10 @@
 - Buff the explosive mine power
 
 ### Combat1
-- Remove static enemies inside the warehouse. It's confusing to have 12 enemies in front of you a
-- Combat after the warehouse took WAYYY too long
+- Remove static enemies inside the warehouse. It's confusing to have 12 enemies in front of you and the UI says "8 enemies remaining"
+- The rooftop combat after the warehouse took WAYYY too long. 
+	- A continuous spawner does not work here. Especially if the spawn points are spread all across the multiple buildings. The player frequently has to run back and
+	- 
 - Change the spawners to use the wave spawner instead of continuous
 - Change the name of the "elevator keycards"
 - fix the respawn points (the ones for when you fall off the level)
