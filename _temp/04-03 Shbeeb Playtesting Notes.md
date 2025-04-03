@@ -8,18 +8,18 @@
 	- Disorienting at close quarters 
 - Bad framerate in combat1, floor2: solution -> bake lights
 - Fix the shader that's around the arenas. You can still see it even when the walls aren't up
-- Death bug (might be tied to the satellite dishes possibly not being configured)
-- Make sure there are invisible walls
+- Death bug (might be tied to the satellite dishes possibly not being configured correctly)
+- Make sure there are invisible walls for parts of the level where you don't want the player to go / climb
 
-- Less visibility in the distance for the cities
-- For UI, the bright thing should be the one thats highlighted
-- Make the tutorials better by making them seem more like a real space.
-- Get proper framerate and lighting before we can rly get solid feedback on combat. 
-- Buff the mine
+- There should be less visibility in the distance for the cities
+- For UI, the bright thing should be the element that's highlighted
+- Make the tutorials better by making them seem more like a real space. Maybe add buildings in the background or something
+- We need to get proper framerate, lighting, enemy placement, and enemy behavior before we can rly get solid feedback on combat. 
+- Buff the explosive mine power
 
 ### Combat1
+- Remove static enemies inside the warehouse. It's confusing to have 12 enemies in front of you a
 - Combat after the warehouse took WAYYY too long
-- Remove static enemies.
 - Change the spawners to use the wave spawner instead of continuous
 - Change the name of the "elevator keycards"
 - fix the respawn points (the ones for when you fall off the level)
