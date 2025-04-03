@@ -37,10 +37,12 @@
 
 ### Movement3
 
-- A real problem we have is that the crane moves the shipping containers to areas offscreen. As a result, the player does not know where to go sometimes. 
-- We could have a flashing light for some things to draw attention to where the cranes move to.
+- A real problem we have is that the crane moves the shipping containers to areas offscreen. As a result, the player does not know where to go sometimes.
+	- We could have a flashing light for some things to draw attention to where the cranes moved to. Or even on the crane itself.
 
-- The space isnt engaging enough rn
-- Add some interactable elements
-- Our game has multiple mechanics and stuff, we can play into that a little more in the combat areas so that its not just run and shoot
-- Elevation utility
+### The Horde Mode Level
+- The space itself isn't engaging enough rn
+	- Add some interactable elements
+	- Our game has multiple mechanics (wall running / sliding / etc.), we can play into that a little more in the combat areas so that its not just run and shoot
+- We could use elevation as utility for the player
+- 
