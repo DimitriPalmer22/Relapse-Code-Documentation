@@ -45,4 +45,8 @@
 	- Add some interactable elements
 	- Our game has multiple mechanics (wall running / sliding / etc.), we can play into that a little more in the combat areas so that its not just run and shoot
 - We could use elevation as utility for the player
+- Idea, we could have the horde mode be 3 separate scenes:
+	- The vendor scene: a mindbreak area that has JUST the vendor in it. From here, the player can exit the mindbreak area and go to the horde mode area
+	- Combat scene 1: A combat area that 1 level designer works on.
+	- Combat scene 2: A different variation of the combat area that a different level designer works on.
 - 
