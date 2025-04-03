@@ -20,14 +20,14 @@
 ### Combat1
 - Remove static enemies inside the warehouse. It's confusing to have 12 enemies in front of you and the UI says "8 enemies remaining"
 - The rooftop combat after the warehouse took WAYYY too long. 
-	- A continuous spawner does not work here. Especially if the spawn points are spread all across the multiple buildings. The player frequently has to run back and
-	- 
-- Change the spawners to use the wave spawner instead of continuous
+	- A continuous spawner does not work here. Especially if the spawn points are spread all across the multiple buildings. The player frequently has to run back and forth between the rooftops to find enemies.
+	- Those small rooftops at the far left and far right sides of the area should not have melee enemies on them. Since there is a rooftop right before them, the player can just stand on the other rooftop and shoot the melee enemies with absolutely no threat.
+- Change the spawners to use the wave spawner script instead of continuous
 - Change the name of the "elevator keycards"
 - fix the respawn points (the ones for when you fall off the level)
 ### Movement2
 
-- We still need to chate the direction of the wall climbs. No winding around the corner
+- We still need to change the direction of the wall climbs so that the player does not need to wind around the wall OR
 - Z fighting on one of the roofs
 - The transition to the cinematic is a bit abrupt. If it's gonna be immediate, at least make the camera transition.
 
