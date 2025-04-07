@@ -23,3 +23,4 @@
 
 - Sliding under the beams felt repetitive. It was the same slide every time.
 	- To break up the repetitive feeling, incorporate the sliding with other mechanics.
+	- idk a wall-run or something going into the slide could feel cool. Wall-run -> slide -> wall-run again
