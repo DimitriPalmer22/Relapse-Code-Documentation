@@ -13,6 +13,7 @@
 	- You can keep the barrels idea, but you should implement it in a different way where the player has to use the movement mechanics to get past it
 	- making the player slide or wall run while dodging the barrels would make it feel more engaging
 	- If the barrels are meant to be avoided, then we should probably remove the fact that they can be shot and destroyed
+		- Alex had an idea of making the section 3 barrels wide. 2 of them would be indestructible and 1 would be explosive. This way, the section remains engaging and the player is still forced to move.
 	- NOTE: later, we'll remove the fact that shooting stops the player from sprinting from *this mode specifically* so it feels better
 
 - The sliding section (at about 0:22) seems awkward because the slide mechanic doesn't have enough control to facilitate the way you implemented sliding in your level.
