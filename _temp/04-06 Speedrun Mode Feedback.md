@@ -1,11 +1,15 @@
-- Billboards too big, so it results in too much time in the player running on the walls. 
+- Billboards too big, so it results in too much time in the player running on the walls.
 	- We want the speedrunning mode to have a little more skill expression from the player, so having *shorter* sections where the player is just running is optimal.
+
 - As of right now, dashing into walls feels and looks a little awkward, so we should move away from that being mandatory to get past a certain section.
 	- Dashing over open gaps is cool tho.
-- Reduce the time overall where the player spends running with their boots on the ground. 
-- The barrel idea is cool, but doing it while running uphill is not challenging and slows down the player too much. 
-	- You can keep the barrels idea, but you should implement it in a different way where the player has to use the movement mechanics to get past it 
+
+- Reduce the time overall where the player spends running with their boots on the ground.
+
+- The barrel idea is cool, but doing it while running uphill is not challenging and slows down the player too much.
+	- You can keep the barrels idea, but you should implement it in a different way where the player has to use the movement mechanics to get past it
 	- making the player slide or wall run while dodging the barrels would make it feel more engaging
+
 - The sliding section (at about 0:22) seems awkward because the slide mechanic doesn't have enough control to facilitate the way you implemented sliding in your level.
-	- Sliding overall is fine, but really steep slides probably are not the move. 
-	- Also, slides shouln
+	- Sliding overall is fine, but really steep slides probably are not the move. These are near-vertical, so these would be considered too steep.
+	- Slopes that are intentionally placed should be used to boost the player's speed, but they shouldn't be too steep or too long (they also shouldn't be too shallow).
