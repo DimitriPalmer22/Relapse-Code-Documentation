@@ -1,7 +1,7 @@
-- Billboards too big, so it results in too much time in the player running on the walls. 
+- Billboards too big, so it results in too much time in the player running on the walls.
 	- We want the speedrunning mode to have a little more skill expression from the player, so having *shorter* sections where the player is just running is optimal.
 	- The pacing of wall-running portions here should feel similar to the wall running at the end of Mikel's Movement1.
-	- So, 
+		- Ideally, we want to increase the number of inputs the player is doing per second just so this area feels a little more engaging.
 	- Also, the big billboards looks unnatural. The default billboard size should be fine
 
 - As of right now, dashing into walls feels and looks a little awkward, so we should move away from that being mandatory to get past a certain section.
@@ -18,4 +18,4 @@
 	- Slopes that are intentionally placed should be used to boost the player's speed, but they shouldn't be too steep or too long (they also shouldn't be too shallow).
 	- If we're using the slopes to intentionally boost the player's speed, then there should be a jump immediately following it that requires the boost in speed.
 
-
+- One thing  
