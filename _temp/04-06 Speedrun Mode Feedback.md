@@ -13,3 +13,6 @@
 - The sliding section (at about 0:22) seems awkward because the slide mechanic doesn't have enough control to facilitate the way you implemented sliding in your level.
 	- Sliding overall is fine, but really steep slides probably are not the move. These are near-vertical, so these would be considered too steep.
 	- Slopes that are intentionally placed should be used to boost the player's speed, but they shouldn't be too steep or too long (they also shouldn't be too shallow).
+	- If we're using the slopes to intentionally boost the player's speed, then there should be a jump immediately following it that requires the boost in speed.
+
+- The pacing of wall-running portions here should feel similar to the wall running at the end of Mikel's Movement1	  
