@@ -1,2 +1,4 @@
-- Billboards too big, so it results in too much time in the player w
-- 
+- Billboards too big, so it results in too much time in the player running on the walls. 
+	- We want the speedrunning mode to have a little more skill expression from the player, so having *shorter* sections where the player is just running is optimal.
+- As of right now, dashing into walls feels and looks a little awkward, so we should move away from that being mandatory to get past a certain section.
+	- Dashing over open ga
