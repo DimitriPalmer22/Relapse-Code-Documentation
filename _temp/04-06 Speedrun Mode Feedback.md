@@ -21,6 +21,6 @@
 - One thing we noticed was that (we think) at 0:50 there was a platform that was angled upward. So, when you slid while landing on the platform, the player's momentum died more than we wanted it to.
 	- Try not to have platforms angled upward on sections where you are trying to preserve the player's momentum.
 
-- Sliding under the beams felt repetitive. It was the same slide every time.
+- Sliding under the beams felt repetitive. It felt like the same slide every time.
 	- To break up the repetitive feeling, incorporate the sliding with other mechanics.
 	- idk a wall-run or something going into the slide could feel cool. Wall-run -> slide -> wall-run again
