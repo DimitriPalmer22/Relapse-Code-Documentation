@@ -18,4 +18,5 @@
 	- Slopes that are intentionally placed should be used to boost the player's speed, but they shouldn't be too steep or too long (they also shouldn't be too shallow).
 	- If we're using the slopes to intentionally boost the player's speed, then there should be a jump immediately following it that requires the boost in speed.
 
-- One thing  
+- One thing we noticed was that (we think) at 0:50 there was a platform that was angled upward. So, when you slid while landing on the platform, the player's momentum died more than we wanted it to.
+	- Try not to have platforms angled upward on sections where you are trying to preserve the player's momentum.
