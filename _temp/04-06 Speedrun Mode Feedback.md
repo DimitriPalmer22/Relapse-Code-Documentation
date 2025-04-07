@@ -12,6 +12,7 @@
 - The barrel idea is cool, but doing it while running uphill is not challenging and slows down the player too much.
 	- You can keep the barrels idea, but you should implement it in a different way where the player has to use the movement mechanics to get past it
 	- making the player slide or wall run while dodging the barrels would make it feel more engaging
+	- 
 
 - The sliding section (at about 0:22) seems awkward because the slide mechanic doesn't have enough control to facilitate the way you implemented sliding in your level.
 	- Sliding overall is fine, but really steep slides probably are not the move. These are near-vertical, so these would be considered too steep.
