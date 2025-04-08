@@ -1,0 +1,1 @@
+Okay, so the graffiti in our game is primarily used to 
