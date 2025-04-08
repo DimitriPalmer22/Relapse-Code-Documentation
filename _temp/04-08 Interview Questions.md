@@ -14,6 +14,9 @@ I see this job as an opportunity to work with an innovative team while both grow
 > These questions are operating under the expectation that you will take the job if offered OR that you are presuming they will offer the job because they asked for an interview. The key to these is to understand you BATNA (Best Alternative To Negotiated Agreement) and your personal goals both professionally and personally.  
 
 - How much money are you expecting to make in this position? 
+I'm interested in discussing the full range of benefits and opportunities this role offers. In addition to the base salary, I value professional growth, work-life balance, and performance incentives. Could you maybe share a bit more information your benefits package and how your company supports its t
+
+
 - Are you able or willing to work remote? 
 - What do you think this job looks like on a day-to-day basis? 
 - Do you have any questions for us? 
