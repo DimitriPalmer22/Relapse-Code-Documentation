@@ -4,7 +4,7 @@
 
 - Why are you applying?
 - Why do you want to work for us?
-I see this job as an opportunity to work with an innovative team while both growing personally and professionally in a field am 
+I see this job as an opportunity to work with an innovative team while both growing personally and professionally in a field I'm passionate about.
 
 - Why this kind of work?
 - How did you hear about us? 
