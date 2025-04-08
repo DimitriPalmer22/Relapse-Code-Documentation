@@ -7,6 +7,8 @@ Okay, so the graffiti in our game is primarily used to decorate the levels and b
 
 *This is most likely what we're gonna use your graffiti for*
 
+
+
 ### Gameplay
 
 In other areas, we also use the graffiti to indicate that the player can wall-run on that specific surface.
@@ -17,3 +19,7 @@ In other areas, we also use the graffiti to indicate that the player can wall-ru
 ### Lore
 
 We also really wanna use the graffiti as a form of story-telling in the game (im ngl the story conveyance is in a rough spot rn). We wanna use our 2D artist for this, but she's kinda busy doing marketing materials rn
+
+I
+
+*we don't have any screenshots for anything like this rn :(*
