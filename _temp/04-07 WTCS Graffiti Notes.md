@@ -1,4 +1,6 @@
 
+> Note: If you wanna put your initials on the piece of graffiti, you can. Our artist did that for her pieces in a way that doesn't stick out too much.
+
 # The Use of the Graffiti
 
 ### Decal Decoration
