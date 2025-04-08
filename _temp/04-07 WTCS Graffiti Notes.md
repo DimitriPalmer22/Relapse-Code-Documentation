@@ -7,6 +7,9 @@ Okay, so the graffiti in our game is primarily used to decorate the levels and b
 
 *This is most likely what we're gonna use your graffiti for*
 
+![](<../_META/Attachments/Pasted image 20250407203643.png>)
+We have a whole bunch of empty walls in-game that we can fill with graffiti
+
 ### Gameplay
 
 In other areas, we also use the graffiti to indicate that the player can wall-run on that specific surface.
