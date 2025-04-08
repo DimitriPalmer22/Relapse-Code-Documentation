@@ -1,15 +1,18 @@
 
 # The Use of the Graffiti
 
-### Decoration
+### Decal Decoration
 
-Okay, so the graffiti in our game is primarily used to decorate the levels and break up the "sameyness" of the levels.
+Okay, so the graffiti in our game is primarily used to decorate the levels and break up the "sameyness" of the levels. This helps since almost every wall is the same texture.
 
 *This is most likely what we're gonna use your graffiti for*
 
 ![](<../_META/Attachments/Pasted image 20250407203643.png>)
 We have a whole bunch of empty walls in-game that we can fill with graffiti
 
+![](<../_META/Attachments/Pasted image 20250407204134.png>)
+![](<../_META/Attachments/relapse.png>)
+(They said the thing!)
 ### Gameplay
 
 In other areas, we also use the graffiti to indicate that the player can wall-run on that specific surface.
