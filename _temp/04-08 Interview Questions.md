@@ -22,7 +22,9 @@ Yes, I am completely willing to work remote and have done so before for other pr
 - What do you think this job looks like on a day-to-day basis? 
 - Do you have any questions for us? 
 - Why should we hire you? 
-I believe you should hire me because I br
+I believe you should hire me because I bring a mix of a commitment to growth, and a passion for creating memorable game experiences. I understand that there's always room for improvement, and I'm eager to work alongside experienced colleagues who can help me refine my skills. 
+
+Also, My communication skills allow me to inte
 
 #### **Qualifications**
 
