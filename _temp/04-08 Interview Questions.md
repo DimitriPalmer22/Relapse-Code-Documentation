@@ -16,8 +16,8 @@ I see this job as an opportunity to work with an innovative team while both grow
 - How much money are you expecting to make in this position?
 I'm interested in discussing the full range of benefits and opportunities this role offers. In addition to the base salary, I value professional growth, work-life balance, and performance incentives. Could you maybe share a bit more information your benefits package and how your company supports its team members' growth. This will help me understand the overall value proposition of the position.
 
-- Are you able or willing to work remote? 
-Yes, I have experience working in remote and hybrid environments.
+- Are you able or willing to work remote?
+Yes, I am completely willing to work remote and have done so before for other projects. However, I do have a preference for hybrid and in-person work environments. Ultimately, I'm open to whatever is best for the team and the project.
 
 - What do you think this job looks like on a day-to-day basis? 
 - Do you have any questions for us? 
