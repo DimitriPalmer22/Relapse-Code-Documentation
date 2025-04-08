@@ -15,9 +15,11 @@ In other areas, we also use the graffiti to indicate that the player can wall-ru
 - Its important to note that any pieces of graffiti that use this effect have a solid color around the edges of the graffiti.
 
 ![](<../_META/Attachments/Pasted image 20250407203025.png>)
+![](<../_META/Attachments/LJ.png>)
 (LJ stands for LeBron James btw)
 
 ![](<../_META/Attachments/Pasted image 20250407203301.png>)
+![](<../_META/Attachments/diggin.png>)
 (Don't ask why "Diggin" is a thing)
 
 ### Lore
