@@ -20,6 +20,6 @@ In other areas, we also use the graffiti to indicate that the player can wall-ru
 
 We also really wanna use the graffiti as a form of story-telling in the game (im ngl the story conveyance is in a rough spot rn). We wanna use our 2D artist for this, but she's kinda busy doing marketing materials rn
 
-I
+I'm ngl it'd be pretty funny to have Chance dying being a pivotal part of our plot.
 
 *we don't have any screenshots for anything like this rn :(*
