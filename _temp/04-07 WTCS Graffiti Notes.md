@@ -7,8 +7,6 @@ Okay, so the graffiti in our game is primarily used to decorate the levels and b
 
 *This is most likely what we're gonna use your graffiti for*
 
-
-
 ### Gameplay
 
 In other areas, we also use the graffiti to indicate that the player can wall-run on that specific surface.
@@ -19,7 +17,8 @@ In other areas, we also use the graffiti to indicate that the player can wall-ru
 ![](<../_META/Attachments/Pasted image 20250407203025.png>)
 (LJ stands for LeBron James btw)
 
-
+![](<../_META/Attachments/Pasted image 20250407203301.png>)
+(Don't ask why "Diggin" is a thing)
 
 ### Lore
 
