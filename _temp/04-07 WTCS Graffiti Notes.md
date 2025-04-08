@@ -15,6 +15,12 @@ We have a whole bunch of empty walls in-game that we can fill with graffiti
 ![](<../_META/Attachments/Pasted image 20250407204134.png>)
 ![](<../_META/Attachments/relapse.png>)
 (They said the thing!)
+
+![](<../_META/Attachments/Pasted image 20250407204449.png>)
+We'd probably put other pieces of graffiti from other games here (if we get that going)
+
+![](<../_META/Attachments/Pasted image 20250407204614.png>)
+No graffiti here. I just wanted to show off our new fog. Somebody outside the team HAS
 ### Gameplay
 
 In other areas, we also use the graffiti to indicate that the player can wall-run on that specific surface.
