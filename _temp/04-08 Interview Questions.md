@@ -22,7 +22,7 @@ Yes, I am completely willing to work remote and have done so before for other pr
 - What do you think this job looks like on a day-to-day basis? 
 - Do you have any questions for us? 
 - Why should we hire you? 
-- How much money are you expecting to make in this position? 
+I believe you should hire me because I br
 
 #### **Qualifications**
 
