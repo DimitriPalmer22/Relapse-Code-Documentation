@@ -1,4 +1,4 @@
 - Stationary drone
 - Homing rocket
 	- Slowly moves toward the player
-	- 
+	- The player can hit it midair
