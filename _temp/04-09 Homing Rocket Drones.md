@@ -2,3 +2,4 @@
 - Homing rocket
 	- Slowly moves toward the player
 	- The player can hit it midair
+- Use a separate spawner / manager to manage these. At the start of each wave, spawn a few of these in pre-determined spots
