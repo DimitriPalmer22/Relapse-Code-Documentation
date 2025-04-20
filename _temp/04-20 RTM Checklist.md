@@ -60,16 +60,16 @@
 		- [ ] Settings option to allow changes to the game's performance that saves settings separately from gameplay progress
 
 	- [ ] Resolution and display format (at least full and borderless full at least in 1080 and 2k resolutions)
-	- [ ] Gamma/Brightness slider, at least two steps up and two steps down from the neutral state (five states at minimum)
-	- [ ] Audio slider for Master, SFX, and BGM with at least two steps up and two steps down from the neutral state (five states per slider at a minimum)
+	- [x] Gamma/Brightness slider, at least two steps up and two steps down from the neutral state (five states at minimum)
+	- [x] Audio slider for Master, SFX, and BGM with at least two steps up and two steps down from the neutral state (five states per slider at a minimum)
 
 	- [ ] Pause menu from within the game space that allows for access to all (most) Settings options, controls, and Quit (to menu, not the entire application) with confirmation
 	- [x] Splash screen of the team logo prior to loading the main menu
 	- [x] An active loading screen or cutscene at each appropriate point in the game (not necessarily Async)
-	- [ ] Appropriate content to convey all necessary gameplay and narrative elements during the game
+	- [x] Appropriate content to convey all necessary gameplay and narrative elements during the game
 
 - [ ] Contain at least 10 points of fully implemented accessibility features from [THIS](http://gameaccessibilityguidelines.com/full-list/)
 
-- [ ] [Links to an external site.](http://gameaccessibilityguidelines.com/full-list/) list. 1 point for items from Basic, 2 points for items from Intermediate, and 3 points for items from Advanced. The extent of the implementation must be approved by the faculty. Three points must be accounted for in VS, and final implementation isn't due until RTM in semester two.
+- [ ] 1 point for items from Basic, 2 points for items from Intermediate, and 3 points for items from Advanced. The extent of the implementation must be approved by the faculty. Three points must be accounted for in VS, and final implementation isn't due until RTM in semester two.
 - [ ] Contain at least one distinct gameplay space per level designer. Distinguished either by aesthetic or loading. Validate this with faculty.
-- [ ] Plan to utilize content that would justify the full working time of all team members involved, less 10%.
+- [x] Plan to utilize content that would justify the full working time of all team members involved, less 10%.
