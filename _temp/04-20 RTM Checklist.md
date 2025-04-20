@@ -26,32 +26,30 @@
 	- This project should not be a clone, copy, port, homage, or otherwise be readily identified as derivative of another game. Inspiration is fine, but attempting to emulate someone else's work is the opposite of what you have been learning to do. Create something new, fun, and unique to your team.
 
 - [x] Focus on a single player experience.
-
-- [ ] Any inclusion or intent to include a multiplayer experience must be discussed with the faculty and approved in writing prior to any submission that even mentions multiplayer. Failure to do so may result in a loss of points.
+	- Any inclusion or intent to include a multiplayer experience must be discussed with the faculty and approved in writing prior to any submission that even mentions multiplayer. Failure to do so may result in a loss of points.
 
 **Build Requirements:**
 
-- [ ] Targets gameplay for use on Windows PC supporting Mouse/Keyboard, and Controller
-- [ ] Built using a modern, robust, and commercially available game engine (anything outside of Unity or Unreal needs to be approved prior to beginning development)
+- [x] Targets gameplay for use on Windows PC supporting Mouse/Keyboard, and Controller
+- [x] Built using a modern, robust, and commercially available game engine (anything outside of Unity or Unreal needs to be approved prior to beginning development)
 - [ ] Have an install footprint in a publishing build of no more than 2 GB uncompressed
 - [ ] Run in Fullscreen and Borderless Fullscreen on most modern resolutions without error
 
 **Production Requirements:**
 
-- [ ] Built exclusively using content created this semester, for this project, by members of the team (Exception for audio)
-- [ ] All members must contribute to content represented in the final game
-- [ ] All members must be responsible for implementing a portion of their work in engine not to fall below 25% of their generated content
+- [x] Built exclusively using content created this semester, for this project, by members of the team (Exception for audio)
+- [x] All members must contribute to content represented in the final game
+- [x] All members must be responsible for implementing a portion of their work in engine not to fall below 25% of their generated content
 
 **Gameplay Requirements:**
 
 - [ ] Have a critical path between 15-30 minutes
-- [ ] Run at an average of 45 fps on the lab computers
-- [ ] Include an effective representation of the [Theme](https://webcourses.ucf.edu/courses/1460516/pages/the-theme "The Theme")
-- [ ] Contain reasonably positioned checkpoints (where appropriate)
-- [ ] Demonstrate at least two skill-based mechanics
-
-- [ ] Skill based mechanics are ones that require timing and precision to be effectively used
-- [ ] Speak with the faculty to make sure the intended mechanics qualify for this requirement
+- [x] Run at an average of 45 fps on the lab computers
+- [x] Include an effective representation of the [Theme](https://webcourses.ucf.edu/courses/1460516/pages/the-theme "The Theme")
+- [x] Contain reasonably positioned checkpoints (where appropriate)
+- [x] Demonstrate at least two skill-based mechanics
+	- Skill based mechanics are ones that require timing and precision to be effectively used
+	- Speak with the faculty to make sure the intended mechanics qualify for this requirement
 
 - [ ] Contain a UI that allows for the following
 
