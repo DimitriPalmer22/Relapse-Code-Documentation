@@ -1,15 +1,16 @@
 - [x] Embody an appropriate level of scope for a team of 10-15 students, that is fully realized by the end of the second semester.
-	
-	- [ ] Building a game that has limited expression of systems may not fill the appropriate scope. 
-	- [ ] Building a game that intends too many systems or assets may leave the design incomplete.
-	- [ ] The consideration of aiming too high/low in complexity or depth of content can be an issue, and the suggestion is to start small with a plan to grow, rather than start large with (or without) a plan to cut.
+
+	- Building a game that has limited expression of systems may not fill the appropriate scope. 
+	- Building a game that intends too many systems or assets may leave the design incomplete.
+	- The consideration of aiming too high/low in complexity or depth of content can be an issue, and the suggestion is to start small with a plan to grow, rather than start large with (or without) a plan to cut.
 
 - [x] Have a final critical path of no less than 15 minutes and no more than 30 minutes. The end of this semester is punctuated with a [Vertical Slice(VS)](https://webcourses.ucf.edu/courses/1460516/assignments/8526810 "Vertical Slice") assignment, and that should represent a defined portion of the final experience's critical path between 3-8 minutes of **_refined_** gameplay.
+	- A critical path is most simply described as the gameplay time for completion that makes no wrong decisions and operates with no prior knowledge of the game or its systems.
+	- A critical path does not account for retracing steps for wrong decisions or failed attempts.
+	- There **is an expectation** that an averagely skilled player would be able to complete the game. Making the game too complex or exacting can be an issue for this goal and may prevent the team from properly demonstrating their game or keep them from being fully evaluated.
+	- Run playtests with new players regularly to validate the estimated critical path.
 
-- [ ] A critical path is most simply described as the gameplay time for completion that makes no wrong decisions and operates with no prior knowledge of the game or its systems.
-- [ ] A critical path does not account for retracing steps for wrong decisions or failed attempts.
-- [ ] There **is an expectation** that an averagely skilled player would be able to complete the game. Making the game too complex or exacting can be an issue for this goal and may prevent the team from properly demonstrating their game or keep them from being fully evaluated.
-- [ ] Run playtests with new players regularly to validate the estimated critical path. 
+> Note: We have 45 mins of critical path time. We should practice completing the game within that time frame so that we beat the game during our presentation.
 
 - [ ] Fully support Mouse and Keyboard as well as the current Xbox controller
 
