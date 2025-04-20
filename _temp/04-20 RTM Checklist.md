@@ -52,23 +52,21 @@
 	- Speak with the faculty to make sure the intended mechanics qualify for this requirement
 
 - [ ] Contain a UI that allows for the following
+	- [ ] Main Menu that has
+		- [ ] Continue option available to load saved progress, only available if save exists
+		- [ ] Play/Begin/Start option to launch the game and reinitialize a save
+		- [ ] Quit option to quit the application with confirmation
+		- [ ] Credits option to show contributors
+		- [ ] Settings option to allow changes to the game's performance that saves settings separately from gameplay progress
 
-- [ ] Main Menu that has
+	- [ ] Resolution and display format (at least full and borderless full at least in 1080 and 2k resolutions)
+	- [ ] Gamma/Brightness slider, at least two steps up and two steps down from the neutral state (five states at minimum)
+	- [ ] Audio slider for Master, SFX, and BGM with at least two steps up and two steps down from the neutral state (five states per slider at a minimum)
 
-- [ ] Continue option available to load saved progress, only available if save exists
-- [ ] Play/Begin/Start option to launch the game and reinitialize a save
-- [ ] Quit option to quit the application with confirmation
-- [ ] Credits option to show contributors
-- [ ] Settings option to allow changes to the game's performance that saves settings separately from gameplay progress
-
-- [ ] Resolution and display format (at least full and borderless full at least in 1080 and 2k resolutions)
-- [ ] Gamma/Brightness slider, at least two steps up and two steps down from the neutral state (five states at minimum)
-- [ ] Audio slider for Master, SFX, and BGM with at least two steps up and two steps down from the neutral state (five states per slider at a minimum)
-
-- [ ] Pause menu from within the game space that allows for access to all (most) Settings options, controls, and Quit (to menu, not the entire application) with confirmation
-- [ ] Splash screen of the team logo prior to loading the main menu
-- [ ] An active loading screen or cutscene at each appropriate point in the game (not necessarily Async)
-- [ ] Appropriate content to convey all necessary gameplay and narrative elements during the game
+	- [ ] Pause menu from within the game space that allows for access to all (most) Settings options, controls, and Quit (to menu, not the entire application) with confirmation
+	- [x] Splash screen of the team logo prior to loading the main menu
+	- [x] An active loading screen or cutscene at each appropriate point in the game (not necessarily Async)
+	- [ ] Appropriate content to convey all necessary gameplay and narrative elements during the game
 
 - [ ] Contain at least 10 points of fully implemented accessibility features from [THIS](http://gameaccessibilityguidelines.com/full-list/)
 
