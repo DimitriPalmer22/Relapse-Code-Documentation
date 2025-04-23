@@ -53,10 +53,10 @@
 
 - [ ] Contain a UI that allows for the following
 	- [ ] Main Menu that has
-		- [ ] Continue option available to load saved progress, only available if save exists
-		- [ ] Play/Begin/Start option to launch the game and reinitialize a save
+		- [x] Continue option available to load saved progress, only available if save exists
+		- [x] Play/Begin/Start option to launch the game and reinitialize a save
 		- [ ] Quit option to quit the application with confirmation
-		- [ ] Credits option to show contributors
+		- [x] Credits option to show contributors
 		- [ ] Settings option to allow changes to the game's performance that saves settings separately from gameplay progress
 
 	- [ ] Resolution and display format (at least full and borderless full at least in 1080 and 2k resolutions)
@@ -64,8 +64,8 @@
 	- [x] Audio slider for Master, SFX, and BGM with at least two steps up and two steps down from the neutral state (five states per slider at a minimum)
 
 	- [ ] Pause menu from within the game space that allows for access to
-		- [ ] all (most) Settings options,
-		- [ ] controls,
+		- [x] all (most) Settings options,
+		- [x] controls,
 		- [ ] Quit (to menu) with confirmation
 	- [x] Splash screen of the team logo prior to loading the main menu
 	- [x] An active loading screen or cutscene at each appropriate point in the game (not necessarily Async)
